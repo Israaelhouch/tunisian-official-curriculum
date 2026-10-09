@@ -1,14 +1,16 @@
 # Tunisian Official Curriculum
 
-Every class of the Tunisian school system, its official subjects and their chapters, in French and Arabic,
-in one JSON file. From 1ère primaire to every Bac section.
+Every class of the Tunisian school system, its official subjects (named in French and Arabic) and their
+chapters (as printed in the official textbooks), in one JSON file. From 1ère primaire to every Bac section.
 
-| | Classes | Subjects | Chapters |
-|---|---|---|---|
-| Primaire | 6 | 61 | 474 |
-| Collège | 3 | 48 | 312 |
-| Lycée (all sections) | 21 | 333 | 2,106 |
-| **Total** | **30** | **442** | **2,892** |
+
+|                      | Classes | Subjects | Chapters  |
+| -------------------- | ------- | -------- | --------- |
+| Primaire             | 6       | 61       | 474       |
+| Collège              | 3       | 48       | 312       |
+| Lycée (all sections) | 21      | 333      | 2,106     |
+| **Total**            | **30**  | **442**  | **2,892** |
+
 
 ## Data structure
 
@@ -37,9 +39,11 @@ level (BAC)  →  section (INFO)  →  subject (MATH)  →  chapters
 ```
 
 - **Names** are in `name_fr` and/or `name_ar`, as printed in the source.
-- **Nested `chapters`** group chapters under a theme (Physique → Ondes → Ondes mécaniques progressives); the innermost items are the chapters.
-- **`optional: true`** marks an option the student chooses (3rd language, music, arts).
-- **No `chapters`** means there is no official textbook for that subject.
+- **Nested** `chapters` group chapters under a theme (Physique → Ondes → Ondes mécaniques progressives); the innermost items are the chapters.
+- `optional: true` marks an option the student chooses (3rd language, music, arts).
+- **No** `chapters` means there is no official textbook for that subject.
+
+
 
 ## Use it
 
@@ -58,7 +62,9 @@ Format and codes: [data/README.md](data/README.md) · What is missing: [data/CUR
 
 - **Subjects per class:** decrees 2019-1085 and 2021-143 (official timetables).
 - **Chapters:** the official CNP textbooks, names exactly as printed. Subjects without a CNP textbook
-  (EPS, arts, ALGO/STI…) have no chapters.
+(EPS, arts, ALGO/STI…) have no chapters.
+
+
 
 ## How it was built
 
@@ -67,7 +73,7 @@ broken Arabic fonts:
 
 1. **Extract** the table-of-contents pages, with OCR (Tesseract, in the book's language) where the text is unreadable.
 2. **Structure** each book's table of contents with Claude, under strict rules: book order, names as printed,
-   never guessed. Unreadable titles are dropped, not invented.
+  never guessed. Unreadable titles are dropped, not invented.
 3. **Merge** the chapters into one file per class, validated with Pydantic.
 
 **Limits:** some primaire chapters are missing (unreadable scans); Chinese and Russian titles were decoded from
@@ -89,6 +95,8 @@ pip install -r requirements.txt                    # Python 3.10+
 python scripts/load_curriculum.py --dry-run        # validate
 python scripts/export_curriculum.py                # rebuild data/curriculum.json
 ```
+
+
 
 ## License
 
