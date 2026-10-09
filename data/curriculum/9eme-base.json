@@ -17,6 +17,7 @@
   "level": {
     "name_fr": "9ème année de base",
     "name_ar": "السنة التاسعة أساسي",
+    "name_en": "9th year of basic education",
     "code": "9B",
     "cycle": "preparatoire",
     "grade_number": 9,
@@ -26,6 +27,7 @@
   "section": {
     "name_fr": "Tronc commun",
     "name_ar": "جذع مشترك",
+    "name_en": "Common core",
     "code": "TC",
     "is_common_core": true
   },
@@ -34,6 +36,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -41,107 +44,125 @@
       "chapters": [
         {
           "name_ar": "علم النحو",
+          "name_en": "Syntax",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "العلاقات بين الجمل في النص (1): الجملة الابتدائية - الجملة الاستئنافية - الجملة الاعتراضية",
+              "name_en": "Relations between sentences in the text (1): the initial sentence - the resumptive sentence - the parenthetical sentence",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العلاقات بين الجمل في النص (2): أدوات الربط ومعانيها (1)",
+              "name_en": "Relations between sentences in the text (2): connectors and their meanings (1)",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العلاقات بين الجمل في النص (3): أدوات الربط ومعانيها (2)",
+              "name_en": "Relations between sentences in the text (3): connectors and their meanings (2)",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الحذف ومواطنه",
+              "name_en": "Ellipsis and where it occurs",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "النداء: أدواته وأبنيته ومعانيها",
+              "name_en": "The vocative: its particles, structures and meanings",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأمر والنهي",
+              "name_en": "Command and prohibition",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الاستفهام عن مضمون الجملة",
+              "name_en": "Interrogation about the content of the sentence",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الاستفهام عن عنصر من العناصر المكونة للجملة",
+              "name_en": "Interrogation about one of the constituents of the sentence",
               "order_index": 8,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "دلالة الشرط على الإمكان (1)",
+              "name_en": "The conditional expressing possibility (1)",
               "order_index": 9,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "دلالة الشرط على الإمكان (2)",
+              "name_en": "The conditional expressing possibility (2)",
               "order_index": 10,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "دلالة الشرط على الافتراض والاستنتاج",
+              "name_en": "The conditional expressing hypothesis and inference",
               "order_index": 11,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "دلالة صيغ الفعل على الزمان",
+              "name_en": "Time reference of verb forms",
               "order_index": 12,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "دلالة الحروف المقترنة بالفعل على الزمان",
+              "name_en": "Time reference of particles attached to the verb",
               "order_index": 13,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "دلالة النواسخ الفعلية على الزمان",
+              "name_en": "Time reference of verbal abrogators",
               "order_index": 14,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "دلالة بعض الوظائف على الزمان: المفعول فيه - الحال",
+              "name_en": "Time reference of some functions: the adverbial of time and place - the circumstantial accusative",
               "order_index": 15,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العدد والمعدود (1)",
+              "name_en": "The numeral and the counted noun (1)",
               "order_index": 16,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العدد والمعدود (2)",
+              "name_en": "The numeral and the counted noun (2)",
               "order_index": 17,
               "objectives": [],
               "children": []
@@ -150,47 +171,55 @@
         },
         {
           "name_ar": "علم الصرف",
+          "name_en": "Morphology",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الاسم المقصور",
+              "name_en": "The maqsur noun",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الاسم المنقوص",
+              "name_en": "The manqus noun",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الاسم الممدود",
+              "name_en": "The mamdud noun",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "معاني المزيد (1)",
+              "name_en": "Meanings of the augmented forms (1)",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "معاني المزيد (2)",
+              "name_en": "Meanings of the augmented forms (2)",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التصغير ومعانيه",
+              "name_en": "The diminutive and its meanings",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "النسبة والمصدر الصناعي",
+              "name_en": "The relative adjective (nisba) and the abstract noun",
               "order_index": 7,
               "objectives": [],
               "children": []
@@ -199,30 +228,35 @@
         },
         {
           "name_ar": "العمل",
+          "name_en": "Work",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المرأة في المجتمعات المعاصرة",
+          "name_en": "Women in contemporary societies",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "من شواغل عالمنا المعاصر",
+          "name_en": "Some concerns of our contemporary world",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الفنون",
+          "name_en": "The arts",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "تفاعل الثقافات والحضارات",
+          "name_en": "Interaction of cultures and civilisations",
           "order_index": 7,
           "objectives": [],
           "children": []
@@ -233,6 +267,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -240,42 +275,49 @@
       "chapters": [
         {
           "name_fr": "Enfants de tous les pays",
+          "name_en": "Children of all countries",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Portraits et comportements",
+          "name_en": "Portraits and behaviours",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Nom de plume",
+          "name_en": "Pen name",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Exploits et performances",
+          "name_en": "Feats and performances",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Métiers d'hier, métiers d'aujourd'hui",
+          "name_en": "Jobs of yesterday, jobs of today",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Riquet à la houppe",
+          "name_en": "Riquet à la houppe",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Musiques pour tous les goûts",
+          "name_en": "Music for all tastes",
           "order_index": 7,
           "objectives": [],
           "children": []
@@ -286,6 +328,7 @@
       "subject": {
         "name_fr": "Anglais",
         "name_ar": "الإنجليزية",
+        "name_en": "English",
         "code": "ANGL"
       },
       "instruction_language": "en",
@@ -293,36 +336,42 @@
       "chapters": [
         {
           "name_fr": "Family life",
+          "name_en": "Family life",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Education",
+          "name_en": "Education",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Health and environment",
+          "name_en": "Health and environment",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Services",
+          "name_en": "Services",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Entertainment",
+          "name_en": "Entertainment",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Civility",
+          "name_en": "Civility",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -333,6 +382,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "ar",
@@ -340,78 +390,91 @@
       "chapters": [
         {
           "name_ar": "التعداد والحساب",
+          "name_en": "Counting and calculation",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "مجموعة الأعداد الحقيقية ℝ",
+          "name_en": "The set of real numbers ℝ",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "العمليات في مجموعة الأعداد الحقيقية",
+          "name_en": "Operations in the set of real numbers",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "القوى في مجموعة الأعداد الحقيقية",
+          "name_en": "Powers in the set of real numbers",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الترتيب والمقاربة",
+          "name_en": "Order and approximation",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الجذاءات المعتبرة والعبارات الجبرية",
+          "name_en": "Special products and algebraic expressions",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المعادلات والمتراجحات من الدرجة الأولى",
+          "name_en": "First-degree equations and inequalities",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الإحصاء والاحتمالات",
+          "name_en": "Statistics and probability",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "التعيين في المستوي",
+          "name_en": "Coordinates in the plane",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "مبرهنة طالس وتطبيقاتها",
+          "name_en": "Thales' theorem and its applications",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "العلاقات القياسية في المثلث القائم",
+          "name_en": "Metric relations in the right triangle",
           "order_index": 11,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أنشطة حول الرباعيات",
+          "name_en": "Activities on quadrilaterals",
           "order_index": 12,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "التعامد في الفضاء",
+          "name_en": "Perpendicularity in space",
           "order_index": 13,
           "objectives": [],
           "children": []
@@ -422,6 +485,7 @@
       "subject": {
         "name_fr": "Sciences physiques",
         "name_ar": "العلوم الفيزيائية",
+        "name_en": "Physical sciences",
         "code": "PHYS"
       },
       "instruction_language": "ar",
@@ -429,23 +493,27 @@
       "chapters": [
         {
           "name_ar": "الكهرمغناطيس",
+          "name_en": "Electromagnetism",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "التيار الكهربائي المتغير",
+              "name_en": "Variable electric current",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الكهرباء المنزلية",
+              "name_en": "Household electricity",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الكهرباء الساكنة",
+              "name_en": "Static electricity",
               "order_index": 3,
               "objectives": [],
               "children": []
@@ -454,29 +522,34 @@
         },
         {
           "name_ar": "المادة في الطبيعة",
+          "name_en": "Matter in nature",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الذرة والاحتراق",
+              "name_en": "The atom and combustion",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تركيبة المحلول الشاردي",
+              "name_en": "Composition of an ionic solution",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المحاليل الحامضية والمحاليل القلوية",
+              "name_en": "Acidic solutions and basic solutions",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المحاليل المتعادلة",
+              "name_en": "Neutral solutions",
               "order_index": 4,
               "objectives": [],
               "children": []
@@ -485,11 +558,13 @@
         },
         {
           "name_ar": "الضوء",
+          "name_en": "Light",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "تغير مسار الضوء",
+              "name_en": "Change in the path of light",
               "order_index": 1,
               "objectives": [],
               "children": []
@@ -502,6 +577,7 @@
       "subject": {
         "name_fr": "Sciences de la vie et de la terre",
         "name_ar": "علوم الحياة والأرض",
+        "name_en": "Life and earth sciences",
         "code": "SVT"
       },
       "instruction_language": "ar",
@@ -509,23 +585,27 @@
       "chapters": [
         {
           "name_ar": "الاتصال بالوسط",
+          "name_en": "Communication with the environment",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "وظيفة الاتصال",
+              "name_en": "The communication function",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأفعال الانعكاسية",
+              "name_en": "Reflex actions",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "دراسة إحساس شعوري: الإبصار",
+              "name_en": "Study of a conscious sensation: vision",
               "order_index": 3,
               "objectives": [],
               "children": []
@@ -534,41 +614,48 @@
         },
         {
           "name_ar": "وظائف التغذية",
+          "name_en": "Nutrition functions",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الحاجيات الغذائية للإنسان",
+              "name_en": "Human nutritional needs",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الهضم",
+              "name_en": "Digestion",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "دراسة الدم",
+              "name_en": "Study of blood",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الدوران",
+              "name_en": "Circulation",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التنفس",
+              "name_en": "Respiration",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الإخراج",
+              "name_en": "Excretion",
               "order_index": 6,
               "objectives": [],
               "children": []
@@ -577,35 +664,41 @@
         },
         {
           "name_ar": "التكاثر والصحة الإنجابية",
+          "name_en": "Reproduction and reproductive health",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "النضج الجنسي والجهاز التكاثري",
+              "name_en": "Sexual maturity and the reproductive system",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الدورة الجنسية عند المرأة",
+              "name_en": "The sexual cycle in women",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تكون الجنين والمراقبة الصحية للحمل",
+              "name_en": "Embryo formation and health monitoring of pregnancy",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تنظيم الولادات",
+              "name_en": "Family planning",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأمراض المنقولة جنسيا والوقاية منها",
+              "name_en": "Sexually transmitted diseases and their prevention",
               "order_index": 5,
               "objectives": [],
               "children": []
@@ -618,6 +711,7 @@
       "subject": {
         "name_fr": "Technologie",
         "name_ar": "التكنولوجيا",
+        "name_en": "Technology",
         "code": "TECHNO"
       },
       "instruction_language": "ar",
@@ -625,42 +719,49 @@
       "chapters": [
         {
           "name_ar": "التعبير البياني",
+          "name_en": "Graphical expression",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "عناصر ربط المحاور",
+          "name_en": "Shaft coupling elements",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الروابط الميكانيكية",
+          "name_en": "Mechanical joints",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الدالات المنطقية الأساسية",
+          "name_en": "Basic logic functions",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المواد المستعملة",
+          "name_en": "Materials used",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الطاقة المستعملة",
+          "name_en": "Energy used",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "تصنيع المنتج التقني",
+          "name_en": "Manufacturing the technical product",
           "order_index": 7,
           "objectives": [],
           "children": []
@@ -671,6 +772,7 @@
       "subject": {
         "name_fr": "Informatique",
         "name_ar": "الإعلامية",
+        "name_en": "Computer science",
         "code": "INFO"
       },
       "instruction_language": "ar",
@@ -678,11 +780,13 @@
       "chapters": [
         {
           "name_fr": "Ordinateur et système d’exploitation",
+          "name_en": "Computer and operating system",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "Rappels et présentation du réseau local",
+              "name_en": "Review and presentation of the local network",
               "order_index": 1,
               "objectives": [],
               "children": []
@@ -691,11 +795,13 @@
         },
         {
           "name_fr": "Exploitation de logiciels",
+          "name_en": "Using software",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "Tableur",
+              "name_en": "Spreadsheet",
               "order_index": 1,
               "objectives": [],
               "children": []
@@ -704,11 +810,13 @@
         },
         {
           "name_fr": "Internet",
+          "name_en": "Internet",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_fr": "Téléchargement de fichiers",
+              "name_en": "Downloading files",
               "order_index": 1,
               "objectives": [],
               "children": []
@@ -717,11 +825,13 @@
         },
         {
           "name_fr": "Projet",
+          "name_en": "Project",
           "order_index": 4,
           "objectives": [],
           "children": [
             {
               "name_fr": "Autour du texte, des calculs, de l’image et du son",
+              "name_en": "Around text, calculations, image and sound",
               "order_index": 1,
               "objectives": [],
               "children": []
@@ -734,6 +844,7 @@
       "subject": {
         "name_fr": "Éducation islamique",
         "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic education",
         "code": "ISLAM"
       },
       "instruction_language": "ar",
@@ -741,18 +852,21 @@
       "chapters": [
         {
           "name_ar": "«قل آمنت بالله ثم استقم»",
+          "name_en": "«Say: I believe in God, then be steadfast»",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "«وأحسن كما أحسن الله إليك»",
+          "name_en": "\"And do good as Allah has done good to you\"",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "«ولا تبغ الفساد في الأرض»",
+          "name_en": "\"And do not seek corruption in the land\"",
           "order_index": 3,
           "objectives": [],
           "children": []
@@ -763,6 +877,7 @@
       "subject": {
         "name_fr": "Éducation civique",
         "name_ar": "التربية المدنية",
+        "name_en": "Civic education",
         "code": "CIVIQ"
       },
       "instruction_language": "ar",
@@ -770,24 +885,28 @@
       "chapters": [
         {
           "name_ar": "الإطار العام للمواطنة",
+          "name_en": "The general framework of citizenship",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الحرية والمسؤولية",
+          "name_en": "Freedom and responsibility",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الحق والواجب",
+          "name_en": "Rights and duties",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المساواة والتسامح",
+          "name_en": "Equality and tolerance",
           "order_index": 4,
           "objectives": [],
           "children": []
@@ -798,6 +917,7 @@
       "subject": {
         "name_fr": "Histoire",
         "name_ar": "التاريخ",
+        "name_en": "History",
         "code": "HIST"
       },
       "instruction_language": "ar",
@@ -805,18 +925,21 @@
       "chapters": [
         {
           "name_ar": "تونس والعالم من الحرب العالمية الأولى إلى الحرب العالمية الثانية",
+          "name_en": "Tunisia and the world from the First World War to the Second World War",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "العالم بعد الحرب العالمية الثانية",
+          "name_en": "The world after the Second World War",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "استقلال بلدان المغرب العربي",
+          "name_en": "Independence of the Maghreb countries",
           "order_index": 3,
           "objectives": [],
           "children": []
@@ -827,6 +950,7 @@
       "subject": {
         "name_fr": "Géographie",
         "name_ar": "الجغرافيا",
+        "name_en": "Geography",
         "code": "GEO"
       },
       "instruction_language": "ar",
@@ -834,29 +958,34 @@
       "chapters": [
         {
           "name_ar": "المغرب العربي",
+          "name_en": "The Arab Maghreb",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "الوسط الطبيعي: المزايا والضغوطات",
+              "name_en": "The natural environment: advantages and constraints",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الموارد الطبيعية",
+              "name_en": "Natural resources",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "السكان والتنمية البشرية",
+              "name_en": "Population and human development",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التنمية الاقتصادية",
+              "name_en": "Economic development",
               "order_index": 4,
               "objectives": [],
               "children": []
@@ -865,41 +994,48 @@
         },
         {
           "name_ar": "البلاد التونسية",
+          "name_en": "Tunisia",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "السكان",
+              "name_en": "Population",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التنمية الفلاحية",
+              "name_en": "Agricultural development",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التنمية الصناعية",
+              "name_en": "Industrial development",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التنمية السياحية",
+              "name_en": "Tourism development",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تنمية التجارة الخارجية",
+              "name_en": "Development of foreign trade",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "حصيلة التنمية",
+              "name_en": "Development outcomes",
               "order_index": 6,
               "objectives": [],
               "children": []
@@ -912,6 +1048,7 @@
       "subject": {
         "name_fr": "Éducation musicale",
         "name_ar": "التربية الموسيقية",
+        "name_en": "Music education",
         "code": "MUSIQ"
       },
       "instruction_language": "ar",
@@ -922,6 +1059,7 @@
       "subject": {
         "name_fr": "Arts plastiques",
         "name_ar": "التربية التشكيلية",
+        "name_en": "Visual arts",
         "code": "ARTPL"
       },
       "instruction_language": "ar",
@@ -932,6 +1070,7 @@
       "subject": {
         "name_fr": "Éducation théâtrale",
         "name_ar": "التربية المسرحية",
+        "name_en": "Drama education",
         "code": "THEATRE"
       },
       "instruction_language": "ar",
@@ -942,6 +1081,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",

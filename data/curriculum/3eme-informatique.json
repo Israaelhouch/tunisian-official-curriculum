@@ -20,6 +20,7 @@
   "level": {
     "name_fr": "3ème année secondaire",
     "name_ar": "السنة الثالثة ثانوي",
+    "name_en": "3rd year of secondary school",
     "code": "3S",
     "cycle": "secondaire",
     "grade_number": 3,
@@ -29,6 +30,7 @@
   "section": {
     "name_fr": "Sciences de l'informatique",
     "name_ar": "علوم الإعلامية",
+    "name_en": "Computer Science",
     "code": "INFO",
     "is_common_core": false
   },
@@ -37,6 +39,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -44,36 +47,42 @@
       "chapters": [
         {
           "name_ar": "الفكاهة والهزل في القص العربي القديم",
+          "name_en": "Humor and jest in classical Arabic narrative",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "صور ونصوص",
+          "name_en": "Images and texts",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "شواغل المرأة بقلم المرأة",
+          "name_en": "Women's concerns written by women",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "العدل والإنصاف",
+          "name_en": "Justice and fairness",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "حرية التعبير",
+          "name_en": "Freedom of expression",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الإنسان والمكان",
+          "name_en": "Humans and place",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -84,6 +93,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -91,36 +101,42 @@
       "chapters": [
         {
           "name_fr": "Invitation au voyage",
+          "name_en": "Invitation to travel",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Le mythe aujourd’hui",
+          "name_en": "Myth today",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Le droit à la différence",
+          "name_en": "The right to be different",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Module de lecture : Celui qui n’avait jamais vu la mer",
+          "name_en": "Reading module: Celui qui n’avait jamais vu la mer",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Scènes comiques",
+          "name_en": "Comic scenes",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Le pouvoir de l’image",
+          "name_en": "The power of the image",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -131,6 +147,7 @@
       "subject": {
         "name_fr": "Anglais",
         "name_ar": "الإنجليزية",
+        "name_en": "English",
         "code": "ANGL"
       },
       "instruction_language": "en",
@@ -138,36 +155,42 @@
       "chapters": [
         {
           "name_fr": "In time of test, family is best",
+          "name_en": "In time of test, family is best",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "We learn to give, share and care",
+          "name_en": "We learn to give, share and care",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "A change is as good as a rest",
+          "name_en": "A change is as good as a rest",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Science and technology: a blessing or a curse?",
+          "name_en": "Science and technology: a blessing or a curse?",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Education is not filling a bucket but lighting a fire",
+          "name_en": "Education is not filling a bucket but lighting a fire",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Nature: any future without it?",
+          "name_en": "Nature: any future without it?",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -178,6 +201,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "fr",
@@ -185,47 +209,55 @@
       "chapters": [
         {
           "name_fr": "Première partie",
+          "name_en": "Part One",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "Les suites réelles",
+              "name_en": "Real sequences",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Généralités sur les fonctions numériques à variable réelle",
+              "name_en": "General properties of numerical functions of a real variable",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Limites, continuité, branches infinies",
+              "name_en": "Limits, continuity, infinite branches",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Dérivabilité d'une fonction",
+              "name_en": "Differentiability of a function",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Fonctions dérivées - Applications",
+              "name_en": "Derivative functions - Applications",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Etude de fonctions 1 : Exemples de fonctions polynômes",
+              "name_en": "Function study 1: Examples of polynomial functions",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Etude de fonctions 2 : Exemples de fonctions rationnelles, irrationnelles et trigonométriques",
+              "name_en": "Function study 2: Examples of rational, irrational and trigonometric functions",
               "order_index": 7,
               "objectives": [],
               "children": []
@@ -234,53 +266,62 @@
         },
         {
           "name_fr": "Deuxième partie",
+          "name_en": "Part Two",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "Trigonométrie",
+              "name_en": "Trigonometry",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Produit scalaire dans le plan",
+              "name_en": "Dot product in the plane",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Systèmes d'équations linéaires",
+              "name_en": "Systems of linear equations",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "La logique mathématique",
+              "name_en": "Mathematical logic",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Arithmétique",
+              "name_en": "Arithmetic",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Systèmes de numération",
+              "name_en": "Number systems",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Dénombrement",
+              "name_en": "Counting",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Probabilité",
+              "name_en": "Probability",
               "order_index": 8,
               "objectives": [],
               "children": []
@@ -293,6 +334,7 @@
       "subject": {
         "name_fr": "Algorithmique et programmation",
         "name_ar": "الخوارزميات والبرمجة",
+        "name_en": "Algorithms and programming",
         "code": "ALGO"
       },
       "instruction_language": "fr",
@@ -303,6 +345,7 @@
       "subject": {
         "name_fr": "Systèmes et technologies de l'informatique",
         "name_ar": "أنظمة وتكنولوجيات المعلوماتية",
+        "name_en": "Computer systems and technologies",
         "code": "STI"
       },
       "instruction_language": "fr",
@@ -313,6 +356,7 @@
       "subject": {
         "name_fr": "Sciences physiques",
         "name_ar": "العلوم الفيزيائية",
+        "name_en": "Physical sciences",
         "code": "PHYS"
       },
       "instruction_language": "fr",
@@ -320,40 +364,47 @@
       "chapters": [
         {
           "name_fr": "Physique",
+          "name_en": "Physics",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "Les interactions dans l'univers",
+              "name_en": "Interactions in the universe",
               "order_index": 1,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Loi de Coulomb",
+                  "name_en": "Coulomb's law",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Champ électrique",
+                  "name_en": "Electric field",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Mise en évidence des interactions magnétiques",
+                  "name_en": "Demonstrating magnetic interactions",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Le champ magnétique",
+                  "name_en": "The magnetic field",
                   "order_index": 4,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Champ magnétique créé par un courant",
+                  "name_en": "Magnetic field created by a current",
                   "order_index": 5,
                   "objectives": [],
                   "children": []
@@ -362,41 +413,48 @@
             },
             {
               "name_fr": "Mouvements",
+              "name_en": "Motion",
               "order_index": 2,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Cinématique de translation : généralités",
+                  "name_en": "Translational kinematics: general concepts",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Mouvements rectilignes uniforme et uniformément varié",
+                  "name_en": "Uniform and uniformly varied rectilinear motion",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Mouvement rectiligne sinusoïdal",
+                  "name_en": "Sinusoidal rectilinear motion",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Dynamique de translation",
+                  "name_en": "Translational dynamics",
                   "order_index": 4,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Mouvement dans un champ électrique",
+                  "name_en": "Motion in an electric field",
                   "order_index": 5,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Mouvement dans un champ magnétique",
+                  "name_en": "Motion in a magnetic field",
                   "order_index": 6,
                   "objectives": [],
                   "children": []
@@ -405,29 +463,34 @@
             },
             {
               "name_fr": "Circuits électrique et électronique",
+              "name_en": "Electrical and electronic circuits",
               "order_index": 3,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Dipôles électrocinétiques (1)",
+                  "name_en": "Electrokinetic dipoles (1)",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Dipôles électrocinétiques (2)",
+                  "name_en": "Electrokinetic dipoles (2)",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "L'amplificateur opérationnel",
+                  "name_en": "The operational amplifier",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Les portes logiques",
+                  "name_en": "Logic gates",
                   "order_index": 4,
                   "objectives": [],
                   "children": []
@@ -436,11 +499,13 @@
             },
             {
               "name_fr": "Optique",
+              "name_en": "Optics",
               "order_index": 4,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Image donnée par une lentille mince",
+                  "name_en": "Image formed by a thin lens",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
@@ -451,34 +516,40 @@
         },
         {
           "name_fr": "Chimie",
+          "name_en": "Chemistry",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "Les solutions",
+              "name_en": "Solutions",
               "order_index": 1,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Les électrolytes",
+                  "name_en": "Electrolytes",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "La solubilité des électrolytes",
+                  "name_en": "Solubility of electrolytes",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "La précipitation des électrolytes",
+                  "name_en": "Precipitation of electrolytes",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Tests d'identification de quelques ions",
+                  "name_en": "Identification tests for some ions",
                   "order_index": 4,
                   "objectives": [],
                   "children": []
@@ -487,35 +558,41 @@
             },
             {
               "name_fr": "Les acides et les bases",
+              "name_en": "Acids and bases",
               "order_index": 2,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Les acides et les bases de Bronsted",
+                  "name_en": "Bronsted acids and bases",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "L'ionisation propre de l'eau",
+                  "name_en": "Autoionization of water",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Le pH des solutions aqueuses",
+                  "name_en": "The pH of aqueous solutions",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Acides forts et acides faibles, bases fortes et bases faibles",
+                  "name_en": "Strong acids and weak acids, strong bases and weak bases",
                   "order_index": 4,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Réaction d'un acide fort avec une base forte",
+                  "name_en": "Reaction of a strong acid with a strong base",
                   "order_index": 5,
                   "objectives": [],
                   "children": []
@@ -524,23 +601,27 @@
             },
             {
               "name_fr": "Les réactions d'oxydoréduction",
+              "name_en": "Redox reactions",
               "order_index": 3,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Les réactions d'oxydoréduction",
+                  "name_en": "Redox reactions",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Classification électrochimique des métaux par rapport au dihydrogène",
+                  "name_en": "Electrochemical classification of metals relative to dihydrogen",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "La corrosion des métaux",
+                  "name_en": "Corrosion of metals",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
@@ -549,23 +630,27 @@
             },
             {
               "name_fr": "La chimie organique",
+              "name_en": "Organic chemistry",
               "order_index": 4,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Structure et nomenclature des hydrocarbures aliphatiques",
+                  "name_en": "Structure and nomenclature of aliphatic hydrocarbons",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Etude de quelques réactions spécifiques des hydrocarbures aliphatiques saturés et insaturés",
+                  "name_en": "Study of some specific reactions of saturated and unsaturated aliphatic hydrocarbons",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Etude de quelques réactions de polymérisation",
+                  "name_en": "Study of some polymerization reactions",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
@@ -580,6 +665,7 @@
       "subject": {
         "name_fr": "Histoire",
         "name_ar": "التاريخ",
+        "name_en": "History",
         "code": "HIST"
       },
       "instruction_language": "ar",
@@ -587,41 +673,48 @@
       "chapters": [
         {
           "name_ar": "التحولات الفكرية والاقتصادية والاجتماعية في أوروبا في العصر الحديث (القرنان الثامن عشر والتاسع عشر)",
+          "name_en": "Intellectual, economic and social transformations in Europe in the modern era (the eighteenth and nineteenth centuries)",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "فكر التنوير",
+              "name_en": "Enlightenment thought",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الثورة الفرنسية وانتصار المبادئ الجديدة",
+              "name_en": "The French Revolution and the triumph of the new principles",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الثورة الصناعية: أهم مظاهرها",
+              "name_en": "The Industrial Revolution: its main features",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التحولات الاقتصادية والاجتماعية في أوروبا الغربية في القرن التاسع عشر",
+              "name_en": "Economic and social transformations in Western Europe in the nineteenth century",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التيارات الفكرية والسياسية في أوروبا الغربية في القرن التاسع عشر",
+              "name_en": "Intellectual and political currents in Western Europe in the nineteenth century",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التوسع الاستعماري واقتسام العالم في القرن التاسع عشر",
+              "name_en": "Colonial expansion and the partition of the world in the nineteenth century",
               "order_index": 6,
               "objectives": [],
               "children": []
@@ -630,17 +723,20 @@
         },
         {
           "name_ar": "أزمة الإيالة التونسية في القرن التاسع عشر",
+          "name_en": "The crisis of the Regency of Tunis in the nineteenth century",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الأزمة في تونس ومحاولات الإصلاح",
+              "name_en": "The crisis in Tunisia and attempts at reform",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "انتصاب الحماية الفرنسية بتونس وردود الفعل الأولى",
+              "name_en": "The establishment of the French Protectorate in Tunisia and the first reactions",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -649,53 +745,62 @@
         },
         {
           "name_ar": "أزمات القرن العشرين وتحولاته",
+          "name_en": "Crises and transformations of the twentieth century",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "الحرب العالمية الأولى",
+              "name_en": "The First World War",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "توتر العلاقات الدولية بين الحربين العالميتين",
+              "name_en": "Tension in international relations between the two world wars",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "نتائج الحرب العالمية الثانية",
+              "name_en": "Consequences of the Second World War",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تحرر الشعوب المستعمرة",
+              "name_en": "The liberation of colonized peoples",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الحركة الوطنية التونسية قبل الحرب العالمية الثانية: طور التأسيس",
+              "name_en": "The Tunisian national movement before the Second World War: the founding phase",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الحركة الوطنية التونسية منذ الحرب العالمية الثانية إلى الاستقلال التام 1956: طور النضج والحسم",
+              "name_en": "The Tunisian national movement from the Second World War to full independence in 1956: the phase of maturity and resolution",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تونس من 1956 إلى 1987",
+              "name_en": "Tunisia from 1956 to 1987",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القضية الفلسطينية",
+              "name_en": "The Palestinian question",
               "order_index": 8,
               "objectives": [],
               "children": []
@@ -708,6 +813,7 @@
       "subject": {
         "name_fr": "Géographie",
         "name_ar": "الجغرافيا",
+        "name_en": "Geography",
         "code": "GEO"
       },
       "instruction_language": "ar",
@@ -715,29 +821,34 @@
       "chapters": [
         {
           "name_ar": "مجال عالمي مترابط ومتفاوت",
+          "name_en": "An interconnected and unequal world space",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "الأدفاق التجارية",
+              "name_en": "Trade flows",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأدفاق المالية",
+              "name_en": "Financial flows",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أدفاق الإعلام",
+              "name_en": "Information flows",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المجال العالمي: التفاوت في التقدم وتركيبة العالم",
+              "name_en": "The world space: disparities in development and the structure of the world",
               "order_index": 4,
               "objectives": [],
               "children": []
@@ -746,17 +857,20 @@
         },
         {
           "name_ar": "الشمال: الأقطاب المتحكمة في المجال العالمي",
+          "name_en": "The North: the poles dominating the world space",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الولايات المتحدة الأمريكية: قوة عالمية عظمى",
+              "name_en": "The United States of America: a global superpower",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الاتحاد الأوروبي: تكتل اقتصادي قوي",
+              "name_en": "The European Union: a powerful economic bloc",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -765,17 +879,20 @@
         },
         {
           "name_ar": "الجنوب",
+          "name_en": "The South",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "البرازيل: بلد صناعي جديد",
+              "name_en": "Brazil: a newly industrialized country",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "البلدان الأقل تقدما بالساحل الإفريقي",
+              "name_en": "The least developed countries of the African Sahel",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -788,6 +905,7 @@
       "subject": {
         "name_fr": "Philosophie",
         "name_ar": "الفلسفة",
+        "name_en": "Philosophy",
         "code": "PHILO"
       },
       "instruction_language": "ar",
@@ -795,18 +913,21 @@
       "chapters": [
         {
           "name_ar": "اليومي",
+          "name_en": "The everyday",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "مقتضيات التفكير",
+          "name_en": "The requirements of thinking",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "تجربة الالتزام",
+          "name_en": "The experience of commitment",
           "order_index": 3,
           "objectives": [],
           "children": []
@@ -817,6 +938,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",
@@ -827,6 +949,7 @@
       "subject": {
         "name_fr": "Allemand",
         "name_ar": "الألمانية",
+        "name_en": "German",
         "code": "ALLEM"
       },
       "instruction_language": "de",
@@ -834,36 +957,42 @@
       "chapters": [
         {
           "name_fr": "Soziale Beziehungen / Gegenseitiges Kennenlernen",
+          "name_en": "Social relationships / Getting to know each other",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Schule",
+          "name_en": "School",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Wohnen",
+          "name_en": "Housing",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Essen und Trinken",
+          "name_en": "Food and drink",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Alltag und Freizeit",
+          "name_en": "Everyday life and leisure",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Gesundheit",
+          "name_en": "Health",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -874,6 +1003,7 @@
       "subject": {
         "name_fr": "Espagnol",
         "name_ar": "الإسبانية",
+        "name_en": "Spanish",
         "code": "ESPA"
       },
       "instruction_language": "es",
@@ -881,84 +1011,98 @@
       "chapters": [
         {
           "name_fr": "¡Hola!",
+          "name_en": "Hello!",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¡Soy francesa, de París!",
+          "name_en": "I'm French, from Paris!",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿A qué te dedicas?",
+          "name_en": "What do you do?",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Le presento al señor Alonso",
+          "name_en": "Let me introduce you to Mr. Alonso",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Mi familia",
+          "name_en": "My family",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Cómo es?",
+          "name_en": "What is he like?",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Qué es esto?",
+          "name_en": "What is this?",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "España está en el sur",
+          "name_en": "Spain is in the south",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Dónde está la plaza Cibeles?",
+          "name_en": "Where is Plaza de Cibeles?",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¡Qué ciudad tan bonita!",
+          "name_en": "What a beautiful city!",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Vivo en una casa pequeña",
+          "name_en": "I live in a small house",
           "order_index": 11,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Tengo un ordenador portátil",
+          "name_en": "I have a laptop",
           "order_index": 12,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Cuánto vale?",
+          "name_en": "How much is it?",
           "order_index": 13,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¡Yo, prefiero éste!",
+          "name_en": "Me, I prefer this one!",
           "order_index": 14,
           "objectives": [],
           "children": []
@@ -969,6 +1113,7 @@
       "subject": {
         "name_fr": "Italien",
         "name_ar": "الإيطالية",
+        "name_en": "Italian",
         "code": "ITAL"
       },
       "instruction_language": "it",
@@ -976,36 +1121,42 @@
       "chapters": [
         {
           "name_fr": "Ciao, mi presento",
+          "name_en": "Hi, let me introduce myself",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Andiamo a lezione",
+          "name_en": "Let's go to class",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Casa, dolce casa",
+          "name_en": "Home, sweet home",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Vi presento un amico",
+          "name_en": "Let me introduce a friend",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "I mestieri",
+          "name_en": "Occupations",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Tempo libero",
+          "name_en": "Free time",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -1016,6 +1167,7 @@
       "subject": {
         "name_fr": "Russe",
         "name_ar": "الروسية",
+        "name_en": "Russian",
         "code": "RUSSE"
       },
       "instruction_language": "ru",
@@ -1023,60 +1175,70 @@
       "chapters": [
         {
           "name_fr": "Как вас зовут? Кто это? Что это?",
+          "name_en": "What is your name? Who is this? What is this?",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Школа",
+          "name_en": "School",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Семья и дом",
+          "name_en": "Family and home",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Мой день",
+          "name_en": "My day",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Город",
+          "name_en": "The city",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "В гостях",
+          "name_en": "Visiting",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Профессия",
+          "name_en": "Profession",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Транспорт",
+          "name_en": "Transport",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Погода",
+          "name_en": "Weather",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Спорт",
+          "name_en": "Sport",
           "order_index": 10,
           "objectives": [],
           "children": []
@@ -1087,6 +1249,7 @@
       "subject": {
         "name_fr": "Chinois",
         "name_ar": "الصينية",
+        "name_en": "Chinese",
         "code": "CHIN"
       },
       "instruction_language": "zh",
@@ -1094,66 +1257,77 @@
       "chapters": [
         {
           "name_fr": "你好",
+          "name_en": "Hello",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "你是哪国人",
+          "name_en": "What country are you from",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "认识你们很高兴",
+          "name_en": "Nice to meet you all",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "现在上课",
+          "name_en": "Class begins now",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "你们班的学生多吗",
+          "name_en": "Are there many students in your class",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "我们常常锻炼身体",
+          "name_en": "We often exercise",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "我家人口很少",
+          "name_en": "There are few people in my family",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "图书馆在哪儿",
+          "name_en": "Where is the library",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "去学生食堂",
+          "name_en": "Going to the student cafeteria",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "星期六我回家",
+          "name_en": "I go home on Saturday",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "进城买东西",
+          "name_en": "Going into town to shop",
           "order_index": 11,
           "objectives": [],
           "children": []
@@ -1164,6 +1338,7 @@
       "subject": {
         "name_fr": "Portugais",
         "name_ar": "البرتغالية",
+        "name_en": "Portuguese",
         "code": "PORT"
       },
       "instruction_language": "pt",
@@ -1174,6 +1349,7 @@
       "subject": {
         "name_fr": "Éducation musicale",
         "name_ar": "التربية الموسيقية",
+        "name_en": "Music education",
         "code": "MUSIQ"
       },
       "instruction_language": "ar",
@@ -1184,6 +1360,7 @@
       "subject": {
         "name_fr": "Arts plastiques",
         "name_ar": "التربية التشكيلية",
+        "name_en": "Visual arts",
         "code": "ARTPL"
       },
       "instruction_language": "ar",

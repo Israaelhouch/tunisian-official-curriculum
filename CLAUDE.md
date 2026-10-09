@@ -16,6 +16,8 @@ plus the pipeline that builds it from official sources. Other projects (e.g. exa
   `chapter_depth.json`.
 - `models.py`: SQLAlchemy tables + Pydantic schemas. `scripts/`: load into PostgreSQL, export.
 - `pipeline/cnp/`: textbook pipeline (see its README).
+- `data/translations/en.json` + `pipeline/translate_names.py`: English machine translations (`name_en`), applied by the
+  merge; never replace printed names.
 
 ## Data rules
 - Subjects per class come from the official decrees (2019-1085, 2021-143); chapters only from the official

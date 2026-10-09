@@ -20,14 +20,14 @@ level (BAC)  →  section (INFO)  →  subject (MATH)  →  chapters
 
 ```json
 {
-  "subjects": { "MATH": { "name_fr": "Mathématiques", "name_ar": "الرياضيات" } },
+  "subjects": { "MATH": { "name_fr": "Mathématiques", "name_ar": "الرياضيات", "name_en": "Mathematics" } },
   "levels": [{
     "code": "BAC", "name_fr": "Baccalauréat", "name_ar": "البكالوريا", "cycle": "secondaire",
     "sections": [{
       "code": "INFO", "name_fr": "Sciences de l'informatique", "name_ar": "علوم الإعلامية",
       "subjects": [
         { "code": "MATH", "language": "fr",
-          "chapters": [ { "name_fr": "Suites réelles" }, { "name_fr": "Limites de fonctions" } ] },
+          "chapters": [ { "name_fr": "Suites réelles", "name_en": "Real sequences" }, { "name_fr": "Limites de fonctions", "name_en": "Limits of functions" } ] },
         { "code": "PHYS", "language": "fr",
           "chapters": [ { "name_fr": "Physique", "chapters": [
               { "name_fr": "Ondes", "chapters": [ { "name_fr": "Ondes mécaniques progressives" } ] } ] } ] },
@@ -38,7 +38,7 @@ level (BAC)  →  section (INFO)  →  subject (MATH)  →  chapters
 }
 ```
 
-- **Names** are in `name_fr` and/or `name_ar`, as printed in the source.
+- **Names** are in `name_fr` and/or `name_ar`, as printed in the source; `name_en` is an English machine translation.
 - **Nested** `chapters` group chapters under a theme (Physique → Ondes → Ondes mécaniques progressives); the innermost items are the chapters.
 - `optional: true` marks an option the student chooses (3rd language, music, arts).
 - **No** `chapters` means there is no official textbook for that subject.
@@ -85,10 +85,12 @@ broken font encodings and deserve a native check.
 data/curriculum.json        everything in one file
 data/*.csv                  the same as flat tables (one row per chapter / per class subject)
 data/curriculum/            one file per class (source of truth)
+data/translations/en.json   English machine translations of all names
 data/cnp/                   textbook catalogue and per-book tables of contents
 models.py                   Pydantic schemas + SQLAlchemy tables
 scripts/                    load into PostgreSQL, export curriculum.json
 pipeline/cnp/               the textbook pipeline
+pipeline/translate_names.py English translation of new names (Claude)
 ```
 
 ```bash

@@ -13,6 +13,7 @@
   "level": {
     "name_fr": "3ème année secondaire",
     "name_ar": "السنة الثالثة ثانوي",
+    "name_en": "3rd year of secondary school",
     "code": "3S",
     "cycle": "secondaire",
     "grade_number": 3,
@@ -22,6 +23,7 @@
   "section": {
     "name_fr": "Sport",
     "name_ar": "رياضة",
+    "name_en": "Sport",
     "code": "SPORT",
     "is_common_core": false
   },
@@ -30,6 +32,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -37,18 +40,21 @@
       "chapters": [
         {
           "name_ar": "رحلات ومشاهد",
+          "name_en": "Journeys and scenes",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الرياضة والناس",
+          "name_en": "Sport and people",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "السيرة الذاتية",
+          "name_en": "Autobiography",
           "order_index": 3,
           "objectives": [],
           "children": []
@@ -59,6 +65,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -66,36 +73,42 @@
       "chapters": [
         {
           "name_fr": "Invitation au voyage",
+          "name_en": "Invitation to travel",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Le mythe aujourd’hui",
+          "name_en": "Myth today",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Le droit à la différence",
+          "name_en": "The right to be different",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Module de lecture : Celui qui n’avait jamais vu la mer",
+          "name_en": "Reading module: Celui qui n’avait jamais vu la mer",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Scènes comiques",
+          "name_en": "Comic scenes",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Le pouvoir de l’image",
+          "name_en": "The power of the image",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -106,6 +119,7 @@
       "subject": {
         "name_fr": "Anglais",
         "name_ar": "الإنجليزية",
+        "name_en": "English",
         "code": "ANGL"
       },
       "instruction_language": "en",
@@ -113,36 +127,42 @@
       "chapters": [
         {
           "name_fr": "In time of test, family is best",
+          "name_en": "In time of test, family is best",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "We learn to give, share and care",
+          "name_en": "We learn to give, share and care",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "A change is as good as a rest",
+          "name_en": "A change is as good as a rest",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Science and technology: a blessing or a curse?",
+          "name_en": "Science and technology: a blessing or a curse?",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Education is not filling a bucket but lighting a fire",
+          "name_en": "Education is not filling a bucket but lighting a fire",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Nature: any future without it?",
+          "name_en": "Nature: any future without it?",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -153,6 +173,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "fr",
@@ -160,48 +181,56 @@
       "chapters": [
         {
           "name_fr": "Généralités sur les fonctions",
+          "name_en": "General properties of functions",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Continuité et limites",
+          "name_en": "Continuity and limits",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Limites et comportement asymptotique",
+          "name_en": "Limits and asymptotic behavior",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Dérivation et applications",
+          "name_en": "Differentiation and applications",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Exemples d'étude de fonctions",
+          "name_en": "Examples of function studies",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Suites réelles",
+          "name_en": "Real sequences",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Dénombrement",
+          "name_en": "Counting",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Probabilités",
+          "name_en": "Probability",
           "order_index": 8,
           "objectives": [],
           "children": []
@@ -212,6 +241,7 @@
       "subject": {
         "name_fr": "Sciences physiques",
         "name_ar": "العلوم الفيزيائية",
+        "name_en": "Physical sciences",
         "code": "PHYS"
       },
       "instruction_language": "fr",
@@ -222,6 +252,7 @@
       "subject": {
         "name_fr": "Sciences biologiques",
         "name_ar": "علوم البيولوجيا",
+        "name_en": "Biological sciences",
         "code": "BIO"
       },
       "instruction_language": "fr",
@@ -229,35 +260,41 @@
       "chapters": [
         {
           "name_fr": "Le milieu intérieur et sa constance : l'homéostasie",
+          "name_en": "The internal environment and its constancy: homeostasis",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "Le milieu intérieur et ses caractéristiques",
+              "name_en": "The internal environment and its characteristics",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Le rôle du néphron dans la régulation de l'équilibre hydrominéral",
+              "name_en": "The role of the nephron in regulating water and mineral balance",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "La régulation de la glycémie",
+              "name_en": "Regulation of blood glucose",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Les moyens de prévention du diabète",
+              "name_en": "Means of preventing diabetes",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Hygiène du milieu intérieur",
+              "name_en": "Hygiene of the internal environment",
               "order_index": 5,
               "objectives": [],
               "children": []
@@ -266,29 +303,34 @@
         },
         {
           "name_fr": "Immunité : maintien de l'intégrité de l'organisme",
+          "name_en": "Immunity: maintaining the integrity of the organism",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "Le soi et le non soi",
+              "name_en": "Self and non-self",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Les organes et les cellules de l'immunité",
+              "name_en": "The organs and cells of immunity",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Les étapes de la réponse immunitaire spécifique",
+              "name_en": "The stages of the specific immune response",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Dysfonctionnement du système immunitaire",
+              "name_en": "Dysfunction of the immune system",
               "order_index": 4,
               "objectives": [],
               "children": []
@@ -297,35 +339,41 @@
         },
         {
           "name_fr": "L'information génétique et son expression",
+          "name_en": "Genetic information and its expression",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_fr": "Notion de caractère héréditaire, d'information génétique, de phénotype et de génotype",
+              "name_en": "The concepts of hereditary trait, genetic information, phenotype and genotype",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Localisation, nature et structure de l'information génétique",
+              "name_en": "Location, nature and structure of genetic information",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Origine de la diversité",
+              "name_en": "Origin of diversity",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Du génotype au phénotype : expression de l'information génétique",
+              "name_en": "From genotype to phenotype: expression of genetic information",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Transmission d'un couple d'allèles chez les diploïdes",
+              "name_en": "Transmission of a pair of alleles in diploids",
               "order_index": 5,
               "objectives": [],
               "children": []
@@ -338,6 +386,7 @@
       "subject": {
         "name_fr": "Informatique",
         "name_ar": "الإعلامية",
+        "name_en": "Computer science",
         "code": "INFO"
       },
       "instruction_language": "fr",
@@ -348,6 +397,7 @@
       "subject": {
         "name_fr": "Histoire",
         "name_ar": "التاريخ",
+        "name_en": "History",
         "code": "HIST"
       },
       "instruction_language": "ar",
@@ -358,6 +408,7 @@
       "subject": {
         "name_fr": "Géographie",
         "name_ar": "الجغرافيا",
+        "name_en": "Geography",
         "code": "GEO"
       },
       "instruction_language": "ar",
@@ -368,6 +419,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",
@@ -378,6 +430,7 @@
       "subject": {
         "name_fr": "Spécialité sportive",
         "name_ar": "الاختصاص الرياضي",
+        "name_en": "Sports specialty",
         "code": "SPORTSPEC"
       },
       "instruction_language": "ar",
@@ -388,6 +441,7 @@
       "subject": {
         "name_fr": "Éducation islamique",
         "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic education",
         "code": "ISLAM"
       },
       "instruction_language": "ar",
@@ -398,6 +452,7 @@
       "subject": {
         "name_fr": "Éducation civique",
         "name_ar": "التربية المدنية",
+        "name_en": "Civic education",
         "code": "CIVIQ"
       },
       "instruction_language": "ar",
@@ -408,6 +463,7 @@
       "subject": {
         "name_fr": "Philosophie",
         "name_ar": "الفلسفة",
+        "name_en": "Philosophy",
         "code": "PHILO"
       },
       "instruction_language": "ar",
@@ -415,18 +471,21 @@
       "chapters": [
         {
           "name_ar": "اليومي",
+          "name_en": "The everyday",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "مقتضيات التفكير",
+          "name_en": "The requirements of thinking",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "تجربة الالتزام",
+          "name_en": "The experience of commitment",
           "order_index": 3,
           "objectives": [],
           "children": []

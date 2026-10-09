@@ -31,7 +31,7 @@ configs:
 
 Every class of the Tunisian school system (1ère primaire → every Bac section), its official subjects and
 their chapters, as clean tables. Subjects are named in French and Arabic; chapters are given exactly as
-printed in the official CNP textbooks.
+printed in the official CNP textbooks. Every name also has an English machine translation (`*_en` columns).
 
 | | Classes | Subjects | Chapters |
 |---|---|---|---|
@@ -62,6 +62,7 @@ printed in the official CNP textbooks.
 | `theme` | groupings above the chapter, joined by ` > ` (empty if none) | `Physique > Ondes` |
 | `chapter_order` | position of the chapter within its subject (book order) | `3` |
 | `chapter` | chapter name, as printed in the textbook | `Suites réelles` |
+| `level_en`, `section_en`, `subject_en`, `theme_en`, `chapter_en` | English machine translation of the names | `Real sequences` |
 | `chapter_count` | (subjects file) number of chapters | `13` |
 
 Chapters by teaching language: Arabic 1,222 · French 944 · English 246 · Spanish 156 · Chinese 126 ·
@@ -92,7 +93,8 @@ The textbooks themselves are not included, only facts about them (subject lists 
 - Subjects without an official CNP textbook have no chapters (EPS, arts, ALGO/STI, Économie…).
 - Some primaire chapters are missing where the textbook scans were unreadable.
 - Chinese and Russian titles were decoded from broken font encodings and deserve a native check.
-- Chapter names are in the language printed in the book; they are not translated.
+- Chapter names are in the language printed in the book. The `*_en` columns are machine translations (Claude),
+  not official translations; specialised terms may have more usual English equivalents.
 
 ## Source code and updates
 

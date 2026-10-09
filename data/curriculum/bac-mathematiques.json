@@ -21,6 +21,7 @@
   "level": {
     "name_fr": "Baccalauréat (4ème année secondaire)",
     "name_ar": "البكالوريا (السنة الرابعة ثانوي)",
+    "name_en": "Baccalaureate (4th year of secondary education)",
     "code": "BAC",
     "cycle": "secondaire",
     "grade_number": 4,
@@ -30,6 +31,7 @@
   "section": {
     "name_fr": "Mathématiques",
     "name_ar": "رياضيات",
+    "name_en": "Mathematics",
     "code": "MATH",
     "is_common_core": false
   },
@@ -38,6 +40,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -45,12 +48,14 @@
       "chapters": [
         {
           "name_ar": "جوانب من الحضارة العربية الإسلامية قديما",
+          "name_en": "Aspects of classical Arab-Islamic civilisation",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "بعض شواغل الإنسان العربي المعاصر",
+          "name_en": "Some concerns of the contemporary Arab",
           "order_index": 2,
           "objectives": [],
           "children": []
@@ -61,6 +66,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -68,42 +74,49 @@
       "chapters": [
         {
           "name_fr": "Souvenirs et nostalgie",
+          "name_en": "Memories and nostalgia",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Histoires d'amour",
+          "name_en": "Love stories",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Liberté, j'écris ton nom...",
+          "name_en": "Liberty, I write your name...",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Module de lecture : Le silence de la mer",
+          "name_en": "Reading module: Le Silence de la mer",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Guerre et Paix",
+          "name_en": "War and Peace",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "L'Homme et la Science",
+          "name_en": "Man and Science",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Module de lecture : La Cantatrice chauve",
+          "name_en": "Reading module: La Cantatrice chauve",
           "order_index": 7,
           "objectives": [],
           "children": []
@@ -114,6 +127,7 @@
       "subject": {
         "name_fr": "Anglais",
         "name_ar": "الإنجليزية",
+        "name_en": "English",
         "code": "ANGL"
       },
       "instruction_language": "en",
@@ -121,30 +135,35 @@
       "chapters": [
         {
           "name_fr": "First Impressions",
+          "name_en": "First Impressions",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Art Shows and Holidaying",
+          "name_en": "Art Shows and Holidaying",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Education Matters",
+          "name_en": "Education Matters",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Creative Inventive Minds",
+          "name_en": "Creative Inventive Minds",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Life Issues",
+          "name_en": "Life Issues",
           "order_index": 5,
           "objectives": [],
           "children": []
@@ -155,6 +174,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "fr",
@@ -162,114 +182,133 @@
       "chapters": [
         {
           "name_fr": "Continuité et limites",
+          "name_en": "Continuity and limits",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Suites réelles",
+          "name_en": "Real sequences",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Dérivabilité",
+          "name_en": "Differentiability",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Fonctions réciproques",
+          "name_en": "Inverse functions",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Primitives",
+          "name_en": "Antiderivatives",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Intégrales",
+          "name_en": "Integrals",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Fonction logarithme népérien",
+          "name_en": "Natural logarithm function",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Fonction exponentielle",
+          "name_en": "Exponential function",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Equations différentielles",
+          "name_en": "Differential equations",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Nombres complexes",
+          "name_en": "Complex numbers",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Isométries du plan",
+          "name_en": "Isometries of the plane",
           "order_index": 11,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Déplacements – Antidéplacements",
+          "name_en": "Direct isometries – Opposite isometries",
           "order_index": 12,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Similitudes",
+          "name_en": "Similarities",
           "order_index": 13,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Coniques",
+          "name_en": "Conics",
           "order_index": 14,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Géométrie dans l'espace",
+          "name_en": "Geometry in space",
           "order_index": 15,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Divisibilité dans ℤ",
+          "name_en": "Divisibility in ℤ",
           "order_index": 16,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Identité de Bezout",
+          "name_en": "Bezout's identity",
           "order_index": 17,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Probabilités",
+          "name_en": "Probability",
           "order_index": 18,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Statistiques",
+          "name_en": "Statistics",
           "order_index": 19,
           "objectives": [],
           "children": []
@@ -280,6 +319,7 @@
       "subject": {
         "name_fr": "Sciences physiques",
         "name_ar": "العلوم الفيزيائية",
+        "name_en": "Physical sciences",
         "code": "PHYS"
       },
       "instruction_language": "fr",
@@ -287,46 +327,54 @@
       "chapters": [
         {
           "name_fr": "Physique",
+          "name_en": "Physics",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "Évolution de systèmes",
+              "name_en": "Evolution of systems",
               "order_index": 1,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Le condensateur ; le dipôle RC",
+                  "name_en": "The capacitor; the RC dipole",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "La bobine ; le dipôle RL",
+                  "name_en": "The coil; the RL dipole",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Oscillations électriques libres",
+                  "name_en": "Free electrical oscillations",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Oscillations électriques forcées en régime sinusoïdal",
+                  "name_en": "Forced electrical oscillations in sinusoidal regime",
                   "order_index": 4,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Oscillations libres d'un pendule élastique",
+                  "name_en": "Free oscillations of an elastic pendulum",
                   "order_index": 5,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Oscillations forcées d'un pendule élastique en régime sinusoïdal",
+                  "name_en": "Forced oscillations of an elastic pendulum in sinusoidal regime",
                   "order_index": 6,
                   "objectives": [],
                   "children": []
@@ -335,17 +383,20 @@
             },
             {
               "name_fr": "Ondes",
+              "name_en": "Waves",
               "order_index": 2,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Ondes mécaniques progressives",
+                  "name_en": "Progressive mechanical waves",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Nature ondulatoire de la lumière",
+                  "name_en": "The wave nature of light",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
@@ -354,23 +405,27 @@
             },
             {
               "name_fr": "Physique atomique et nucléaire",
+              "name_en": "Atomic and nuclear physics",
               "order_index": 3,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Spectre atomique",
+                  "name_en": "Atomic spectrum",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Le noyau atomique",
+                  "name_en": "The atomic nucleus",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Réactions nucléaires",
+                  "name_en": "Nuclear reactions",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
@@ -381,28 +436,33 @@
         },
         {
           "name_fr": "Chimie",
+          "name_en": "Chemistry",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "Cinétique chimique",
+              "name_en": "Chemical kinetics",
               "order_index": 1,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Notion d'avancement d'une réaction",
+                  "name_en": "The concept of the extent of a reaction",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Vitesse d'une réaction chimique",
+                  "name_en": "Rate of a chemical reaction",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Principaux facteurs cinétiques",
+                  "name_en": "Main kinetic factors",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
@@ -411,23 +471,27 @@
             },
             {
               "name_fr": "Équilibre chimique",
+              "name_en": "Chemical equilibrium",
               "order_index": 2,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Notion d'équilibre chimique",
+                  "name_en": "The concept of chemical equilibrium",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Loi d'action de masse - Conditions d'évolution spontanée",
+                  "name_en": "Law of mass action - Conditions for spontaneous evolution",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Déplacement des équilibres chimiques - Loi de modération",
+                  "name_en": "Shift of chemical equilibria - Law of moderation",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
@@ -436,23 +500,27 @@
             },
             {
               "name_fr": "Les réactions acide-base",
+              "name_en": "Acid-base reactions",
               "order_index": 3,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Application de la loi d'action de masse aux réactions acide-base",
+                  "name_en": "Application of the law of mass action to acid-base reactions",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "pH des solutions aqueuses",
+                  "name_en": "pH of aqueous solutions",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Variation du pH au cours d'une réaction entre un acide et une base",
+                  "name_en": "Variation of pH during a reaction between an acid and a base",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
@@ -461,23 +529,27 @@
             },
             {
               "name_fr": "Piles électrochimiques",
+              "name_en": "Electrochemical cells",
               "order_index": 4,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Piles du type pile Daniell",
+                  "name_en": "Daniell-type cells",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Potentiel standard d'un couple redox et pouvoir oxydant de sa forme oxydée",
+                  "name_en": "Standard potential of a redox couple and oxidising power of its oxidised form",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Piles alcalines",
+                  "name_en": "Alkaline cells",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
@@ -492,6 +564,7 @@
       "subject": {
         "name_fr": "Sciences de la vie et de la terre",
         "name_ar": "علوم الحياة والأرض",
+        "name_en": "Life and earth sciences",
         "code": "SVT"
       },
       "instruction_language": "fr",
@@ -499,23 +572,27 @@
       "chapters": [
         {
           "name_fr": "Neurophysiologie",
+          "name_en": "Neurophysiology",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "Le tissu nerveux",
+              "name_en": "Nervous tissue",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "L'activité réflexe",
+              "name_en": "Reflex activity",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "L'hygiène du système nerveux",
+              "name_en": "Hygiene of the nervous system",
               "order_index": 3,
               "objectives": [],
               "children": []
@@ -524,23 +601,27 @@
         },
         {
           "name_fr": "Reproduction humaine et santé",
+          "name_en": "Human reproduction and health",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "La fonction reproductrice chez l'homme",
+              "name_en": "The reproductive function in men",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "La fonction reproductrice chez la femme",
+              "name_en": "The reproductive function in women",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "La procréation",
+              "name_en": "Procreation",
               "order_index": 3,
               "objectives": [],
               "children": []
@@ -549,29 +630,34 @@
         },
         {
           "name_fr": "Génétique humaine",
+          "name_en": "Human genetics",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_fr": "Déterminer le mode de transmission des tares héréditaires",
+              "name_en": "Determining the mode of transmission of hereditary defects",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Analyser le caryotype normal",
+              "name_en": "Analysing the normal karyotype",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Détecter les anomalies chromosomiques",
+              "name_en": "Detecting chromosomal abnormalities",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Détecter les anomalies géniques",
+              "name_en": "Detecting gene abnormalities",
               "order_index": 4,
               "objectives": [],
               "children": []
@@ -584,6 +670,7 @@
       "subject": {
         "name_fr": "Informatique",
         "name_ar": "الإعلامية",
+        "name_en": "Computer science",
         "code": "INFO"
       },
       "instruction_language": "fr",
@@ -594,6 +681,7 @@
       "subject": {
         "name_fr": "Philosophie",
         "name_ar": "الفلسفة",
+        "name_en": "Philosophy",
         "code": "PHILO"
       },
       "instruction_language": "ar",
@@ -601,17 +689,20 @@
       "chapters": [
         {
           "name_ar": "الإنسان بين الكثرة والوحدة",
+          "name_en": "Man between multiplicity and unity",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "الإنية والغيرية",
+              "name_en": "Selfhood and otherness",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الخصوصية والكونية",
+              "name_en": "Particularity and universality",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -620,11 +711,13 @@
         },
         {
           "name_ar": "الحقيقة",
+          "name_en": "Truth",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "العلم بين الحقيقة والنمذجة",
+              "name_en": "Science between truth and modelling",
               "order_index": 1,
               "objectives": [],
               "children": []
@@ -633,17 +726,20 @@
         },
         {
           "name_ar": "القيم بين النسبي والمطلق",
+          "name_en": "Values between the relative and the absolute",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "الدولة: السيادة والمواطنة",
+              "name_en": "The State: sovereignty and citizenship",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأخلاق: الخير والسعادة",
+              "name_en": "Ethics: the good and happiness",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -656,6 +752,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",
@@ -666,6 +763,7 @@
       "subject": {
         "name_fr": "Allemand",
         "name_ar": "الألمانية",
+        "name_en": "German",
         "code": "ALLEM"
       },
       "instruction_language": "de",
@@ -673,30 +771,35 @@
       "chapters": [
         {
           "name_fr": "Feste und fröhliche Ereignisse",
+          "name_en": "Celebrations and happy events",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Städte und Verkehrsmittel",
+          "name_en": "Cities and means of transport",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Aussehen und Charakter",
+          "name_en": "Appearance and character",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Schule und Beruf",
+          "name_en": "School and career",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Massenmedien",
+          "name_en": "Mass media",
           "order_index": 5,
           "objectives": [],
           "children": []
@@ -707,6 +810,7 @@
       "subject": {
         "name_fr": "Espagnol",
         "name_ar": "الإسبانية",
+        "name_en": "Spanish",
         "code": "ESPA"
       },
       "instruction_language": "es",
@@ -714,72 +818,84 @@
       "chapters": [
         {
           "name_fr": "¿Qué hora es?",
+          "name_en": "What time is it?",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Qué haces cada día?",
+          "name_en": "What do you do every day?",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¡Por fin el sábado!",
+          "name_en": "Saturday at last!",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Qué plan tienes?",
+          "name_en": "What are your plans?",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Cómo quedamos?",
+          "name_en": "When and where shall we meet?",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Vienes conmigo?",
+          "name_en": "Are you coming with me?",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Qué has hecho este fin de semana?",
+          "name_en": "What have you done this weekend?",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Dónde fuiste la semana pasada?",
+          "name_en": "Where did you go last week?",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¡Qué gente tan interesante!",
+          "name_en": "What interesting people!",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Cuando yo era niña...",
+          "name_en": "When I was a little girl...",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¡Cómo cambian las cosas!",
+          "name_en": "How things change!",
           "order_index": 11,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Qué te pasa?",
+          "name_en": "What's the matter with you?",
           "order_index": 12,
           "objectives": [],
           "children": []
@@ -790,6 +906,7 @@
       "subject": {
         "name_fr": "Italien",
         "name_ar": "الإيطالية",
+        "name_en": "Italian",
         "code": "ITAL"
       },
       "instruction_language": "it",
@@ -797,36 +914,42 @@
       "chapters": [
         {
           "name_fr": "Città o campagna",
+          "name_en": "City or countryside",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Moda e Made in Italy",
+          "name_en": "Fashion and Made in Italy",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Sport e benessere",
+          "name_en": "Sport and well-being",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Cibo e alimentazione",
+          "name_en": "Food and nutrition",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Mass-media e telecomunicazioni",
+          "name_en": "Mass media and telecommunications",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Le feste italiane",
+          "name_en": "Italian festivals",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -837,6 +960,7 @@
       "subject": {
         "name_fr": "Russe",
         "name_ar": "الروسية",
+        "name_en": "Russian",
         "code": "RUSSE"
       },
       "instruction_language": "ru",
@@ -847,6 +971,7 @@
       "subject": {
         "name_fr": "Chinois",
         "name_ar": "الصينية",
+        "name_en": "Chinese",
         "code": "CHIN"
       },
       "instruction_language": "zh",
@@ -854,60 +979,70 @@
       "chapters": [
         {
           "name_fr": "你买了什么东西",
+          "name_en": "What did you buy",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "你们去长城了没有",
+          "name_en": "Did you go to the Great Wall",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "他不去旅行了",
+          "name_en": "He is no longer going travelling",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "我上网上两个小时",
+          "name_en": "I go online for two hours",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "你吃过烤鸭吗",
+          "name_en": "Have you ever eaten roast duck",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "我正在打电话",
+          "name_en": "I am making a phone call",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "学校里边有医院吗",
+          "name_en": "Is there a hospital in the school",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "你们先进来吧",
+          "name_en": "Come in first",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "你说对了",
+          "name_en": "You are right",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "再见",
+          "name_en": "Goodbye",
           "order_index": 10,
           "objectives": [],
           "children": []
@@ -918,6 +1053,7 @@
       "subject": {
         "name_fr": "Portugais",
         "name_ar": "البرتغالية",
+        "name_en": "Portuguese",
         "code": "PORT"
       },
       "instruction_language": "pt",
@@ -928,6 +1064,7 @@
       "subject": {
         "name_fr": "Éducation musicale",
         "name_ar": "التربية الموسيقية",
+        "name_en": "Music education",
         "code": "MUSIQ"
       },
       "instruction_language": "ar",
@@ -938,6 +1075,7 @@
       "subject": {
         "name_fr": "Arts plastiques",
         "name_ar": "التربية التشكيلية",
+        "name_en": "Visual arts",
         "code": "ARTPL"
       },
       "instruction_language": "ar",

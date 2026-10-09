@@ -12,6 +12,7 @@
   "level": {
     "name_fr": "6ème année primaire",
     "name_ar": "السنة السادسة ابتدائي",
+    "name_en": "6th year of primary school",
     "code": "6P",
     "cycle": "primaire",
     "grade_number": 6,
@@ -21,6 +22,7 @@
   "section": {
     "name_fr": "Tronc commun",
     "name_ar": "جذع مشترك",
+    "name_en": "Common core",
     "code": "TC",
     "is_common_core": true
   },
@@ -29,6 +31,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -36,173 +39,202 @@
       "chapters": [
         {
           "name_ar": "استعمال قواعد اللغة",
+          "name_en": "Using grammar",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "الاسم المعرّف بالإضافة",
+              "name_en": "The noun made definite by annexation (idafa)",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "ضمائر الجر",
+              "name_en": "Genitive pronouns",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "صيغة المضارع المنصوب من المضاعف مجرّدا ومزيدا",
+              "name_en": "The subjunctive present form of the doubled verb, base and augmented",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "صيغة المضارع المجزوم وصيغة الأمر من المضاعف مجرّدا ومزيدا",
+              "name_en": "The jussive present and imperative forms of the doubled verb, base and augmented",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "صيغة الماضي من الفعل الناقص مجرّدا ومزيدا",
+              "name_en": "The past form of the defective verb, base and augmented",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "صيغة المضارع المرفوع من الفعل الناقص مجرّدا ومزيدا",
+              "name_en": "The indicative present form of the defective verb, base and augmented",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "صيغة المضارع المنصوب من الفعل الناقص مجرّدا ومزيدا",
+              "name_en": "The subjunctive present form of the defective verb, base and augmented",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "صيغة المضارع المجزوم من الفعل الناقص مجرّدا ومزيدا",
+              "name_en": "The jussive present form of the defective verb, base and augmented",
               "order_index": 8,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "صيغة الأمر من الفعل الناقص مجرّدا ومزيدا",
+              "name_en": "The imperative form of the defective verb, base and augmented",
               "order_index": 9,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأسماء المقصورة النكرة",
+              "name_en": "Indefinite nouns ending in alif maqsura",
               "order_index": 10,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تقديم الخبر على المبتدأ",
+              "name_en": "Placing the predicate before the subject",
               "order_index": 11,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المصدر من الفعل الثلاثي المزيد",
+              "name_en": "The verbal noun of the augmented triliteral verb",
               "order_index": 12,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المفعول المطلق",
+              "name_en": "The absolute object",
               "order_index": 13,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الهمزة المتطرّفة",
+              "name_en": "The final hamza",
               "order_index": 14,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "اسم الفاعل من المضاعف المجرّد",
+              "name_en": "The active participle of the base doubled verb",
               "order_index": 15,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "اسم المفعول من المضاعف المجرّد",
+              "name_en": "The passive participle of the base doubled verb",
               "order_index": 16,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "اسم الفاعل من الناقص",
+              "name_en": "The active participle of the defective verb",
               "order_index": 17,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "اسم المفعول من الناقص",
+              "name_en": "The passive participle of the defective verb",
               "order_index": 18,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الهمزة المتوسّطة على الألف / الواو / الياء / السّطر",
+              "name_en": "The medial hamza on alif / waw / ya / the line",
               "order_index": 19,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "إعراب الاسم المثنّى",
+              "name_en": "Case inflection of the dual noun",
               "order_index": 20,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "إعراب جمع المذكر السالم",
+              "name_en": "Case inflection of the sound masculine plural",
               "order_index": 21,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "إعراب الجمع المؤنث السالم",
+              "name_en": "Case inflection of the sound feminine plural",
               "order_index": 22,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "إعراب الأسماء الخمسة",
+              "name_en": "Case inflection of the five nouns",
               "order_index": 23,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الواو والياء في الجمع المذكر السالم المضاف",
+              "name_en": "Waw and ya in the annexed sound masculine plural",
               "order_index": 24,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التاء المفتوحة في الجمع المؤنث السالم",
+              "name_en": "The open ta in the sound feminine plural",
               "order_index": 25,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المركب التمييزي",
+              "name_en": "The specification phrase (tamyiz)",
               "order_index": 26,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "اسم الفاعل من الفعل المزيد",
+              "name_en": "The active participle of the augmented verb",
               "order_index": 27,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "اسم المفعول من الفعل المزيد",
+              "name_en": "The passive participle of the augmented verb",
               "order_index": 28,
               "objectives": [],
               "children": []
@@ -211,149 +243,174 @@
         },
         {
           "name_ar": "القسم الثاني (عنوان غير مقروء)",
+          "name_en": "Part two (unreadable title)",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "بنية النص السردي",
+              "name_en": "Structure of the narrative text",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "وضع البداية",
+              "name_en": "The initial situation",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "سياق التحوّل",
+              "name_en": "The transformation sequence",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "وضع النهاية",
+              "name_en": "The final situation",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "السرد الخطي",
+              "name_en": "Linear narration",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "السرد غير الخطي",
+              "name_en": "Non-linear narration",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الشخصيات في السرد",
+              "name_en": "Characters in narration",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الزمان والمكان في السرد",
+              "name_en": "Time and place in narration",
               "order_index": 8,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "وصف الشخص",
+              "name_en": "Describing a person",
               "order_index": 9,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "وصف أشياء وحيوانات",
+              "name_en": "Describing objects and animals",
               "order_index": 10,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "وصف مشهد يغلب عليه السكون",
+              "name_en": "Describing a predominantly still scene",
               "order_index": 11,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "وصف مشهد تغلب عليه الحركة",
+              "name_en": "Describing a predominantly moving scene",
               "order_index": 12,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "من الخطاب المنقول إلى الخطاب المباشر",
+              "name_en": "From reported speech to direct speech",
               "order_index": 13,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أفعال القول",
+              "name_en": "Verbs of saying",
               "order_index": 14,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "من الخطاب المباشر إلى الخطاب المنقول",
+              "name_en": "From direct speech to reported speech",
               "order_index": 15,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المقطع الحواري المتعدد الأطراف",
+              "name_en": "The multi-party dialogue passage",
               "order_index": 16,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المقطع التفسيري: كيف ...؟",
+              "name_en": "The explanatory passage: How ...?",
               "order_index": 17,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المقطع التفسيري: ماذا أعرف عن ...؟",
+              "name_en": "The explanatory passage: What do I know about ...?",
               "order_index": 18,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المقطع التفسيري: لماذا ...؟",
+              "name_en": "The explanatory passage: Why ...?",
               "order_index": 19,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المقطع التفسيري: الأسباب والنتائج",
+              "name_en": "The explanatory passage: causes and consequences",
               "order_index": 20,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المقطع التوجيهي (1): الأمر والنهي",
+              "name_en": "The instructional passage (1): command and prohibition",
               "order_index": 21,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المقطع التوجيهي (2): استعمال المصادر",
+              "name_en": "The instructional passage (2): using verbal nouns",
               "order_index": 22,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "النص السردي مغنى بالوصف والحوار",
+              "name_en": "The narrative text enriched with description and dialogue",
               "order_index": 23,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "النص السردي مغنى بالحوار والتفسير",
+              "name_en": "The narrative text enriched with dialogue and explanation",
               "order_index": 24,
               "objectives": [],
               "children": []
@@ -366,6 +423,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -373,48 +431,56 @@
       "chapters": [
         {
           "name_fr": "Travailler pour s’épanouir",
+          "name_en": "Working to flourish",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Communiquer avec les autres",
+          "name_en": "Communicating with others",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Accepter les autres",
+          "name_en": "Accepting others",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "S’entraider pour mieux réussir",
+          "name_en": "Helping one another to succeed better",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Sauver la nature",
+          "name_en": "Saving nature",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Être en forme et mieux se porter",
+          "name_en": "Being fit and feeling better",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Profiter de son temps libre",
+          "name_en": "Making the most of one's free time",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Découvrir d’autres modes de vie",
+          "name_en": "Discovering other ways of life",
           "order_index": 8,
           "objectives": [],
           "children": []
@@ -425,6 +491,7 @@
       "subject": {
         "name_fr": "Anglais",
         "name_ar": "الإنجليزية",
+        "name_en": "English",
         "code": "ANGL"
       },
       "instruction_language": "en",
@@ -435,6 +502,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "ar",
@@ -442,96 +510,112 @@
       "chapters": [
         {
           "name_ar": "أبني زوايا أقيستها بالدّرجة 15 - 30 - 60 - 90 - 120",
+          "name_en": "I construct angles measuring 15 - 30 - 60 - 90 - 120 degrees",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتعرّف شبه المنحرف وأرسمه",
+          "name_en": "I identify and draw the trapezium",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتعرّف مضاعفات مشتركة لعددين صحيحين طبيعيين فأكثر",
+          "name_en": "I identify common multiples of two or more natural numbers",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أوظّف التناسب في السّلّم",
+          "name_en": "I use proportionality in scale",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتعرّف متوازيات الأضلاع وخاصّياتها",
+          "name_en": "I identify parallelograms and their properties",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أرسم متوازيات الأضلاع وأبنيها",
+          "name_en": "I draw and construct parallelograms",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أفكّك الأعداد الكسريّة وأركّبها",
+          "name_en": "I decompose and compose fractions",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أحسب قيس محيط دائرة",
+          "name_en": "I calculate the circumference of a circle",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أكتب عددا كسريّا بطرق مختلفة",
+          "name_en": "I write a fraction in different ways",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أقارن الأعداد الكسريّة وأرتّبها",
+          "name_en": "I compare and order fractions",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتعرّف الأعداد الكسريّة العشريّة وأكتبها بطرق مختلفة",
+          "name_en": "I identify decimal fractions and write them in different ways",
           "order_index": 11,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أحسب مساحة متوازي أضلاع (متوازي الأضلاع، المستطيل، المعيّن، المربّع)",
+          "name_en": "I calculate the area of a parallelogram (parallelogram, rectangle, rhombus, square)",
           "order_index": 12,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتصرّف في الأعداد الكسريّة",
+          "name_en": "I work with fractions",
           "order_index": 13,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أجمع الأعداد الكسريّة وأطرحها",
+          "name_en": "I add and subtract fractions",
           "order_index": 14,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أحسب قيس مساحة القرص الدّائري",
+          "name_en": "I calculate the area of a disc",
           "order_index": 15,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أوظّف التناسب في حساب معدّل السّرعة",
+          "name_en": "I use proportionality to calculate average speed",
           "order_index": 16,
           "objectives": [],
           "children": []
@@ -542,6 +626,7 @@
       "subject": {
         "name_fr": "Éveil scientifique",
         "name_ar": "الإيقاظ العلمي",
+        "name_en": "Science awareness",
         "code": "EVEIL"
       },
       "instruction_language": "ar",
@@ -549,18 +634,21 @@
       "chapters": [
         {
           "name_ar": "العين والضوء",
+          "name_en": "The eye and light",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الهواء والتنفس",
+          "name_en": "Air and respiration",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الطاقة",
+          "name_en": "Energy",
           "order_index": 3,
           "objectives": [],
           "children": []
@@ -571,6 +659,7 @@
       "subject": {
         "name_fr": "Technologie",
         "name_ar": "التكنولوجيا",
+        "name_en": "Technology",
         "code": "TECHNO"
       },
       "instruction_language": "ar",
@@ -581,6 +670,7 @@
       "subject": {
         "name_fr": "Éducation islamique",
         "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic education",
         "code": "ISLAM"
       },
       "instruction_language": "ar",
@@ -591,6 +681,7 @@
       "subject": {
         "name_fr": "Histoire",
         "name_ar": "التاريخ",
+        "name_en": "History",
         "code": "HIST"
       },
       "instruction_language": "ar",
@@ -598,90 +689,105 @@
       "chapters": [
         {
           "name_ar": "الصراع العثماني الإسباني على البلاد التونسية وانتصاب الأتراك بتونس",
+          "name_en": "The Ottoman-Spanish struggle over Tunisia and the establishment of the Turks in Tunis",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الدولة المرادية وإنجازاتها",
+          "name_en": "The Muradid dynasty and its achievements",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الهجرة الأندلسية ونتائجها",
+          "name_en": "The Andalusian migration and its consequences",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "قيام الدولة الحسينية وأهمّ إنجازاتها",
+          "name_en": "The rise of the Husainid dynasty and its main achievements",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "مظاهر الأزمة في البلاد التونسية في القرن التاسع عشر",
+          "name_en": "Aspects of the crisis in Tunisia in the nineteenth century",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "إصلاحات أحمد باي العسكرية والاجتماعية",
+          "name_en": "The military and social reforms of Ahmed Bey",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الإصلاحات السياسية: عهد الأمان ودستور 1861",
+          "name_en": "Political reforms: the Fundamental Pact (Ahd al-Aman) and the 1861 Constitution",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "خير الدين باشا وأفكاره الإصلاحية",
+          "name_en": "Kheireddine Pasha and his reformist ideas",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "احتلال تونس وانتصاب الحماية الفرنسية",
+          "name_en": "The occupation of Tunisia and the establishment of the French protectorate",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الهيمنة الاستعمارية الفرنسية على البلاد التونسية",
+          "name_en": "French colonial domination over Tunisia",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "حركة الشباب التونسي",
+          "name_en": "The Young Tunisians movement",
           "order_index": 11,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الحزب الحر الدستوري التونسي: البرنامج والنشاط",
+          "name_en": "The Tunisian Liberal Constitutional Party: programme and activity",
           "order_index": 12,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الحزب الحر الدستوري الجديد وتجذّر النضال الوطني",
+          "name_en": "The Neo Destour Party and the radicalisation of the national struggle",
           "order_index": 13,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "تكتّل القوى الوطنية ضد الاستعمار الفرنسي والحصول على الاستقلال",
+          "name_en": "The alliance of national forces against French colonialism and the attainment of independence",
           "order_index": 14,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "تونس من 1956 إلى 1987",
+          "name_en": "Tunisia from 1956 to 1987",
           "order_index": 15,
           "objectives": [],
           "children": []
@@ -692,6 +798,7 @@
       "subject": {
         "name_fr": "Géographie",
         "name_ar": "الجغرافيا",
+        "name_en": "Geography",
         "code": "GEO"
       },
       "instruction_language": "ar",
@@ -699,60 +806,70 @@
       "chapters": [
         {
           "name_ar": "مجال المغرب العربي",
+          "name_en": "The Arab Maghreb region",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "خريطة توزع السكان بالمغرب العربي",
+          "name_en": "Map of population distribution in the Arab Maghreb",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المجال الفلاحي بالمغرب العربي",
+          "name_en": "The agricultural space in the Arab Maghreb",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المجال الصناعي بالمغرب العربي",
+          "name_en": "The industrial space in the Arab Maghreb",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "شبكات النقل والمواصلات والمبادلات التجارية بالمغرب العربي",
+          "name_en": "Transport and communication networks and trade in the Arab Maghreb",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "البلاد التونسية: السكان",
+          "name_en": "Tunisia: the population",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الفلاحة والصيد البحري في البلاد التونسية",
+          "name_en": "Agriculture and fishing in Tunisia",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الصناعة بالبلاد التونسية",
+          "name_en": "Industry in Tunisia",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "السياحة بالبلاد التونسية",
+          "name_en": "Tourism in Tunisia",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "التجارة الخارجية التونسية",
+          "name_en": "Tunisian foreign trade",
           "order_index": 10,
           "objectives": [],
           "children": []
@@ -763,6 +880,7 @@
       "subject": {
         "name_fr": "Éducation civique",
         "name_ar": "التربية المدنية",
+        "name_en": "Civic education",
         "code": "CIVIQ"
       },
       "instruction_language": "ar",
@@ -773,6 +891,7 @@
       "subject": {
         "name_fr": "Éducation musicale",
         "name_ar": "التربية الموسيقية",
+        "name_en": "Music education",
         "code": "MUSIQ"
       },
       "instruction_language": "ar",
@@ -783,6 +902,7 @@
       "subject": {
         "name_fr": "Arts plastiques",
         "name_ar": "التربية التشكيلية",
+        "name_en": "Visual arts",
         "code": "ARTPL"
       },
       "instruction_language": "ar",
@@ -793,6 +913,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",

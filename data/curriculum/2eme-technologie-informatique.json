@@ -19,6 +19,7 @@
   "level": {
     "name_fr": "2ème année secondaire",
     "name_ar": "السنة الثانية ثانوي",
+    "name_en": "2nd year of secondary school",
     "code": "2S",
     "cycle": "secondaire",
     "grade_number": 2,
@@ -28,6 +29,7 @@
   "section": {
     "name_fr": "Technologie de l'informatique",
     "name_ar": "تكنولوجيا الإعلامية",
+    "name_en": "Computer Technology",
     "code": "TI",
     "is_common_core": false
   },
@@ -36,6 +38,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -43,48 +46,56 @@
       "chapters": [
         {
           "name_ar": "الشعر الجاهلي",
+          "name_en": "Pre-Islamic poetry",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "التجديد في الشعر العربي في القرن الثاني للهجرة",
+          "name_en": "Renewal in Arabic poetry in the second century AH",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "النادرة",
+          "name_en": "The anecdote",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المسائل الحضارية",
+          "name_en": "Civilisational issues",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المحور الخامس (لمسلك الآداب)",
+          "name_en": "Axis Five (for the Literature track)",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المحور الخامس (لمسالك العلوم / تكنولوجيا الإعلاميّة / الاقتصاد والخدمات)",
+          "name_en": "Axis Five (for the Sciences / Computer Technology / Economics and Services tracks)",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "التواصل",
+          "name_en": "Communication",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "دلالات الصيغ الصرفيّة",
+          "name_en": "Meanings of morphological patterns",
           "order_index": 8,
           "objectives": [],
           "children": []
@@ -95,6 +106,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -102,30 +114,35 @@
       "chapters": [
         {
           "name_fr": "Pages d’amour",
+          "name_en": "Pages of love",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Toi, mon semblable",
+          "name_en": "You, my fellow man",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Femme et société",
+          "name_en": "Woman and society",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Travail et bien-être",
+          "name_en": "Work and well-being",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Images d’ici, images d’ailleurs",
+          "name_en": "Images from here, images from elsewhere",
           "order_index": 5,
           "objectives": [],
           "children": []
@@ -136,6 +153,7 @@
       "subject": {
         "name_fr": "Anglais",
         "name_ar": "الإنجليزية",
+        "name_en": "English",
         "code": "ANGL"
       },
       "instruction_language": "en",
@@ -143,60 +161,70 @@
       "chapters": [
         {
           "name_fr": "Family life",
+          "name_en": "Family life",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Communicating with others",
+          "name_en": "Communicating with others",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Social life",
+          "name_en": "Social life",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Social Problems",
+          "name_en": "Social Problems",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Rights and Duties",
+          "name_en": "Rights and Duties",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Education",
+          "name_en": "Education",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Professional Life",
+          "name_en": "Professional Life",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Media and Arts",
+          "name_en": "Media and Arts",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Science and Technology",
+          "name_en": "Science and Technology",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Ecology",
+          "name_en": "Ecology",
           "order_index": 10,
           "objectives": [],
           "children": []
@@ -207,6 +235,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "fr",
@@ -214,114 +243,133 @@
       "chapters": [
         {
           "name_fr": "Calcul dans IR",
+          "name_en": "Calculation in IR",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Problèmes du 1er degré et problèmes du second degré",
+          "name_en": "1st-degree problems and second-degree problems",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Notion de polynômes",
+          "name_en": "The concept of polynomials",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Arithmétique",
+          "name_en": "Arithmetic",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Calcul vectoriel",
+          "name_en": "Vector calculus",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Barycentre",
+          "name_en": "Barycentre",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Translations",
+          "name_en": "Translations",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Homothéties",
+          "name_en": "Homotheties",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Rotations",
+          "name_en": "Rotations",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Suites arithmétiques",
+          "name_en": "Arithmetic sequences",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Suites géométriques",
+          "name_en": "Geometric sequences",
           "order_index": 11,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Généralités sur les fonctions",
+          "name_en": "General properties of functions",
           "order_index": 12,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Fonctions de référence",
+          "name_en": "Reference functions",
           "order_index": 13,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Trigonométrie et mesure des grandeurs",
+          "name_en": "Trigonometry and measurement of quantities",
           "order_index": 14,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Géométrie analytique",
+          "name_en": "Analytic geometry",
           "order_index": 15,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Droites et plans de l'espace",
+          "name_en": "Lines and planes in space",
           "order_index": 16,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Parallélisme dans l'espace",
+          "name_en": "Parallelism in space",
           "order_index": 17,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Orthogonalité dans l'espace",
+          "name_en": "Orthogonality in space",
           "order_index": 18,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Statistiques",
+          "name_en": "Statistics",
           "order_index": 19,
           "objectives": [],
           "children": []
@@ -332,6 +380,7 @@
       "subject": {
         "name_fr": "Sciences physiques",
         "name_ar": "العلوم الفيزيائية",
+        "name_en": "Physical sciences",
         "code": "PHYS"
       },
       "instruction_language": "fr",
@@ -339,46 +388,54 @@
       "chapters": [
         {
           "name_fr": "Physique",
+          "name_en": "Physics",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "Circuits électriques et électroniques",
+              "name_en": "Electrical and electronic circuits",
               "order_index": 1,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Puissance et énergie électriques",
+                  "name_en": "Electric power and energy",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Conductibilité électrique",
+                  "name_en": "Electrical conductivity",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Caractéristiques des dipôles passifs et actifs",
+                  "name_en": "Characteristics of passive and active dipoles",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "La diode",
+                  "name_en": "The diode",
                   "order_index": 4,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Le transistor",
+                  "name_en": "The transistor",
                   "order_index": 5,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Courant alternatif",
+                  "name_en": "Alternating current",
                   "order_index": 6,
                   "objectives": [],
                   "children": []
@@ -387,23 +444,27 @@
             },
             {
               "name_fr": "Forces, mouvements et pression",
+              "name_en": "Forces, motion and pressure",
               "order_index": 2,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Forces et équilibre",
+                  "name_en": "Forces and equilibrium",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Mouvements d’un point matériel : étude cinématique",
+                  "name_en": "Motion of a material point: kinematic study",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Pression",
+                  "name_en": "Pressure",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
@@ -412,17 +473,20 @@
             },
             {
               "name_fr": "Energie et contrôle",
+              "name_en": "Energy and control",
               "order_index": 3,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Energie cinétique - Energies potentielles - Energie thermique",
+                  "name_en": "Kinetic energy - Potential energies - Thermal energy",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Travail et puissance",
+                  "name_en": "Work and power",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
@@ -431,17 +495,20 @@
             },
             {
               "name_fr": "Lumière",
+              "name_en": "Light",
               "order_index": 4,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Réflexion de la lumière",
+                  "name_en": "Reflection of light",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Réfraction de la lumière",
+                  "name_en": "Refraction of light",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
@@ -452,40 +519,47 @@
         },
         {
           "name_fr": "Chimie",
+          "name_en": "Chemistry",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "La matière",
+              "name_en": "Matter",
               "order_index": 1,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Un modèle de description de l’atome",
+                  "name_en": "A model for describing the atom",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "L’élément chimique",
+                  "name_en": "The chemical element",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Un modèle du cortège électronique",
+                  "name_en": "A model of the electron cloud",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Des atomes aux molécules",
+                  "name_en": "From atoms to molecules",
                   "order_index": 4,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Tableau de la classification périodique des éléments",
+                  "name_en": "Periodic table of the elements",
                   "order_index": 5,
                   "objectives": [],
                   "children": []
@@ -494,17 +568,20 @@
             },
             {
               "name_fr": "Les solutions aqueuses acides et basiques",
+              "name_en": "Acidic and basic aqueous solutions",
               "order_index": 2,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Le pH des solutions aqueuses",
+                  "name_en": "The pH of aqueous solutions",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Réactions des solutions acides et basiques",
+                  "name_en": "Reactions of acidic and basic solutions",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
@@ -513,17 +590,20 @@
             },
             {
               "name_fr": "Chimie organique : les matières plastiques",
+              "name_en": "Organic chemistry: plastics",
               "order_index": 3,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Généralités sur les matières plastiques",
+                  "name_en": "General overview of plastics",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Les déchets plastiques",
+                  "name_en": "Plastic waste",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
@@ -538,6 +618,7 @@
       "subject": {
         "name_fr": "Technologie",
         "name_ar": "التكنولوجيا",
+        "name_en": "Technology",
         "code": "TECHNO"
       },
       "instruction_language": "fr",
@@ -545,17 +626,20 @@
       "chapters": [
         {
           "name_fr": "Analyse fonctionnelle",
+          "name_en": "Functional analysis",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "Analyse fonctionnelle interne",
+              "name_en": "Internal functional analysis",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Description temporelle du comportement d’un système technique",
+              "name_en": "Temporal description of the behavior of a technical system",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -564,23 +648,27 @@
         },
         {
           "name_fr": "Analyse structurelle et conception",
+          "name_en": "Structural analysis and design",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "Définition graphique d’un objet technique et DAO",
+              "name_en": "Graphical definition of a technical object and CAD",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Système de numération et codes",
+              "name_en": "Number system and codes",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Transmission de puissance",
+              "name_en": "Power transmission",
               "order_index": 3,
               "objectives": [],
               "children": []
@@ -589,17 +677,20 @@
         },
         {
           "name_fr": "Réalisation et production",
+          "name_en": "Making and production",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_fr": "Procédés de mise en forme des matériaux – Procédés et typologie des assemblages – Métrologie",
+              "name_en": "Material forming processes – Assembly processes and types – Metrology",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Systèmes embarqués : programmation d’une carte de commande",
+              "name_en": "Embedded systems: programming a control board",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -612,6 +703,7 @@
       "subject": {
         "name_fr": "Informatique",
         "name_ar": "الإعلامية",
+        "name_en": "Computer science",
         "code": "INFO"
       },
       "instruction_language": "fr",
@@ -622,6 +714,7 @@
       "subject": {
         "name_fr": "Histoire",
         "name_ar": "التاريخ",
+        "name_en": "History",
         "code": "HIST"
       },
       "instruction_language": "ar",
@@ -629,24 +722,28 @@
       "chapters": [
         {
           "name_ar": "الحضارات القديمة في الشرق والعالم المتوسطي",
+          "name_en": "Ancient civilisations in the East and the Mediterranean world",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "التطوّر الحضاري والتحوّلات التاريخيّة في المشرق الإسلامي : من ظهور الإسلام إلى نهاية القرن 5 هـ / 11 م",
+          "name_en": "Civilizational development and historical transformations in the Islamic East: from the advent of Islam to the end of the 5th century AH / 11th century CE",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "التطوّر الحضاري والتحوّلات التاريخيّة في الغرب الإسلامي من بداية القرن الثاني إلى القرن 9 هـ / من ق 8 م إلى ق 15 م",
+          "name_en": "Civilizational development and historical transformations in the Islamic West from the beginning of the 2nd century to the 9th century AH / from the 8th to the 15th century CE",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "العالم المتوسطي في القرن 16",
+          "name_en": "The Mediterranean world in the 16th century",
           "order_index": 4,
           "objectives": [],
           "children": []
@@ -657,6 +754,7 @@
       "subject": {
         "name_fr": "Géographie",
         "name_ar": "الجغرافيا",
+        "name_en": "Geography",
         "code": "GEO"
       },
       "instruction_language": "ar",
@@ -664,29 +762,34 @@
       "chapters": [
         {
           "name_ar": "العالم العربي : المجال والتنمية",
+          "name_en": "The Arab world: space and development",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "الموقع والوسط الطبيعي بالعالم العربي : المزايا والضغوطات",
+              "name_en": "Location and natural environment of the Arab world: advantages and constraints",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الموارد الطبيعيّة بالعالم العربي",
+              "name_en": "Natural resources of the Arab world",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العالم العربي : السكّان والمسألة السكانيّة",
+              "name_en": "The Arab world: population and the population question",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التنمية الاقتصاديّة في العالم العربي",
+              "name_en": "Economic development in the Arab world",
               "order_index": 4,
               "objectives": [],
               "children": []
@@ -695,47 +798,55 @@
         },
         {
           "name_ar": "البلاد التونسيّة : المجال والتنمية",
+          "name_en": "Tunisia: space and development",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الوسط الطبيعي التونسي : المزايا والضغوطات",
+              "name_en": "The Tunisian natural environment: advantages and constraints",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الموارد الطبيعيّة بالبلاد التونسيّة",
+              "name_en": "Natural resources of Tunisia",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "البلاد التونسيّة : السكّان",
+              "name_en": "Tunisia: population",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "البلاد التونسيّة : المجال الفلاحي",
+              "name_en": "Tunisia: the agricultural space",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "البلاد التونسيّة : المجال الصناعي",
+              "name_en": "Tunisia: the industrial space",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "البلاد التونسيّة : المجال السياحي",
+              "name_en": "Tunisia: the tourist space",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "البلاد التونسيّة : التفاوت الإقليمي",
+              "name_en": "Tunisia: regional disparities",
               "order_index": 7,
               "objectives": [],
               "children": []
@@ -748,6 +859,7 @@
       "subject": {
         "name_fr": "Éducation islamique",
         "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic education",
         "code": "ISLAM"
       },
       "instruction_language": "ar",
@@ -755,17 +867,20 @@
       "chapters": [
         {
           "name_ar": "التوازن والوسطيّة",
+          "name_en": "Balance and moderation",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "التفكّر في العبادة",
+              "name_en": "Reflection in worship",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "بناء الشخصيّة",
+              "name_en": "Building the personality",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -774,23 +889,27 @@
         },
         {
           "name_ar": "الفاعليّة",
+          "name_en": "Effectiveness",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الوحي",
+              "name_en": "Revelation",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التربية والتعليم",
+              "name_en": "Education and teaching",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الإصلاح",
+              "name_en": "Reform",
               "order_index": 3,
               "objectives": [],
               "children": []
@@ -799,17 +918,20 @@
         },
         {
           "name_ar": "الاستشراف",
+          "name_en": "Foresight",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "الأمل والتوكّل",
+              "name_en": "Hope and trust in God",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الإنسان ومصيره",
+              "name_en": "Man and his destiny",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -822,6 +944,7 @@
       "subject": {
         "name_fr": "Éducation civique",
         "name_ar": "التربية المدنية",
+        "name_en": "Civic education",
         "code": "CIVIQ"
       },
       "instruction_language": "ar",
@@ -829,18 +952,21 @@
       "chapters": [
         {
           "name_ar": "الدولة الديمقراطيّة الحديثة",
+          "name_en": "The modern democratic state",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "دولة القانون",
+          "name_en": "The rule of law",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المجتمع المدني",
+          "name_en": "Civil society",
           "order_index": 3,
           "objectives": [],
           "children": []
@@ -851,6 +977,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",

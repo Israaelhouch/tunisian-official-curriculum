@@ -144,7 +144,7 @@ def upsert(session: Session, model: type[M], key: dict[str, Any], values: dict[s
 
 
 def _names(model: Any) -> dict[str, Optional[str]]:
-    return {"name_fr": model.name_fr, "name_ar": model.name_ar}
+    return {"name_fr": model.name_fr, "name_ar": model.name_ar, "name_en": model.name_en}
 
 
 def load_class(session: Session, cur: ClassCurriculum, stats: Stats) -> None:

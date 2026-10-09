@@ -15,6 +15,7 @@
   "level": {
     "name_fr": "2ème année secondaire",
     "name_ar": "السنة الثانية ثانوي",
+    "name_en": "2nd year of secondary school",
     "code": "2S",
     "cycle": "secondaire",
     "grade_number": 2,
@@ -24,6 +25,7 @@
   "section": {
     "name_fr": "Lettres",
     "name_ar": "آداب",
+    "name_en": "Literature",
     "code": "LET",
     "is_common_core": false
   },
@@ -32,6 +34,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -39,48 +42,56 @@
       "chapters": [
         {
           "name_ar": "الشعر الجاهلي",
+          "name_en": "Pre-Islamic poetry",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "التجديد في الشعر العربي في القرن الثاني للهجرة",
+          "name_en": "Renewal in Arabic poetry in the second century AH",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "النادرة",
+          "name_en": "The anecdote",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المسائل الحضارية",
+          "name_en": "Civilisational issues",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المحور الخامس (لمسلك الآداب)",
+          "name_en": "Axis Five (for the Literature track)",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المحور الخامس (لمسالك العلوم / تكنولوجيا الإعلاميّة / الاقتصاد والخدمات)",
+          "name_en": "Axis Five (for the Sciences / Computer Technology / Economics and Services tracks)",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "التواصل",
+          "name_en": "Communication",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "دلالات الصيغ الصرفيّة",
+          "name_en": "Meanings of morphological patterns",
           "order_index": 8,
           "objectives": [],
           "children": []
@@ -91,6 +102,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -98,30 +110,35 @@
       "chapters": [
         {
           "name_fr": "Pages d’amour",
+          "name_en": "Pages of love",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Toi, mon semblable",
+          "name_en": "You, my fellow man",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Femme et société",
+          "name_en": "Woman and society",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Travail et bien-être",
+          "name_en": "Work and well-being",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Images d’ici, images d’ailleurs",
+          "name_en": "Images from here, images from elsewhere",
           "order_index": 5,
           "objectives": [],
           "children": []
@@ -132,6 +149,7 @@
       "subject": {
         "name_fr": "Anglais",
         "name_ar": "الإنجليزية",
+        "name_en": "English",
         "code": "ANGL"
       },
       "instruction_language": "en",
@@ -139,60 +157,70 @@
       "chapters": [
         {
           "name_fr": "Family life",
+          "name_en": "Family life",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Communicating with others",
+          "name_en": "Communicating with others",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Social life",
+          "name_en": "Social life",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Social Problems",
+          "name_en": "Social Problems",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Rights and Duties",
+          "name_en": "Rights and Duties",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Education",
+          "name_en": "Education",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Professional Life",
+          "name_en": "Professional Life",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Media and Arts",
+          "name_en": "Media and Arts",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Science and Technology",
+          "name_en": "Science and Technology",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Ecology",
+          "name_en": "Ecology",
           "order_index": 10,
           "objectives": [],
           "children": []
@@ -203,6 +231,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "fr",
@@ -210,17 +239,20 @@
       "chapters": [
         {
           "name_fr": "Activités numériques",
+          "name_en": "Numerical activities",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "Pourcentages",
+              "name_en": "Percentages",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Suites arithmétiques - Suites géométriques",
+              "name_en": "Arithmetic sequences - Geometric sequences",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -229,17 +261,20 @@
         },
         {
           "name_fr": "Activités algébriques",
+          "name_en": "Algebraic activities",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "Equations et inéquations - Systèmes d'équations",
+              "name_en": "Equations and inequalities - Systems of equations",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Fonctions",
+              "name_en": "Functions",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -248,11 +283,13 @@
         },
         {
           "name_fr": "Statistiques",
+          "name_en": "Statistics",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_fr": "Statistiques",
+              "name_en": "Statistics",
               "order_index": 1,
               "objectives": [],
               "children": []
@@ -265,6 +302,7 @@
       "subject": {
         "name_fr": "Informatique",
         "name_ar": "الإعلامية",
+        "name_en": "Computer science",
         "code": "INFO"
       },
       "instruction_language": "fr",
@@ -275,6 +313,7 @@
       "subject": {
         "name_fr": "Histoire",
         "name_ar": "التاريخ",
+        "name_en": "History",
         "code": "HIST"
       },
       "instruction_language": "ar",
@@ -282,12 +321,14 @@
       "chapters": [
         {
           "name_ar": "الحضارات القديمة في الشرق والعالم المتوسطي",
+          "name_en": "Ancient civilisations in the East and the Mediterranean world",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "العلاقة بين العالم الإسلامي والغرب المسيحي من القرن الرّابع للهجرة (10 م) إلى سقوط غرناطة (15 م)",
+          "name_en": "Relations between the Islamic world and the Christian West from the 4th century AH (10th century AD) to the fall of Granada (15th century AD)",
           "order_index": 2,
           "objectives": [],
           "children": []
@@ -298,6 +339,7 @@
       "subject": {
         "name_fr": "Géographie",
         "name_ar": "الجغرافيا",
+        "name_en": "Geography",
         "code": "GEO"
       },
       "instruction_language": "ar",
@@ -305,24 +347,28 @@
       "chapters": [
         {
           "name_ar": "المدن تنظم المجال",
+          "name_en": "Cities organise space",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "تنظيم المجالات الريفيّة",
+          "name_en": "The organisation of rural spaces",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "شبكات النّقل والاتصال ودورها في تنظيم المجال",
+          "name_en": "Transport and communication networks and their role in organising space",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "التّهيئة الترابيّة",
+          "name_en": "Territorial planning",
           "order_index": 4,
           "objectives": [],
           "children": []
@@ -333,6 +379,7 @@
       "subject": {
         "name_fr": "Éducation islamique",
         "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic education",
         "code": "ISLAM"
       },
       "instruction_language": "ar",
@@ -340,17 +387,20 @@
       "chapters": [
         {
           "name_ar": "التوازن والوسطيّة",
+          "name_en": "Balance and moderation",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "التفكّر في العبادة",
+              "name_en": "Reflection in worship",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "بناء الشخصيّة",
+              "name_en": "Building the personality",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -359,23 +409,27 @@
         },
         {
           "name_ar": "الفاعليّة",
+          "name_en": "Effectiveness",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الوحي",
+              "name_en": "Revelation",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التربية والتعليم",
+              "name_en": "Education and teaching",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الإصلاح",
+              "name_en": "Reform",
               "order_index": 3,
               "objectives": [],
               "children": []
@@ -384,17 +438,20 @@
         },
         {
           "name_ar": "الاستشراف",
+          "name_en": "Foresight",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "الأمل والتوكّل",
+              "name_en": "Hope and trust in God",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الإنسان ومصيره",
+              "name_en": "Man and his destiny",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -407,6 +464,7 @@
       "subject": {
         "name_fr": "Éducation civique",
         "name_ar": "التربية المدنية",
+        "name_en": "Civic education",
         "code": "CIVIQ"
       },
       "instruction_language": "ar",
@@ -414,18 +472,21 @@
       "chapters": [
         {
           "name_ar": "الدولة الديمقراطيّة الحديثة",
+          "name_en": "The modern democratic state",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "دولة القانون",
+          "name_en": "The rule of law",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المجتمع المدني",
+          "name_en": "Civil society",
           "order_index": 3,
           "objectives": [],
           "children": []
@@ -436,6 +497,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",

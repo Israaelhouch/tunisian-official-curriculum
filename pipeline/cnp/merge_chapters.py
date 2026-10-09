@@ -2,6 +2,7 @@
 
 data/cnp/books/<code>.json: {"code", "title", "used_for", "toc": [{"name", "children"}], "notes"}
 (or "by_subject" for multi-subject books, "by_class" for one book covering several years).
+English names (`name_en`) are added from data/translations/en.json when a translation exists.
 Only the classes/subjects served by the given books are touched.
 
 By default only chapters are kept: each book tree is cut at its chapter level from
@@ -16,7 +17,7 @@ from pathlib import Path
 from collections import defaultdict
 from models import ChapterSchema, ClassCurriculum
 from pipeline.cnp.book_mapping import MAP
-from pipeline.cnp.paths import CATALOGUE, CHAPTER_DEPTH, CURRICULUM_DIR, BOOKS_DIR
+from pipeline.cnp.paths import CATALOGUE, CHAPTER_DEPTH, CURRICULUM_DIR, BOOKS_DIR, TRANSLATIONS_EN
 
 ARABIC_LETTER = re.compile(r"[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF]")
 LATIN_LETTER = re.compile(r"[A-Za-zÀ-ÿ]")
@@ -72,8 +73,28 @@ def prune(items):
     return out
 
 
+def load_translations():
+    return json.loads(TRANSLATIONS_EN.read_text(encoding="utf-8")) if TRANSLATIONS_EN.exists() else {}
+
+
+TRANSLATIONS = load_translations()
+
+
+def english(names):
+    """English machine translation of a printed name, if known."""
+    printed = names.get("name_fr") or names.get("name_ar")
+    return {"name_en": TRANSLATIONS[printed]} if printed in TRANSLATIONS else {}
+
+
+def with_english(model):
+    """Set name_en on a level / section / subject from the translations file."""
+    return model.model_copy(update={"name_en": english({"name_fr": model.name_fr, "name_ar": model.name_ar})
+                                    .get("name_en", model.name_en)})
+
+
 def node(item, order):
-    return ChapterSchema(order_index=order, **bilingual(item["name"]),
+    names = bilingual(item["name"])
+    return ChapterSchema(order_index=order, **names, **english(names),
                          children=[node(c, i) for i, c in enumerate(item.get("children", []), 1)])
 
 
@@ -116,9 +137,10 @@ def main(codes, full=False):
             if s.subject.code in subjects:
                 chapters, book_codes = subjects[s.subject.code]
                 s = s.model_copy(update={"chapters": chapters}); used.update(book_codes)
-            new_subjects.append(s)
+            new_subjects.append(s.model_copy(update={"subject": with_english(s.subject)}))
         refs += [f"CNP {c} — {books[c]['title']} — {books[c]['pdfs'][0]}" for c in sorted(used)]
-        cur = cur.model_copy(update={"subjects": new_subjects, "references": refs})
+        cur = cur.model_copy(update={"subjects": new_subjects, "references": refs,
+                                     "level": with_english(cur.level), "section": with_english(cur.section)})
         write_class(ClassCurriculum.model_validate(cur.model_dump()), path)
         print(f"{cls:<30} " + ", ".join(f"{k}:{len(v[0])}" for k, v in sorted(subjects.items())))
 

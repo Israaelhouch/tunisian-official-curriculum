@@ -13,6 +13,7 @@
   "level": {
     "name_fr": "Baccalauréat (4ème année secondaire)",
     "name_ar": "البكالوريا (السنة الرابعة ثانوي)",
+    "name_en": "Baccalaureate (4th year of secondary education)",
     "code": "BAC",
     "cycle": "secondaire",
     "grade_number": 4,
@@ -22,6 +23,7 @@
   "section": {
     "name_fr": "Sport",
     "name_ar": "رياضة",
+    "name_en": "Sport",
     "code": "SPORT",
     "is_common_core": false
   },
@@ -30,6 +32,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -37,18 +40,21 @@
       "chapters": [
         {
           "name_ar": "الرياضة والقيم",
+          "name_en": "Sport and values",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الرياضة والإعلام",
+          "name_en": "Sport and the media",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الرياضة والقانون",
+          "name_en": "Sport and the law",
           "order_index": 3,
           "objectives": [],
           "children": []
@@ -59,6 +65,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -66,42 +73,49 @@
       "chapters": [
         {
           "name_fr": "Souvenirs et nostalgie",
+          "name_en": "Memories and nostalgia",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Histoires d'amour",
+          "name_en": "Love stories",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Liberté, j'écris ton nom...",
+          "name_en": "Liberty, I write your name...",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Module de lecture : Le silence de la mer",
+          "name_en": "Reading module: Le Silence de la mer",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Guerre et Paix",
+          "name_en": "War and Peace",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "L'Homme et la Science",
+          "name_en": "Man and Science",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Module de lecture : La Cantatrice chauve",
+          "name_en": "Reading module: La Cantatrice chauve",
           "order_index": 7,
           "objectives": [],
           "children": []
@@ -112,6 +126,7 @@
       "subject": {
         "name_fr": "Anglais",
         "name_ar": "الإنجليزية",
+        "name_en": "English",
         "code": "ANGL"
       },
       "instruction_language": "en",
@@ -119,30 +134,35 @@
       "chapters": [
         {
           "name_fr": "First Impressions",
+          "name_en": "First Impressions",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Art Shows and Holidaying",
+          "name_en": "Art Shows and Holidaying",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Education Matters",
+          "name_en": "Education Matters",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Creative Inventive Minds",
+          "name_en": "Creative Inventive Minds",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Life Issues",
+          "name_en": "Life Issues",
           "order_index": 5,
           "objectives": [],
           "children": []
@@ -153,6 +173,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "fr",
@@ -160,42 +181,49 @@
       "chapters": [
         {
           "name_fr": "Exemples de fonctions polynômes et fonctions homographiques",
+          "name_en": "Examples of polynomial functions and homographic functions",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Solution(s) d'une équation du type f(x) = k",
+          "name_en": "Solution(s) of an equation of the form f(x) = k",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Calcul d'aires planes",
+          "name_en": "Calculation of plane areas",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Fonctions logarithme népérien",
+          "name_en": "Natural logarithm functions",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Fonction exponentielle de base e",
+          "name_en": "Exponential function with base e",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Suites réelles",
+          "name_en": "Real sequences",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Probabilités",
+          "name_en": "Probability",
           "order_index": 7,
           "objectives": [],
           "children": []
@@ -206,6 +234,7 @@
       "subject": {
         "name_fr": "Sciences physiques",
         "name_ar": "العلوم الفيزيائية",
+        "name_en": "Physical sciences",
         "code": "PHYS"
       },
       "instruction_language": "fr",
@@ -216,6 +245,7 @@
       "subject": {
         "name_fr": "Sciences biologiques",
         "name_ar": "علوم البيولوجيا",
+        "name_en": "Biological sciences",
         "code": "BIO"
       },
       "instruction_language": "fr",
@@ -223,23 +253,27 @@
       "chapters": [
         {
           "name_fr": "La reproduction humaine",
+          "name_en": "Human reproduction",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "La fonction reproductrice chez l'homme",
+              "name_en": "The reproductive function in men",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "La fonction reproductrice chez la femme",
+              "name_en": "The reproductive function in women",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "La procréation",
+              "name_en": "Procreation",
               "order_index": 3,
               "objectives": [],
               "children": []
@@ -248,17 +282,20 @@
         },
         {
           "name_fr": "Génétique humaine",
+          "name_en": "Human genetics",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "Transmission des caractères héréditaires",
+              "name_en": "Transmission of hereditary traits",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Prévention des maladies héréditaires",
+              "name_en": "Prevention of hereditary diseases",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -267,35 +304,41 @@
         },
         {
           "name_fr": "Neurophysiologie",
+          "name_en": "Neurophysiology",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_fr": "Le tissu nerveux",
+              "name_en": "Nervous tissue",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Le réflexe myotatique",
+              "name_en": "The stretch reflex",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Les réflexes conditionnels",
+              "name_en": "Conditioned reflexes",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Le muscle squelettique",
+              "name_en": "Skeletal muscle",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "La régulation de la pression artérielle",
+              "name_en": "Regulation of blood pressure",
               "order_index": 5,
               "objectives": [],
               "children": []
@@ -308,6 +351,7 @@
       "subject": {
         "name_fr": "Informatique",
         "name_ar": "الإعلامية",
+        "name_en": "Computer science",
         "code": "INFO"
       },
       "instruction_language": "fr",
@@ -318,6 +362,7 @@
       "subject": {
         "name_fr": "Histoire",
         "name_ar": "التاريخ",
+        "name_en": "History",
         "code": "HIST"
       },
       "instruction_language": "ar",
@@ -328,6 +373,7 @@
       "subject": {
         "name_fr": "Géographie",
         "name_ar": "الجغرافيا",
+        "name_en": "Geography",
         "code": "GEO"
       },
       "instruction_language": "ar",
@@ -338,6 +384,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",
@@ -348,6 +395,7 @@
       "subject": {
         "name_fr": "Spécialité sportive",
         "name_ar": "الاختصاص الرياضي",
+        "name_en": "Sports specialty",
         "code": "SPORTSPEC"
       },
       "instruction_language": "ar",
@@ -358,6 +406,7 @@
       "subject": {
         "name_fr": "Philosophie",
         "name_ar": "الفلسفة",
+        "name_en": "Philosophy",
         "code": "PHILO"
       },
       "instruction_language": "ar",
@@ -365,17 +414,20 @@
       "chapters": [
         {
           "name_ar": "الإنسان بين الكثرة والوحدة",
+          "name_en": "Man between multiplicity and unity",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "الإنية والغيرية",
+              "name_en": "Selfhood and otherness",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الخصوصية والكونية",
+              "name_en": "Particularity and universality",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -384,11 +436,13 @@
         },
         {
           "name_ar": "الحقيقة",
+          "name_en": "Truth",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "العلم بين الحقيقة والنمذجة",
+              "name_en": "Science between truth and modelling",
               "order_index": 1,
               "objectives": [],
               "children": []
@@ -397,17 +451,20 @@
         },
         {
           "name_ar": "القيم بين النسبي والمطلق",
+          "name_en": "Values between the relative and the absolute",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "الدولة: السيادة والمواطنة",
+              "name_en": "The State: sovereignty and citizenship",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأخلاق: الخير والسعادة",
+              "name_en": "Ethics: the good and happiness",
               "order_index": 2,
               "objectives": [],
               "children": []

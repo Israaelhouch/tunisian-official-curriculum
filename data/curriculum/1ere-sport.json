@@ -19,6 +19,7 @@
   "level": {
     "name_fr": "1ère année secondaire",
     "name_ar": "السنة الأولى ثانوي",
+    "name_en": "1st year of secondary school",
     "code": "1S",
     "cycle": "secondaire",
     "grade_number": 1,
@@ -28,6 +29,7 @@
   "section": {
     "name_fr": "Sport",
     "name_ar": "رياضة",
+    "name_en": "Sport",
     "code": "SPORT",
     "is_common_core": false
   },
@@ -36,6 +38,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -43,36 +46,42 @@
       "chapters": [
         {
           "name_ar": "الشعر الوطني",
+          "name_en": "Patriotic poetry",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الأقصوصة",
+          "name_en": "The short story",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المسائل الحضارية",
+          "name_en": "Civilisational issues",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الوحدة الأولى",
+          "name_en": "Unit One",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "بين الهزل والجد",
+          "name_en": "Between jest and earnest",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الأقصوصة",
+          "name_en": "The short story",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -83,6 +92,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -90,42 +100,49 @@
       "chapters": [
         {
           "name_fr": "Rencontres",
+          "name_en": "Encounters",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Scènes de la vie en France",
+          "name_en": "Scenes of life in France",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Jeunesse sans frontières",
+          "name_en": "Youth without borders",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "La société de consommation",
+          "name_en": "The consumer society",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Sauvons la planète Terre",
+          "name_en": "Let's save planet Earth",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Passions",
+          "name_en": "Passions",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Progrès et bonheur",
+          "name_en": "Progress and happiness",
           "order_index": 7,
           "objectives": [],
           "children": []
@@ -136,6 +153,7 @@
       "subject": {
         "name_fr": "Anglais",
         "name_ar": "الإنجليزية",
+        "name_en": "English",
         "code": "ANGL"
       },
       "instruction_language": "en",
@@ -143,204 +161,238 @@
       "chapters": [
         {
           "name_fr": "Getting to know each other",
+          "name_en": "Getting to know each other",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "We’ve made it to the top",
+          "name_en": "We’ve made it to the top",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Queen of soul",
+          "name_en": "Queen of soul",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Everything to pay for",
+          "name_en": "Everything to pay for",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "It’s all in the preparation",
+          "name_en": "It’s all in the preparation",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "I still get pocket money",
+          "name_en": "I still get pocket money",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Are we all intelligent?",
+          "name_en": "Are we all intelligent?",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Who was the man?",
+          "name_en": "Who was the man?",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Education",
+          "name_en": "Education",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "What’s your friendship style?",
+          "name_en": "What’s your friendship style?",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Love boat",
+          "name_en": "Love boat",
           "order_index": 11,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "A diary",
+          "name_en": "A diary",
           "order_index": 12,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Are neighbours necessary?",
+          "name_en": "Are neighbours necessary?",
           "order_index": 13,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "John Grisham",
+          "name_en": "John Grisham",
           "order_index": 14,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "How to review your lessons",
+          "name_en": "How to review your lessons",
           "order_index": 15,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Tips to keep your blood healthy",
+          "name_en": "Tips to keep your blood healthy",
           "order_index": 16,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Will you surf on the Internet?",
+          "name_en": "Will you surf on the Internet?",
           "order_index": 17,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "A friend I could never forget",
+          "name_en": "A friend I could never forget",
           "order_index": 18,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "House and home",
+          "name_en": "House and home",
           "order_index": 19,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Languages",
+          "name_en": "Languages",
           "order_index": 20,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Family matters",
+          "name_en": "Family matters",
           "order_index": 21,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Health matters",
+          "name_en": "Health matters",
           "order_index": 22,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Job hunting",
+          "name_en": "Job hunting",
           "order_index": 23,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Human rights",
+          "name_en": "Human rights",
           "order_index": 24,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Me and R’Kid",
+          "name_en": "Me and R’Kid",
           "order_index": 25,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Would you like to be an au pair?",
+          "name_en": "Would you like to be an au pair?",
           "order_index": 26,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "About teachers",
+          "name_en": "About teachers",
           "order_index": 27,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "A narrow escape",
+          "name_en": "A narrow escape",
           "order_index": 28,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Can an animal save someone’s life?",
+          "name_en": "Can an animal save someone’s life?",
           "order_index": 29,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Holidays and tourism",
+          "name_en": "Holidays and tourism",
           "order_index": 30,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Talking about music",
+          "name_en": "Talking about music",
           "order_index": 31,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "The Environment does matter",
+          "name_en": "The Environment does matter",
           "order_index": 32,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Social problems",
+          "name_en": "Social problems",
           "order_index": 33,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Education matters",
+          "name_en": "Education matters",
           "order_index": 34,
           "objectives": [],
           "children": []
@@ -351,6 +403,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "fr",
@@ -358,36 +411,42 @@
       "chapters": [
         {
           "name_fr": "Calcul dans IR",
+          "name_en": "Calculation in IR",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Proportionnalité - Pourcentages",
+          "name_en": "Proportionality - Percentages",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Problèmes du premier degré",
+          "name_en": "First-degree problems",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Théorème de Thalès et sa réciproque",
+          "name_en": "Thales' theorem and its converse",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Rapports trigonométriques d'un angle aigu. Relations métriques dans un triangle rectangle",
+          "name_en": "Trigonometric ratios of an acute angle. Metric relations in a right triangle",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Les vecteurs",
+          "name_en": "Vectors",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -398,6 +457,7 @@
       "subject": {
         "name_fr": "Sciences physiques",
         "name_ar": "العلوم الفيزيائية",
+        "name_en": "Physical sciences",
         "code": "PHYS"
       },
       "instruction_language": "fr",
@@ -405,40 +465,47 @@
       "chapters": [
         {
           "name_fr": "Physique",
+          "name_en": "Physics",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "L’Electricité",
+              "name_en": "Electricity",
               "order_index": 1,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Le phénomène d’électrisation",
+                  "name_en": "The phenomenon of electrification",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Le circuit électrique",
+                  "name_en": "The electric circuit",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "L’intensité du courant électrique",
+                  "name_en": "Electric current intensity",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "La tension électrique",
+                  "name_en": "Voltage",
                   "order_index": 4,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Le dipôle résistor",
+                  "name_en": "The resistor dipole",
                   "order_index": 5,
                   "objectives": [],
                   "children": []
@@ -447,29 +514,34 @@
             },
             {
               "name_fr": "La Matière",
+              "name_en": "Matter",
               "order_index": 2,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Les états physiques de la matière",
+                  "name_en": "The physical states of matter",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Quelques propriétés de la matière",
+                  "name_en": "Some properties of matter",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "La masse",
+                  "name_en": "Mass",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Les changements d’état physique d’un corps pur",
+                  "name_en": "Changes of physical state of a pure substance",
                   "order_index": 4,
                   "objectives": [],
                   "children": []
@@ -478,29 +550,34 @@
             },
             {
               "name_fr": "La Mécanique",
+              "name_en": "Mechanics",
               "order_index": 3,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Le mouvement",
+                  "name_en": "Motion",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Les actions mécaniques",
+                  "name_en": "Mechanical actions",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Forces et équilibre",
+                  "name_en": "Forces and equilibrium",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Forces et pression",
+                  "name_en": "Forces and pressure",
                   "order_index": 4,
                   "objectives": [],
                   "children": []
@@ -509,11 +586,13 @@
             },
             {
               "name_fr": "L’Energie",
+              "name_en": "Energy",
               "order_index": 4,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Energie et contrôle",
+                  "name_en": "Energy and control",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
@@ -522,11 +601,13 @@
             },
             {
               "name_fr": "L’Astronomie",
+              "name_en": "Astronomy",
               "order_index": 5,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "La Terre et l’univers",
+                  "name_en": "The Earth and the universe",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
@@ -535,17 +616,20 @@
             },
             {
               "name_fr": "L’Optique",
+              "name_en": "Optics",
               "order_index": 6,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "La lumière et sa propagation",
+                  "name_en": "Light and its propagation",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Spectre de lumière et vision",
+                  "name_en": "Light spectrum and vision",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
@@ -556,28 +640,33 @@
         },
         {
           "name_fr": "Chimie",
+          "name_en": "Chemistry",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "La Matière",
+              "name_en": "Matter",
               "order_index": 1,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Constitution de la matière",
+                  "name_en": "Constitution of matter",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Structure de la matière (à l’échelle microscopique)",
+                  "name_en": "Structure of matter (at the microscopic scale)",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Structure de la matière (à l’échelle macroscopique)",
+                  "name_en": "Structure of matter (at the macroscopic scale)",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
@@ -586,17 +675,20 @@
             },
             {
               "name_fr": "Les Solutions",
+              "name_en": "Solutions",
               "order_index": 2,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "La dissolution",
+                  "name_en": "Dissolution",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Concentration d’une solution - Solubilité",
+                  "name_en": "Concentration of a solution - Solubility",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
@@ -605,23 +697,27 @@
             },
             {
               "name_fr": "Réaction chimique",
+              "name_en": "Chemical reaction",
               "order_index": 3,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Notion de réaction chimique",
+                  "name_en": "The concept of a chemical reaction",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Etude qualitative d’une réaction chimique",
+                  "name_en": "Qualitative study of a chemical reaction",
                   "order_index": 2,
                   "objectives": [],
                   "children": []
                 },
                 {
                   "name_fr": "Etude quantitative d’une réaction chimique",
+                  "name_en": "Quantitative study of a chemical reaction",
                   "order_index": 3,
                   "objectives": [],
                   "children": []
@@ -630,11 +726,13 @@
             },
             {
               "name_fr": "Chimie organique",
+              "name_en": "Organic chemistry",
               "order_index": 4,
               "objectives": [],
               "children": [
                 {
                   "name_fr": "Les hydrocarbures",
+                  "name_en": "Hydrocarbons",
                   "order_index": 1,
                   "objectives": [],
                   "children": []
@@ -649,6 +747,7 @@
       "subject": {
         "name_fr": "Sciences biologiques",
         "name_ar": "علوم البيولوجيا",
+        "name_en": "Biological sciences",
         "code": "BIO"
       },
       "instruction_language": "fr",
@@ -656,17 +755,20 @@
       "chapters": [
         {
           "name_fr": "Plan d’organisation du corps humain",
+          "name_en": "Organisation plan of the human body",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "Vue d’ensemble sur les appareils et leurs fonctions",
+              "name_en": "Overview of the body systems and their functions",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "La cellule : unité de structure des êtres vivants",
+              "name_en": "The cell: structural unit of living beings",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -675,29 +777,34 @@
         },
         {
           "name_fr": "La motricité",
+          "name_en": "Motor function",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "Les différents mouvements corporels",
+              "name_en": "The different body movements",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "L’appareil squelettique",
+              "name_en": "The skeletal system",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Hygiène de la posture et des mouvements",
+              "name_en": "Hygiene of posture and movements",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Le muscle strié squelettique",
+              "name_en": "Skeletal striated muscle",
               "order_index": 4,
               "objectives": [],
               "children": []
@@ -706,29 +813,34 @@
         },
         {
           "name_fr": "Microbes et santé",
+          "name_en": "Microbes and health",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_fr": "La diversité du monde microbien",
+              "name_en": "The diversity of the microbial world",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "La contamination par les microbes",
+              "name_en": "Contamination by microbes",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Les défenses de l’organisme",
+              "name_en": "The body's defences",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Les applications médicales pour aider l’organisme",
+              "name_en": "Medical applications to help the body",
               "order_index": 4,
               "objectives": [],
               "children": []
@@ -741,6 +853,7 @@
       "subject": {
         "name_fr": "Informatique",
         "name_ar": "الإعلامية",
+        "name_en": "Computer science",
         "code": "INFO"
       },
       "instruction_language": "fr",
@@ -751,6 +864,7 @@
       "subject": {
         "name_fr": "Histoire",
         "name_ar": "التاريخ",
+        "name_en": "History",
         "code": "HIST"
       },
       "instruction_language": "ar",
@@ -758,17 +872,20 @@
       "chapters": [
         {
           "name_ar": "قرطاج قطب حضاري في المتوسط: من القرن الخامس ق.م. إلى القرن الخامس الميلادي",
+          "name_en": "Carthage, a centre of civilisation in the Mediterranean: from the 5th century BC to the 5th century AD",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "قرطاج البونية وإشعاعها في المتوسط",
+              "name_en": "Punic Carthage and its influence in the Mediterranean",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "قرطاج وإسهاماتها في الحضارة الرومانية",
+              "name_en": "Carthage and its contributions to Roman civilisation",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -777,17 +894,20 @@
         },
         {
           "name_ar": "القيروان وتونس مركزا إشعاع الحضارة العربية الإسلامية في الغرب الإسلامي من 670 م إلى نهاية القرن الرابع عشر ميلادي",
+          "name_en": "Kairouan and Tunis, centres of influence of Arab-Islamic civilisation in the Islamic West from 670 AD to the end of the 14th century AD",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "القيروان ودورها في نشر الحضارة العربية الإسلامية",
+              "name_en": "Kairouan and its role in spreading Arab-Islamic civilisation",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تونس في العهد الحفصي مركز إشعاع ثقافي",
+              "name_en": "Tunis in the Hafsid era, a centre of cultural influence",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -796,29 +916,34 @@
         },
         {
           "name_ar": "البلاد التونسية من الإصلاح إلى التحديث من القرن التاسع عشر إلى 1987",
+          "name_en": "The Tunisian country from reform to modernisation, from the 19th century to 1987",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "إضاءات حول تاريخ تونس في العصر الحديث",
+              "name_en": "Insights into the history of Tunisia in the modern era",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الفكر الإصلاحي",
+              "name_en": "Reformist thought",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التجربة التونسية في مقاومة الاستعمار",
+              "name_en": "The Tunisian experience in resisting colonialism",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تعصير الدولة وتحديث المجتمع",
+              "name_en": "Modernising the state and society",
               "order_index": 4,
               "objectives": [],
               "children": []
@@ -831,6 +956,7 @@
       "subject": {
         "name_fr": "Géographie",
         "name_ar": "الجغرافيا",
+        "name_en": "Geography",
         "code": "GEO"
       },
       "instruction_language": "ar",
@@ -838,35 +964,41 @@
       "chapters": [
         {
           "name_ar": "الإنسان يعمر الأرض",
+          "name_en": "Humans populate the Earth",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "التوزع الجغرافي للسكان",
+              "name_en": "The geographical distribution of population",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الحركة الديمغرافية للسكان",
+              "name_en": "The demographic dynamics of population",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الحركية المجالية للسكان",
+              "name_en": "The spatial mobility of population",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الانفجار الحضري",
+              "name_en": "The urban explosion",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تركيبة المدينة : دراسة حالة : القاهرة",
+              "name_en": "The structure of the city: case study: Cairo",
               "order_index": 5,
               "objectives": [],
               "children": []
@@ -875,17 +1007,20 @@
         },
         {
           "name_ar": "الإنسان يستثمر الموارد الطبيعية",
+          "name_en": "Humans exploit natural resources",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الموارد المائية",
+              "name_en": "Water resources",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الموارد النفطية",
+              "name_en": "Oil resources",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -894,41 +1029,48 @@
         },
         {
           "name_ar": "الإنسان والأوساط الطبيعية",
+          "name_en": "Humans and natural environments",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "الإنسان والوسط الطبيعي",
+              "name_en": "Humans and the natural environment",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "من المخاطر إلى الكوارث : الزلازل والبراكين",
+              "name_en": "From hazards to disasters: earthquakes and volcanoes",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "من المخاطر إلى الكوارث : الفيضانات",
+              "name_en": "From hazards to disasters: floods",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تدهور الأوساط الطبيعية : مثال التصحر",
+              "name_en": "Degradation of natural environments: the example of desertification",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تدهور الأوساط الطبيعية : مثال تدهور الغابة المتوسطية",
+              "name_en": "Degradation of natural environments: the example of Mediterranean forest degradation",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تدهور الأوساط الطبيعية : تعرية السواحل",
+              "name_en": "Degradation of natural environments: coastal erosion",
               "order_index": 6,
               "objectives": [],
               "children": []
@@ -941,6 +1083,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",
@@ -951,6 +1094,7 @@
       "subject": {
         "name_fr": "Spécialité sportive",
         "name_ar": "الاختصاص الرياضي",
+        "name_en": "Sports specialty",
         "code": "SPORTSPEC"
       },
       "instruction_language": "ar",
@@ -961,6 +1105,7 @@
       "subject": {
         "name_fr": "Éducation islamique",
         "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic education",
         "code": "ISLAM"
       },
       "instruction_language": "ar",
@@ -968,42 +1113,49 @@
       "chapters": [
         {
           "name_ar": "الوحدة الأولى",
+          "name_en": "Unit One",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الوحدة الثانية",
+          "name_en": "Unit Two",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أحاور الآخرين بالتي هي أحسن",
+          "name_en": "I converse with others in the best manner",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الوحدة الرابعة",
+          "name_en": "Unit Four",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الوحدة الخامسة",
+          "name_en": "Unit Five",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتواصل مع الكون والطبيعة",
+          "name_en": "I connect with the universe and nature",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "بالعمل نرقى",
+          "name_en": "Through work we rise",
           "order_index": 7,
           "objectives": [],
           "children": []
@@ -1014,6 +1166,7 @@
       "subject": {
         "name_fr": "Éducation civique",
         "name_ar": "التربية المدنية",
+        "name_en": "Civic education",
         "code": "CIVIQ"
       },
       "instruction_language": "ar",
@@ -1021,17 +1174,20 @@
       "chapters": [
         {
           "name_ar": "المواطن في محيطه الاجتماعي والسياسي ودوره في تنظيم الحكم",
+          "name_en": "The citizen in his social and political environment and his role in organising government",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "المواطن في محيطه الاجتماعي والسياسي",
+              "name_en": "The citizen in his social and political environment",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المواطن وتنظيم الحكم",
+              "name_en": "The citizen and the organisation of government",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -1040,17 +1196,20 @@
         },
         {
           "name_ar": "المواطن والممارسة التعددية السياسية والثقافية",
+          "name_en": "The citizen and the practice of political and cultural pluralism",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "المواطن والممارسة التعددية",
+              "name_en": "The citizen and pluralist practice",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الممارسة الثقافية ودورها في تنمية الوعي الاجتماعي",
+              "name_en": "Cultural practice and its role in developing social awareness",
               "order_index": 2,
               "objectives": [],
               "children": []

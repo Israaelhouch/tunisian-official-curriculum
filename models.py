@@ -105,6 +105,8 @@ class BilingualNameMixin:
 
     name_fr: Mapped[Optional[str]] = mapped_column(String(255))
     name_ar: Mapped[Optional[str]] = mapped_column(String(255))
+    # English machine translation (data/translations/en.json); never replaces the printed name.
+    name_en: Mapped[Optional[str]] = mapped_column(String(255))
 
 
 def _has_a_name(table: str) -> CheckConstraint:
@@ -284,6 +286,7 @@ class StrictModel(BaseModel):
 class BilingualName(StrictModel):
     name_fr: Optional[str] = Field(default=None, min_length=1, max_length=255)
     name_ar: Optional[str] = Field(default=None, min_length=1, max_length=255)
+    name_en: Optional[str] = Field(default=None, min_length=1, max_length=255)  # machine translation
 
     @model_validator(mode="after")
     def _at_least_one_name(self) -> BilingualName:

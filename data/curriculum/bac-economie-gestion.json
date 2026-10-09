@@ -20,6 +20,7 @@
   "level": {
     "name_fr": "Baccalauréat (4ème année secondaire)",
     "name_ar": "البكالوريا (السنة الرابعة ثانوي)",
+    "name_en": "Baccalaureate (4th year of secondary education)",
     "code": "BAC",
     "cycle": "secondaire",
     "grade_number": 4,
@@ -29,6 +30,7 @@
   "section": {
     "name_fr": "Économie et gestion",
     "name_ar": "اقتصاد وتصرف",
+    "name_en": "Economics and Management",
     "code": "ECO",
     "is_common_core": false
   },
@@ -37,6 +39,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -44,12 +47,14 @@
       "chapters": [
         {
           "name_ar": "جوانب من الحضارة العربية الإسلامية قديما",
+          "name_en": "Aspects of classical Arab-Islamic civilisation",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "بعض شواغل الإنسان العربي المعاصر",
+          "name_en": "Some concerns of the contemporary Arab",
           "order_index": 2,
           "objectives": [],
           "children": []
@@ -60,6 +65,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -67,42 +73,49 @@
       "chapters": [
         {
           "name_fr": "Souvenirs et nostalgie",
+          "name_en": "Memories and nostalgia",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Histoires d'amour",
+          "name_en": "Love stories",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Liberté, j'écris ton nom...",
+          "name_en": "Liberty, I write your name...",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Module de lecture : Le silence de la mer",
+          "name_en": "Reading module: Le Silence de la mer",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Guerre et Paix",
+          "name_en": "War and Peace",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "L'Homme et la Science",
+          "name_en": "Man and Science",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Module de lecture : La Cantatrice chauve",
+          "name_en": "Reading module: La Cantatrice chauve",
           "order_index": 7,
           "objectives": [],
           "children": []
@@ -113,6 +126,7 @@
       "subject": {
         "name_fr": "Anglais",
         "name_ar": "الإنجليزية",
+        "name_en": "English",
         "code": "ANGL"
       },
       "instruction_language": "en",
@@ -120,30 +134,35 @@
       "chapters": [
         {
           "name_fr": "First Impressions",
+          "name_en": "First Impressions",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Art Shows and Holidaying",
+          "name_en": "Art Shows and Holidaying",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Education Matters",
+          "name_en": "Education Matters",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Creative Inventive Minds",
+          "name_en": "Creative Inventive Minds",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Life Issues",
+          "name_en": "Life Issues",
           "order_index": 5,
           "objectives": [],
           "children": []
@@ -154,6 +173,7 @@
       "subject": {
         "name_fr": "Économie",
         "name_ar": "الاقتصاد",
+        "name_en": "Economics",
         "code": "ECO"
       },
       "instruction_language": "ar",
@@ -164,6 +184,7 @@
       "subject": {
         "name_fr": "Gestion",
         "name_ar": "التصرف",
+        "name_en": "Management",
         "code": "GEST"
       },
       "instruction_language": "ar",
@@ -171,36 +192,42 @@
       "chapters": [
         {
           "name_fr": "Module évaluation-consolidation",
+          "name_en": "Assessment-consolidation module",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Gestion de l'approvisionnement",
+          "name_en": "Procurement management",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Gestion de la production",
+          "name_en": "Production management",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Gestion commerciale",
+          "name_en": "Sales management",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Gestion des ressources humaines",
+          "name_en": "Human resources management",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Gestion financière",
+          "name_en": "Financial management",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -211,6 +238,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "fr",
@@ -218,60 +246,70 @@
       "chapters": [
         {
           "name_fr": "Limites et continuité",
+          "name_en": "Limits and continuity",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Dérivation - Primitives",
+          "name_en": "Differentiation - Antiderivatives",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Etude de fonctions",
+          "name_en": "Study of functions",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Fonction logarithme népérien - Fonctions exponentielles",
+          "name_en": "Natural logarithm function - Exponential functions",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Intégrale d'une fonction continue",
+          "name_en": "Integral of a continuous function",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Suites réelles",
+          "name_en": "Real sequences",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Matrices et systèmes",
+          "name_en": "Matrices and systems",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Statistiques",
+          "name_en": "Statistics",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Probabilités",
+          "name_en": "Probability",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Les graphes",
+          "name_en": "Graphs",
           "order_index": 10,
           "objectives": [],
           "children": []
@@ -282,6 +320,7 @@
       "subject": {
         "name_fr": "Histoire-Géographie",
         "name_ar": "التاريخ والجغرافيا",
+        "name_en": "History and Geography",
         "code": "HISTGEO"
       },
       "instruction_language": "ar",
@@ -289,41 +328,48 @@
       "chapters": [
         {
           "name_ar": "مجال عالمي مترابط ومتفاوت",
+          "name_en": "An interconnected and unequal world space",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "الأقطاب السياحية",
+              "name_en": "Tourism hubs",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأقطاب التجارية",
+              "name_en": "Trade hubs",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأقطاب المالية",
+              "name_en": "Financial hubs",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أقطاب الإعلام",
+              "name_en": "Media hubs",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التفاوت في التقدم",
+              "name_en": "Development disparities",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تركيبة المجال العالمي",
+              "name_en": "Structure of the world space",
               "order_index": 6,
               "objectives": [],
               "children": []
@@ -332,17 +378,20 @@
         },
         {
           "name_ar": "الشمال",
+          "name_en": "The North",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الولايات المتحدة الأمريكية",
+              "name_en": "The United States of America",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الاتحاد الأوروبي: تكتل اقتصادي",
+              "name_en": "The European Union: an economic bloc",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -351,17 +400,20 @@
         },
         {
           "name_ar": "الجنوب",
+          "name_en": "The South",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "البرازيل: بلد صناعي جديد",
+              "name_en": "Brazil: a newly industrialized country",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "البلدان الأقل تقدما بالساحل الإفريقي",
+              "name_en": "The least developed countries of the African Sahel",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -370,53 +422,62 @@
         },
         {
           "name_ar": "العالم من 1914 إلى 1945",
+          "name_en": "The world from 1914 to 1945",
           "order_index": 4,
           "objectives": [],
           "children": [
             {
               "name_ar": "الحرب العالمية الأولى",
+              "name_en": "The First World War",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الثورة البلشفية ونشأة الاتحاد السوفياتي إلى 1939",
+              "name_en": "The Bolshevik Revolution and the formation of the Soviet Union up to 1939",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أزمة الثلاثينات الاقتصادية",
+              "name_en": "The economic crisis of the 1930s",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأنظمة الكليانية في أوروبا",
+              "name_en": "Totalitarian regimes in Europe",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الحرب العالمية الثانية",
+              "name_en": "The Second World War",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تونس في العشرينات",
+              "name_en": "Tunisia in the 1920s",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تونس في الثلاثينات",
+              "name_en": "Tunisia in the 1930s",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تونس أثناء الحرب العالمية الثانية",
+              "name_en": "Tunisia during the Second World War",
               "order_index": 8,
               "objectives": [],
               "children": []
@@ -425,53 +486,62 @@
         },
         {
           "name_ar": "العالم المعاصر بعد 1945",
+          "name_en": "The contemporary world after 1945",
           "order_index": 5,
           "objectives": [],
           "children": [
             {
               "name_ar": "العلاقات الدولية: من الحرب الباردة إلى انهيار الاتحاد السوفياتي",
+              "name_en": "International relations: from the Cold War to the collapse of the Soviet Union",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التحولات الاقتصادية والاجتماعية والثقافية",
+              "name_en": "Economic, social and cultural transformations",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "استقلال المستعمرات وبروز العالم الثالث",
+              "name_en": "Independence of the colonies and the emergence of the Third World",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "استقلال ليبيا والمغرب الأقصى والجزائر",
+              "name_en": "Independence of Libya, Morocco and Algeria",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القضية الفلسطينية",
+              "name_en": "The Palestinian question",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تونس من 1945 إلى 1956: المسيرة نحو الاستقلال",
+              "name_en": "Tunisia from 1945 to 1956: the road to independence",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "بناء الدولة الوطنية وتحديث المجتمع",
+              "name_en": "Building the nation-state and modernising society",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "تطور النظام السياسي في تونس والتجارب التنموية (1956-1987)",
+              "name_en": "Evolution of the political system in Tunisia and development experiences (1956-1987)",
               "order_index": 8,
               "objectives": [],
               "children": []
@@ -484,6 +554,7 @@
       "subject": {
         "name_fr": "Informatique",
         "name_ar": "الإعلامية",
+        "name_en": "Computer science",
         "code": "INFO"
       },
       "instruction_language": "fr",
@@ -494,6 +565,7 @@
       "subject": {
         "name_fr": "Philosophie",
         "name_ar": "الفلسفة",
+        "name_en": "Philosophy",
         "code": "PHILO"
       },
       "instruction_language": "ar",
@@ -501,17 +573,20 @@
       "chapters": [
         {
           "name_ar": "الإنسان بين الكثرة والوحدة",
+          "name_en": "Man between multiplicity and unity",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "الإنية والغيرية",
+              "name_en": "Selfhood and otherness",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الخصوصية والكونية",
+              "name_en": "Particularity and universality",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -520,11 +595,13 @@
         },
         {
           "name_ar": "الحقيقة",
+          "name_en": "Truth",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "العلم بين الحقيقة والنمذجة",
+              "name_en": "Science between truth and modelling",
               "order_index": 1,
               "objectives": [],
               "children": []
@@ -533,17 +610,20 @@
         },
         {
           "name_ar": "القيم بين النسبي والمطلق",
+          "name_en": "Values between the relative and the absolute",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "الدولة: السيادة والمواطنة",
+              "name_en": "The State: sovereignty and citizenship",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأخلاق: الخير والسعادة",
+              "name_en": "Ethics: the good and happiness",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -556,6 +636,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",
@@ -566,6 +647,7 @@
       "subject": {
         "name_fr": "Allemand",
         "name_ar": "الألمانية",
+        "name_en": "German",
         "code": "ALLEM"
       },
       "instruction_language": "de",
@@ -573,30 +655,35 @@
       "chapters": [
         {
           "name_fr": "Feste und fröhliche Ereignisse",
+          "name_en": "Celebrations and happy events",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Städte und Verkehrsmittel",
+          "name_en": "Cities and means of transport",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Aussehen und Charakter",
+          "name_en": "Appearance and character",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Schule und Beruf",
+          "name_en": "School and career",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Massenmedien",
+          "name_en": "Mass media",
           "order_index": 5,
           "objectives": [],
           "children": []
@@ -607,6 +694,7 @@
       "subject": {
         "name_fr": "Espagnol",
         "name_ar": "الإسبانية",
+        "name_en": "Spanish",
         "code": "ESPA"
       },
       "instruction_language": "es",
@@ -614,72 +702,84 @@
       "chapters": [
         {
           "name_fr": "¿Qué hora es?",
+          "name_en": "What time is it?",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Qué haces cada día?",
+          "name_en": "What do you do every day?",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¡Por fin el sábado!",
+          "name_en": "Saturday at last!",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Qué plan tienes?",
+          "name_en": "What are your plans?",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Cómo quedamos?",
+          "name_en": "When and where shall we meet?",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Vienes conmigo?",
+          "name_en": "Are you coming with me?",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Qué has hecho este fin de semana?",
+          "name_en": "What have you done this weekend?",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Dónde fuiste la semana pasada?",
+          "name_en": "Where did you go last week?",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¡Qué gente tan interesante!",
+          "name_en": "What interesting people!",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Cuando yo era niña...",
+          "name_en": "When I was a little girl...",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¡Cómo cambian las cosas!",
+          "name_en": "How things change!",
           "order_index": 11,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "¿Qué te pasa?",
+          "name_en": "What's the matter with you?",
           "order_index": 12,
           "objectives": [],
           "children": []
@@ -690,6 +790,7 @@
       "subject": {
         "name_fr": "Italien",
         "name_ar": "الإيطالية",
+        "name_en": "Italian",
         "code": "ITAL"
       },
       "instruction_language": "it",
@@ -697,36 +798,42 @@
       "chapters": [
         {
           "name_fr": "Città o campagna",
+          "name_en": "City or countryside",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Moda e Made in Italy",
+          "name_en": "Fashion and Made in Italy",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Sport e benessere",
+          "name_en": "Sport and well-being",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Cibo e alimentazione",
+          "name_en": "Food and nutrition",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Mass-media e telecomunicazioni",
+          "name_en": "Mass media and telecommunications",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Le feste italiane",
+          "name_en": "Italian festivals",
           "order_index": 6,
           "objectives": [],
           "children": []
@@ -737,6 +844,7 @@
       "subject": {
         "name_fr": "Russe",
         "name_ar": "الروسية",
+        "name_en": "Russian",
         "code": "RUSSE"
       },
       "instruction_language": "ru",
@@ -747,6 +855,7 @@
       "subject": {
         "name_fr": "Chinois",
         "name_ar": "الصينية",
+        "name_en": "Chinese",
         "code": "CHIN"
       },
       "instruction_language": "zh",
@@ -754,60 +863,70 @@
       "chapters": [
         {
           "name_fr": "你买了什么东西",
+          "name_en": "What did you buy",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "你们去长城了没有",
+          "name_en": "Did you go to the Great Wall",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "他不去旅行了",
+          "name_en": "He is no longer going travelling",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "我上网上两个小时",
+          "name_en": "I go online for two hours",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "你吃过烤鸭吗",
+          "name_en": "Have you ever eaten roast duck",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "我正在打电话",
+          "name_en": "I am making a phone call",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "学校里边有医院吗",
+          "name_en": "Is there a hospital in the school",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "你们先进来吧",
+          "name_en": "Come in first",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "你说对了",
+          "name_en": "You are right",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "再见",
+          "name_en": "Goodbye",
           "order_index": 10,
           "objectives": [],
           "children": []
@@ -818,6 +937,7 @@
       "subject": {
         "name_fr": "Portugais",
         "name_ar": "البرتغالية",
+        "name_en": "Portuguese",
         "code": "PORT"
       },
       "instruction_language": "pt",
@@ -828,6 +948,7 @@
       "subject": {
         "name_fr": "Éducation musicale",
         "name_ar": "التربية الموسيقية",
+        "name_en": "Music education",
         "code": "MUSIQ"
       },
       "instruction_language": "ar",
@@ -838,6 +959,7 @@
       "subject": {
         "name_fr": "Arts plastiques",
         "name_ar": "التربية التشكيلية",
+        "name_en": "Visual arts",
         "code": "ARTPL"
       },
       "instruction_language": "ar",

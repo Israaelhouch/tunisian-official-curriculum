@@ -11,6 +11,7 @@
   "level": {
     "name_fr": "4ème année primaire",
     "name_ar": "السنة الرابعة ابتدائي",
+    "name_en": "4th year of primary school",
     "code": "4P",
     "cycle": "primaire",
     "grade_number": 4,
@@ -20,6 +21,7 @@
   "section": {
     "name_fr": "Tronc commun",
     "name_ar": "جذع مشترك",
+    "name_en": "Common core",
     "code": "TC",
     "is_common_core": true
   },
@@ -28,6 +30,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -35,270 +38,315 @@
       "chapters": [
         {
           "name_ar": "نشأة صداقة",
+          "name_en": "The birth of a friendship",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "النحلة العاملة",
+          "name_en": "The worker bee",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "مفاجأة الأب",
+          "name_en": "Father's surprise",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "وحانت الساعة",
+          "name_en": "And the hour came",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "في الاتحاد قوة",
+          "name_en": "In unity there is strength",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "وحلّت ساعة الخلاص",
+          "name_en": "And the hour of deliverance came",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "عبث الطفولة",
+          "name_en": "Childhood mischief",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "على الشاطئ",
+          "name_en": "On the beach",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "يوم انتهى قبل أوانه",
+          "name_en": "A day that ended before its time",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "مهارة العنكبوت (1)",
+          "name_en": "The spider's skill (1)",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "مهارة العنكبوت (2)",
+          "name_en": "The spider's skill (2)",
           "order_index": 11,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "مهارة العنكبوت (3)",
+          "name_en": "The spider's skill (3)",
           "order_index": 12,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المزمار السحري (1)",
+          "name_en": "The magic flute (1)",
           "order_index": 13,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المزمار السحري (2)",
+          "name_en": "The magic flute (2)",
           "order_index": 14,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المارد وسكان القرية (1)",
+          "name_en": "The giant and the villagers (1)",
           "order_index": 15,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المارد وسكان القرية (2)",
+          "name_en": "The giant and the villagers (2)",
           "order_index": 16,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "حيرة أم",
+          "name_en": "A mother's dilemma",
           "order_index": 17,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أنشودة الميلاد",
+          "name_en": "The birth song",
           "order_index": 18,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "في أعماق البحر (1)",
+          "name_en": "In the depths of the sea (1)",
           "order_index": 19,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "في أعماق البحر (2)",
+          "name_en": "In the depths of the sea (2)",
           "order_index": 20,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "ونجحت التجربة",
+          "name_en": "And the experiment succeeded",
           "order_index": 21,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الأسد والثيران",
+          "name_en": "The lion and the bulls",
           "order_index": 22,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "النسر والعصافير",
+          "name_en": "The eagle and the sparrows",
           "order_index": 23,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "ليلى والذئب (1)",
+          "name_en": "Layla and the wolf (1)",
           "order_index": 24,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "ليلى والذئب (2)",
+          "name_en": "Layla and the wolf (2)",
           "order_index": 25,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أمي",
+          "name_en": "My mother",
           "order_index": 26,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الزيارة المفاجئة (1)",
+          "name_en": "The surprise visit (1)",
           "order_index": 27,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الزيارة المفاجئة (2)",
+          "name_en": "The surprise visit (2)",
           "order_index": 28,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الزيارة المفاجئة (3)",
+          "name_en": "The surprise visit (3)",
           "order_index": 29,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "رحلة بحرية (1)",
+          "name_en": "A sea voyage (1)",
           "order_index": 30,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "رحلة بحرية (2)",
+          "name_en": "A sea voyage (2)",
           "order_index": 31,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الكلب والحمامة",
+          "name_en": "The dog and the dove",
           "order_index": 32,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "خدمة سريعة",
+          "name_en": "A quick favour",
           "order_index": 33,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "وهكذا تم إنقاذي",
+          "name_en": "And that is how I was saved",
           "order_index": 34,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "سميحة ومديحة والسحاب (1)",
+          "name_en": "Samiha, Madiha and the clouds (1)",
           "order_index": 35,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "سميحة ومديحة والسحاب (2)",
+          "name_en": "Samiha, Madiha and the clouds (2)",
           "order_index": 36,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الأرض الجميلة (1)",
+          "name_en": "The beautiful earth (1)",
           "order_index": 37,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الأرض الجميلة (2)",
+          "name_en": "The beautiful earth (2)",
           "order_index": 38,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "فرحة اللقاء",
+          "name_en": "The joy of reunion",
           "order_index": 39,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الجملة الفعلية",
+          "name_en": "The verbal sentence",
           "order_index": 40,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الجملة الاسمية",
+          "name_en": "The nominal sentence",
           "order_index": 41,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "النواسخ",
+          "name_en": "The abrogators (nawasikh)",
           "order_index": 42,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الفعل",
+          "name_en": "The verb",
           "order_index": 43,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المتممات",
+          "name_en": "The complements",
           "order_index": 44,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الإنتاج الكتابي (الدروس 1-24، ص 95-142)",
+          "name_en": "Written production (Lessons 1-24, pp. 95-142)",
           "order_index": 45,
           "objectives": [],
           "children": []
@@ -309,6 +357,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -316,60 +365,70 @@
       "chapters": [
         {
           "name_fr": "Vive l'école !",
+          "name_en": "Long live school!",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Bienvenue chez les Duval",
+          "name_en": "Welcome to the Duvals'",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Sois mon ami !",
+          "name_en": "Be my friend!",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Tends-moi la main !",
+          "name_en": "Lend me a hand!",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Un cœur qui bat",
+          "name_en": "A beating heart",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Bon appétit !",
+          "name_en": "Enjoy your meal!",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Amusons-nous",
+          "name_en": "Let's have fun",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Quoi de neuf à la télé",
+          "name_en": "What's new on TV",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "« Conte-nous une histoire, dis ! »",
+          "name_en": "\"Tell us a story, please!\"",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "« Conte-nous une histoire, dis ! »",
+          "name_en": "\"Tell us a story, please!\"",
           "order_index": 10,
           "objectives": [],
           "children": []
@@ -380,6 +439,7 @@
       "subject": {
         "name_fr": "Anglais",
         "name_ar": "الإنجليزية",
+        "name_en": "English",
         "code": "ANGL"
       },
       "instruction_language": "en",
@@ -390,6 +450,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "ar",
@@ -397,144 +458,168 @@
       "chapters": [
         {
           "name_ar": "أكون الأعداد ذات 5 أرقام وأفككها وأركبها",
+          "name_en": "I form, decompose and compose 5-digit numbers",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتعرف المسالك المختصرة وموقع عقدة على الشبكة",
+          "name_en": "I identify shortest paths and the position of a node on the grid",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتصرف في القطع النقدية والأوراق المالية (5 د و10 د)",
+          "name_en": "I handle coins and banknotes (5 D and 10 D)",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أقارن الأعداد ذات 5 أرقام وأرتبها",
+          "name_en": "I compare and order 5-digit numbers",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتصرف في الأعداد ذات 5 أرقام (بعض أرقامها صفر)",
+          "name_en": "I work with 5-digit numbers (some digits being zero)",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتصرف في القطع النقدية والأوراق المالية",
+          "name_en": "I handle coins and banknotes",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتعرف المستقيم ونصف المستقيم وقطعة المستقيم",
+          "name_en": "I identify the line, the ray and the line segment",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أوظف الجمع والضرب والطرح على الأعداد ذات 5 أرقام",
+          "name_en": "I use addition, multiplication and subtraction with 5-digit numbers",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتصرف في وحدات قيس الأطوال (المتر وأجزاؤه)",
+          "name_en": "I work with units of length (the metre and its subunits)",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أرسم المستقيمات المتعامدة والمستقيمات المتوازية",
+          "name_en": "I draw perpendicular lines and parallel lines",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أنجز عملية الضرب في عقد أو مائة كاملة",
+          "name_en": "I multiply by a whole ten or hundred",
           "order_index": 11,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أوظف التعامد والتوازي في تصنيف المضلعات ورسمها",
+          "name_en": "I use perpendicularity and parallelism to classify and draw polygons",
           "order_index": 12,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتصرف في وحدات قيس الأطوال (المتر ومضاعفاته)",
+          "name_en": "I work with units of length (the metre and its multiples)",
           "order_index": 13,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أنجز عملية الضرب في عدد ذي رقمين",
+          "name_en": "I multiply by a 2-digit number",
           "order_index": 14,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أرسم المستطيل والمربع باعتماد خاصيات الأضلاع والزوايا",
+          "name_en": "I draw the rectangle and the square using the properties of sides and angles",
           "order_index": 15,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أكون الأعداد ذات 6 أرقام وأفككها وأركبها",
+          "name_en": "I form, decompose and compose 6-digit numbers",
           "order_index": 16,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتصرف في وحدات قيس الكتل (الكيلوغرام والغرام)",
+          "name_en": "I work with units of mass (the kilogram and the gram)",
           "order_index": 17,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أقارن الأعداد ذات 6 أرقام وأرتبها",
+          "name_en": "I compare and order 6-digit numbers",
           "order_index": 18,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أحسب قيس محيط شكل مكون من مستطيلات ومربعات",
+          "name_en": "I calculate the perimeter of a shape made of rectangles and squares",
           "order_index": 19,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أوظف الجمع والطرح والضرب على الأعداد ذات 6 أرقام",
+          "name_en": "I use addition, subtraction and multiplication with 6-digit numbers",
           "order_index": 20,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتصرف في الأعداد ذات 6 أرقام (بعض أرقامها صفر)",
+          "name_en": "I work with 6-digit numbers (some digits being zero)",
           "order_index": 21,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتعرف القسمة الإقليدية",
+          "name_en": "I learn Euclidean division",
           "order_index": 22,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أنجز عملية قسمة قاسمها عدد ذو رقم واحد",
+          "name_en": "I perform a division with a 1-digit divisor",
           "order_index": 23,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أحدد الزمن بالساعة والدقيقة",
+          "name_en": "I tell the time in hours and minutes",
           "order_index": 24,
           "objectives": [],
           "children": []
@@ -545,6 +630,7 @@
       "subject": {
         "name_fr": "Éveil scientifique",
         "name_ar": "الإيقاظ العلمي",
+        "name_en": "Science awareness",
         "code": "EVEIL"
       },
       "instruction_language": "ar",
@@ -552,35 +638,41 @@
       "chapters": [
         {
           "name_ar": "علم الأحياء",
+          "name_en": "Biology",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "الحواس والوقاية من الأمراض",
+              "name_en": "The senses and disease prevention",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التنقل",
+              "name_en": "Locomotion",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التغذية",
+              "name_en": "Nutrition",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التكاثر والنمو",
+              "name_en": "Reproduction and growth",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التنفس",
+              "name_en": "Respiration",
               "order_index": 5,
               "objectives": [],
               "children": []
@@ -589,23 +681,27 @@
         },
         {
           "name_ar": "فيزياء",
+          "name_en": "Physics",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الزمن",
+              "name_en": "Time",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المادة",
+              "name_en": "Matter",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الطاقة",
+              "name_en": "Energy",
               "order_index": 3,
               "objectives": [],
               "children": []
@@ -618,6 +714,7 @@
       "subject": {
         "name_fr": "Technologie",
         "name_ar": "التكنولوجيا",
+        "name_en": "Technology",
         "code": "TECHNO"
       },
       "instruction_language": "ar",
@@ -628,6 +725,7 @@
       "subject": {
         "name_fr": "Éducation islamique",
         "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic education",
         "code": "ISLAM"
       },
       "instruction_language": "ar",
@@ -638,6 +736,7 @@
       "subject": {
         "name_fr": "Éducation musicale",
         "name_ar": "التربية الموسيقية",
+        "name_en": "Music education",
         "code": "MUSIQ"
       },
       "instruction_language": "ar",
@@ -648,6 +747,7 @@
       "subject": {
         "name_fr": "Arts plastiques",
         "name_ar": "التربية التشكيلية",
+        "name_en": "Visual arts",
         "code": "ARTPL"
       },
       "instruction_language": "ar",
@@ -658,6 +758,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",

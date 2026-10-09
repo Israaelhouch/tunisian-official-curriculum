@@ -32,14 +32,15 @@ OUT_JSON = ROOT / "data" / "curriculum.json"
 OUT_NOTES = ROOT / "data" / "CURRICULUM_NOTES.md"
 OUT_CHAPTERS_CSV = ROOT / "data" / "curriculum_chapters.csv"
 OUT_SUBJECTS_CSV = ROOT / "data" / "curriculum_subjects.csv"
-CLASS_COLUMNS = ["cycle", "level_code", "level_fr", "level_ar", "section_code", "section_fr", "section_ar",
-                 "class_key", "subject_code", "subject_fr", "subject_ar", "language", "optional"]
+CLASS_COLUMNS = ["cycle", "level_code", "level_fr", "level_ar", "level_en",
+                 "section_code", "section_fr", "section_ar", "section_en",
+                 "class_key", "subject_code", "subject_fr", "subject_ar", "subject_en", "language", "optional"]
 CYCLE_LABEL = {"primaire": "Primaire", "preparatoire": "Collège (enseignement de base)",
                "secondaire": "Lycée (secondaire)"}
 
 
 def name(node: Any) -> dict[str, str]:
-    return {k: v for k, v in (("name_fr", node.name_fr), ("name_ar", node.name_ar)) if v}
+    return {k: v for k, v in (("name_fr", node.name_fr), ("name_ar", node.name_ar), ("name_en", node.name_en)) if v}
 
 
 def chapter(node: Any) -> dict[str, Any]:
@@ -181,29 +182,33 @@ def write_csvs(classes: list[tuple[str, ClassCurriculum]]) -> tuple[int, int]:
             base = {
                 "cycle": cur.level.cycle.value, "level_code": cur.level.code,
                 "level_fr": cur.level.name_fr or "", "level_ar": cur.level.name_ar or "",
+                "level_en": cur.level.name_en or "",
                 "section_code": cur.section.code,
                 "section_fr": cur.section.name_fr or "", "section_ar": cur.section.name_ar or "",
+                "section_en": cur.section.name_en or "",
                 "class_key": key, "subject_code": s.subject.code,
                 "subject_fr": s.subject.name_fr or "", "subject_ar": s.subject.name_ar or "",
+                "subject_en": s.subject.name_en or "",
                 "language": s.instruction_language.value, "optional": s.is_optional,
             }
             order = 0
 
-            def walk(nodes: list[Any], path: list[str]) -> None:
+            def walk(nodes: list[Any], path: list[str], path_en: list[str]) -> None:
                 nonlocal order
                 for n in nodes:
                     label = n.name_fr or n.name_ar or ""
                     if n.children:
-                        walk(n.children, path + [label])
+                        walk(n.children, path + [label], path_en + [n.name_en or ""])
                     else:
                         order += 1
                         chapter_rows.append({**base, "theme": " > ".join(path), "chapter_order": order,
-                                             "chapter": label})
-            walk(s.chapters, [])
+                                             "chapter": label, "theme_en": " > ".join(path_en),
+                                             "chapter_en": n.name_en or ""})
+            walk(s.chapters, [], [])
             subject_rows.append({**base, "chapter_count": order})
 
     for path, rows, columns in (
-        (OUT_CHAPTERS_CSV, chapter_rows, CLASS_COLUMNS + ["theme", "chapter_order", "chapter"]),
+        (OUT_CHAPTERS_CSV, chapter_rows, CLASS_COLUMNS + ["theme", "chapter_order", "chapter", "theme_en", "chapter_en"]),
         (OUT_SUBJECTS_CSV, subject_rows, CLASS_COLUMNS + ["chapter_count"]),
     ):
         with path.open("w", encoding="utf-8", newline="") as f:

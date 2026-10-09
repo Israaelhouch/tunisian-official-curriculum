@@ -14,6 +14,7 @@
   "level": {
     "name_fr": "2ème année secondaire",
     "name_ar": "السنة الثانية ثانوي",
+    "name_en": "2nd year of secondary school",
     "code": "2S",
     "cycle": "secondaire",
     "grade_number": 2,
@@ -23,6 +24,7 @@
   "section": {
     "name_fr": "Sport",
     "name_ar": "رياضة",
+    "name_en": "Sport",
     "code": "SPORT",
     "is_common_core": false
   },
@@ -31,6 +33,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -38,18 +41,21 @@
       "chapters": [
         {
           "name_ar": "أمجاد وبطولات",
+          "name_en": "Glories and heroic deeds",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "شباب وتحدّيات",
+          "name_en": "Youth and challenges",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الرواية",
+          "name_en": "The novel",
           "order_index": 3,
           "objectives": [],
           "children": []
@@ -60,6 +66,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -67,30 +74,35 @@
       "chapters": [
         {
           "name_fr": "Pages d’amour",
+          "name_en": "Pages of love",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Toi, mon semblable",
+          "name_en": "You, my fellow man",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Femme et société",
+          "name_en": "Woman and society",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Travail et bien-être",
+          "name_en": "Work and well-being",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Images d’ici, images d’ailleurs",
+          "name_en": "Images from here, images from elsewhere",
           "order_index": 5,
           "objectives": [],
           "children": []
@@ -101,6 +113,7 @@
       "subject": {
         "name_fr": "Anglais",
         "name_ar": "الإنجليزية",
+        "name_en": "English",
         "code": "ANGL"
       },
       "instruction_language": "en",
@@ -108,60 +121,70 @@
       "chapters": [
         {
           "name_fr": "Family life",
+          "name_en": "Family life",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Communicating with others",
+          "name_en": "Communicating with others",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Social life",
+          "name_en": "Social life",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Social Problems",
+          "name_en": "Social Problems",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Rights and Duties",
+          "name_en": "Rights and Duties",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Education",
+          "name_en": "Education",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Professional Life",
+          "name_en": "Professional Life",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Media and Arts",
+          "name_en": "Media and Arts",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Science and Technology",
+          "name_en": "Science and Technology",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Ecology",
+          "name_en": "Ecology",
           "order_index": 10,
           "objectives": [],
           "children": []
@@ -172,6 +195,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "fr",
@@ -179,48 +203,56 @@
       "chapters": [
         {
           "name_fr": "Equations et inéquations du second degré",
+          "name_en": "Second-degree equations and inequalities",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Système de deux équations du premier degré à deux inconnues",
+          "name_en": "System of two first-degree equations in two unknowns",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Fonctions affines",
+          "name_en": "Affine functions",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Fonctions : x ↦ ax² ; x ↦ a/x",
+          "name_en": "Functions: x ↦ ax² ; x ↦ a/x",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Calcul vectoriel",
+          "name_en": "Vector calculus",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Base et repère cartésien",
+          "name_en": "Basis and Cartesian coordinate system",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Barycentre",
+          "name_en": "Barycentre",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Activités dans un repère orthonormé",
+          "name_en": "Activities in an orthonormal coordinate system",
           "order_index": 8,
           "objectives": [],
           "children": []
@@ -231,6 +263,7 @@
       "subject": {
         "name_fr": "Sciences physiques",
         "name_ar": "العلوم الفيزيائية",
+        "name_en": "Physical sciences",
         "code": "PHYS"
       },
       "instruction_language": "fr",
@@ -241,6 +274,7 @@
       "subject": {
         "name_fr": "Sciences biologiques",
         "name_ar": "علوم البيولوجيا",
+        "name_en": "Biological sciences",
         "code": "BIO"
       },
       "instruction_language": "fr",
@@ -248,35 +282,41 @@
       "chapters": [
         {
           "name_fr": "Nutrition et santé",
+          "name_en": "Nutrition and health",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_fr": "Besoins nutritionnels de l’Homme",
+              "name_en": "Human nutritional needs",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Digestion et absorption",
+              "name_en": "Digestion and absorption",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Respiration",
+              "name_en": "Respiration",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Circulation sanguine",
+              "name_en": "Blood circulation",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Métabolisme cellulaire",
+              "name_en": "Cellular metabolism",
               "order_index": 5,
               "objectives": [],
               "children": []
@@ -285,29 +325,34 @@
         },
         {
           "name_fr": "Croissance chez l’Homme",
+          "name_en": "Growth in humans",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_fr": "Principales périodes de la croissance chez l’Homme",
+              "name_en": "Main periods of growth in humans",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Mécanisme biologique de la croissance : la mitose",
+              "name_en": "Biological mechanism of growth: mitosis",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Contrôle hormonal de la croissance",
+              "name_en": "Hormonal control of growth",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_fr": "Hygiène de la croissance",
+              "name_en": "Hygiene of growth",
               "order_index": 4,
               "objectives": [],
               "children": []
@@ -320,6 +365,7 @@
       "subject": {
         "name_fr": "Informatique",
         "name_ar": "الإعلامية",
+        "name_en": "Computer science",
         "code": "INFO"
       },
       "instruction_language": "fr",
@@ -330,6 +376,7 @@
       "subject": {
         "name_fr": "Histoire",
         "name_ar": "التاريخ",
+        "name_en": "History",
         "code": "HIST"
       },
       "instruction_language": "ar",
@@ -340,6 +387,7 @@
       "subject": {
         "name_fr": "Géographie",
         "name_ar": "الجغرافيا",
+        "name_en": "Geography",
         "code": "GEO"
       },
       "instruction_language": "ar",
@@ -350,6 +398,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",
@@ -360,6 +409,7 @@
       "subject": {
         "name_fr": "Spécialité sportive",
         "name_ar": "الاختصاص الرياضي",
+        "name_en": "Sports specialty",
         "code": "SPORTSPEC"
       },
       "instruction_language": "ar",
@@ -370,6 +420,7 @@
       "subject": {
         "name_fr": "Éducation islamique",
         "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic education",
         "code": "ISLAM"
       },
       "instruction_language": "ar",
@@ -377,17 +428,20 @@
       "chapters": [
         {
           "name_ar": "التوازن والوسطيّة",
+          "name_en": "Balance and moderation",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "التفكّر في العبادة",
+              "name_en": "Reflection in worship",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "بناء الشخصيّة",
+              "name_en": "Building the personality",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -396,23 +450,27 @@
         },
         {
           "name_ar": "الفاعليّة",
+          "name_en": "Effectiveness",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الوحي",
+              "name_en": "Revelation",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التربية والتعليم",
+              "name_en": "Education and teaching",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الإصلاح",
+              "name_en": "Reform",
               "order_index": 3,
               "objectives": [],
               "children": []
@@ -421,17 +479,20 @@
         },
         {
           "name_ar": "الاستشراف",
+          "name_en": "Foresight",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "الأمل والتوكّل",
+              "name_en": "Hope and trust in God",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الإنسان ومصيره",
+              "name_en": "Man and his destiny",
               "order_index": 2,
               "objectives": [],
               "children": []
@@ -444,6 +505,7 @@
       "subject": {
         "name_fr": "Éducation civique",
         "name_ar": "التربية المدنية",
+        "name_en": "Civic education",
         "code": "CIVIQ"
       },
       "instruction_language": "ar",
@@ -451,18 +513,21 @@
       "chapters": [
         {
           "name_ar": "الدولة الديمقراطيّة الحديثة",
+          "name_en": "The modern democratic state",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "دولة القانون",
+          "name_en": "The rule of law",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المجتمع المدني",
+          "name_en": "Civil society",
           "order_index": 3,
           "objectives": [],
           "children": []

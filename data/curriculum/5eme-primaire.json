@@ -12,6 +12,7 @@
   "level": {
     "name_fr": "5ème année primaire",
     "name_ar": "السنة الخامسة ابتدائي",
+    "name_en": "5th year of primary school",
     "code": "5P",
     "cycle": "primaire",
     "grade_number": 5,
@@ -21,6 +22,7 @@
   "section": {
     "name_fr": "Tronc commun",
     "name_ar": "جذع مشترك",
+    "name_en": "Common core",
     "code": "TC",
     "is_common_core": true
   },
@@ -29,6 +31,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -36,179 +39,209 @@
       "chapters": [
         {
           "name_ar": "الوحدة 1 (النصوص 1-8)",
+          "name_en": "Unit 1 (Texts 1-8)",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أعيّن تعاقب الأحداث في النص السردي",
+          "name_en": "I identify the sequence of events in the narrative text",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أحدّد أركان النص السردي",
+          "name_en": "I identify the elements of the narrative text",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الوحدة 4 (النصوص 25-32)",
+          "name_en": "Unit 4 (Texts 25-32)",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أحدّد خصائص النص الوصفي",
+          "name_en": "I identify the features of the descriptive text",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتبيّن العلاقة بين الوصف والسرد",
+          "name_en": "I recognise the relationship between description and narration",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتبيّن خصائص النص التفسيري",
+          "name_en": "I recognise the features of the explanatory text",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أتبيّن خصائص النص التوجيهي",
+          "name_en": "I recognise the features of the instructional text",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "قواعد اللغة",
+          "name_en": "Grammar",
           "order_index": 9,
           "objectives": [],
           "children": [
             {
               "name_ar": "الاسم النكرة والاسم المعرّف بـ«ال» والاسم العلم",
+              "name_en": "The indefinite noun, the noun made definite by «al» and the proper noun",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الاسم المعرفة: أسماء الإشارة",
+              "name_en": "The definite noun: demonstrative pronouns",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المركب العطفي",
+              "name_en": "The coordinative phrase",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الفعل المهموز في الماضي والمضارع المرفوع",
+              "name_en": "The hamzated verb in the past and the indicative present",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المتممات: المفعول فيه للزمان",
+              "name_en": "Complements: the adverbial of time",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المفعول فيه للمكان",
+              "name_en": "The adverbial of place",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الفعل المثال في الماضي والمضارع",
+              "name_en": "The assimilated verb (mithal) in the past and the present",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المتممات: الحال",
+              "name_en": "Complements: the circumstantial (hal)",
               "order_index": 8,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "اسم المفعول",
+              "name_en": "The passive participle",
               "order_index": 9,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المبتدأ: مفردة - مركبا",
+              "name_en": "The subject (mubtada): single word - phrase",
               "order_index": 10,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الخبر: مفردة - مركبا نعتيا - مركبا إضافيا - مركبا بالجر",
+              "name_en": "The predicate (khabar): single word - adjectival phrase - genitive construct - prepositional phrase",
               "order_index": 11,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأجوف في الماضي",
+              "name_en": "The hollow verb in the past",
               "order_index": 12,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأجوف في المضارع المرفوع والمضارع المنصوب",
+              "name_en": "The hollow verb in the indicative present and the subjunctive present",
               "order_index": 13,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "النواسخ الفعلية (كان - أصبح - مازال - صار - ليس)",
+              "name_en": "Verbal abrogators (kana - asbaha - mazala - sara - laysa)",
               "order_index": 14,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "النواسخ الفعلية والحرفية",
+              "name_en": "Verbal and particle abrogators",
               "order_index": 15,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "اسم الناسخ",
+              "name_en": "The subject of the abrogator",
               "order_index": 16,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "خبر الناسخ",
+              "name_en": "The predicate of the abrogator",
               "order_index": 17,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القرائن الدالة على الفاعل",
+              "name_en": "Clues indicating the agent",
               "order_index": 18,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القرائن الدالة على المفعول به",
+              "name_en": "Clues indicating the direct object",
               "order_index": 19,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القرائن الدالة على الحال",
+              "name_en": "Clues indicating the circumstantial (hal)",
               "order_index": 20,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القرائن الدالة على المبتدأ والخبر",
+              "name_en": "Clues indicating the subject and predicate",
               "order_index": 21,
               "objectives": [],
               "children": []
@@ -217,59 +250,69 @@
         },
         {
           "name_ar": "الإنتاج الكتابي",
+          "name_en": "Written production",
           "order_index": 10,
           "objectives": [],
           "children": [
             {
               "name_ar": "الشخصيات والأحداث",
+              "name_en": "Characters and events",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "وضع الختام",
+              "name_en": "The closing situation",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "سياق التحول",
+              "name_en": "The transformation sequence",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "النص السردي المكتمل",
+              "name_en": "The complete narrative text",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المكان المفتوح",
+              "name_en": "The open space",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المكان المغلق",
+              "name_en": "The enclosed space",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الرسالة",
+              "name_en": "The letter",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الإرشاد والتوجيه (1)",
+              "name_en": "Advice and guidance (1)",
               "order_index": 8,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الإرشاد والتوجيه (2)",
+              "name_en": "Advice and guidance (2)",
               "order_index": 9,
               "objectives": [],
               "children": []
@@ -282,6 +325,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -289,48 +333,56 @@
       "chapters": [
         {
           "name_fr": "Rendons notre environnement plus agréable",
+          "name_en": "Let's make our environment more pleasant",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Apprenons à vivre ensemble",
+          "name_en": "Let's learn to live together",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Aidons et respectons les autres",
+          "name_en": "Let's help and respect others",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Découvrons les secrets d'une bonne santé",
+          "name_en": "Let's discover the secrets of good health",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Organisons notre vie entre le travail et les loisirs",
+          "name_en": "Let's organise our life between work and leisure",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Découvrons d'autres pays",
+          "name_en": "Let's discover other countries",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Réalisons des projets",
+          "name_en": "Let's carry out projects",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_fr": "Utilisons l'ordinateur",
+          "name_en": "Let's use the computer",
           "order_index": 8,
           "objectives": [],
           "children": []
@@ -341,6 +393,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "ar",
@@ -348,47 +401,55 @@
       "chapters": [
         {
           "name_ar": "الفترة 1",
+          "name_en": "Period 1",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "أكوّن الأعداد ذات 7 أرقام فأكثر وأكتبها وأقرؤها",
+              "name_en": "I form, write and read numbers with 7 or more digits",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أحدّد إحداثيات عقدة على الشبكة",
+              "name_en": "I determine the coordinates of a node on the grid",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أفكّك الأعداد ذات 7 أرقام فأكثر وأركّبها",
+              "name_en": "I decompose and compose numbers with 7 or more digits",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أقارن الأعداد ذات 7 أرقام فأكثر وأرتّبها",
+              "name_en": "I compare and order numbers with 7 or more digits",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أرسم صورة شكل على الشبكة باستعمال التناظر المحوري",
+              "name_en": "I draw the image of a shape on the grid using axial symmetry",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أوظّف الجمع والطرح والضرب على الأعداد الصحيحة الطبيعية",
+              "name_en": "I use addition, subtraction and multiplication with natural numbers",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أوظّف القسمة على الأعداد الصحيحة الطبيعية",
+              "name_en": "I use division with natural numbers",
               "order_index": 7,
               "objectives": [],
               "children": []
@@ -397,47 +458,55 @@
         },
         {
           "name_ar": "الفترة 2",
+          "name_en": "Period 2",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "أنجز عملية القسمة على عدد ذي رقمين",
+              "name_en": "I divide by a 2-digit number",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أتصرّف في وحدات قيس الكتل: القنطار والطن",
+              "name_en": "I work with units of mass: the quintal and the tonne",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أتعرّف الدائرة والقرص الدائري",
+              "name_en": "I identify the circle and the disc",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أرسم الموسّط العمودي لقطعة مستقيم",
+              "name_en": "I draw the perpendicular bisector of a line segment",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أنجز عملية قسمة على عدد ذي 3 أرقام فأكثر",
+              "name_en": "I divide by a number with 3 or more digits",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أوظّف الدائرة في البناءات الهندسية",
+              "name_en": "I use the circle in geometric constructions",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أرسم المستقيمات المتعامدة والمستقيمات المتوازية",
+              "name_en": "I draw perpendicular lines and parallel lines",
               "order_index": 7,
               "objectives": [],
               "children": []
@@ -446,41 +515,48 @@
         },
         {
           "name_ar": "الفترة 3",
+          "name_en": "Period 3",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "أتعرّف سلسلتين من الأعداد الصحيحة الطبيعية المتناسبة طردا",
+              "name_en": "I identify two directly proportional series of natural numbers",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أكوّن الأعداد الكسرية وأكتبها وأقرؤها",
+              "name_en": "I form, write and read fractions",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أتصرّف في وحدات قيس المساحة: المتر المربّع وأجزاؤه",
+              "name_en": "I work with units of area: the square metre and its subunits",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أتصرّف في وحدات قيس المساحة: المتر المربّع ومضاعفاته",
+              "name_en": "I work with units of area: the square metre and its multiples",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أرسم الزوايا وأقيسها",
+              "name_en": "I draw and measure angles",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أتصرّف في وحدات القيس الفلاحية",
+              "name_en": "I work with agricultural units of measurement",
               "order_index": 6,
               "objectives": [],
               "children": []
@@ -489,47 +565,55 @@
         },
         {
           "name_ar": "الفترة 4",
+          "name_en": "Period 4",
           "order_index": 4,
           "objectives": [],
           "children": [
             {
               "name_ar": "أكوّن الأعداد العشرية وأكتبها وأقرؤها",
+              "name_en": "I form, write and read decimal numbers",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أفكّك الأعداد العشرية وأركّبها",
+              "name_en": "I decompose and compose decimal numbers",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أقارن الأعداد العشرية وأرتّبها",
+              "name_en": "I compare and order decimal numbers",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أتصرّف في الأعداد العشرية",
+              "name_en": "I work with decimal numbers",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أجمع الأعداد العشرية وأطرحها",
+              "name_en": "I add and subtract decimal numbers",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أتصرّف في وحدات قيس الزمن: الساعة - الدقيقة - الثانية",
+              "name_en": "I work with units of time: the hour - the minute - the second",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أجمع وأطرح الأعداد التي تقيس الزمن",
+              "name_en": "I add and subtract numbers that measure time",
               "order_index": 7,
               "objectives": [],
               "children": []
@@ -538,65 +622,76 @@
         },
         {
           "name_ar": "الفترة 5",
+          "name_en": "Period 5",
           "order_index": 5,
           "objectives": [],
           "children": [
             {
               "name_ar": "أنجز عملية ضرب عدد عشري في آخر صحيح",
+              "name_en": "I multiply a decimal number by a whole number",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أنجز عملية ضرب عدد عشري في آخر عشري",
+              "name_en": "I multiply a decimal number by another decimal number",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أنجز عمليات الجمع والطرح والضرب في مجموعة الأعداد العشرية",
+              "name_en": "I perform addition, subtraction and multiplication in the set of decimal numbers",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أقسم عددا عشريا على عدد صحيح طبيعي",
+              "name_en": "I divide a decimal number by a natural number",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أرسم كلا من المستطيل والمربع استنادا إلى القطرين ومحاور التناظر",
+              "name_en": "I draw the rectangle and the square based on the diagonals and the axes of symmetry",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أقسم عددا صحيحا طبيعيا على عدد آخر صحيح طبيعي يكون الخارج عددا عشريا",
+              "name_en": "I divide a natural number by another natural number with a decimal quotient",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أنجز عملية قسمة قاسمها عدد عشري",
+              "name_en": "I perform a division with a decimal divisor",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أتعرّف المثلثات وأرسمها",
+              "name_en": "I identify and draw triangles",
               "order_index": 8,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أتعرّف ارتفاعات المثلث وأرسمها",
+              "name_en": "I identify and draw the altitudes of a triangle",
               "order_index": 9,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "أنجز عملية الضرب على الأعداد التي تقيس الزمن",
+              "name_en": "I multiply numbers that measure time",
               "order_index": 10,
               "objectives": [],
               "children": []
@@ -609,6 +704,7 @@
       "subject": {
         "name_fr": "Éveil scientifique",
         "name_ar": "الإيقاظ العلمي",
+        "name_en": "Science awareness",
         "code": "EVEIL"
       },
       "instruction_language": "ar",
@@ -616,24 +712,28 @@
       "chapters": [
         {
           "name_ar": "الضوء",
+          "name_en": "Light",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "جسم الإنسان",
+          "name_en": "The human body",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الكهرباء",
+          "name_en": "Electricity",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الوسط البيئي",
+          "name_en": "The environment",
           "order_index": 4,
           "objectives": [],
           "children": []
@@ -644,6 +744,7 @@
       "subject": {
         "name_fr": "Technologie",
         "name_ar": "التكنولوجيا",
+        "name_en": "Technology",
         "code": "TECHNO"
       },
       "instruction_language": "ar",
@@ -654,6 +755,7 @@
       "subject": {
         "name_fr": "Éducation islamique",
         "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic education",
         "code": "ISLAM"
       },
       "instruction_language": "ar",
@@ -664,6 +766,7 @@
       "subject": {
         "name_fr": "Histoire",
         "name_ar": "التاريخ",
+        "name_en": "History",
         "code": "HIST"
       },
       "instruction_language": "ar",
@@ -671,24 +774,28 @@
       "chapters": [
         {
           "name_ar": "التمهيد لدراسة التاريخ",
+          "name_en": "Introduction to the study of history",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "البلاد التونسية من عصور ما قبل التاريخ إلى العهد الروماني",
+          "name_en": "Tunisia from prehistoric times to the Roman era",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "القيروان مركز إشعاع للحضارة العربية الإسلامية",
+          "name_en": "Kairouan, a centre of influence of Arab-Islamic civilisation",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المهدية وتونس مركزا إشعاع للحضارة العربية الإسلامية",
+          "name_en": "Mahdia and Tunis, centres of influence of Arab-Islamic civilisation",
           "order_index": 4,
           "objectives": [],
           "children": []
@@ -699,6 +806,7 @@
       "subject": {
         "name_fr": "Géographie",
         "name_ar": "الجغرافيا",
+        "name_en": "Geography",
         "code": "GEO"
       },
       "instruction_language": "ar",
@@ -706,24 +814,28 @@
       "chapters": [
         {
           "name_ar": "المواقع والاتجاهات الجغرافية",
+          "name_en": "Geographic locations and directions",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المشاهد الريفية",
+          "name_en": "Rural landscapes",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المشاهد الحضرية",
+          "name_en": "Urban landscapes",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "علاقة المجال الريفي بالمجال الحضري",
+          "name_en": "The relationship between rural and urban space",
           "order_index": 4,
           "objectives": [],
           "children": []
@@ -734,6 +846,7 @@
       "subject": {
         "name_fr": "Éducation civique",
         "name_ar": "التربية المدنية",
+        "name_en": "Civic education",
         "code": "CIVIQ"
       },
       "instruction_language": "ar",
@@ -741,90 +854,105 @@
       "chapters": [
         {
           "name_ar": "توزيع الأدوار وتبادلها داخل العائلة",
+          "name_en": "Distribution and exchange of roles within the family",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "دور الطفل في العائلة",
+          "name_en": "The child's role in the family",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المدرسة فضاء للحياة المدرسية",
+          "name_en": "The school, a space for school life",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "علاقة المدرسة بالعائلة",
+          "name_en": "The relationship between school and family",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الطفل في محيطه الاجتماعي والثقافي",
+          "name_en": "The child in his social and cultural surroundings",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "حقوق المتساكنين وواجباتهم",
+          "name_en": "Rights and duties of residents",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "حقوق الطفل في العائلة",
+          "name_en": "The child's rights in the family",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "حقوق الطفل وواجباته في المدرسة",
+          "name_en": "The child's rights and duties at school",
           "order_index": 8,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الوقاية من حوادث الطرقات",
+          "name_en": "Road accident prevention",
           "order_index": 9,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "في احترام الملك الخاص والملك العمومي",
+          "name_en": "On respecting private and public property",
           "order_index": 10,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "دفع الضرائب والأداءات",
+          "name_en": "Paying taxes and duties",
           "order_index": 11,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "التقسيم الإداري والترابي للبلاد التونسية",
+          "name_en": "The administrative and territorial division of Tunisia",
           "order_index": 12,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المجال الجغرافي للوطن",
+          "name_en": "The geographic space of the homeland",
           "order_index": 13,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الدفاع عن الوطن",
+          "name_en": "Defending the homeland",
           "order_index": 14,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "رموز الوطن",
+          "name_en": "Symbols of the homeland",
           "order_index": 15,
           "objectives": [],
           "children": []
@@ -835,6 +963,7 @@
       "subject": {
         "name_fr": "Éducation musicale",
         "name_ar": "التربية الموسيقية",
+        "name_en": "Music education",
         "code": "MUSIQ"
       },
       "instruction_language": "ar",
@@ -845,6 +974,7 @@
       "subject": {
         "name_fr": "Arts plastiques",
         "name_ar": "التربية التشكيلية",
+        "name_en": "Visual arts",
         "code": "ARTPL"
       },
       "instruction_language": "ar",
@@ -855,6 +985,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",

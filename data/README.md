@@ -6,6 +6,7 @@
 | `curriculum.json` | Everything in one file, generated from `curriculum/` | No: `python scripts/export_curriculum.py` |
 | `CURRICULUM_NOTES.md` | What is missing (generated with `curriculum.json`) | No |
 | `curriculum_chapters.csv`, `curriculum_subjects.csv` | Flat tables: one row per chapter / per class subject (generated) | No |
+| `translations/en.json` | English machine translation of every printed name (printed name → English) | Yes, to correct a translation; then merge + export |
 | `DATASET_CARD.md` | Description for publishing the CSVs on Hugging Face / Kaggle | Yes |
 | `cnp/catalogue.json` | All official CNP student textbooks: code, title, PDF links | No: `python -m pipeline.cnp.crawl_catalogue` |
 | `cnp/books/<code>.json` | One textbook's full table of contents (`toc`) + `notes` on sources and doubts | Yes, to fix a chapter; then merge + export |
@@ -44,7 +45,8 @@ fix a chapter in the book file, not in the class file, or the next merge will ov
 }
 ```
 
-- A chapter has `name_fr` and/or `name_ar` (the name as printed, in its own script). Nested `chapters` are
+- A chapter has `name_fr` and/or `name_ar` (the name as printed, in its own script), plus `name_en`, an English
+  machine translation (from `translations/en.json`; never a replacement for the printed name). Nested `chapters` are
   chapters grouped under a theme or part; leaves are the chapters.
 - A subject without `chapters` has no official CNP textbook (see `CURRICULUM_NOTES.md`).
 - `optional: true` = option chosen by the student (3rd language, music, arts…).

@@ -8,6 +8,7 @@
   "level": {
     "name_fr": "2ème année primaire",
     "name_ar": "السنة الثانية ابتدائي",
+    "name_en": "2nd year of primary school",
     "code": "2P",
     "cycle": "primaire",
     "grade_number": 2,
@@ -17,6 +18,7 @@
   "section": {
     "name_fr": "Tronc commun",
     "name_ar": "جذع مشترك",
+    "name_en": "Common core",
     "code": "TC",
     "is_common_core": true
   },
@@ -25,6 +27,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -32,48 +35,56 @@
       "chapters": [
         {
           "name_ar": "العيش معا والمواطنة",
+          "name_en": "Living together and citizenship",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المحيط والاستهلاك / المبادرة وبناء المشاريع",
+          "name_en": "Environment and consumption / Initiative and project building",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "الصحة والرفاه",
+          "name_en": "Health and well-being",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "وسائل الإعلام والاتصال",
+          "name_en": "Media and communication",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المحيط والاستهلاك",
+          "name_en": "Environment and consumption",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "المبادرة وبناء المشاريع",
+          "name_en": "Initiative and project building",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "العيش معا والمواطنة",
+          "name_en": "Living together and citizenship",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "خزانة النصوص",
+          "name_en": "Text library",
           "order_index": 8,
           "objectives": [],
           "children": []
@@ -84,6 +95,7 @@
       "subject": {
         "name_fr": "Français",
         "name_ar": "الفرنسية",
+        "name_en": "French",
         "code": "FRAN"
       },
       "instruction_language": "fr",
@@ -94,6 +106,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "ar",
@@ -101,65 +114,76 @@
       "chapters": [
         {
           "name_ar": "الفترة 1",
+          "name_en": "Period 1",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "المجموعات ومكوناتها والعلاقة بينها",
+              "name_en": "Sets, their components and the relationship between them",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المجموعات: متمم مجموعة في أخرى",
+              "name_en": "Sets: the complement of a set in another",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: تمثيل الوضعية برسم",
+              "name_en": "Practising solving the problem situation: representing the situation with a drawing",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 99: الجمع بالاحتفاظ ومن دونه",
+              "name_en": "Numbers from 0 to 99: addition with and without carrying",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: استخراج المعلومات من نص الوضعية",
+              "name_en": "Practising solving the problem situation: extracting information from the text of the situation",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 99: الطرح دون زيادة ولا تفكيك",
+              "name_en": "Numbers from 0 to 99: subtraction without borrowing or decomposition",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: تمييز المعطيات وثيقة الصلة بالوضعية",
+              "name_en": "Practising solving the problem situation: identifying the data relevant to the situation",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الخط المستقيم والخط المنحني: الرسم والتوظيف",
+              "name_en": "Straight line and curved line: drawing and use",
               "order_index": 8,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القطع النقدية المتداولة 5، 10، 20، 50: التصرف فيها",
+              "name_en": "Coins in circulation 5, 10, 20, 50: handling them",
               "order_index": 9,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: تحديد المطلوب",
+              "name_en": "Practising solving the problem situation: identifying what is required",
               "order_index": 10,
               "objectives": [],
               "children": []
@@ -168,65 +192,76 @@
         },
         {
           "name_ar": "الفترة 2",
+          "name_en": "Period 2",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "الأعداد من 0 إلى 99: مكمل عدد إلى آخر",
+              "name_en": "Numbers from 0 to 99: the complement of a number to another",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: تمثيل الوضعية بمخطط",
+              "name_en": "Practising solving the problem situation: representing the situation with a diagram",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 99: الجمع والطرح دون زيادة ولا تفكيك",
+              "name_en": "Numbers from 0 to 99: addition and subtraction without borrowing or decomposition",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الخط المنكسر: التعرف والاستعمال",
+              "name_en": "The broken line: recognition and use",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: طرح أسئلة توافق معطيات الوضعية",
+              "name_en": "Practising solving the problem situation: asking questions that match the data of the situation",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العدد 100: القراءة والكتابة والتمثيل",
+              "name_en": "The number 100: reading, writing and representation",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: إعادة صوغ الوضعية بأسلوب شخصي",
+              "name_en": "Practising solving the problem situation: rephrasing the situation in one's own words",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العدد 100: التفكيك والتركيب",
+              "name_en": "The number 100: decomposition and composition",
               "order_index": 8,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القطعة النقدية 100 مي: التصرف فيها",
+              "name_en": "The 100-millime coin: handling it",
               "order_index": 9,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: صوغ وضعية تناسب عملية جمع أو طرح",
+              "name_en": "Practising solving the problem situation: formulating a situation suited to an addition or subtraction",
               "order_index": 10,
               "objectives": [],
               "children": []
@@ -235,65 +270,76 @@
         },
         {
           "name_ar": "الفترة 3",
+          "name_en": "Period 3",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "الأعداد من 0 إلى 199: القراءة والكتابة والتمثيل",
+              "name_en": "Numbers from 0 to 199: reading, writing and representation",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: إنتاج أسئلة توافق معطيات الوضعية",
+              "name_en": "Practising solving the problem situation: producing questions that match the data of the situation",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 199: تفكيك وتركيب",
+              "name_en": "Numbers from 0 to 199: decomposition and composition",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "صوغ الإجابات اللفظية المناسبة",
+              "name_en": "Formulating appropriate verbal answers",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 199: المقارنة والترتيب",
+              "name_en": "Numbers from 0 to 199: comparing and ordering",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الخط المنكسر: الرسم والتوظيف",
+              "name_en": "The broken line: drawing and use",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: تحديد العلاقة بين خاصيات المفاهيم",
+              "name_en": "Practising solving the problem situation: determining the relationship between the properties of concepts",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القطع النقدية المتداولة: التصرف في القطع النقدية 5، 10، 20، 50، 100",
+              "name_en": "Coins in circulation: handling the coins 5, 10, 20, 50, 100",
               "order_index": 8,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 199: الجمع بالاحتفاظ",
+              "name_en": "Numbers from 0 to 199: addition with carrying",
               "order_index": 9,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: تحديد المطلوب",
+              "name_en": "Practising solving the problem situation: identifying what is required",
               "order_index": 10,
               "objectives": [],
               "children": []
@@ -302,71 +348,83 @@
         },
         {
           "name_ar": "الفترة 4",
+          "name_en": "Period 4",
           "order_index": 4,
           "objectives": [],
           "children": [
             {
               "name_ar": "الأعداد من 0 إلى 199: الجمع بالاحتفاظ ومن دونه",
+              "name_en": "Numbers from 0 to 199: addition with and without carrying",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: إنتاج وضعية يتطلب حلها توظيف الجمع أو الطرح",
+              "name_en": "Practising solving the problem situation: producing a situation whose solution requires using addition or subtraction",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 199: الطرح دون زيادة ولا تفكيك",
+              "name_en": "Numbers from 0 to 199: subtraction without borrowing or decomposition",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المضلعات: تعرف المضلعات",
+              "name_en": "Polygons: recognising polygons",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: إنتاج وضعية يتطلب حلها توظيف الجمع أو الطرح",
+              "name_en": "Practising solving the problem situation: producing a situation whose solution requires using addition or subtraction",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 199: الجمع والطرح دون زيادة ولا تفكيك",
+              "name_en": "Numbers from 0 to 199: addition and subtraction without borrowing or decomposition",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 499: القراءة والكتابة والتمثيل",
+              "name_en": "Numbers from 0 to 499: reading, writing and representation",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: إنتاج وضعية يتطلب حلها توظيف الجمع أو الطرح أو المكمل",
+              "name_en": "Practising solving the problem situation: producing a situation whose solution requires using addition, subtraction or the complement",
               "order_index": 8,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 499: التفكيك والتركيب",
+              "name_en": "Numbers from 0 to 499: decomposition and composition",
               "order_index": 9,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القطع النقدية المتداولة: التصرف في القطعة النقدية 200",
+              "name_en": "Coins in circulation: handling the 200 coin",
               "order_index": 10,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: إنتاج وضعية يتطلب حلها توظيف الجمع أو الطرح أو المكمل",
+              "name_en": "Practising solving the problem situation: producing a situation whose solution requires using addition, subtraction or the complement",
               "order_index": 11,
               "objectives": [],
               "children": []
@@ -375,59 +433,69 @@
         },
         {
           "name_ar": "الفترة 5",
+          "name_en": "Period 5",
           "order_index": 5,
           "objectives": [],
           "children": [
             {
               "name_ar": "الأعداد من 0 إلى 499: المقارنة والترتيب",
+              "name_en": "Numbers from 0 to 499: comparing and ordering",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 499: الجمع بالاحتفاظ ومن دونه",
+              "name_en": "Numbers from 0 to 499: addition with and without carrying",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: تحرير حل مسألة",
+              "name_en": "Practising solving the problem situation: writing up the solution of a problem",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 499: الطرح دون زيادة ولا تفكيك",
+              "name_en": "Numbers from 0 to 499: subtraction without borrowing or decomposition",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القطع النقدية المتداولة 5، 10، 20، 50، 100، 200: التصرف فيها",
+              "name_en": "Coins in circulation 5, 10, 20, 50, 100, 200: handling them",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: تحرير حل مسألة",
+              "name_en": "Practising solving the problem situation: writing up the solution of a problem",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 499: الجمع والطرح دون زيادة",
+              "name_en": "Numbers from 0 to 499: addition and subtraction without borrowing",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المضلعات: الرسم",
+              "name_en": "Polygons: drawing",
               "order_index": 8,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: تحرير حل مسألة",
+              "name_en": "Practising solving the problem situation: writing up the solution of a problem",
               "order_index": 9,
               "objectives": [],
               "children": []
@@ -436,53 +504,62 @@
         },
         {
           "name_ar": "الفترة 6",
+          "name_en": "Period 6",
           "order_index": 6,
           "objectives": [],
           "children": [
             {
               "name_ar": "الأعداد من 0 إلى 999: القراءة والكتابة والتمثيل",
+              "name_en": "Numbers from 0 to 999: reading, writing and representation",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 999: التفكيك والتركيب والمقارنة والترتيب",
+              "name_en": "Numbers from 0 to 999: decomposition, composition, comparing and ordering",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: تحرير حل مسألة",
+              "name_en": "Practising solving the problem situation: writing up the solution of a problem",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 999: الجمع والطرح دون زيادة ولا تفكيك",
+              "name_en": "Numbers from 0 to 999: addition and subtraction without borrowing or decomposition",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: تحرير حل مسألة",
+              "name_en": "Practising solving the problem situation: writing up the solution of a problem",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القطعة النقدية نصف دينار: التصرف فيها",
+              "name_en": "The half-dinar coin: handling it",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المضلعات: توظيفها",
+              "name_en": "Polygons: using them",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التدرب على حل الوضعية المشكل: تقييم التمشي المعتمد والنتائج",
+              "name_en": "Practising solving the problem situation: evaluating the approach adopted and the results",
               "order_index": 8,
               "objectives": [],
               "children": []
@@ -495,6 +572,7 @@
       "subject": {
         "name_fr": "Éveil scientifique",
         "name_ar": "الإيقاظ العلمي",
+        "name_en": "Science awareness",
         "code": "EVEIL"
       },
       "instruction_language": "ar",
@@ -505,6 +583,7 @@
       "subject": {
         "name_fr": "Technologie",
         "name_ar": "التكنولوجيا",
+        "name_en": "Technology",
         "code": "TECHNO"
       },
       "instruction_language": "ar",
@@ -515,6 +594,7 @@
       "subject": {
         "name_fr": "Éducation islamique",
         "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic education",
         "code": "ISLAM"
       },
       "instruction_language": "ar",
@@ -525,6 +605,7 @@
       "subject": {
         "name_fr": "Éducation musicale",
         "name_ar": "التربية الموسيقية",
+        "name_en": "Music education",
         "code": "MUSIQ"
       },
       "instruction_language": "ar",
@@ -535,6 +616,7 @@
       "subject": {
         "name_fr": "Arts plastiques",
         "name_ar": "التربية التشكيلية",
+        "name_en": "Visual arts",
         "code": "ARTPL"
       },
       "instruction_language": "ar",
@@ -545,6 +627,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",

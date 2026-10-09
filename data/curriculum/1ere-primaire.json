@@ -8,6 +8,7 @@
   "level": {
     "name_fr": "1ère année primaire",
     "name_ar": "السنة الأولى ابتدائي",
+    "name_en": "1st year of primary school",
     "code": "1P",
     "cycle": "primaire",
     "grade_number": 1,
@@ -17,6 +18,7 @@
   "section": {
     "name_fr": "Tronc commun",
     "name_ar": "جذع مشترك",
+    "name_en": "Common core",
     "code": "TC",
     "is_common_core": true
   },
@@ -25,6 +27,7 @@
       "subject": {
         "name_fr": "Arabe",
         "name_ar": "العربية",
+        "name_en": "Arabic",
         "code": "ARAB"
       },
       "instruction_language": "ar",
@@ -32,48 +35,56 @@
       "chapters": [
         {
           "name_ar": "أنيسي في مدرستي",
+          "name_en": "Anisi at my school",
           "order_index": 1,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أنيسي في أهلي",
+          "name_en": "Anisi with my family",
           "order_index": 2,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أنيسي في صحتي وسلامتي",
+          "name_en": "Anisi in my health and safety",
           "order_index": 3,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أنيسي في فصل الشتاء",
+          "name_en": "Anisi in winter",
           "order_index": 4,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أنيسي في عالم المهن",
+          "name_en": "Anisi in the world of professions",
           "order_index": 5,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أنيسي في فصل الربيع",
+          "name_en": "Anisi in spring",
           "order_index": 6,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أنيسي في عالم الحيوانات",
+          "name_en": "Anisi in the world of animals",
           "order_index": 7,
           "objectives": [],
           "children": []
         },
         {
           "name_ar": "أنيسي في عالم القصص",
+          "name_en": "Anisi in the world of stories",
           "order_index": 8,
           "objectives": [],
           "children": []
@@ -84,6 +95,7 @@
       "subject": {
         "name_fr": "Mathématiques",
         "name_ar": "الرياضيات",
+        "name_en": "Mathematics",
         "code": "MATH"
       },
       "instruction_language": "ar",
@@ -91,47 +103,55 @@
       "chapters": [
         {
           "name_ar": "الفترة 1",
+          "name_en": "Period 1",
           "order_index": 1,
           "objectives": [],
           "children": [
             {
               "name_ar": "تعيين موقع شيء في الفضاء: أمام / وراء",
+              "name_en": "Locating an object in space: in front of / behind",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "فوق / تحت",
+              "name_en": "Above / below",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "اليمين واليسار",
+              "name_en": "Right and left",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "على يمين / على يسار / بجانب / على يميني / على يساري",
+              "name_en": "On the right of / on the left of / next to / on my right / on my left",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "داخل / خارج",
+              "name_en": "Inside / outside",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الخط المستقيم والخط المنحني / الخط المغلق والخط المفتوح",
+              "name_en": "Straight line and curved line / closed line and open line",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المجموعة: تكوين مجموعة بصفة تلقائية",
+              "name_en": "The set: forming a set spontaneously",
               "order_index": 7,
               "objectives": [],
               "children": []
@@ -140,47 +160,55 @@
         },
         {
           "name_ar": "الفترة 2",
+          "name_en": "Period 2",
           "order_index": 2,
           "objectives": [],
           "children": [
             {
               "name_ar": "العنصر ومخطط المجموعة",
+              "name_en": "The element and the set diagram",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الانتماء وعدم الانتماء",
+              "name_en": "Membership and non-membership",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "رمز المجموعة",
+              "name_en": "The set symbol",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التجزئة",
+              "name_en": "Partition",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "المجموعة الفارغة",
+              "name_en": "The empty set",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "مقارنة عناصر مجموعتين عنصرا بعنصر (أكثر، أقل، قدر)",
+              "name_en": "Comparing the elements of two sets one by one (more, fewer, as many)",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التقابل بين مجموعتين",
+              "name_en": "One-to-one correspondence between two sets",
               "order_index": 7,
               "objectives": [],
               "children": []
@@ -189,53 +217,62 @@
         },
         {
           "name_ar": "الفترة 3",
+          "name_en": "Period 3",
           "order_index": 3,
           "objectives": [],
           "children": [
             {
               "name_ar": "الأعداد من 0 إلى 9: الأعداد 2، 4، 5",
+              "name_en": "Numbers from 0 to 9: the numbers 2, 4, 5",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العددان 1، 3",
+              "name_en": "The numbers 1, 3",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القطع النقدية: 1 مي، 2 مي، 5 مي",
+              "name_en": "Coins: 1 millime, 2 millimes, 5 millimes",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العددان 6، 8",
+              "name_en": "The numbers 6, 8",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العددان 7، 9",
+              "name_en": "The numbers 7, 9",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الصفر \"0\"",
+              "name_en": "Zero \"0\"",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العدد الرتبي",
+              "name_en": "The ordinal number",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "علامات المقارنة بين الأعداد من 0 إلى 9 (>، <، =)",
+              "name_en": "Comparison signs between numbers from 0 to 9 (>, <, =)",
               "order_index": 8,
               "objectives": [],
               "children": []
@@ -244,47 +281,55 @@
         },
         {
           "name_ar": "الفترة 4",
+          "name_en": "Period 4",
           "order_index": 4,
           "objectives": [],
           "children": [
             {
               "name_ar": "التجميع المنتظم (1): المبادلات",
+              "name_en": "Regular grouping (1): exchanges",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التجميع المنتظم (2)",
+              "name_en": "Regular grouping (2)",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "التجميع العشري",
+              "name_en": "Decimal grouping",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "اتحاد مجموعتين منفصلتين فأكثر",
+              "name_en": "Union of two or more disjoint sets",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "مجموع عددين: المجموع أصغر من 10 أو أكثر",
+              "name_en": "Sum of two numbers: the sum less than 10 or more",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 10 إلى 99: العدد 10",
+              "name_en": "Numbers from 10 to 99: the number 10",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 10 إلى 19: قراءة وكتابة وتمثيلا",
+              "name_en": "Numbers from 10 to 19: reading, writing and representation",
               "order_index": 7,
               "objectives": [],
               "children": []
@@ -293,53 +338,62 @@
         },
         {
           "name_ar": "الفترة 5",
+          "name_en": "Period 5",
           "order_index": 5,
           "objectives": [],
           "children": [
             {
               "name_ar": "جدول بيتاغور للجمع: بناء جداول جزئية للجمع (1)",
+              "name_en": "Pythagorean addition table: building partial addition tables (1)",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "بناء جداول جزئية للجمع (2)",
+              "name_en": "Building partial addition tables (2)",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "جدول بيتاغور للجمع",
+              "name_en": "Pythagorean addition table",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "خاصيات الجمع: الخاصية التبديلية",
+              "name_en": "Properties of addition: the commutative property",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الخاصية التجميعية",
+              "name_en": "The associative property",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 19: قراءة وكتابة وتمثيلا",
+              "name_en": "Numbers from 0 to 19: reading, writing and representation",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 19: مقارنة وترتيبا",
+              "name_en": "Numbers from 0 to 19: comparing and ordering",
               "order_index": 7,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 0 إلى 19: تفكيكا وتركيبا",
+              "name_en": "Numbers from 0 to 19: decomposition and composition",
               "order_index": 8,
               "objectives": [],
               "children": []
@@ -348,47 +402,55 @@
         },
         {
           "name_ar": "الفترة 6",
+          "name_en": "Period 6",
           "order_index": 6,
           "objectives": [],
           "children": [
             {
               "name_ar": "العقود: قراءة وكتابة",
+              "name_en": "Tens: reading and writing",
               "order_index": 1,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العقود: تفكيكا وتركيبا",
+              "name_en": "Tens: decomposition and composition",
               "order_index": 2,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "القطع النقدية المتداولة: 10 مي، 20 مي، 50 مي",
+              "name_en": "Coins in circulation: 10 millimes, 20 millimes, 50 millimes",
               "order_index": 3,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "العقود: مقارنة وترتيبا",
+              "name_en": "Tens: comparing and ordering",
               "order_index": 4,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 10 إلى 99: قراءة وكتابة وتمثيلا",
+              "name_en": "Numbers from 10 to 99: reading, writing and representation",
               "order_index": 5,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "آلية الجمع دون احتفاظ: الوضع العمودي",
+              "name_en": "Addition algorithm without carrying: vertical layout",
               "order_index": 6,
               "objectives": [],
               "children": []
             },
             {
               "name_ar": "الأعداد من 10 إلى 99: مقارنة وترتيبا / تفكيكا وتركيبا",
+              "name_en": "Numbers from 10 to 99: comparing and ordering / decomposition and composition",
               "order_index": 7,
               "objectives": [],
               "children": []
@@ -401,6 +463,7 @@
       "subject": {
         "name_fr": "Éveil scientifique",
         "name_ar": "الإيقاظ العلمي",
+        "name_en": "Science awareness",
         "code": "EVEIL"
       },
       "instruction_language": "ar",
@@ -411,6 +474,7 @@
       "subject": {
         "name_fr": "Technologie",
         "name_ar": "التكنولوجيا",
+        "name_en": "Technology",
         "code": "TECHNO"
       },
       "instruction_language": "ar",
@@ -421,6 +485,7 @@
       "subject": {
         "name_fr": "Éducation islamique",
         "name_ar": "التربية الإسلامية",
+        "name_en": "Islamic education",
         "code": "ISLAM"
       },
       "instruction_language": "ar",
@@ -431,6 +496,7 @@
       "subject": {
         "name_fr": "Éducation musicale",
         "name_ar": "التربية الموسيقية",
+        "name_en": "Music education",
         "code": "MUSIQ"
       },
       "instruction_language": "ar",
@@ -441,6 +507,7 @@
       "subject": {
         "name_fr": "Arts plastiques",
         "name_ar": "التربية التشكيلية",
+        "name_en": "Visual arts",
         "code": "ARTPL"
       },
       "instruction_language": "ar",
@@ -451,6 +518,7 @@
       "subject": {
         "name_fr": "Éducation physique",
         "name_ar": "التربية البدنية",
+        "name_en": "Physical education",
         "code": "EPS"
       },
       "instruction_language": "ar",
