@@ -16,6 +16,9 @@ plus the pipeline that builds it from official sources. Other projects (e.g. exa
   `chapter_depth.json`.
 - `models.py`: SQLAlchemy tables + Pydantic schemas. `scripts/`: load into PostgreSQL, export.
 - `pipeline/cnp/`: textbook pipeline (see its README).
+- `data/programmes/<class>__<SUBJECT>.json` + `pipeline/programmes/`: official Ministry programmes (contents and
+  learning objectives, verbatim), written into the class files by `python -m pipeline.programmes.merge_programmes`
+  (after merge_chapters); chapter links only on near-identical names.
 - `data/translations/en.json` + `pipeline/translate_names.py`: English machine translations (`name_en`), applied by the
   merge; never replace printed names.
 
@@ -26,7 +29,9 @@ plus the pipeline that builds it from official sources. Other projects (e.g. exa
 - Keep chapters only (themes/parts above them allowed), not sections or lessons. No coefficients,
   weekly hours or exam durations.
 - Chapters in `data/curriculum/` are generated: fix them in `data/cnp/books/` or `chapter_depth.json`,
-  then run `python -m pipeline.cnp.merge_chapters --all` and `python scripts/export_curriculum.py`.
+  then run `python -m pipeline.cnp.merge_chapters --all`, `python -m pipeline.programmes.merge_programmes` and
+  `python scripts/export_curriculum.py`.
+- Learning objectives only from the official Ministry programmes, verbatim; never split or reassigned by guess.
 
 ## Core Rules for Code Generation
 - Data models represent the hierarchy: Level (e.g. 7ème base, Bac) -> Section (e.g. Sciences, Informatique)

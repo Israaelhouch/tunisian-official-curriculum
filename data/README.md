@@ -5,7 +5,8 @@
 | `curriculum/<class>.json` | **Source of truth**, one file per class (30 classes) | Yes (subjects, names), then run the export |
 | `curriculum.json` | Everything in one file, generated from `curriculum/` | No: `python scripts/export_curriculum.py` |
 | `CURRICULUM_NOTES.md` | What is missing (generated with `curriculum.json`) | No |
-| `curriculum_chapters.csv`, `curriculum_subjects.csv` | Flat tables: one row per chapter / per class subject (generated) | No |
+| `curriculum_chapters.csv`, `curriculum_subjects.csv`, `curriculum_objectives.csv` | Flat tables: one row per chapter / per class subject / per learning objective (generated) | No |
+| `programmes/<class>__<SUBJECT>.json` | Official Ministry programme of a class subject: units with contents and learning objectives, verbatim, + source | Yes, to fix an item; then `python -m pipeline.programmes.merge_programmes` + export |
 | `translations/en.json` | English machine translation of every printed name (printed name → English) | Yes, to correct a translation; then merge + export |
 | `DATASET_CARD.md` | Description for publishing the CSVs on Hugging Face / Kaggle | Yes |
 | `cnp/catalogue.json` | All official CNP student textbooks: code, title, PDF links | No: `python -m pipeline.cnp.crawl_catalogue` |
@@ -50,11 +51,28 @@ fix a chapter in the book file, not in the class file, or the next merge will ov
   chapters grouped under a theme or part; leaves are the chapters.
 - A subject without `chapters` has no official CNP textbook (see `CURRICULUM_NOTES.md`).
 - `optional: true` = option chosen by the student (3rd language, music, arts…).
+- `programme` (Bac Maths, Physique, SVT so far): the official Ministry programme of the subject, copied verbatim.
+
+```json
+"programme": {
+  "source": { "document": "Programme officiel de mathématiques — enseignement secondaire",
+              "issuer": "Ministère de l'Éducation (Tunisie)", "url": "http://www.edunet.tn/...", "pages": "90-96" },
+  "units": [
+    { "domain": "Analyse", "topic": "Suites réelles", "contents": ["..."], "objectives": [], "chapter": "Suites réelles" },
+    { "domain": "Analyse", "objectives": ["Reconnaître si une fonction est continue ..."] }
+  ]
+}
+```
+
+  A unit follows the programme's own organisation: `domain`, `topic` (absent when the objectives are given for
+  the whole domain or theme), `contents`, `objectives`. `chapter` is the printed name of the matching chapter
+  (or theme) of this subject, set only when the names are near-identical.
 
 ## `curriculum/<class>.json`
 
 Same content for one class, with all fields explicit: `level`, `section`, `subjects[]` (each with `subject`,
-`instruction_language`, `is_optional`, `chapters[]` where chapters have `order_index` and `children`), and
+`instruction_language`, `is_optional`, `chapters[]` where chapters have `order_index` and `children`, optional
+`programme`), and
 `references` (official texts and textbooks used). Validated by `models.ClassCurriculum`
 (`python scripts/load_curriculum.py --dry-run`).
 

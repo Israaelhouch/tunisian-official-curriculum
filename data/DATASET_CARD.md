@@ -25,6 +25,8 @@ configs:
     default: true
   - config_name: subjects
     data_files: curriculum_subjects.csv
+  - config_name: objectives
+    data_files: curriculum_objectives.csv
 ---
 
 # Tunisian Official Curriculum
@@ -46,6 +48,7 @@ printed in the official CNP textbooks. Every name also has an English machine tr
 |---|---|---|
 | `curriculum_chapters.csv` | 2,892 | chapter |
 | `curriculum_subjects.csv` | 442 | subject of a class (including the 153 subjects with no textbook, `chapter_count = 0`) |
+| `curriculum_objectives.csv` | 847 | learning objective of an official programme (Bac Maths, Physique, SVT so far) |
 | `curriculum.json` | – | the same data as a nested tree: levels → sections → subjects → chapters |
 
 ## Columns
@@ -64,6 +67,11 @@ printed in the official CNP textbooks. Every name also has an English machine tr
 | `chapter` | chapter name, as printed in the textbook | `Suites réelles` |
 | `level_en`, `section_en`, `subject_en`, `theme_en`, `chapter_en` | English machine translation of the names | `Real sequences` |
 | `chapter_count` | (subjects file) number of chapters | `13` |
+| `domain` | (objectives file) domain or theme of the official programme | `Analyse` |
+| `scope` | (objectives file) `domain`: the programme gives the objective for the whole domain/theme (so no `topic` or `chapter`); `topic`: given for one topic | `domain` |
+| `topic` | (objectives file) the programme topic, when `scope = topic` | `Ondes mécaniques progressives` |
+| `chapter` | (objectives file) matching textbook chapter, only when the names are near-identical (empty otherwise, never guessed) | `Ondes mécaniques progressives` |
+| `objective_order`, `objective` | (objectives file) the objective, verbatim, in programme order | `Reconnaître si une fonction est continue…` |
 
 Chapters by teaching language: Arabic 1,222 · French 944 · English 246 · Spanish 156 · Chinese 126 ·
 Italian 72 · German 66 · Russian 60.
@@ -81,6 +89,8 @@ print(bac_info_math.chapter.tolist())   # ['Suites réelles', 'Limites de foncti
 ## Sources
 
 - **Subjects per class:** Tunisian government decrees 2019-1085 and 2021-143 (official weekly timetables).
+- **Learning objectives:** the Ministry of Education's official programmes (education.gov.tn), copied verbatim
+  from the PDFs with Claude and checked against them; objectives stay where the programme prints them.
 - **Chapters:** the official student textbooks of the Centre National Pédagogique (CNP, cnp.com.tn).
   Each book's table of contents was extracted (OCR for scans and legacy-font Arabic PDFs) and structured
   with Claude under strict rules: book order, names exactly as printed, never guessed; unreadable titles
@@ -91,6 +101,8 @@ The textbooks themselves are not included, only facts about them (subject lists 
 ## Limitations
 
 - Subjects without an official CNP textbook have no chapters (EPS, arts, ALGO/STI, Économie…).
+- Learning objectives cover the Bac Maths, Sciences physiques and SVT programmes so far (2011 programmes);
+  fewer than half of their topics link to a chapter, since programmes and textbooks word them differently.
 - Some primaire chapters are missing where the textbook scans were unreadable.
 - Chinese and Russian titles were decoded from broken font encodings and deserve a native check.
 - Chapter names are in the language printed in the book. The `*_en` columns are machine translations (Claude),

@@ -42,6 +42,8 @@ level (BAC)  →  section (INFO)  →  subject (MATH)  →  chapters
 - **Nested** `chapters` group chapters under a theme (Physique → Ondes → Ondes mécaniques progressives); the innermost items are the chapters.
 - `optional: true` marks an option the student chooses (3rd language, music, arts).
 - **No** `chapters` means there is no official textbook for that subject.
+- **Learning objectives** (new, Bac Maths / Physique / SVT so far): `programme` holds the official Ministry
+  programme of the subject, verbatim (contents + objectives), linked to chapters where the names match.
 
 
 
@@ -63,6 +65,8 @@ Format and codes: [data/README.md](data/README.md) · What is missing: [data/CUR
 - **Subjects per class:** decrees 2019-1085 and 2021-143 (official timetables).
 - **Chapters:** the official CNP textbooks, names exactly as printed. Subjects without a CNP textbook
 (EPS, arts, ALGO/STI…) have no chapters.
+- **Learning objectives:** the Ministry's official programmes (education.gov.tn), copied verbatim
+([pipeline/programmes/](pipeline/programmes/README.md)).
 
 
 
@@ -83,13 +87,15 @@ broken font encodings and deserve a native check.
 
 ```
 data/curriculum.json        everything in one file
-data/*.csv                  the same as flat tables (one row per chapter / per class subject)
+data/*.csv                  the same as flat tables (one row per chapter / class subject / objective)
 data/curriculum/            one file per class (source of truth)
+data/programmes/            official programmes: learning objectives per class subject
 data/translations/en.json   English machine translations of all names
 data/cnp/                   textbook catalogue and per-book tables of contents
 models.py                   Pydantic schemas + SQLAlchemy tables
 scripts/                    load into PostgreSQL, export curriculum.json
 pipeline/cnp/               the textbook pipeline
+pipeline/programmes/        the official programmes (learning objectives)
 pipeline/translate_names.py English translation of new names (Claude)
 ```
 
