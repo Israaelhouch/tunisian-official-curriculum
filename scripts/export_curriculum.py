@@ -3,6 +3,8 @@
 Outputs (data/):
   curriculum.json       levels -> sections -> subjects -> chapters, with a subject catalogue
   CURRICULUM_NOTES.md   gaps: subjects without chapters, dropped unreadable titles, positional labels
+  curriculum_chapters.csv   one row per chapter (flat table for Kaggle / Hugging Face / spreadsheets)
+  curriculum_subjects.csv   one row per class subject, including subjects without chapters
 
 The class files stay the source of truth: re-run this after any change.
 Usage: python scripts/export_curriculum.py
@@ -10,6 +12,7 @@ Usage: python scripts/export_curriculum.py
 
 from __future__ import annotations
 
+import csv
 import json
 import sys
 from collections import defaultdict
@@ -27,6 +30,10 @@ from pipeline.cnp.paths import CHAPTER_DEPTH, CURRICULUM_DIR, BOOKS_DIR  # noqa:
 
 OUT_JSON = ROOT / "data" / "curriculum.json"
 OUT_NOTES = ROOT / "data" / "CURRICULUM_NOTES.md"
+OUT_CHAPTERS_CSV = ROOT / "data" / "curriculum_chapters.csv"
+OUT_SUBJECTS_CSV = ROOT / "data" / "curriculum_subjects.csv"
+CLASS_COLUMNS = ["cycle", "level_code", "level_fr", "level_ar", "section_code", "section_fr", "section_ar",
+                 "class_key", "subject_code", "subject_fr", "subject_ar", "language", "optional"]
 CYCLE_LABEL = {"primaire": "Primaire", "preparatoire": "Collège (enseignement de base)",
                "secondaire": "Lycée (secondaire)"}
 
@@ -166,12 +173,54 @@ def build_notes(classes: list[tuple[str, ClassCurriculum]], bundle: dict[str, An
     return "\n".join(lines)
 
 
+def write_csvs(classes: list[tuple[str, ClassCurriculum]]) -> tuple[int, int]:
+    """Flat tables. A chapter's `theme` is the path of the groupings above it (e.g. "Physique > Ondes")."""
+    chapter_rows, subject_rows = [], []
+    for key, cur in classes:
+        for s in cur.subjects:
+            base = {
+                "cycle": cur.level.cycle.value, "level_code": cur.level.code,
+                "level_fr": cur.level.name_fr or "", "level_ar": cur.level.name_ar or "",
+                "section_code": cur.section.code,
+                "section_fr": cur.section.name_fr or "", "section_ar": cur.section.name_ar or "",
+                "class_key": key, "subject_code": s.subject.code,
+                "subject_fr": s.subject.name_fr or "", "subject_ar": s.subject.name_ar or "",
+                "language": s.instruction_language.value, "optional": s.is_optional,
+            }
+            order = 0
+
+            def walk(nodes: list[Any], path: list[str]) -> None:
+                nonlocal order
+                for n in nodes:
+                    label = n.name_fr or n.name_ar or ""
+                    if n.children:
+                        walk(n.children, path + [label])
+                    else:
+                        order += 1
+                        chapter_rows.append({**base, "theme": " > ".join(path), "chapter_order": order,
+                                             "chapter": label})
+            walk(s.chapters, [])
+            subject_rows.append({**base, "chapter_count": order})
+
+    for path, rows, columns in (
+        (OUT_CHAPTERS_CSV, chapter_rows, CLASS_COLUMNS + ["theme", "chapter_order", "chapter"]),
+        (OUT_SUBJECTS_CSV, subject_rows, CLASS_COLUMNS + ["chapter_count"]),
+    ):
+        with path.open("w", encoding="utf-8", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=columns)
+            writer.writeheader()
+            writer.writerows(rows)
+    return len(chapter_rows), len(subject_rows)
+
+
 def main() -> None:
     classes = load_classes()
     bundle = build_json(classes)
     OUT_JSON.write_text(json.dumps(bundle, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     OUT_NOTES.write_text(build_notes(classes, bundle), encoding="utf-8")
-    print(f"Wrote {OUT_JSON.name} ({OUT_JSON.stat().st_size // 1024} KB) and {OUT_NOTES.name}")
+    n_chapters, n_subjects = write_csvs(classes)
+    print(f"Wrote {OUT_JSON.name} ({OUT_JSON.stat().st_size // 1024} KB), {OUT_NOTES.name}, "
+          f"{OUT_CHAPTERS_CSV.name} ({n_chapters} rows), {OUT_SUBJECTS_CSV.name} ({n_subjects} rows)")
 
 
 if __name__ == "__main__":

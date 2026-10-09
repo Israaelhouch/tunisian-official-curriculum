@@ -1,0 +1,443 @@
+cycle,level_code,level_fr,level_ar,section_code,section_fr,section_ar,class_key,subject_code,subject_fr,subject_ar,language,optional,chapter_count
+primaire,1P,1ère année primaire,السنة الأولى ابتدائي,TC,Tronc commun,جذع مشترك,1ere-primaire,ARAB,Arabe,العربية,ar,False,8
+primaire,1P,1ère année primaire,السنة الأولى ابتدائي,TC,Tronc commun,جذع مشترك,1ere-primaire,MATH,Mathématiques,الرياضيات,ar,False,44
+primaire,1P,1ère année primaire,السنة الأولى ابتدائي,TC,Tronc commun,جذع مشترك,1ere-primaire,EVEIL,Éveil scientifique,الإيقاظ العلمي,ar,False,0
+primaire,1P,1ère année primaire,السنة الأولى ابتدائي,TC,Tronc commun,جذع مشترك,1ere-primaire,TECHNO,Technologie,التكنولوجيا,ar,False,0
+primaire,1P,1ère année primaire,السنة الأولى ابتدائي,TC,Tronc commun,جذع مشترك,1ere-primaire,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,0
+primaire,1P,1ère année primaire,السنة الأولى ابتدائي,TC,Tronc commun,جذع مشترك,1ere-primaire,MUSIQ,Éducation musicale,التربية الموسيقية,ar,False,0
+primaire,1P,1ère année primaire,السنة الأولى ابتدائي,TC,Tronc commun,جذع مشترك,1ere-primaire,ARTPL,Arts plastiques,التربية التشكيلية,ar,False,0
+primaire,1P,1ère année primaire,السنة الأولى ابتدائي,TC,Tronc commun,جذع مشترك,1ere-primaire,EPS,Éducation physique,التربية البدنية,ar,False,0
+primaire,2P,2ème année primaire,السنة الثانية ابتدائي,TC,Tronc commun,جذع مشترك,2eme-primaire,ARAB,Arabe,العربية,ar,False,8
+primaire,2P,2ème année primaire,السنة الثانية ابتدائي,TC,Tronc commun,جذع مشترك,2eme-primaire,FRAN,Français,الفرنسية,fr,False,0
+primaire,2P,2ème année primaire,السنة الثانية ابتدائي,TC,Tronc commun,جذع مشترك,2eme-primaire,MATH,Mathématiques,الرياضيات,ar,False,58
+primaire,2P,2ème année primaire,السنة الثانية ابتدائي,TC,Tronc commun,جذع مشترك,2eme-primaire,EVEIL,Éveil scientifique,الإيقاظ العلمي,ar,False,0
+primaire,2P,2ème année primaire,السنة الثانية ابتدائي,TC,Tronc commun,جذع مشترك,2eme-primaire,TECHNO,Technologie,التكنولوجيا,ar,False,0
+primaire,2P,2ème année primaire,السنة الثانية ابتدائي,TC,Tronc commun,جذع مشترك,2eme-primaire,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,0
+primaire,2P,2ème année primaire,السنة الثانية ابتدائي,TC,Tronc commun,جذع مشترك,2eme-primaire,MUSIQ,Éducation musicale,التربية الموسيقية,ar,False,0
+primaire,2P,2ème année primaire,السنة الثانية ابتدائي,TC,Tronc commun,جذع مشترك,2eme-primaire,ARTPL,Arts plastiques,التربية التشكيلية,ar,False,0
+primaire,2P,2ème année primaire,السنة الثانية ابتدائي,TC,Tronc commun,جذع مشترك,2eme-primaire,EPS,Éducation physique,التربية البدنية,ar,False,0
+primaire,3P,3ème année primaire,السنة الثالثة ابتدائي,TC,Tronc commun,جذع مشترك,3eme-primaire,ARAB,Arabe,العربية,ar,False,26
+primaire,3P,3ème année primaire,السنة الثالثة ابتدائي,TC,Tronc commun,جذع مشترك,3eme-primaire,FRAN,Français,الفرنسية,fr,False,0
+primaire,3P,3ème année primaire,السنة الثالثة ابتدائي,TC,Tronc commun,جذع مشترك,3eme-primaire,MATH,Mathématiques,الرياضيات,ar,False,21
+primaire,3P,3ème année primaire,السنة الثالثة ابتدائي,TC,Tronc commun,جذع مشترك,3eme-primaire,EVEIL,Éveil scientifique,الإيقاظ العلمي,ar,False,8
+primaire,3P,3ème année primaire,السنة الثالثة ابتدائي,TC,Tronc commun,جذع مشترك,3eme-primaire,TECHNO,Technologie,التكنولوجيا,ar,False,0
+primaire,3P,3ème année primaire,السنة الثالثة ابتدائي,TC,Tronc commun,جذع مشترك,3eme-primaire,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,0
+primaire,3P,3ème année primaire,السنة الثالثة ابتدائي,TC,Tronc commun,جذع مشترك,3eme-primaire,MUSIQ,Éducation musicale,التربية الموسيقية,ar,False,0
+primaire,3P,3ème année primaire,السنة الثالثة ابتدائي,TC,Tronc commun,جذع مشترك,3eme-primaire,ARTPL,Arts plastiques,التربية التشكيلية,ar,False,0
+primaire,3P,3ème année primaire,السنة الثالثة ابتدائي,TC,Tronc commun,جذع مشترك,3eme-primaire,EPS,Éducation physique,التربية البدنية,ar,False,0
+primaire,4P,4ème année primaire,السنة الرابعة ابتدائي,TC,Tronc commun,جذع مشترك,4eme-primaire,ARAB,Arabe,العربية,ar,False,45
+primaire,4P,4ème année primaire,السنة الرابعة ابتدائي,TC,Tronc commun,جذع مشترك,4eme-primaire,FRAN,Français,الفرنسية,fr,False,10
+primaire,4P,4ème année primaire,السنة الرابعة ابتدائي,TC,Tronc commun,جذع مشترك,4eme-primaire,ANGL,Anglais,الإنجليزية,en,False,0
+primaire,4P,4ème année primaire,السنة الرابعة ابتدائي,TC,Tronc commun,جذع مشترك,4eme-primaire,MATH,Mathématiques,الرياضيات,ar,False,24
+primaire,4P,4ème année primaire,السنة الرابعة ابتدائي,TC,Tronc commun,جذع مشترك,4eme-primaire,EVEIL,Éveil scientifique,الإيقاظ العلمي,ar,False,8
+primaire,4P,4ème année primaire,السنة الرابعة ابتدائي,TC,Tronc commun,جذع مشترك,4eme-primaire,TECHNO,Technologie,التكنولوجيا,ar,False,0
+primaire,4P,4ème année primaire,السنة الرابعة ابتدائي,TC,Tronc commun,جذع مشترك,4eme-primaire,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,0
+primaire,4P,4ème année primaire,السنة الرابعة ابتدائي,TC,Tronc commun,جذع مشترك,4eme-primaire,MUSIQ,Éducation musicale,التربية الموسيقية,ar,False,0
+primaire,4P,4ème année primaire,السنة الرابعة ابتدائي,TC,Tronc commun,جذع مشترك,4eme-primaire,ARTPL,Arts plastiques,التربية التشكيلية,ar,False,0
+primaire,4P,4ème année primaire,السنة الرابعة ابتدائي,TC,Tronc commun,جذع مشترك,4eme-primaire,EPS,Éducation physique,التربية البدنية,ar,False,0
+primaire,5P,5ème année primaire,السنة الخامسة ابتدائي,TC,Tronc commun,جذع مشترك,5eme-primaire,ARAB,Arabe,العربية,ar,False,38
+primaire,5P,5ème année primaire,السنة الخامسة ابتدائي,TC,Tronc commun,جذع مشترك,5eme-primaire,FRAN,Français,الفرنسية,fr,False,8
+primaire,5P,5ème année primaire,السنة الخامسة ابتدائي,TC,Tronc commun,جذع مشترك,5eme-primaire,MATH,Mathématiques,الرياضيات,ar,False,37
+primaire,5P,5ème année primaire,السنة الخامسة ابتدائي,TC,Tronc commun,جذع مشترك,5eme-primaire,EVEIL,Éveil scientifique,الإيقاظ العلمي,ar,False,4
+primaire,5P,5ème année primaire,السنة الخامسة ابتدائي,TC,Tronc commun,جذع مشترك,5eme-primaire,TECHNO,Technologie,التكنولوجيا,ar,False,0
+primaire,5P,5ème année primaire,السنة الخامسة ابتدائي,TC,Tronc commun,جذع مشترك,5eme-primaire,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,0
+primaire,5P,5ème année primaire,السنة الخامسة ابتدائي,TC,Tronc commun,جذع مشترك,5eme-primaire,HIST,Histoire,التاريخ,ar,False,4
+primaire,5P,5ème année primaire,السنة الخامسة ابتدائي,TC,Tronc commun,جذع مشترك,5eme-primaire,GEO,Géographie,الجغرافيا,ar,False,4
+primaire,5P,5ème année primaire,السنة الخامسة ابتدائي,TC,Tronc commun,جذع مشترك,5eme-primaire,CIVIQ,Éducation civique,التربية المدنية,ar,False,15
+primaire,5P,5ème année primaire,السنة الخامسة ابتدائي,TC,Tronc commun,جذع مشترك,5eme-primaire,MUSIQ,Éducation musicale,التربية الموسيقية,ar,False,0
+primaire,5P,5ème année primaire,السنة الخامسة ابتدائي,TC,Tronc commun,جذع مشترك,5eme-primaire,ARTPL,Arts plastiques,التربية التشكيلية,ar,False,0
+primaire,5P,5ème année primaire,السنة الخامسة ابتدائي,TC,Tronc commun,جذع مشترك,5eme-primaire,EPS,Éducation physique,التربية البدنية,ar,False,0
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,ARAB,Arabe,العربية,ar,False,52
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,FRAN,Français,الفرنسية,fr,False,8
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,ANGL,Anglais,الإنجليزية,en,False,0
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,MATH,Mathématiques,الرياضيات,ar,False,16
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,EVEIL,Éveil scientifique,الإيقاظ العلمي,ar,False,3
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,TECHNO,Technologie,التكنولوجيا,ar,False,0
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,0
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,HIST,Histoire,التاريخ,ar,False,15
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,GEO,Géographie,الجغرافيا,ar,False,10
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,CIVIQ,Éducation civique,التربية المدنية,ar,False,0
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,MUSIQ,Éducation musicale,التربية الموسيقية,ar,False,0
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,ARTPL,Arts plastiques,التربية التشكيلية,ar,False,0
+primaire,6P,6ème année primaire,السنة السادسة ابتدائي,TC,Tronc commun,جذع مشترك,6eme-primaire,EPS,Éducation physique,التربية البدنية,ar,False,0
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,ARAB,Arabe,العربية,ar,False,12
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,FRAN,Français,الفرنسية,fr,False,8
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,ANGL,Anglais,الإنجليزية,en,False,20
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,MATH,Mathématiques,الرياضيات,ar,False,10
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,PHYS,Sciences physiques,العلوم الفيزيائية,ar,False,6
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,SVT,Sciences de la vie et de la terre,علوم الحياة والأرض,ar,False,14
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,TECHNO,Technologie,التكنولوجيا,ar,False,7
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,INFO,Informatique,الإعلامية,ar,False,5
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,3
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,CIVIQ,Éducation civique,التربية المدنية,ar,False,2
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,HIST,Histoire,التاريخ,ar,False,3
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,GEO,Géographie,الجغرافيا,ar,False,2
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,MUSIQ,Éducation musicale,التربية الموسيقية,ar,False,0
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,ARTPL,Arts plastiques,التربية التشكيلية,ar,False,0
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,THEATRE,Éducation théâtrale,التربية المسرحية,ar,True,0
+preparatoire,7B,7ème année de base,السنة السابعة أساسي,TC,Tronc commun,جذع مشترك,7eme-base,EPS,Éducation physique,التربية البدنية,ar,False,0
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,ARAB,Arabe,العربية,ar,False,25
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,FRAN,Français,الفرنسية,fr,False,1
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,ANGL,Anglais,الإنجليزية,en,False,25
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,MATH,Mathématiques,الرياضيات,ar,False,16
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,PHYS,Sciences physiques,العلوم الفيزيائية,ar,False,9
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,SVT,Sciences de la vie et de la terre,علوم الحياة والأرض,ar,False,9
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,TECHNO,Technologie,التكنولوجيا,ar,False,8
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,INFO,Informatique,الإعلامية,ar,False,5
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,3
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,CIVIQ,Éducation civique,التربية المدنية,ar,False,3
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,HIST,Histoire,التاريخ,ar,False,3
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,GEO,Géographie,الجغرافيا,ar,False,5
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,MUSIQ,Éducation musicale,التربية الموسيقية,ar,False,0
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,ARTPL,Arts plastiques,التربية التشكيلية,ar,False,0
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,THEATRE,Éducation théâtrale,التربية المسرحية,ar,True,0
+preparatoire,8B,8ème année de base,السنة الثامنة أساسي,TC,Tronc commun,جذع مشترك,8eme-base,EPS,Éducation physique,التربية البدنية,ar,False,0
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,ARAB,Arabe,العربية,ar,False,29
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,FRAN,Français,الفرنسية,fr,False,7
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,ANGL,Anglais,الإنجليزية,en,False,6
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,MATH,Mathématiques,الرياضيات,ar,False,13
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,PHYS,Sciences physiques,العلوم الفيزيائية,ar,False,8
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,SVT,Sciences de la vie et de la terre,علوم الحياة والأرض,ar,False,14
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,TECHNO,Technologie,التكنولوجيا,ar,False,7
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,INFO,Informatique,الإعلامية,ar,False,4
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,3
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,CIVIQ,Éducation civique,التربية المدنية,ar,False,4
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,HIST,Histoire,التاريخ,ar,False,3
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,GEO,Géographie,الجغرافيا,ar,False,10
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,MUSIQ,Éducation musicale,التربية الموسيقية,ar,False,0
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,ARTPL,Arts plastiques,التربية التشكيلية,ar,False,0
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,THEATRE,Éducation théâtrale,التربية المسرحية,ar,True,0
+preparatoire,9B,9ème année de base,السنة التاسعة أساسي,TC,Tronc commun,جذع مشترك,9eme-base,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,ARAB,Arabe,العربية,ar,False,6
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,FRAN,Français,الفرنسية,fr,False,7
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,ANGL,Anglais,الإنجليزية,en,False,34
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,MATH,Mathématiques,الرياضيات,fr,False,6
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,26
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,BIO,Sciences biologiques,علوم البيولوجيا,fr,False,10
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,HIST,Histoire,التاريخ,ar,False,8
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,GEO,Géographie,الجغرافيا,ar,False,13
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,SPORTSPEC,Spécialité sportive,الاختصاص الرياضي,ar,False,0
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,7
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,SPORT,Sport,رياضة,1ere-sport,CIVIQ,Éducation civique,التربية المدنية,ar,False,4
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,ARAB,Arabe,العربية,ar,False,6
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,FRAN,Français,الفرنسية,fr,False,7
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,ANGL,Anglais,الإنجليزية,en,False,34
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,MATH,Mathématiques,الرياضيات,fr,False,16
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,26
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,SVT,Sciences de la vie et de la terre,علوم الحياة والأرض,fr,False,8
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,TECHNO,Technologie,التكنولوجيا,fr,False,13
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,HIST,Histoire,التاريخ,ar,False,8
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,GEO,Géographie,الجغرافيا,ar,False,13
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,7
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,CIVIQ,Éducation civique,التربية المدنية,ar,False,4
+secondaire,1S,1ère année secondaire,السنة الأولى ثانوي,TC,Tronc commun,جذع مشترك,1ere-secondaire,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,ECOSERV,Économie et services,اقتصاد وخدمات,2eme-economie-services,ARAB,Arabe,العربية,ar,False,8
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,ECOSERV,Économie et services,اقتصاد وخدمات,2eme-economie-services,FRAN,Français,الفرنسية,fr,False,5
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,ECOSERV,Économie et services,اقتصاد وخدمات,2eme-economie-services,ANGL,Anglais,الإنجليزية,en,False,10
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,ECOSERV,Économie et services,اقتصاد وخدمات,2eme-economie-services,ECO,Économie,الاقتصاد,ar,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,ECOSERV,Économie et services,اقتصاد وخدمات,2eme-economie-services,GEST,Gestion,التصرف,ar,False,7
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,ECOSERV,Économie et services,اقتصاد وخدمات,2eme-economie-services,MATH,Mathématiques,الرياضيات,fr,False,8
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,ECOSERV,Économie et services,اقتصاد وخدمات,2eme-economie-services,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,ECOSERV,Économie et services,اقتصاد وخدمات,2eme-economie-services,HIST,Histoire,التاريخ,ar,False,2
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,ECOSERV,Économie et services,اقتصاد وخدمات,2eme-economie-services,GEO,Géographie,الجغرافيا,ar,False,4
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,ECOSERV,Économie et services,اقتصاد وخدمات,2eme-economie-services,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,7
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,ECOSERV,Économie et services,اقتصاد وخدمات,2eme-economie-services,CIVIQ,Éducation civique,التربية المدنية,ar,False,3
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,ECOSERV,Économie et services,اقتصاد وخدمات,2eme-economie-services,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,LET,Lettres,آداب,2eme-lettres,ARAB,Arabe,العربية,ar,False,8
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,LET,Lettres,آداب,2eme-lettres,FRAN,Français,الفرنسية,fr,False,5
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,LET,Lettres,آداب,2eme-lettres,ANGL,Anglais,الإنجليزية,en,False,10
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,LET,Lettres,آداب,2eme-lettres,MATH,Mathématiques,الرياضيات,fr,False,5
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,LET,Lettres,آداب,2eme-lettres,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,LET,Lettres,آداب,2eme-lettres,HIST,Histoire,التاريخ,ar,False,2
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,LET,Lettres,آداب,2eme-lettres,GEO,Géographie,الجغرافيا,ar,False,4
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,LET,Lettres,آداب,2eme-lettres,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,7
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,LET,Lettres,آداب,2eme-lettres,CIVIQ,Éducation civique,التربية المدنية,ar,False,3
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,LET,Lettres,آداب,2eme-lettres,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,ARAB,Arabe,العربية,ar,False,8
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,FRAN,Français,الفرنسية,fr,False,5
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,ANGL,Anglais,الإنجليزية,en,False,10
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,MATH,Mathématiques,الرياضيات,fr,False,19
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,40
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,SVT,Sciences de la vie et de la terre,علوم الحياة والأرض,fr,False,15
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,TECHNO,Technologie,التكنولوجيا,fr,False,7
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,HIST,Histoire,التاريخ,ar,False,4
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,GEO,Géographie,الجغرافيا,ar,False,11
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,7
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,CIVIQ,Éducation civique,التربية المدنية,ar,False,3
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SCI,Sciences,علوم,2eme-sciences,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,ARAB,Arabe,العربية,ar,False,3
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,FRAN,Français,الفرنسية,fr,False,5
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,ANGL,Anglais,الإنجليزية,en,False,10
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,MATH,Mathématiques,الرياضيات,fr,False,8
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,BIO,Sciences biologiques,علوم البيولوجيا,fr,False,9
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,HIST,Histoire,التاريخ,ar,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,GEO,Géographie,الجغرافيا,ar,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,SPORTSPEC,Spécialité sportive,الاختصاص الرياضي,ar,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,7
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,SPORT,Sport,رياضة,2eme-sport,CIVIQ,Éducation civique,التربية المدنية,ar,False,3
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,TI,Technologie de l'informatique,تكنولوجيا الإعلامية,2eme-technologie-informatique,ARAB,Arabe,العربية,ar,False,8
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,TI,Technologie de l'informatique,تكنولوجيا الإعلامية,2eme-technologie-informatique,FRAN,Français,الفرنسية,fr,False,5
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,TI,Technologie de l'informatique,تكنولوجيا الإعلامية,2eme-technologie-informatique,ANGL,Anglais,الإنجليزية,en,False,10
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,TI,Technologie de l'informatique,تكنولوجيا الإعلامية,2eme-technologie-informatique,MATH,Mathématiques,الرياضيات,fr,False,19
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,TI,Technologie de l'informatique,تكنولوجيا الإعلامية,2eme-technologie-informatique,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,22
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,TI,Technologie de l'informatique,تكنولوجيا الإعلامية,2eme-technologie-informatique,TECHNO,Technologie,التكنولوجيا,fr,False,7
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,TI,Technologie de l'informatique,تكنولوجيا الإعلامية,2eme-technologie-informatique,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,TI,Technologie de l'informatique,تكنولوجيا الإعلامية,2eme-technologie-informatique,HIST,Histoire,التاريخ,ar,False,4
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,TI,Technologie de l'informatique,تكنولوجيا الإعلامية,2eme-technologie-informatique,GEO,Géographie,الجغرافيا,ar,False,11
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,TI,Technologie de l'informatique,تكنولوجيا الإعلامية,2eme-technologie-informatique,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,7
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,TI,Technologie de l'informatique,تكنولوجيا الإعلامية,2eme-technologie-informatique,CIVIQ,Éducation civique,التربية المدنية,ar,False,3
+secondaire,2S,2ème année secondaire,السنة الثانية ثانوي,TI,Technologie de l'informatique,تكنولوجيا الإعلامية,2eme-technologie-informatique,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,ARAB,Arabe,العربية,ar,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,FRAN,Français,الفرنسية,fr,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,ANGL,Anglais,الإنجليزية,en,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,ECO,Économie,الاقتصاد,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,GEST,Gestion,التصرف,ar,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,MATH,Mathématiques,الرياضيات,fr,False,12
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,HIST,Histoire,التاريخ,ar,False,5
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,GEO,Géographie,الجغرافيا,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,PHILO,Philosophie,الفلسفة,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,ALLEM,Allemand,الألمانية,de,True,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,ESPA,Espagnol,الإسبانية,es,True,14
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,ITAL,Italien,الإيطالية,it,True,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,RUSSE,Russe,الروسية,ru,True,10
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,CHIN,Chinois,الصينية,zh,True,11
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,PORT,Portugais,البرتغالية,pt,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,MUSIQ,Éducation musicale,التربية الموسيقية,ar,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,ECO,Économie et gestion,اقتصاد وتصرف,3eme-economie-gestion,ARTPL,Arts plastiques,التربية التشكيلية,ar,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,ARAB,Arabe,العربية,ar,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,FRAN,Français,الفرنسية,fr,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,ANGL,Anglais,الإنجليزية,en,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,MATH,Mathématiques,الرياضيات,fr,False,15
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,ALGO,Algorithmique et programmation,الخوارزميات والبرمجة,fr,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,STI,Systèmes et technologies de l'informatique,أنظمة وتكنولوجيات المعلوماتية,fr,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,31
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,HIST,Histoire,التاريخ,ar,False,16
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,GEO,Géographie,الجغرافيا,ar,False,8
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,PHILO,Philosophie,الفلسفة,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,ALLEM,Allemand,الألمانية,de,True,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,ESPA,Espagnol,الإسبانية,es,True,14
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,ITAL,Italien,الإيطالية,it,True,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,RUSSE,Russe,الروسية,ru,True,10
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,CHIN,Chinois,الصينية,zh,True,11
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,PORT,Portugais,البرتغالية,pt,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,MUSIQ,Éducation musicale,التربية الموسيقية,ar,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,INFO,Sciences de l'informatique,علوم الإعلامية,3eme-informatique,ARTPL,Arts plastiques,التربية التشكيلية,ar,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,ARAB,Arabe,العربية,ar,False,8
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,FRAN,Français,الفرنسية,fr,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,ANGL,Anglais,الإنجليزية,en,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,PHILO,Philosophie,الفلسفة,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,HIST,Histoire,التاريخ,ar,False,5
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,GEO,Géographie,الجغرافيا,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,CIVIQ,Éducation civique,التربية المدنية,ar,False,9
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,MATH,Mathématiques,الرياضيات,fr,True,7
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,SVT,Sciences de la vie et de la terre,علوم الحياة والأرض,fr,True,7
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,ALLEM,Allemand,الألمانية,de,True,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,ESPA,Espagnol,الإسبانية,es,True,14
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,ITAL,Italien,الإيطالية,it,True,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,RUSSE,Russe,الروسية,ru,True,10
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,CHIN,Chinois,الصينية,zh,True,11
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,PORT,Portugais,البرتغالية,pt,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,MUSIQ,Éducation musicale,التربية الموسيقية,ar,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,LET,Lettres,آداب,3eme-lettres,ARTPL,Arts plastiques,التربية التشكيلية,ar,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,ARAB,Arabe,العربية,ar,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,FRAN,Français,الفرنسية,fr,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,ANGL,Anglais,الإنجليزية,en,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,MATH,Mathématiques,الرياضيات,fr,False,23
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,25
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,SVT,Sciences de la vie et de la terre,علوم الحياة والأرض,fr,False,9
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,HIST,Histoire,التاريخ,ar,False,16
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,GEO,Géographie,الجغرافيا,ar,False,8
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,PHILO,Philosophie,الفلسفة,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,ALLEM,Allemand,الألمانية,de,True,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,ESPA,Espagnol,الإسبانية,es,True,14
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,ITAL,Italien,الإيطالية,it,True,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,RUSSE,Russe,الروسية,ru,True,10
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,CHIN,Chinois,الصينية,zh,True,11
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,PORT,Portugais,البرتغالية,pt,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,MUSIQ,Éducation musicale,التربية الموسيقية,ar,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,MATH,Mathématiques,رياضيات,3eme-mathematiques,ARTPL,Arts plastiques,التربية التشكيلية,ar,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,ARAB,Arabe,العربية,ar,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,FRAN,Français,الفرنسية,fr,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,ANGL,Anglais,الإنجليزية,en,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,SVT,Sciences de la vie et de la terre,علوم الحياة والأرض,fr,False,17
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,24
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,MATH,Mathématiques,الرياضيات,fr,False,20
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,HIST,Histoire,التاريخ,ar,False,16
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,GEO,Géographie,الجغرافيا,ar,False,8
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,PHILO,Philosophie,الفلسفة,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,ALLEM,Allemand,الألمانية,de,True,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,ESPA,Espagnol,الإسبانية,es,True,14
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,ITAL,Italien,الإيطالية,it,True,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,RUSSE,Russe,الروسية,ru,True,10
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,CHIN,Chinois,الصينية,zh,True,11
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,PORT,Portugais,البرتغالية,pt,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,MUSIQ,Éducation musicale,التربية الموسيقية,ar,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SCEXP,Sciences expérimentales,علوم تجريبية,3eme-sciences-experimentales,ARTPL,Arts plastiques,التربية التشكيلية,ar,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,ARAB,Arabe,العربية,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,FRAN,Français,الفرنسية,fr,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,ANGL,Anglais,الإنجليزية,en,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,MATH,Mathématiques,الرياضيات,fr,False,8
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,BIO,Sciences biologiques,علوم البيولوجيا,fr,False,14
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,HIST,Histoire,التاريخ,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,GEO,Géographie,الجغرافيا,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,SPORTSPEC,Spécialité sportive,الاختصاص الرياضي,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,CIVIQ,Éducation civique,التربية المدنية,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,SPORT,Sport,رياضة,3eme-sport,PHILO,Philosophie,الفلسفة,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,ARAB,Arabe,العربية,ar,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,FRAN,Français,الفرنسية,fr,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,ANGL,Anglais,الإنجليزية,en,False,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,TECHNO,Technologie,التكنولوجيا,fr,False,16
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,MATH,Mathématiques,الرياضيات,fr,False,19
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,25
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,HIST,Histoire,التاريخ,ar,False,16
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,GEO,Géographie,الجغرافيا,ar,False,8
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,PHILO,Philosophie,الفلسفة,ar,False,3
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,ALLEM,Allemand,الألمانية,de,True,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,ESPA,Espagnol,الإسبانية,es,True,14
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,ITAL,Italien,الإيطالية,it,True,6
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,RUSSE,Russe,الروسية,ru,True,10
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,CHIN,Chinois,الصينية,zh,True,11
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,PORT,Portugais,البرتغالية,pt,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,MUSIQ,Éducation musicale,التربية الموسيقية,ar,True,0
+secondaire,3S,3ème année secondaire,السنة الثالثة ثانوي,TECH,Sciences techniques,العلوم التقنية,3eme-techniques,ARTPL,Arts plastiques,التربية التشكيلية,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,ARAB,Arabe,العربية,ar,False,2
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,FRAN,Français,الفرنسية,fr,False,7
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,ANGL,Anglais,الإنجليزية,en,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,ECO,Économie,الاقتصاد,ar,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,GEST,Gestion,التصرف,ar,False,6
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,MATH,Mathématiques,الرياضيات,fr,False,10
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,HISTGEO,Histoire-Géographie,التاريخ والجغرافيا,ar,False,26
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,PHILO,Philosophie,الفلسفة,ar,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,ALLEM,Allemand,الألمانية,de,True,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,ESPA,Espagnol,الإسبانية,es,True,12
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,ITAL,Italien,الإيطالية,it,True,6
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,RUSSE,Russe,الروسية,ru,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,CHIN,Chinois,الصينية,zh,True,10
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,PORT,Portugais,البرتغالية,pt,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,MUSIQ,Éducation musicale,التربية الموسيقية,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),ECO,Économie et gestion,اقتصاد وتصرف,bac-economie-gestion,ARTPL,Arts plastiques,التربية التشكيلية,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,ARAB,Arabe,العربية,ar,False,2
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,FRAN,Français,الفرنسية,fr,False,7
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,ANGL,Anglais,الإنجليزية,en,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,ALGO,Algorithmique et programmation,الخوارزميات والبرمجة,fr,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,STI,Systèmes et technologies de l'informatique,أنظمة وتكنولوجيات المعلوماتية,fr,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,MATH,Mathématiques,الرياضيات,fr,False,13
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,19
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,PHILO,Philosophie,الفلسفة,ar,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,ALLEM,Allemand,الألمانية,de,True,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,ESPA,Espagnol,الإسبانية,es,True,12
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,ITAL,Italien,الإيطالية,it,True,6
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,RUSSE,Russe,الروسية,ru,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,CHIN,Chinois,الصينية,zh,True,10
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,PORT,Portugais,البرتغالية,pt,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,MUSIQ,Éducation musicale,التربية الموسيقية,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),INFO,Sciences de l'informatique,علوم الإعلامية,bac-informatique,ARTPL,Arts plastiques,التربية التشكيلية,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,ARAB,Arabe,العربية,ar,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,FRAN,Français,الفرنسية,fr,False,6
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,ANGL,Anglais,الإنجليزية,en,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,PHILO,Philosophie,الفلسفة,ar,False,8
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,HISTGEO,Histoire-Géographie,التاريخ والجغرافيا,ar,False,26
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,ISLAM,Éducation islamique,التربية الإسلامية,ar,False,7
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,MATH,Mathématiques,الرياضيات,fr,True,8
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,SVT,Sciences de la vie et de la terre,علوم الحياة والأرض,fr,True,11
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,ALLEM,Allemand,الألمانية,de,True,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,ESPA,Espagnol,الإسبانية,es,True,12
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,ITAL,Italien,الإيطالية,it,True,6
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,RUSSE,Russe,الروسية,ru,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,CHIN,Chinois,الصينية,zh,True,10
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,PORT,Portugais,البرتغالية,pt,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,MUSIQ,Éducation musicale,التربية الموسيقية,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),LET,Lettres,آداب,bac-lettres,ARTPL,Arts plastiques,التربية التشكيلية,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,ARAB,Arabe,العربية,ar,False,2
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,FRAN,Français,الفرنسية,fr,False,7
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,ANGL,Anglais,الإنجليزية,en,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,MATH,Mathématiques,الرياضيات,fr,False,19
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,23
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,SVT,Sciences de la vie et de la terre,علوم الحياة والأرض,fr,False,10
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,PHILO,Philosophie,الفلسفة,ar,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,ALLEM,Allemand,الألمانية,de,True,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,ESPA,Espagnol,الإسبانية,es,True,12
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,ITAL,Italien,الإيطالية,it,True,6
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,RUSSE,Russe,الروسية,ru,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,CHIN,Chinois,الصينية,zh,True,10
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,PORT,Portugais,البرتغالية,pt,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,MUSIQ,Éducation musicale,التربية الموسيقية,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),MATH,Mathématiques,رياضيات,bac-mathematiques,ARTPL,Arts plastiques,التربية التشكيلية,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,ARAB,Arabe,العربية,ar,False,2
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,FRAN,Français,الفرنسية,fr,False,7
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,ANGL,Anglais,الإنجليزية,en,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,SVT,Sciences de la vie et de la terre,علوم الحياة والأرض,fr,False,19
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,24
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,MATH,Mathématiques,الرياضيات,fr,False,17
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,PHILO,Philosophie,الفلسفة,ar,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,ALLEM,Allemand,الألمانية,de,True,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,ESPA,Espagnol,الإسبانية,es,True,12
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,ITAL,Italien,الإيطالية,it,True,6
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,RUSSE,Russe,الروسية,ru,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,CHIN,Chinois,الصينية,zh,True,10
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,PORT,Portugais,البرتغالية,pt,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,MUSIQ,Éducation musicale,التربية الموسيقية,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SCEXP,Sciences expérimentales,علوم تجريبية,bac-sciences-experimentales,ARTPL,Arts plastiques,التربية التشكيلية,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SPORT,Sport,رياضة,bac-sport,ARAB,Arabe,العربية,ar,False,3
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SPORT,Sport,رياضة,bac-sport,FRAN,Français,الفرنسية,fr,False,7
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SPORT,Sport,رياضة,bac-sport,ANGL,Anglais,الإنجليزية,en,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SPORT,Sport,رياضة,bac-sport,MATH,Mathématiques,الرياضيات,fr,False,7
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SPORT,Sport,رياضة,bac-sport,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SPORT,Sport,رياضة,bac-sport,BIO,Sciences biologiques,علوم البيولوجيا,fr,False,10
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SPORT,Sport,رياضة,bac-sport,INFO,Informatique,الإعلامية,fr,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SPORT,Sport,رياضة,bac-sport,HIST,Histoire,التاريخ,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SPORT,Sport,رياضة,bac-sport,GEO,Géographie,الجغرافيا,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SPORT,Sport,رياضة,bac-sport,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SPORT,Sport,رياضة,bac-sport,SPORTSPEC,Spécialité sportive,الاختصاص الرياضي,ar,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),SPORT,Sport,رياضة,bac-sport,PHILO,Philosophie,الفلسفة,ar,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,ARAB,Arabe,العربية,ar,False,2
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,FRAN,Français,الفرنسية,fr,False,7
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,ANGL,Anglais,الإنجليزية,en,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,TECHNO,Technologie,التكنولوجيا,fr,False,12
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,MATH,Mathématiques,الرياضيات,fr,False,16
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,PHYS,Sciences physiques,العلوم الفيزيائية,fr,False,19
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,INFO,Informatique,الإعلامية,fr,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,PHILO,Philosophie,الفلسفة,ar,False,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,EPS,Éducation physique,التربية البدنية,ar,False,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,ALLEM,Allemand,الألمانية,de,True,5
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,ESPA,Espagnol,الإسبانية,es,True,12
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,ITAL,Italien,الإيطالية,it,True,6
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,RUSSE,Russe,الروسية,ru,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,CHIN,Chinois,الصينية,zh,True,10
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,PORT,Portugais,البرتغالية,pt,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,MUSIQ,Éducation musicale,التربية الموسيقية,ar,True,0
+secondaire,BAC,Baccalauréat (4ème année secondaire),البكالوريا (السنة الرابعة ثانوي),TECH,Sciences techniques,العلوم التقنية,bac-techniques,ARTPL,Arts plastiques,التربية التشكيلية,ar,True,0

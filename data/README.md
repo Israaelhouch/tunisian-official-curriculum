@@ -5,6 +5,8 @@
 | `curriculum/<class>.json` | **Source of truth**, one file per class (30 classes) | Yes (subjects, names), then run the export |
 | `curriculum.json` | Everything in one file, generated from `curriculum/` | No: `python scripts/export_curriculum.py` |
 | `CURRICULUM_NOTES.md` | What is missing (generated with `curriculum.json`) | No |
+| `curriculum_chapters.csv`, `curriculum_subjects.csv` | Flat tables: one row per chapter / per class subject (generated) | No |
+| `DATASET_CARD.md` | Description for publishing the CSVs on Hugging Face / Kaggle | Yes |
 | `cnp/catalogue.json` | All official CNP student textbooks: code, title, PDF links | No: `python -m pipeline.cnp.crawl_catalogue` |
 | `cnp/books/<code>.json` | One textbook's full table of contents (`toc`) + `notes` on sources and doubts | Yes, to fix a chapter; then merge + export |
 | `cnp/chapter_depth.json` | Per book: depth at which chapters sit in its `toc` (1 or 2) | Yes; then merge + export |

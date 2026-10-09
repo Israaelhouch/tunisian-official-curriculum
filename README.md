@@ -83,6 +83,7 @@ broken font encodings and deserve a native check.
 
 ```
 data/curriculum.json        everything in one file
+data/*.csv                  the same as flat tables (one row per chapter / per class subject)
 data/curriculum/            one file per class (source of truth)
 data/cnp/                   textbook catalogue and per-book tables of contents
 models.py                   Pydantic schemas + SQLAlchemy tables
