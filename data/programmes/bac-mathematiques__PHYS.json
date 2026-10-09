@@ -1,0 +1,309 @@
+{
+ "class": "bac-mathematiques",
+ "subject": "PHYS",
+ "source": {
+  "document": "Programme officiel de sciences physiques — 3ème et 4ème années de l'enseignement secondaire",
+  "issuer": "Ministère de l'Éducation (Tunisie)",
+  "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/physique3_4.pdf",
+  "pages": "77-97"
+ },
+ "units": [
+  {
+   "domain": "A. PHYSIQUE",
+   "topic": "EVOLUTION DE SYSTEMES > I. Evolution de systèmes électriques > I-1. Le condensateur, le dipôle RC",
+   "contents": [
+    "Description sommaire d’un condensateur.",
+    "Charge électrique et capacité d’un condensateur.",
+    "Réponse d’un dipôle RC à un échelon de tension ; constante de temps τ = R.C.",
+    "Energie emmagasinée dans un condensateur."
+   ],
+   "objectives": [
+    "Réaliser un montage permettant de tracer la courbe d’évolution de la charge électrique d’un condensateur au cours du temps.",
+    "Déterminer à l’aide de la courbe de charge d’un condensateur la valeur de la capacité C.",
+    "Reconnaître que l'intensité i du courant est une grandeur algébrique.",
+    "Etablir l’équation différentielle qui régit la charge instantanée q(t) d’un condensateur, la tension uC(t) à ses bornes et l’intensité i(t) du courant qui parcourt le circuit de charge durant le régime transitoire.",
+    "Déterminer graphiquement, à partir de la courbe de réponse uC(t) ou i(t) d’un dipôle RC soumis à un échelon de tension, la constante de temps τ = R.C.",
+    "Calculer l’énergie emmagasinée dans un condensateur."
+   ]
+  },
+  {
+   "domain": "A. PHYSIQUE",
+   "topic": "EVOLUTION DE SYSTEMES > I-2. La bobine, le dipôle RL",
+   "contents": [
+    "Induction électromagnétique.",
+    "Courant induit : Loi de Lenz",
+    "Force électromotrice d'induction.",
+    "Auto-induction : Force électromotrice d’auto-induction et inductance d’un solénoïde.",
+    "Réponse d’un dipôle RL à un échelon de tension ; constante de temps τ = L/R.",
+    "Energie emmagasinée dans une bobine."
+   ],
+   "objectives": [
+    "Mettre en évidence expérimentalement le phénomène d’induction électromagnétique.",
+    "Appliquer la loi de Lenz.",
+    "Reconnaître les facteurs dont dépend la f.e.m. d’auto-induction.",
+    "Etablir l’équation différentielle qui régit les variations de i en fonction du temps dans un dipôle RL alimenté soumis à un échelon de tension.",
+    "Déterminer graphiquement, à partir de la courbe de réponse uL(t) ou i(t) d’un dipôle RL soumis à un échelon de tension, la constante de temps τ = L/R.",
+    "Calculer l’énergie emmagasinée dans un solénoïde."
+   ]
+  },
+  {
+   "domain": "A. PHYSIQUE",
+   "topic": "EVOLUTION DE SYSTEMES > I-3. Le circuit RLC série",
+   "contents": [
+    "Oscillations libres amorties.",
+    "Régime pseudopériodique et régime apériodique.",
+    "Equation différentielle.",
+    "L'énergie totale et sa non conservation.",
+    "Cas particulier des oscillations libres non amorties",
+    "Equation différentielle.",
+    "Période propre T0 et fréquence propre N0.",
+    "L'énergie totale et sa conservation.",
+    "Oscillations forcées en régime sinusoïdal.",
+    "Production.",
+    "Influence de la fréquence d'excitation sur les oscillations et résonance d'intensité.",
+    "Impédance électrique.",
+    "Puissance moyenne et facteur de puissance : pertes en ligne."
+   ],
+   "objectives": [
+    "Réaliser un montage permettant de suivre les oscillations libres d’un circuit RLC série.",
+    "Reconnaître le régime pseudopériodique et le régime apériodique.",
+    "Reconnaître le facteur responsable de l’amortissement.",
+    "Etablir l’équation différentielle des oscillations libres d’un circuit RLC série.",
+    "Interpréter la diminution de l’amplitude des oscillations libres amorties par le transfert d’énergie de l’oscillateur vers le milieu extérieur.",
+    "Distinguer, en régime forcé, le résonateur de l’excitateur.",
+    "Visualiser simultanément à l’oscilloscope la tension excitatrice u(t) et l'intensité du courant i(t).",
+    "Mesurer l’amplitude et la fréquence d’une grandeur oscillante sinusoïdale.",
+    "Déterminer le déphasage entre la tension excitatrice u(t) et l’intensité du courant i(t).",
+    "Mettre en évidence expérimentalement le phénomène de résonance d’intensité.",
+    "Etablir l’expression de l’intensité maximale Im en fonction de la fréquence des excitations de l’oscillateur.",
+    "Calculer la puissance moyenne absorbée par un oscillateur électrique.",
+    "Expliquer l’importance du facteur de puissance dans les transformations de l’énergie électrique."
+   ]
+  },
+  {
+   "domain": "A. PHYSIQUE",
+   "topic": "EVOLUTION DE SYSTEMES > II. Evolution d’un système mécanique : le pendule élastique",
+   "contents": [
+    "II-1. Oscillations libres non amorties",
+    "Mise en évidence.",
+    "Période propre T0 et fréquence propre N0.",
+    "Equation différentielle.",
+    "L'énergie totale et sa conservation.",
+    "II-2. Oscillations libres amorties :",
+    "Régimes pseudopériodique et apériodique.",
+    "L'énergie totale et sa non conservation.",
+    "II-3. Oscillations forcées en régime sinusoïdal",
+    "Production.",
+    "Influence de la fréquence d'excitation sur les oscillations et résonance d’élongation."
+   ],
+   "objectives": [
+    "Etablir l'équation différentielle des oscillations libres d’un pendule élastique.",
+    "Mesurer la période propre d'un pendule élastique.",
+    "Calculer l'énergie totale d'un pendule élastique en régime libre non amorti.",
+    "A l'aide d'un enregistrement graphique, reconnaître le régime d'oscillations libres (amorti ou bien non amorti) d'un pendule élastique.",
+    "Expliquer la diminution d'amplitude des oscillations libres amorties d'un pendule élastique par la non conservation de son énergie totale.",
+    "Mettre en évidence la résonance d'élongation d'un pendule élastique.",
+    "Etablir l’expression de l’amplitude Xm des oscillations d'un pendule élastique en fonction de la fréquence N de l’excitateur.",
+    "Utiliser l’analogie formelle pour : - caractériser la résonance de charge dans un circuit RLC série ; - caractériser la résonance de vitesse ; - exprimer la puissance mécanique moyenne d’un oscillateur."
+   ]
+  },
+  {
+   "domain": "A. PHYSIQUE",
+   "topic": "ONDES > I. Ondes mécaniques progressives",
+   "contents": [
+    "I-1. Notion d'onde :",
+    "Onde transversale et onde longitudinale.",
+    "Célérité d’une onde.",
+    "I-2. Onde progressive sinusoïdale :",
+    "Double périodicité : périodicité temporelle (T) et périodicité spatiale (longueur d'onde λ )."
+   ],
+   "objectives": [
+    "Distinguer entre une onde transversale et une onde longitudinale.",
+    "Reconnaître que la propagation d’une onde est due à une propagation d’énergie sans transport de matière.",
+    "Réaliser une expérience illustrant la propagation d’une onde sinusoïdale dans un milieu homogène et isotrope.",
+    "Identifier, dans un milieu de propagation donné, les propriétés dont dépend la célérité d’une onde.",
+    "Etablir l'équation horaire du mouvement d'un point donné du milieu de propagation connaissant celle de la source d'onde progressive et représenter graphiquement le diagramme du mouvement de ce point.",
+    "Représenter graphiquement l'aspect, à un instant donné, du milieu (ou d'une coupe du milieu) de propagation d'une onde progressive.",
+    "Reconnaître la double périodicité d’une onde sinusoïdale."
+   ]
+  },
+  {
+   "domain": "A. PHYSIQUE",
+   "topic": "ONDES > II. Interactions onde-matière",
+   "contents": [
+    "II-1. Diffraction mécanique et lumineuse (caractère ondulatoire de la lumière).",
+    "II-2. Réflexion",
+    "II-3. Réfraction",
+    "II-4. Dispersion"
+   ],
+   "objectives": [
+    "Justifier le caractère ondulatoire de la lumière à partir des expériences de diffraction d’ondes mécaniques et d’ondes lumineuses.",
+    "Préciser l'influence, sur le phénomène de diffraction, du quotient λ/a (λ étant la longueur d'onde et a la largeur de la fente).",
+    "Réaliser des expériences de réflexion, de réfraction et de dispersion d'ondes mécaniques.",
+    "Montrer qu’une lumière blanche est constituée d'une infinité de radiations monochromatiques.",
+    "Distinguer un milieu dispersif d'un milieu non dispersif."
+   ]
+  },
+  {
+   "domain": "A. PHYSIQUE",
+   "topic": "PHYSIQUE ATOMIQUE ET NUCLEAIRE",
+   "contents": [
+    "I. Spectre atomique et quantification des échanges d’énergie",
+    "I-1. Quantification de l’énergie d’un atome",
+    "Quantification des échanges d’énergie à l’échelle des atomes.",
+    "Niveaux d’énergie d’un atome.",
+    "I-2. Spectre atomique",
+    "Quantum d’énergie : le photon.",
+    "Etat fondamental et états excités d’un atome.",
+    "Spectres d’absorption et d’émission d’un atome.",
+    "II. Noyau atomique",
+    "II-1. Equivalence masse-énergie",
+    "Relation d'Einstein E = mc².",
+    "Défaut de masse.",
+    "II-2. Stabilité du noyau",
+    "Energie de liaison.",
+    "Energie de liaison par nucléon."
+   ],
+   "objectives": [
+    "Décrire une expérience montrant que l’énergie de l’atome est quantifiée.",
+    "Calculer l’énergie de l’atome d’hydrogène en joules et en électrons-volts.",
+    "Distinguer un spectre d’émission d’un spectre d’absorption.",
+    "Appliquer la relation ∆E = h.ν",
+    "Identifier un élément chimique à partir de son spectre d’émission ou d’absorption.",
+    "Utiliser le spectre de la lumière émise par une étoile pour reconnaître certains de ses constituants.",
+    "Ecrire le symbole d'un noyau atomique connaissant sa composition et inversement.",
+    "Evaluer, en joules et en MeV, l'énergie mise en jeu au cours d'une transformation nucléaire.",
+    "Evaluer en u et en MeV.c⁻², le défaut de masse résultant de la formation d'un noyau.",
+    "Calculer l'énergie de liaison d'un noyau et son énergie de liaison par nucléon.",
+    "Comparer la stabilité de deux ou de plusieurs noyaux, connaissant la valeur de leur énergie de liaison par nucléon."
+   ]
+  },
+  {
+   "domain": "A. PHYSIQUE",
+   "topic": "PHYSIQUE ATOMIQUE ET NUCLEAIRE > III. Réactions nucléaires",
+   "contents": [
+    "III-1. Réactions nucléaires spontanées : Radioactivité",
+    "Radioactivité naturelle et radioactivité artificielle : les différents rayonnements.",
+    "Loi de désintégration radioactive.",
+    "Période ou demi-vie d'un radioélément.",
+    "Activité d'un échantillon radioactif et effet biologique.",
+    "Application: datation par le carbone 14 .",
+    "III-2. Réactions nucléaires provoquées",
+    "Fission.",
+    "Fusion.",
+    "Applications : énergie nucléaire ; énergie du Soleil."
+   ],
+   "objectives": [
+    "Justifier l'émission de rayonnements radioactifs.",
+    "Ecrire les équations des réactions nucléaires spontanées.",
+    "Appliquer la loi de désintégration pour des durées multiples de la période d'un radioélément.",
+    "Calculer l'activité d'un échantillon radioactif.",
+    "Distinguer les réactions nucléaires spontanées des réactions nucléaires provoquées.",
+    "Distinguer la fission de la fusion nucléaire.",
+    "Ecrire les équations des réactions nucléaires provoquées.",
+    "Justifier la variation d'énergie accompagnant la fission et la fusion nucléaires.",
+    "Evaluer l'énergie libérée au cours des réactions nucléaires de fission et de fusion."
+   ]
+  },
+  {
+   "domain": "B. CHIMIE",
+   "topic": "CINETIQUE CHIMIQUE",
+   "contents": [
+    "I. Notion d’avancement :",
+    "I-1. Définition.",
+    "I-2. Evolution au cours du temps.",
+    "II. Vitesse d’une réaction chimique :",
+    "II-1. Vitesse moyenne.",
+    "II-2. Vitesse instantanée.",
+    "III. Principaux facteurs cinétiques :",
+    "III-1. Concentration.",
+    "III-2. Température.",
+    "III-3. Catalyseur."
+   ],
+   "objectives": [
+    "Calculer l’avancement d’une réaction.",
+    "Calculer la vitesse moyenne.",
+    "Déterminer graphiquement la vitesse instantanée d’une réaction chimique.",
+    "Distinguer la différence entre catalyseur et réactif.",
+    "Reconnaître les principaux facteurs cinétiques."
+   ]
+  },
+  {
+   "domain": "B. CHIMIE",
+   "topic": "EQUILIBRES CHIMIQUES",
+   "contents": [
+    "I. Notion d’équilibre chimique :",
+    "I-1. Avancement final et avancement maximal :",
+    "Cas d’une réaction totale.",
+    "Cas d’une réaction limitée.",
+    "I-2. Taux d’avancement final d’une réaction chimique.",
+    "I-3. Définition d’un état d’équilibre chimique.",
+    "I-4. Interprétation microscopique de l’équilibre chimique.",
+    "II. Loi d’action de masse :",
+    "II-1. La fonction des concentrations Π.",
+    "II-2. Enoncé de la loi d’action de masse : Constante d’équilibre.",
+    "III. Conditions d’évolution spontanée.",
+    "IV. Loi de modération."
+   ],
+   "objectives": [
+    "Calculer l’avancement maximal d’une réaction.",
+    "Calculer le taux d’avancement maximal d’une réaction chimique.",
+    "Déterminer le caractère total ou limité d’une réaction.",
+    "Faire l’étude expérimentale quantitative de la réaction d’estérification.",
+    "Reconnaître un système en état d’équilibre chimique.",
+    "Appliquer la loi d’action de masse.",
+    "Prévoir le sens d’évolution d’un système chimique vers un état d’équilibre.",
+    "Appliquer la loi de modération pour prévoir le sens d’évolution d’un système chimique d’un état d’équilibre à un autre."
+   ]
+  },
+  {
+   "domain": "B. CHIMIE",
+   "topic": "REACTIONS ACIDES-BASES",
+   "contents": [
+    "I. Equilibre acide-base",
+    "II. Classification des acides et des bases :",
+    "II-1. Acide fort, acide faible, base forte et base faible.",
+    "II-2. Choix d’un couple de référence.",
+    "III. pH des solutions aqueuses.",
+    "IV. Réaction d’un acide avec une base.",
+    "IV-1. Evolution du pH au cours des réactions acide-base.",
+    "IV-2. Application au dosage acido-basique."
+   ],
+   "objectives": [
+    "Appliquer la loi d’action de masse à l’équilibre ionique de l’eau et aux réactions acide-base d’une manière générale.",
+    "Classer les acides et les bases en fonction de leur constante d’acidité Ka ou de basicité Kb .",
+    "Etablir pour un couple acide-base la relation Ka.Kb = Ke .",
+    "Utiliser le couple de référence H3O+/ H2O pour comparer les forces des couples acide-base entre eux.",
+    "Etablir l’expression du pH d’une solution aqueuse d’acide fort ou de base forte en fonction de sa concentration initiale.",
+    "Etablir l’expression du pH d’une solution aqueuse d’acide faible ou de base faible en fonction de sa concentration initiale et de la constante d’acidité.",
+    "Appliquer l’expression du pH d’une solution aqueuse d’acide ou de base au calcul des concentrations initiales.",
+    "Réaliser les expériences de dosage acide-base.",
+    "Déterminer à l’aide des courbes d’évolution du pH relatives aux dosages acide-base : - la force de l’acide ou de la base ; - la concentration initiale de la solution aqueuse acide ou basique utilisée ; - le point d’équivalence et éventuellement celui de demi-équivalence."
+   ]
+  },
+  {
+   "domain": "B. CHIMIE",
+   "topic": "PILES, SIEGES DE TRANSFORMATIONS SPONTANEES",
+   "contents": [
+    "I. Etude de la pile Daniell",
+    "II. Généralisation : piles de type Daniell",
+    "III. Influence des concentrations sur la f.e.m. des piles du type Daniell",
+    "IV. Choix d’une référence :",
+    "IV-1. La demi-pile normale à hydrogène.",
+    "IV-2. Le potentiel normal rédox.",
+    "IV-3. Classification électrochimique des couples rédox.",
+    "V. La pile alcaline, exemple de pile usuelle."
+   ],
+   "objectives": [
+    "Expliquer le principe de fonctionnement de la pile Daniell.",
+    "Déduire à partir du sens du courant, le sens de la réaction spontanée qui se produit dans la pile.",
+    "Déterminer le sens de la transformation spontanée mettant en jeu deux couples rédox.",
+    "Généraliser le principe de la pile Daniell à d’autres piles du même type.",
+    "Appliquer l’expression de la f.e.m. E d’une pile de type Daniell sur d’autres piles du même type.",
+    "Faire un classement de quelques couples rédox selon le potentiel normal d'électrode.",
+    "Expliquer le fonctionnement d'une pile alcaline."
+   ]
+  }
+ ],
+ "notes": "Source physique3_4.pdf, pages 77-97 (p77 section cover; tables p78-81, 85-86, 88-89, 91-92, 94, 96; commentary pages skipped). The programme is organised as A. PHYSIQUE / B. CHIMIE (used as `domain`), each split into themes printed as table titles (e.g. 'EVOLUTION DE SYSTEMES'); hours and durations dropped. Each theme is laid out as 4-column tables (Objectifs | Exemples de questionnements et d'activités | contenu | Horaire), one table per page, and each page-table has a single Objectifs cell (no row separators between units). One block = one page-table, in page order. `topic` = theme title, followed by ' > ' and the unit heading(s) of the contenu cell when the cell covers a single unit; when a cell covers several units, the unit headings are kept as items in `contents` and the objectives are not split between them (the programme does not attach them to units). Objectives are the 'Objectifs' column bullets, verbatim (sub-items kept inside their objective). Contents keep headings and '-'/'•' items in order, markers removed. Excluded: activities column, Horaire, 'Commentaires' pages, TIC footnote. Extraction fixes only: line-break hyphenation, subscripts flattened (uC(t), T0, Im, H3O+), formulas restored in plain notation: τ = L/R, λ/a, ∆E = h.ν, E = mc², MeV.c⁻², T = USm/UEm. The chemistry part ends with the PILES theme on p96-97; no organic chemistry theme appears in this page range."
+}

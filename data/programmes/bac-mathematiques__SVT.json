@@ -1,0 +1,160 @@
+{
+ "class": "bac-mathematiques",
+ "subject": "SVT",
+ "source": {
+  "document": "Programme officiel de sciences de la vie et de la terre — enseignement secondaire",
+  "issuer": "Ministère de l'Éducation (Tunisie)",
+  "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/svt.pdf",
+  "pages": "53-58"
+ },
+ "units": [
+  {
+   "domain": "I- Neurophysiologie et hygiène du système nerveux",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Construire la notion de neurone et de synapse.",
+    "Expliquer la naissance et la propagation du message nerveux.",
+    "Expliquer le fonctionnement d’une synapse : la transmission synaptique.",
+    "Expliquer les effets nocifs des drogues sur le fonctionnement du système nerveux.",
+    "Adopter des comportements de protection du système nerveux."
+   ]
+  },
+  {
+   "domain": "I- Neurophysiologie et hygiène du système nerveux",
+   "topic": "1- Le tissu nerveux, support de la fonction de relation.",
+   "contents": [
+    "Notions de neurone et de synapse"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "I- Neurophysiologie et hygiène du système nerveux",
+   "topic": "2- Étude d’un réflexe à point de départ cutané",
+   "contents": [
+    "Les éléments du réflexe",
+    "Le message nerveux :",
+    "excitabilité et conductibilité",
+    "le potentiel de repos",
+    "le potentiel d’action",
+    "la propagation du message nerveux",
+    "La transmission synaptique :",
+    "les synapses excitatrices et les synapses inhibitrices",
+    "l’intégration postsynaptique"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "I- Neurophysiologie et hygiène du système nerveux",
+   "topic": "3- Hygiène du système nerveux :",
+   "contents": [
+    "notion de drogues.",
+    "les effets nocifs des drogues sur le système nerveux.",
+    "le stress"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "II- Reproduction humaine et maîtrise de la procréation",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Expliquer les fonctions du testicule et leur régulation.",
+    "Identifier les structures ovariennes et les étapes de la folliculogenèse et de l’ovogenèse.",
+    "Expliquer la régulation de la fonction reproductrice chez la femme.",
+    "Décrire les étapes de la fécondation.",
+    "Expliquer le mode d’action des moyens contraceptifs chimiques et mécaniques.",
+    "Expliquer le principe de la FIVETE (fécondation in vitro et transfert d’embryon)."
+   ]
+  },
+  {
+   "domain": "II- Reproduction humaine et maîtrise de la procréation",
+   "topic": "La fonction reproductrice chez l’homme : 1- Les cellules sexuelles",
+   "contents": [
+    "Structure du spermatozoïde.",
+    "La spermatogenèse"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "II- Reproduction humaine et maîtrise de la procréation",
+   "topic": "La fonction reproductrice chez l’homme : 2- Fonction endocrine du testicule et régulation de la fonction du testicule par le complexe hypothalamo-hypophysaire",
+   "contents": [],
+   "objectives": []
+  },
+  {
+   "domain": "II- Reproduction humaine et maîtrise de la procréation",
+   "topic": "La fonction reproductrice chez la femme : 1– Les cellules sexuelles :",
+   "contents": [
+    "la folliculogenèse",
+    "l’ovogenèse.",
+    "structure de l’ovocyte"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "II- Reproduction humaine et maîtrise de la procréation",
+   "topic": "La fonction reproductrice chez la femme : 2- Cycle sexuel chez la femme :",
+   "contents": [
+    "cycle ovarien",
+    "cycle hormonal",
+    "cycle utérin"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "II- Reproduction humaine et maîtrise de la procréation",
+   "topic": "La fonction reproductrice chez la femme : 3- Régulation du cycle sexuel par le complexe hypothalamo-hypophysaire",
+   "contents": [],
+   "objectives": []
+  },
+  {
+   "domain": "II- Reproduction humaine et maîtrise de la procréation",
+   "topic": "La fonction reproductrice chez la femme : 4- La fécondation :",
+   "contents": [
+    "ses conditions",
+    "ses étapes"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "II- Reproduction humaine et maîtrise de la procréation",
+   "topic": "La fonction reproductrice chez la femme : 5- Maîtrise de la procréation :",
+   "contents": [
+    "la contraception : la contraception par la pilule",
+    "la procréation médicalement assistée : la FIVETE (fécondation in vitro et transfert d’embryon)"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "III- Génétique humaine et prévention des maladies héréditaires",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Résoudre des problèmes de génétique humaine.",
+    "Être conscient des dangers des mariages consanguins.",
+    "Être conscient de l’importance du diagnostic prénatal."
+   ]
+  },
+  {
+   "domain": "III- Génétique humaine et prévention des maladies héréditaires",
+   "topic": "1- Transmission de caractères héréditaires :",
+   "contents": [
+    "la transmission d’un couple d’allèles autosomal",
+    "l’hérédité liée au sexe",
+    "la consanguinité"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "III- Génétique humaine et prévention des maladies héréditaires",
+   "topic": "2. Prévention des maladies héréditaires :",
+   "contents": [
+    "les anomalies du caryotype humain.",
+    "les anomalies géniques."
+   ],
+   "objectives": []
+  }
+ ],
+ "notes": "Objectives are printed in one 'Objectifs' cell per theme; they are kept at theme level (topic null), not split between units. Pages 54-58 (p53 is the section cover 'Mathématiques'). 3 themes, 12 units. Each theme is a 4-column table (Thème | Objectifs | Contenu | Activités envisageables); the 'Activités envisageables' column (including its NB remarks) is excluded. domain = the Thème (week counts dropped), topic = the numbered unit in the Contenu column. In the tables the Objectifs column is one undivided cell per theme page (the dashed row separators run only across Contenu/Activités), so each objective was assigned to the unit it is printed beside on the page image, checked against its wording. Contents are the Contenu lines as printed (sub-headings like 'Les cellules sexuelles :' kept as their own item, bullets/dashes stripped). Theme II has two full-width sub-headings printed across the Objectifs/Contenu/Activités columns ('La fonction reproductrice chez l’homme :' p56, '... chez la femme :' p57); they are kept as a prefix of the topic. Objectives are short action-verb statements (Construire / Expliquer / Identifier / Décrire / Résoudre / Adopter / Être conscient), 1-2 per unit; several units have none of their own. Placement calls: p56 'Expliquer les fonctions du testicule et leur régulation.' is printed beside unit 1 but the undivided cell also spans unit 2 (fonction endocrine et régulation), so it plausibly covers both; kept on unit 1 only. p57 'Expliquer la régulation de la fonction reproductrice chez la femme.' is printed beside unit 3 (it may also cover unit 2, cycle sexuel, which has no objective beside it). p58 'Être conscient de l’importance du diagnostic prénatal.' sits on the unit 1/2 separator; assigned to unit 2 (diagnostic prénatal is treated there). Programme contents for this section do not include the evolution or immunity themes of the Sciences expérimentales programme."
+}

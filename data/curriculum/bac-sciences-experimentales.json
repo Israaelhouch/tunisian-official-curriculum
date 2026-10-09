@@ -353,7 +353,236 @@
             }
           ]
         }
-      ]
+      ],
+      "programme": {
+        "source": {
+          "document": "Programme officiel de sciences de la vie et de la terre — enseignement secondaire",
+          "issuer": "Ministère de l'Éducation (Tunisie)",
+          "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/svt.pdf",
+          "pages": "43-52"
+        },
+        "units": [
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "contents": [],
+            "objectives": [
+              "Expliquer les fonctions du testicule et leur régulation.",
+              "Expliquer les fonctions de l’ovaire et leur régulation.",
+              "Décrire les étapes de la fécondation.",
+              "Reconnaître les règles d’hygiène de la procréation.",
+              "Expliquer le mode d’action de la pilule combinée.",
+              "Expliquer la technique de la FIVETE."
+            ]
+          },
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "topic": "1- La fonction reproductrice chez l’homme.",
+            "contents": [
+              "Les cellules sexuelles :",
+              "structure du spermatozoïde",
+              "la spermatogenèse",
+              "La testostérone :",
+              "origine",
+              "effets biologiques",
+              "la régulation de sa sécrétion par le complexe hypothalamo-hypophysaire"
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "topic": "2- La fonction de reproduction chez la femme",
+            "contents": [
+              "Les cellules sexuelles :",
+              "la folliculogenèse",
+              "l’ovogenèse.",
+              "structure de l’ovocyte",
+              "Le cycle sexuel chez la femme : cycle ovarien, cycle utérin, cycle hormonal",
+              "Rôle des hormones sexuelles femelles",
+              "Régulation du cycle sexuel par le complexe hypothalamo-hypophysaire."
+            ],
+            "objectives": [],
+            "chapter": "La fonction reproductrice chez la femme"
+          },
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "topic": "3 - La procréation",
+            "contents": [
+              "Les conditions et les étapes de la fécondation",
+              "Nidation et rôle du placenta",
+              "Maîtrise de la procréation. :",
+              "la contraception par la pilule",
+              "la procréation médicalement assistée : cas de la FIVETE",
+              "Hygiène de la procréation :",
+              "risques liés au tabagisme, à l’alcoolisme et à la toxicomanie",
+              "maladies congénitales liées à une mauvaise hygiène"
+            ],
+            "objectives": [],
+            "chapter": "La procréation"
+          },
+          {
+            "domain": "II- Génétique",
+            "contents": [],
+            "objectives": [
+              "Expliquer les conséquences génétiques de la méiose",
+              "Résoudre des problèmes de dihybridisme.",
+              "Expliquer le mode de transmission de caractères héréditaires.",
+              "Expliquer les risques d’apparition des maladies héréditaires dans les mariages consanguins.",
+              "Etre conscient de l’importance du diagnostic prénatal."
+            ]
+          },
+          {
+            "domain": "II- Génétique",
+            "topic": "1– le brassage de l’information génétique",
+            "contents": [
+              "La méiose et ses conséquences génétiques (brassages inter chromosomique et intra chromosomique).",
+              "Transmission de deux couples d’allèles chez les diploïdes :",
+              "cas d’indépendance",
+              "cas de liaison génétique."
+            ],
+            "objectives": [],
+            "chapter": "Le brassage de l'information génétique"
+          },
+          {
+            "domain": "II- Génétique",
+            "topic": "2 -Génétique humaine.",
+            "contents": [
+              "L’hérédité :",
+              "hérédité autosomale : cas d’un couple d’allèles",
+              "hérédité liée au sexe : cas d’un couple d’allèles",
+              "Risque de la consanguinité",
+              "Diagnostic prénatal :",
+              "dépistage d’anomalies de caryotypes",
+              "dépistage d’anomalies géniques.",
+              "utilisation de la sonde moléculaire"
+            ],
+            "objectives": [],
+            "chapter": "La génétique humaine"
+          },
+          {
+            "domain": "III- Évolution biologique",
+            "contents": [],
+            "objectives": [
+              "Argumenter la phylogénie des espèces."
+            ]
+          },
+          {
+            "domain": "III- Évolution biologique",
+            "contents": [
+              "Phylogénie des espèces",
+              "Spéciation"
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "IV- Neurophysiologie",
+            "contents": [],
+            "objectives": [
+              "Construire la notion de neurone et de synapse.",
+              "Expliquer la naissance, la propagation et la transmission du message nerveux.",
+              "Expliquer le mécanisme du réflexe myotatique.",
+              "Expliquer la transmission neuromusculaire et le fonctionnement du muscle",
+              "Expliquer le mécanisme de la régulation de la pression artérielle",
+              "Adopter un comportement préventif de la santé du système nerveux"
+            ]
+          },
+          {
+            "domain": "IV- Neurophysiologie",
+            "topic": "1 – Le tissu nerveux, support histologique du comportement",
+            "contents": [
+              "Les constituants du tissu nerveux : cellules nerveuses et gliales.",
+              "Notions de neurone et de synapse."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "IV- Neurophysiologie",
+            "topic": "2 –Le réflexe myotatique",
+            "contents": [
+              "Les éléments histologiques qui interviennent dans le réflexe",
+              "Le message nerveux :",
+              "le potentiel de repos.",
+              "le potentiel d’action.",
+              "la transduction et le codage de l’intensité du stimulus par les récepteurs sensoriels.",
+              "la propagation du message nerveux.",
+              "la transmission synaptique.",
+              "synapses excitatrices et synapses inhibitrices.",
+              "Intégration postsynaptique"
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "IV- Neurophysiologie",
+            "topic": "3- Fonctionnement d’un effecteur moteur : le muscle squelettique :",
+            "contents": [
+              "transmission neuromusculaire.",
+              "mécanisme de la contraction musculaire"
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "IV- Neurophysiologie",
+            "topic": "4- Régulation de la pression artérielle",
+            "contents": [],
+            "objectives": [],
+            "chapter": "La régulation de la pression artérielle"
+          },
+          {
+            "domain": "IV- Neurophysiologie",
+            "topic": "5- Hygiène du système nerveux",
+            "contents": [
+              "Les dangers des drogues sur le fonctionnement du système nerveux.",
+              "Le stress"
+            ],
+            "objectives": [],
+            "chapter": "L'hygiène du système nerveux"
+          },
+          {
+            "domain": "V- Immunité : maintien de l’intégrité de l’organisme",
+            "contents": [],
+            "objectives": [
+              "Définir la notion d’immunité spécifique et identifier ses propriétés.",
+              "Distinguer la RIMH et la RIMC.",
+              "Expliquer les mécanismes de la réponse immunitaire spécifique.",
+              "Expliquer les processus du dysfonctionnement du système immunitaire en rapport avec les allergies, le SIDA."
+            ]
+          },
+          {
+            "domain": "V- Immunité : maintien de l’intégrité de l’organisme",
+            "topic": "1. Le soi et le non soi",
+            "contents": [
+              "Les marqueurs biologiques du soi : groupes sanguins, antigènes HLA"
+            ],
+            "objectives": [],
+            "chapter": "Le soi et le non soi"
+          },
+          {
+            "domain": "V- Immunité : maintien de l’intégrité de l’organisme",
+            "topic": "2. Immunité à médiation humorale et immunité à médiation cellulaire.",
+            "contents": [],
+            "objectives": []
+          },
+          {
+            "domain": "V- Immunité : maintien de l’intégrité de l’organisme",
+            "topic": "3- Les étapes de la réponse immunitaire spécifique :",
+            "contents": [
+              "phase d’induction : reconnaissance et activation.",
+              "Phase d’amplification et de différenciation :",
+              "phase effectrice : neutralisation et élimination de l’antigène"
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "V- Immunité : maintien de l’intégrité de l’organisme",
+            "topic": "4- Dysfonctionnement du système immunitaire :",
+            "contents": [
+              "les allergies",
+              "le SIDA, cas de déficit immunitaire acquis"
+            ],
+            "objectives": [],
+            "chapter": "Le dysfonctionnement du système immunitaire"
+          }
+        ]
+      }
     },
     {
       "subject": {
@@ -613,7 +842,340 @@
             }
           ]
         }
-      ]
+      ],
+      "programme": {
+        "source": {
+          "document": "Programme officiel de sciences physiques — 3ème et 4ème années de l'enseignement secondaire",
+          "issuer": "Ministère de l'Éducation (Tunisie)",
+          "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/physique3_4.pdf",
+          "pages": "98-121"
+        },
+        "units": [
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "EVOLUTION DE SYSTEMES > I. Evolution de systèmes électriques > I-1. Le condensateur, le dipôle RC",
+            "contents": [
+              "Description sommaire d’un condensateur.",
+              "Charge électrique et capacité d’un condensateur.",
+              "Réponse d’un dipôle RC à un échelon de tension ; constante de temps τ = R.C.",
+              "Energie emmagasinée dans un condensateur."
+            ],
+            "objectives": [
+              "Réaliser un montage permettant de tracer la courbe d’évolution de la charge électrique d’un condensateur au cours du temps.",
+              "Déterminer à l’aide de la courbe de charge d’un condensateur la valeur de la capacité C.",
+              "Reconnaître que l'intensité i du courant est une grandeur algébrique.",
+              "Etablir l’équation différentielle qui régit la charge instantanée q(t) d’un condensateur, la tension uC(t) à ses bornes et l’intensité i(t) du courant qui parcourt le circuit de charge durant le régime transitoire.",
+              "Déterminer graphiquement, à partir des courbes de réponse uC(t) ou i(t) d’un dipôle RC soumis à un échelon de tension, la constante de temps τ = R.C.",
+              "Calculer l’énergie emmagasinée dans un condensateur."
+            ],
+            "chapter": "Le condensateur ; le dipôle RC"
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "EVOLUTION DE SYSTEMES > I-2. La bobine, le dipôle RL",
+            "contents": [
+              "Induction électromagnétique :",
+              "Courant induit : Loi de Lenz.",
+              "Force électromotrice d'induction.",
+              "Auto induction : Force électromotrice d’auto induction et inductance d’un solénoïde.",
+              "Réponse d’un dipôle RL à un échelon de tension ; constante de temps τ = L/R.",
+              "Energie emmagasinée dans une bobine."
+            ],
+            "objectives": [
+              "Mettre en évidence expérimentalement le phénomène d’induction électromagnétique.",
+              "Appliquer la loi de Lenz.",
+              "Reconnaître les facteurs dont dépend la f.e.m. d’auto-induction.",
+              "Etablir l’équation différentielle qui régit les variations de i en fonction du temps dans un dipôle RL soumis à un échelon de tension.",
+              "Déterminer graphiquement, à partir des courbes de réponse uL(t) ou i(t), d’un dipôle RL soumis à un échelon de tension, la constante de temps τ = L/R.",
+              "Calculer l’énergie emmagasinée dans un solénoïde."
+            ],
+            "chapter": "La bobine ; le dipôle RL"
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "EVOLUTION DE SYSTEMES > I-3. Le circuit RLC série",
+            "contents": [
+              "Oscillations libres amorties :",
+              "Régime pseudopériodique et régime apériodique.",
+              "Equation différentielle.",
+              "L'énergie totale et sa non conservation.",
+              "Cas particulier : l’oscillateur libre non amorti",
+              "Equation différentielle.",
+              "Période propre T0 et fréquence propre N0.",
+              "L'énergie totale et sa conservation.",
+              "Oscillations forcées en régime sinusoïdal :",
+              "Production.",
+              "Influence de la fréquence d'excitation sur les oscillations : résonance d'intensité et résonance de charge.",
+              "Impédance électrique.",
+              "Puissance moyenne et facteur de puissance : pertes en ligne."
+            ],
+            "objectives": [
+              "Réaliser un montage permettant de suivre les oscillations libres d’un circuit RLC série.",
+              "Reconnaître le régime pseudopériodique et le régime apériodique.",
+              "Reconnaître le facteur responsable de l’amortissement.",
+              "Etablir l’équation différentielle des oscillations libres d’un circuit RLC série.",
+              "Interpréter la diminution de l’amplitude des oscillations libres amorties par le transfert d’énergie de l’oscillateur vers le milieu extérieur.",
+              "Distinguer, en régime forcé, le résonateur de l’excitateur.",
+              "Visualiser simultanément à l’oscilloscope la tension excitatrice u(t) et l'intensité du courant i(t).",
+              "Mesurer l’amplitude et la fréquence d’une grandeur oscillante sinusoïdale.",
+              "Déterminer le déphasage entre la tension excitatrice u(t) et l’intensité du courant i(t).",
+              "Mettre en évidence expérimentalement le phénomène de résonance d’intensité et celui de la résonance de charge.",
+              "Etablir en i(t) ou en q(t), l’équation différentielle des oscillations forcées en régime sinusoïdal.",
+              "Etablir l’expression de l’intensité maximale Im en fonction de la fréquence des excitations de l’oscillateur et déduire celle de la charge maximale Qm.",
+              "Calculer la puissance moyenne absorbée par un oscillateur électrique.",
+              "Expliquer l’importance du facteur de puissance dans les transformations de l’énergie électrique."
+            ]
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "EVOLUTION DE SYSTEMES > II. Evolution d’un système mécanique : le pendule élastique",
+            "contents": [
+              "II-1. Oscillations libres non amorties :",
+              "Mise en évidence.",
+              "Période propre T0 et fréquence propre N0.",
+              "Equation différentielle.",
+              "L'énergie totale et sa conservation.",
+              "II-2. Oscillations libres amorties :",
+              "Régimes pseudopériodique et apériodique.",
+              "L'énergie totale et sa non conservation.",
+              "II-3. Oscillations forcées en régime sinusoïdal :",
+              "Production.",
+              "Influence de la fréquence d'excitation sur les oscillations : résonance d’élongation et résonance de vitesse."
+            ],
+            "objectives": [
+              "Etablir l'équation différentielle des oscillations libres d’un pendule élastique.",
+              "Mesurer la période propre d'un pendule élastique.",
+              "Calculer l'énergie totale d'un pendule élastique en régime libre non amorti.",
+              "A l'aide d'un enregistrement graphique, reconnaître le régime d'oscillations libres (amorti ou bien non amorti) d'un pendule élastique.",
+              "Expliquer la diminution d'amplitude des oscillations libres amorties d'un pendule élastique par la non conservation de son énergie totale.",
+              "Mettre en évidence, qualitativement, le phénomène de résonance d'élongation d'un pendule élastique.",
+              "Utiliser l’analogie formelle électrique-mécanique pour : - écrire, en x ou en v, l’équation différentielle des oscillations mécaniques forcées en régime sinusoïdal ; - écrire l’expression de l’élongation maximale Xm et celle de la vitesse maximale Vm de l’oscillateur en fonction de la fréquence N de l’excitateur ; - caractériser la résonance d’élongation ; - caractériser la résonance de vitesse ; - exprimer la puissance mécanique moyenne d’un oscillateur."
+            ]
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "ONDES > I. Ondes mécaniques progressives",
+            "contents": [
+              "I-1. Notion d'onde :",
+              "Onde transversale et onde longitudinale.",
+              "Célérité d’une onde.",
+              "I-2. Onde progressive sinusoïdale :",
+              "Double périodicité : périodicité temporelle (T) et périodicité spatiale (longueur d’onde λ)."
+            ],
+            "objectives": [
+              "Distinguer entre une onde transversale et une onde longitudinale.",
+              "Reconnaître que la propagation d’une onde est due à une propagation d’énergie sans transport de matière.",
+              "Réaliser une expérience illustrant la propagation d’une onde sinusoïdale dans un milieu homogène et isotrope.",
+              "Identifier, dans un milieu de propagation donné, les propriétés dont dépend la célérité d’une onde.",
+              "Etablir l'équation horaire du mouvement d'un point donné du milieu de propagation connaissant celle de la source d'onde progressive et représenter graphiquement le diagramme du mouvement de ce point.",
+              "Représenter graphiquement l'aspect à un instant donné, du milieu (ou d'une coupe du milieu) de propagation d'une onde progressive.",
+              "Reconnaître la double périodicité d’une onde sinusoïdale."
+            ],
+            "chapter": "Ondes mécaniques progressives"
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "ONDES > II- Nature ondulatoire de la lumière",
+            "contents": [
+              "II-1. Diffraction mécanique et lumineuse.",
+              "II-2. Dispersion de la lumière."
+            ],
+            "objectives": [
+              "Justifier le caractère ondulatoire de la lumière à partir d’expériences de diffraction d’ondes mécaniques et d’ondes lumineuses.",
+              "Préciser l'influence, sur le phénomène de diffraction, du quotient λ/a (λ étant la longueur d'onde et a la largeur de la fente).",
+              "Réaliser des expériences de dispersion des ondes lumineuses.",
+              "Montrer qu’une lumière blanche est constituée d'une infinité de radiations monochromatiques.",
+              "Distinguer un milieu dispersif d'un milieu non dispersif."
+            ],
+            "chapter": "Nature ondulatoire de la lumière"
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "PHYSIQUE ATOMIQUE ET NUCLEAIRE",
+            "contents": [
+              "I. Spectre atomique et quantification des échanges d’énergie",
+              "I-1. Quantification de l’énergie d’un atome",
+              "Quantification des échanges d’énergie à l’échelle des atomes.",
+              "Niveaux d’énergie d’un atome.",
+              "I-2. Spectre atomique",
+              "Quantum d’énergie : le photon.",
+              "Etat fondamental et états excités d’un atome.",
+              "Spectres d’absorption et d’émission d’un atome.",
+              "II. Noyau atomique",
+              "II-1. Equivalence masse-énergie",
+              "Relation d'Einstein E = mc².",
+              "Défaut de masse.",
+              "II-2. Stabilité du noyau",
+              "Energie de liaison.",
+              "Energie de liaison par nucléon."
+            ],
+            "objectives": [
+              "Décrire une expérience montrant que l’énergie de l’atome est quantifiée.",
+              "Calculer l’énergie de l’atome d’hydrogène en joules et en électrons-volts.",
+              "Distinguer un spectre d’émission d’un spectre d’absorption.",
+              "Appliquer la relation ∆E = h.ν",
+              "Identifier un élément chimique à partir de son spectre d’émission ou d’absorption.",
+              "Utiliser le spectre de la lumière émise par une étoile pour reconnaître certains de ses constituants.",
+              "Ecrire le symbole d'un noyau atomique connaissant sa composition et inversement.",
+              "Evaluer, en joules et en MeV, l'énergie mise en jeu au cours d'une transformation nucléaire.",
+              "Evaluer en u et en MeV.c⁻², le défaut de masse résultant de la formation d'un noyau.",
+              "Calculer l'énergie de liaison d'un noyau et son énergie de liaison par nucléon.",
+              "Comparer la stabilité de deux ou de plusieurs noyaux, connaissant les valeurs de leurs énergies de liaison par nucléon."
+            ],
+            "chapter": "Physique atomique et nucléaire"
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "PHYSIQUE ATOMIQUE ET NUCLEAIRE > III. Réactions nucléaires",
+            "contents": [
+              "III-1. Réactions nucléaires spontanées : Radioactivité",
+              "Radioactivité naturelle et radioactivité artificielle : les différents rayonnements.",
+              "Loi de désintégration radioactive.",
+              "Période ou demi-vie d'un radioélément.",
+              "Activité d'un échantillon radioactif et effet biologique.",
+              "Application: datation par le carbone 14 .",
+              "III-2. Réactions nucléaires provoquées",
+              "Fission.",
+              "Fusion.",
+              "Applications : énergie nucléaire ; énergie du Soleil."
+            ],
+            "objectives": [
+              "Justifier l'émission de rayonnements radioactifs.",
+              "Ecrire les équations des réactions nucléaires spontanées.",
+              "Appliquer la loi de désintégration pour des durées multiples de la période d'un radioélément.",
+              "Calculer l'activité d'un échantillon radioactif.",
+              "Distinguer les réactions nucléaires spontanées des réactions nucléaires provoquées.",
+              "Distinguer la fission de la fusion nucléaire.",
+              "Ecrire les équations des réactions nucléaires provoquées.",
+              "Justifier la variation d'énergie accompagnant la fission et la fusion nucléaires.",
+              "Evaluer l'énergie libérée au cours des réactions nucléaires de fission et de fusion."
+            ],
+            "chapter": "Réactions nucléaires"
+          },
+          {
+            "domain": "B. CHIMIE",
+            "topic": "CINETIQUE CHIMIQUE",
+            "contents": [
+              "I-Transformation lente - transformation rapide.",
+              "II-Evolution d’un système chimique au cours d’une réaction chimique",
+              "II-1. Evolution de l’avancement d’une réaction.",
+              "II-2. Vitesse d’une réaction chimique.",
+              "II-2-1. Vitesse moyenne.",
+              "II-2-2. Vitesse instantanée.",
+              "III. Principaux facteurs cinétiques",
+              "III-1. Concentration,",
+              "III-2. Température,",
+              "III-3. Catalyse :",
+              "1.Définition d’un catalyseur",
+              "2.Catalyse homogène et catalyse hétérogène",
+              "Applications :",
+              "importance économique de la catalyse.",
+              "catalyse enzymatique."
+            ],
+            "objectives": [
+              "Calculer la vitesse moyenne.",
+              "Déterminer graphiquement la vitesse instantanée d’une réaction chimique.",
+              "Distinguer la différence entre catalyseur et réactif.",
+              "Distinguer entre catalyse homogène et catalyse hétérogène.",
+              "Reconnaître les principaux facteurs cinétiques."
+            ],
+            "chapter": "Cinétique chimique"
+          },
+          {
+            "domain": "B. CHIMIE",
+            "topic": "EQUILIBRES CHIMIQUES",
+            "contents": [
+              "I. Notion d’équilibre chimique :",
+              "I-1. Définition d’un état d’équilibre chimique.",
+              "I-2. Interprétation microscopique de l’équilibre chimique.",
+              "II. Loi d’action de masse",
+              "II-1. La fonction des concentrations Π",
+              "II-2. Enoncé de la loi d’action de masse: Constante d’équilibre.",
+              "III. Conditions d’évolution spontanée",
+              "IV. Loi de modération"
+            ],
+            "objectives": [
+              "Reconnaître un système en état d’équilibre chimique.",
+              "Reconnaître qu’un équilibre chimique est un équilibre dynamique",
+              "Interpréter à l’échelle microscopique un équilibre chimique.",
+              "Appliquer la loi d’action de masse.",
+              "Prévoir le sens d’évolution d’un système chimique vers un état d’équilibre.",
+              "Appliquer la loi de modération pour prévoir le sens d’évolution d’un système chimique d’un état d’équilibre à un autre."
+            ],
+            "chapter": "Équilibre chimique"
+          },
+          {
+            "domain": "B. CHIMIE",
+            "topic": "REACTIONS ACIDES-BASES",
+            "contents": [
+              "I. Equilibre acide-base",
+              "II. Classification des acides et des bases",
+              "II-1. Acide fort, acide faible, base forte et base faible.",
+              "II-2. Choix d’un couple de référence.",
+              "III. pH des solutions aqueuses",
+              "IV. Réaction d’un acide avec une base",
+              "IV-1. Evolution du pH au cours des réactions acide-base.",
+              "IV-2. Application au dosage acido-basique."
+            ],
+            "objectives": [
+              "Appliquer la loi d’action de masse à l’équilibre ionique de l’eau et aux réactions acide-base d’une manière générale.",
+              "Classer les acides et les bases en fonction de leur constante d’acidité Ka ou de basicité Kb.",
+              "Etablir pour un couple acide-base la relation : Ka.Kb = Ke",
+              "Utiliser le couple de référence H3O+/ H2O pour comparer les forces des couples acide-base entre eux.",
+              "Etablir l’expression du pH d’une solution aqueuse d’acide fort ou de base forte en fonction de sa concentration initiale.",
+              "Etablir l’expression du pH d’une solution aqueuse d’acide faible ou de base faible en fonction de sa concentration initiale et de la constante d’acidité.",
+              "Appliquer l’expression du pH d’une solution aqueuse d’acide ou de base au calcul de concentrations initiales.",
+              "Réaliser les expériences de dosage acide-base.",
+              "Déterminer à l’aide des courbes d’évolution du pH relatives aux dosages acide-base : - la force de l’acide ou de la base ; - la concentration initiale de la solution aqueuse acide ou basique utilisée ; - le point d’équivalence et éventuellement celui de demi-équivalence."
+            ],
+            "chapter": "Les réactions acide-base"
+          },
+          {
+            "domain": "B. CHIMIE",
+            "topic": "CHIMIE ORGANIQUE",
+            "contents": [
+              "I- L’amide, autre dérivé d’acide carboxylique",
+              "Structure et nomenclature des amides.",
+              "II- Passages entre les dérivés des acides carboxyliques",
+              "II-1- à partir des chlorures d’acyle",
+              "obtention d’esters.",
+              "obtention d’amides.",
+              "obtention d’anhydrides.",
+              "II-2- à partir des anhydrides",
+              "passage aux esters.",
+              "passage aux amides.",
+              "Application : importance industrielle des dérivés des acides carboxyliques."
+            ],
+            "objectives": [
+              "Reconnaître et nommer un amide",
+              "Décrire un mode de synthèse d’un ester, d’un amide et d’un anhydride d’acide à partir d'un autre dérivé d'acide carboxylique."
+            ],
+            "chapter": "La chimie organique"
+          },
+          {
+            "domain": "B. CHIMIE",
+            "topic": "PILES ELECTROCHIMIQUES",
+            "contents": [
+              "I. Etude de la pile Daniell",
+              "II. Généralisation : piles de type Daniell",
+              "III. Influence des concentrations sur la f.e.m. des piles du type Daniell",
+              "IV. Choix d’une référence",
+              "IV-1. La demi-pile normale à hydrogène.",
+              "IV-2. Le potentiel normal rédox.",
+              "IV-3. Classification électrochimique des couples rédox."
+            ],
+            "objectives": [
+              "Expliquer le principe de fonctionnement de la pile Daniell.",
+              "Déduire à partir du sens du courant, le sens de la réaction spontanée qui se produit dans la pile.",
+              "Déterminer le sens de la transformation spontanée mettant en jeu deux couples rédox.",
+              "Généraliser le principe de la pile Daniell à d’autres piles du même type.",
+              "Appliquer l’expression de la f.e.m. E d’une pile de type Daniell sur d’autres piles du même type.",
+              "Faire un classement de quelques couples rédox selon le potentiel normal d'électrode."
+            ],
+            "chapter": "Piles électrochimiques"
+          }
+        ]
+      }
     },
     {
       "subject": {
@@ -744,7 +1306,269 @@
           "objectives": [],
           "children": []
         }
-      ]
+      ],
+      "programme": {
+        "source": {
+          "document": "Programme officiel de mathématiques — enseignement secondaire",
+          "issuer": "Ministère de l'Éducation (Tunisie)",
+          "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/math.pdf",
+          "pages": "78-83"
+        },
+        "units": [
+          {
+            "domain": "Analyse",
+            "topic": "Limites et continuité",
+            "contents": [
+              "Opérations sur les limites, limites et ordre, limite d’une fonction monotone, limite d’une fonction composée.",
+              "Continuité en un réel, continuité sur un intervalle, opérations sur les fonctions continues, continuité d’une fonction composée. Théorème des valeurs intermédiaires.",
+              "Fonction continue sur un intervalle fermé borné.",
+              "Fonction continue et strictement monotone sur un intervalle, théorème de la bijection."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Dérivation",
+            "contents": [
+              "Dérivation en un réel, dérivation sur un intervalle, opérations sur les dérivées, dérivée d’une fonction composée.",
+              "Lien entre signe de la dérivée et variation.",
+              "Lien entre dérivée et extremum local.",
+              "Dérivée seconde, point d’inflexion.",
+              "Dérivée de fonctions réciproques.",
+              "Théorème des accroissements finis, inégalité des accroissements finis.",
+              "Primitives de fonctions continues, propriétés et opérations sur les primitives."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Fonctions polynômes, rationnelles , trigonométriques, √f , |f| .",
+            "contents": [
+              "Etude et représentation graphique."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Fonction logarithme népérien",
+            "contents": [
+              "Propriétés, limites usuelles, lim(x→+∞) (lnⁿx / xᵐ) ; lim(x→0⁺) (xᵐ lnⁿx), m, n ∈ ℕ* ; lim(x→+∞) (lnx / xʳ) ; lim(x→0⁺) (xʳ lnx), r ∈ ℚ₊ .",
+              "Etude et représentation graphique de fonctions du type x ↦ ln(u(x)) , où u est une fonction du programme."
+            ],
+            "objectives": [],
+            "chapter": "Fonction logarithme népérien"
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Fonction exponentielle",
+            "contents": [
+              "Propriétés, limites usuelles, lim(x→+∞) (e^(nx) / xᵐ) ; lim(x→−∞) (xᵐ e^(nx)), m, n ∈ ℕ* ; lim(x→+∞) (eˣ / xʳ), r ∈ ℚ₊ .",
+              "Etude et représentation graphique.",
+              "Etude et représentation graphique de fonctions du type x ↦ e^(u(x)) , où u est une fonction du programme."
+            ],
+            "objectives": [],
+            "chapter": "Fonction exponentielle"
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Fonctions du type x ↦ xʳ , r ∈ ℚ \\ ℤ .",
+            "contents": [
+              "Propriétés, limites usuelles.",
+              "Etude et représentation graphique."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Fonctions du type x ↦ aˣ , a > 0 .",
+            "contents": [
+              "Propriétés, limites usuelles.",
+              "Etude et représentation graphique."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Intégrale d’une fonction continue sur un intervalle [a,b]",
+            "contents": [
+              "Propriétés : linéarité, relation de Chasles, positivité, comparaison d’intégrales.",
+              "Intégration par parties.",
+              "Formule de la moyenne et inégalité de la moyenne.",
+              "Calcul d’aires planes et des volumes de solides de révolution.",
+              "Etude sur des exemples de fonctions définies sur un intervalle I par x ↦ ∫ₐ^(v(x)) f(t)dt où f est continue sur I et v est dérivable sur I et à valeurs dans I."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Equations différentielles du type y' = ay + b, a et b ∈ ℝ et y\" + a² y = 0, a ∈ ℝ .",
+            "contents": [],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Suites réelles",
+            "contents": [
+              "Variation, suite minorée, suite majorée, suite bornée.",
+              "Opérations sur les suites, convergence, opérations sur les limites, théorèmes de comparaison.",
+              "Suites croissantes et majorées, suites décroissantes et minorées.",
+              "Suites adjacentes.",
+              "Suites récurrentes.",
+              "Etude sur des exemples de suites définies par une intégrale."
+            ],
+            "objectives": [],
+            "chapter": "Suites réelles"
+          },
+          {
+            "domain": "Analyse",
+            "contents": [],
+            "objectives": [
+              "Reconnaître si une fonction est continue en un réel ou sur un intervalle à partir de son expression algébrique ou d’un graphique.",
+              "Déterminer les valeurs exactes ou approchées des extrema d’une fonction continue sur [a,b].",
+              "Déterminer une valeur exacte ou approchée d’une solution d’une équation de la forme f(x) = k , dans le cas où f est une fonction continue sur un intervalle.",
+              "Déterminer la limite éventuelle d’une fonction du programme en un réel ou à l’infini.",
+              "Déterminer la limite d’une fonction monotone sur un intervalle, aux bornes de l’intervalle.",
+              "Reconnaître qu'une fonction réalise une bijection .",
+              "Reconnaître si une fonction du programme est dérivable en un point ou sur un intervalle.",
+              "Reconnaître que le nombre dérivé d’une fonction en a est la pente de la tangente à la courbe de cette fonction en le point d’abscisse a .",
+              "Déterminer l’équation de la tangente (ou des demi-tangentes) à une courbe en un point d’abscisse a.",
+              "Déterminer le nombre dérivé d’une fonction du programme en un réel a connaissant l’équation de la tangente à la courbe représentative de la fonction au point d’abscisse a.",
+              "Déterminer l’approximation affine d’une fonction du programme au voisinage d’un réel a.",
+              "Donner une valeur approchée de nombre réel en utilisant l’approximation affine d’une fonction du programme au voisinage d’un réel a.",
+              "Déterminer la dérivée d’une fonction du programme sur un intervalle en utilisant les opérations sur les fonctions dérivables et les dérivées de fonctions usuelles.",
+              "Déterminer la dérivée d’une fonction composée.",
+              "Résoudre des inéquations en utilisant l’inégalité des accroissements finis.",
+              "Déterminer le sens de variation d’une fonction du programme connaissant le signe de sa dérivée.",
+              "Déterminer le sens de variation d’une fonction du programme à partir de sa représentation graphique.",
+              "Reconnaître qu’un réel est un extremum local ou global d’une fonction du programme.",
+              "Reconnaître un point d’inflexion.",
+              "Reconnaître qu’un point ou une droite est un centre ou un axe de symétrie.",
+              "Identifier les branches infinies de la courbe représentative d’une fonction du programme.",
+              "Tracer la courbe représentative de la réciproque d’une fonction donnée.",
+              "Tracer une courbe représentative d’une fonction à partir d’une autre en utilisant une transformation plane (translation, symétrie axiale ou centrale) ou une transformation d’écriture menant à un changement de repère.",
+              "Exploiter ou produire un graphique pour étudier la position relative de deux courbes.",
+              "Exploiter ou produire une représentation graphique pour déterminer ou estimer les solutions éventuelles d’une équation ou d’une inéquation.",
+              "Déterminer l’ensemble des primitives d’une fonction continue sur un intervalle I.",
+              "Reconnaître qu’une fonction est la primitive d’une fonction continue sur un intervalle I, qui s’annule en un réel a de I.",
+              "Calculer les primitives des fonctions usuelles.",
+              "Calculer une intégrale en utilisant une primitive.",
+              "Calculer une intégrale à l’aide d’intégration par parties.",
+              "Calculer l'aire d'une partie du plan délimitée par des courbes.",
+              "Comparer des fonctions en utilisant des intégrales.",
+              "Donner une valeur approchée d’une intégrale par la méthode des rectangles.",
+              "Etudier une fonction définie par une intégrale.",
+              "Résoudre une équation différentielle du programme.",
+              "Reconnaître qu’un réel est un majorant ou un minorant d’une suite du programme.",
+              "Etudier les variations d’une suite du programme.",
+              "Représenter graphiquement les points An de coordonnées (n, un), dans le cas où (un)n est une suite du type un = f(n) où f est une fonction du programme.",
+              "Représenter graphiquement une suite récurrente.",
+              "Etudier la convergence d’une suite du programme.",
+              "Déterminer une valeur exacte ou approchée de la limite d’une suite convergente.",
+              "Reconnaître que deux suites sont adjacentes.",
+              "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement faisant appel à des suites ou à des fonctions du programme.",
+              "Ils résolvent des problèmes puisés dans des situations réelles pouvant être modélisées par une suite ou une fonction du programme ou une équation différentielle.",
+              "Ils résolvent des problèmes d’optimisation."
+            ]
+          },
+          {
+            "domain": "Géométrie",
+            "topic": "Nombres complexes",
+            "contents": [
+              "Opérations algébriques sur le corps des complexes, propriétés du conjugué, du module et de l’argument.",
+              "Ecritures trigonométrique et exponentielle d’un nombre complexe non nul ( notations [r,θ] et reiθ ).",
+              "Formules d’Euler, linéarisation.",
+              "Racine nième d’un nombre complexe.",
+              "Résolution d’équations de degré supérieur ou égal à 2 à coefficients complexes."
+            ],
+            "objectives": [],
+            "chapter": "Nombres complexes"
+          },
+          {
+            "domain": "Géométrie",
+            "topic": "Géométrie dans l’espace",
+            "contents": [
+              "Vecteurs de l’espace, opérations.",
+              "Produit scalaire, propriétés, distance d’un point à un plan",
+              "Produit vectoriel dans l’espace, propriétés, distance d’un point à une droite, distance de deux droites, calcul de volumes.",
+              "Droites et plans de l’espace, équations, position relative.",
+              "Sphère, section d’une sphère par un plan."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Géométrie",
+            "contents": [],
+            "objectives": [
+              "Représenter un point connaissant son affixe.",
+              "Calculer ou transformer des expressions complexes.",
+              "Déterminer le conjugué d’un nombre complexe.",
+              "Déterminer le module et un argument d’un nombre complexe.",
+              "Déterminer la forme trigonométrique, exponentielle d’un nombre complexe non nul.",
+              "Repérer un point dans le plan orienté et donner son affixe, ses coordonnées cartésiennes ou ses coordonnées polaires.",
+              "Linéariser une expression trigonométrique.",
+              "Reconnaître que deux vecteurs sont colinéaires ou orthogonaux.",
+              "Décider de l’alignement de trois points, du parallélisme ou de l’orthogonalité de deux droites",
+              "Déterminer la racine neme d’un nombre complexe.",
+              "Résoudre une équation de degré inférieur ou égal à 2, à coefficients complexes.",
+              "Résoudre une équation de degré supérieur ou égal à 2 à coefficients complexes.",
+              "Représenter dans le plan complexe les solutions d’une équation de degré supérieur ou égal à 2 à coefficients complexes.",
+              "Déterminer les composantes d'un vecteur en utilisant les opérations sur les vecteurs de l’espace.",
+              "Reconnaître que trois vecteurs de l’espace forment une base.",
+              "Exploiter le produit scalaire dans l’espace pour calculer des grandeurs, déterminer des lieux géométriques et étudier des configurations géométriques.",
+              "Exploiter les propriétés du produit vectoriel dans l’espace pour calculer des grandeurs, déterminer des lieux géométriques et étudier des configurations géométriques.",
+              "Déterminer les équations d’une droite ou d’un plan.",
+              "Déterminer l’intersection de deux droites, d’un plan et d’une droite, de deux plans, de trois plans.",
+              "Déterminer une équation cartésienne d’une sphère.",
+              "Déterminer la section d’une sphère par un plan.",
+              "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement.",
+              "Ils résolvent des problèmes d’alignement, de concours, de lieu ou métriques.",
+              "Ils résolvent des problèmes puisés dans des situations réelles menant à un modèle géométrique.",
+              "Ils résolvent des problèmes d’optimisation."
+            ]
+          },
+          {
+            "domain": "Statistiques - Probabilités",
+            "topic": "Séries statistiques à deux caractères",
+            "contents": [
+              "Ajustements affines (méthode des moindres carrés, méthode de Mayer), droites de régression, corrélation linéaire, coefficient de corrélation linéaire, covariance.",
+              "Exemples d’ajustements non affines."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Statistiques - Probabilités",
+            "topic": "Probabilité",
+            "contents": [
+              "Probabilité conditionnelle, formule des probabilités totales, formule de Bayes.",
+              "Variable aléatoire, loi de probabilité, schéma de Bernoulli, loi binomiale.",
+              "Espérance, variance et écart-type d’une variable aléatoire (cas particulier d’une loi binomiale).",
+              "Exemples de lois continues : Loi uniforme, loi exponentielle."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Statistiques - Probabilités",
+            "contents": [],
+            "objectives": [
+              "Décider, à partir d’un nuage de points, de l’utilité d’un ajustement affine.",
+              "Déterminer et tracer une droite de régression.",
+              "Calculer la covariance d’une série statistique double.",
+              "Calculer le coefficient de corrélation linéaire et interpréter le résultat",
+              "Calculer la probabilité d’un événement sachant qu’un autre est réalisé.",
+              "Décider de l’indépendance de deux événements.",
+              "Calculer la probabilité d’un événement en utilisant la formule de BAYES et/ou la formule des probabilités totales.",
+              "Déterminer la loi de probabilité d’une variable aléatoire.",
+              "Calculer les caractéristiques d’une variable aléatoire et interpréter les résultats.",
+              "Reconnaître un schéma de Bernoulli et en dégager les paramètres.",
+              "Déterminer la loi de probabilité d’une épreuve de Bernoulli.",
+              "Reconnaître qu’une variable aléatoire suit une loi exponentielle ou une loi uniforme.",
+              "Déterminer la fonction de répartition d’une variable aléatoire qui suit une loi exponentielle ou une loi uniforme.",
+              "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement.",
+              "En particulier, ils résolvent des problèmes puisés dans des situations réelles menant à un modèle statistique ou probabiliste."
+            ]
+          }
+        ]
+      }
     },
     {
       "subject": {

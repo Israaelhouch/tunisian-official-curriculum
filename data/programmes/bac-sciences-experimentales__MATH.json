@@ -1,0 +1,264 @@
+{
+ "class": "bac-sciences-experimentales",
+ "subject": "MATH",
+ "source": {
+  "document": "Programme officiel de mathématiques — enseignement secondaire",
+  "issuer": "Ministère de l'Éducation (Tunisie)",
+  "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/math.pdf",
+  "pages": "78-83"
+ },
+ "units": [
+  {
+   "domain": "Analyse",
+   "topic": "Limites et continuité",
+   "contents": [
+    "Opérations sur les limites, limites et ordre, limite d’une fonction monotone, limite d’une fonction composée.",
+    "Continuité en un réel, continuité sur un intervalle, opérations sur les fonctions continues, continuité d’une fonction composée. Théorème des valeurs intermédiaires.",
+    "Fonction continue sur un intervalle fermé borné.",
+    "Fonction continue et strictement monotone sur un intervalle, théorème de la bijection."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": "Dérivation",
+   "contents": [
+    "Dérivation en un réel, dérivation sur un intervalle, opérations sur les dérivées, dérivée d’une fonction composée.",
+    "Lien entre signe de la dérivée et variation.",
+    "Lien entre dérivée et extremum local.",
+    "Dérivée seconde, point d’inflexion.",
+    "Dérivée de fonctions réciproques.",
+    "Théorème des accroissements finis, inégalité des accroissements finis.",
+    "Primitives de fonctions continues, propriétés et opérations sur les primitives."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": "Fonctions polynômes, rationnelles , trigonométriques, √f , |f| .",
+   "contents": [
+    "Etude et représentation graphique."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": "Fonction logarithme népérien",
+   "contents": [
+    "Propriétés, limites usuelles, lim(x→+∞) (lnⁿx / xᵐ) ; lim(x→0⁺) (xᵐ lnⁿx), m, n ∈ ℕ* ; lim(x→+∞) (lnx / xʳ) ; lim(x→0⁺) (xʳ lnx), r ∈ ℚ₊ .",
+    "Etude et représentation graphique de fonctions du type x ↦ ln(u(x)) , où u est une fonction du programme."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": "Fonction exponentielle",
+   "contents": [
+    "Propriétés, limites usuelles, lim(x→+∞) (e^(nx) / xᵐ) ; lim(x→−∞) (xᵐ e^(nx)), m, n ∈ ℕ* ; lim(x→+∞) (eˣ / xʳ), r ∈ ℚ₊ .",
+    "Etude et représentation graphique.",
+    "Etude et représentation graphique de fonctions du type x ↦ e^(u(x)) , où u est une fonction du programme."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": "Fonctions du type x ↦ xʳ , r ∈ ℚ \\ ℤ .",
+   "contents": [
+    "Propriétés, limites usuelles.",
+    "Etude et représentation graphique."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": "Fonctions du type x ↦ aˣ , a > 0 .",
+   "contents": [
+    "Propriétés, limites usuelles.",
+    "Etude et représentation graphique."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": "Intégrale d’une fonction continue sur un intervalle [a,b]",
+   "contents": [
+    "Propriétés : linéarité, relation de Chasles, positivité, comparaison d’intégrales.",
+    "Intégration par parties.",
+    "Formule de la moyenne et inégalité de la moyenne.",
+    "Calcul d’aires planes et des volumes de solides de révolution.",
+    "Etude sur des exemples de fonctions définies sur un intervalle I par x ↦ ∫ₐ^(v(x)) f(t)dt où f est continue sur I et v est dérivable sur I et à valeurs dans I."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": "Equations différentielles du type y' = ay + b, a et b ∈ ℝ et y\" + a² y = 0, a ∈ ℝ .",
+   "contents": [],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": "Suites réelles",
+   "contents": [
+    "Variation, suite minorée, suite majorée, suite bornée.",
+    "Opérations sur les suites, convergence, opérations sur les limites, théorèmes de comparaison.",
+    "Suites croissantes et majorées, suites décroissantes et minorées.",
+    "Suites adjacentes.",
+    "Suites récurrentes.",
+    "Etude sur des exemples de suites définies par une intégrale."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Reconnaître si une fonction est continue en un réel ou sur un intervalle à partir de son expression algébrique ou d’un graphique.",
+    "Déterminer les valeurs exactes ou approchées des extrema d’une fonction continue sur [a,b].",
+    "Déterminer une valeur exacte ou approchée d’une solution d’une équation de la forme f(x) = k , dans le cas où f est une fonction continue sur un intervalle.",
+    "Déterminer la limite éventuelle d’une fonction du programme en un réel ou à l’infini.",
+    "Déterminer la limite d’une fonction monotone sur un intervalle, aux bornes de l’intervalle.",
+    "Reconnaître qu'une fonction réalise une bijection .",
+    "Reconnaître si une fonction du programme est dérivable en un point ou sur un intervalle.",
+    "Reconnaître que le nombre dérivé d’une fonction en a est la pente de la tangente à la courbe de cette fonction en le point d’abscisse a .",
+    "Déterminer l’équation de la tangente (ou des demi-tangentes) à une courbe en un point d’abscisse a.",
+    "Déterminer le nombre dérivé d’une fonction du programme en un réel a connaissant l’équation de la tangente à la courbe représentative de la fonction au point d’abscisse a.",
+    "Déterminer l’approximation affine d’une fonction du programme au voisinage d’un réel a.",
+    "Donner une valeur approchée de nombre réel en utilisant l’approximation affine d’une fonction du programme au voisinage d’un réel a.",
+    "Déterminer la dérivée d’une fonction du programme sur un intervalle en utilisant les opérations sur les fonctions dérivables et les dérivées de fonctions usuelles.",
+    "Déterminer la dérivée d’une fonction composée.",
+    "Résoudre des inéquations en utilisant l’inégalité des accroissements finis.",
+    "Déterminer le sens de variation d’une fonction du programme connaissant le signe de sa dérivée.",
+    "Déterminer le sens de variation d’une fonction du programme à partir de sa représentation graphique.",
+    "Reconnaître qu’un réel est un extremum local ou global d’une fonction du programme.",
+    "Reconnaître un point d’inflexion.",
+    "Reconnaître qu’un point ou une droite est un centre ou un axe de symétrie.",
+    "Identifier les branches infinies de la courbe représentative d’une fonction du programme.",
+    "Tracer la courbe représentative de la réciproque d’une fonction donnée.",
+    "Tracer une courbe représentative d’une fonction à partir d’une autre en utilisant une transformation plane (translation, symétrie axiale ou centrale) ou une transformation d’écriture menant à un changement de repère.",
+    "Exploiter ou produire un graphique pour étudier la position relative de deux courbes.",
+    "Exploiter ou produire une représentation graphique pour déterminer ou estimer les solutions éventuelles d’une équation ou d’une inéquation.",
+    "Déterminer l’ensemble des primitives d’une fonction continue sur un intervalle I.",
+    "Reconnaître qu’une fonction est la primitive d’une fonction continue sur un intervalle I, qui s’annule en un réel a de I.",
+    "Calculer les primitives des fonctions usuelles.",
+    "Calculer une intégrale en utilisant une primitive.",
+    "Calculer une intégrale à l’aide d’intégration par parties.",
+    "Calculer l'aire d'une partie du plan délimitée par des courbes.",
+    "Comparer des fonctions en utilisant des intégrales.",
+    "Donner une valeur approchée d’une intégrale par la méthode des rectangles.",
+    "Etudier une fonction définie par une intégrale.",
+    "Résoudre une équation différentielle du programme.",
+    "Reconnaître qu’un réel est un majorant ou un minorant d’une suite du programme.",
+    "Etudier les variations d’une suite du programme.",
+    "Représenter graphiquement les points An de coordonnées (n, un), dans le cas où (un)n est une suite du type un = f(n) où f est une fonction du programme.",
+    "Représenter graphiquement une suite récurrente.",
+    "Etudier la convergence d’une suite du programme.",
+    "Déterminer une valeur exacte ou approchée de la limite d’une suite convergente.",
+    "Reconnaître que deux suites sont adjacentes.",
+    "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement faisant appel à des suites ou à des fonctions du programme.",
+    "Ils résolvent des problèmes puisés dans des situations réelles pouvant être modélisées par une suite ou une fonction du programme ou une équation différentielle.",
+    "Ils résolvent des problèmes d’optimisation."
+   ]
+  },
+  {
+   "domain": "Géométrie",
+   "topic": "Nombres complexes",
+   "contents": [
+    "Opérations algébriques sur le corps des complexes, propriétés du conjugué, du module et de l’argument.",
+    "Ecritures trigonométrique et exponentielle d’un nombre complexe non nul ( notations [r,θ] et reiθ ).",
+    "Formules d’Euler, linéarisation.",
+    "Racine nième d’un nombre complexe.",
+    "Résolution d’équations de degré supérieur ou égal à 2 à coefficients complexes."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Géométrie",
+   "topic": "Géométrie dans l’espace",
+   "contents": [
+    "Vecteurs de l’espace, opérations.",
+    "Produit scalaire, propriétés, distance d’un point à un plan",
+    "Produit vectoriel dans l’espace, propriétés, distance d’un point à une droite, distance de deux droites, calcul de volumes.",
+    "Droites et plans de l’espace, équations, position relative.",
+    "Sphère, section d’une sphère par un plan."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Géométrie",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Représenter un point connaissant son affixe.",
+    "Calculer ou transformer des expressions complexes.",
+    "Déterminer le conjugué d’un nombre complexe.",
+    "Déterminer le module et un argument d’un nombre complexe.",
+    "Déterminer la forme trigonométrique, exponentielle d’un nombre complexe non nul.",
+    "Repérer un point dans le plan orienté et donner son affixe, ses coordonnées cartésiennes ou ses coordonnées polaires.",
+    "Linéariser une expression trigonométrique.",
+    "Reconnaître que deux vecteurs sont colinéaires ou orthogonaux.",
+    "Décider de l’alignement de trois points, du parallélisme ou de l’orthogonalité de deux droites",
+    "Déterminer la racine neme d’un nombre complexe.",
+    "Résoudre une équation de degré inférieur ou égal à 2, à coefficients complexes.",
+    "Résoudre une équation de degré supérieur ou égal à 2 à coefficients complexes.",
+    "Représenter dans le plan complexe les solutions d’une équation de degré supérieur ou égal à 2 à coefficients complexes.",
+    "Déterminer les composantes d'un vecteur en utilisant les opérations sur les vecteurs de l’espace.",
+    "Reconnaître que trois vecteurs de l’espace forment une base.",
+    "Exploiter le produit scalaire dans l’espace pour calculer des grandeurs, déterminer des lieux géométriques et étudier des configurations géométriques.",
+    "Exploiter les propriétés du produit vectoriel dans l’espace pour calculer des grandeurs, déterminer des lieux géométriques et étudier des configurations géométriques.",
+    "Déterminer les équations d’une droite ou d’un plan.",
+    "Déterminer l’intersection de deux droites, d’un plan et d’une droite, de deux plans, de trois plans.",
+    "Déterminer une équation cartésienne d’une sphère.",
+    "Déterminer la section d’une sphère par un plan.",
+    "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement.",
+    "Ils résolvent des problèmes d’alignement, de concours, de lieu ou métriques.",
+    "Ils résolvent des problèmes puisés dans des situations réelles menant à un modèle géométrique.",
+    "Ils résolvent des problèmes d’optimisation."
+   ]
+  },
+  {
+   "domain": "Statistiques - Probabilités",
+   "topic": "Séries statistiques à deux caractères",
+   "contents": [
+    "Ajustements affines (méthode des moindres carrés, méthode de Mayer), droites de régression, corrélation linéaire, coefficient de corrélation linéaire, covariance.",
+    "Exemples d’ajustements non affines."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Statistiques - Probabilités",
+   "topic": "Probabilité",
+   "contents": [
+    "Probabilité conditionnelle, formule des probabilités totales, formule de Bayes.",
+    "Variable aléatoire, loi de probabilité, schéma de Bernoulli, loi binomiale.",
+    "Espérance, variance et écart-type d’une variable aléatoire (cas particulier d’une loi binomiale).",
+    "Exemples de lois continues : Loi uniforme, loi exponentielle."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Statistiques - Probabilités",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Décider, à partir d’un nuage de points, de l’utilité d’un ajustement affine.",
+    "Déterminer et tracer une droite de régression.",
+    "Calculer la covariance d’une série statistique double.",
+    "Calculer le coefficient de corrélation linéaire et interpréter le résultat",
+    "Calculer la probabilité d’un événement sachant qu’un autre est réalisé.",
+    "Décider de l’indépendance de deux événements.",
+    "Calculer la probabilité d’un événement en utilisant la formule de BAYES et/ou la formule des probabilités totales.",
+    "Déterminer la loi de probabilité d’une variable aléatoire.",
+    "Calculer les caractéristiques d’une variable aléatoire et interpréter les résultats.",
+    "Reconnaître un schéma de Bernoulli et en dégager les paramètres.",
+    "Déterminer la loi de probabilité d’une épreuve de Bernoulli.",
+    "Reconnaître qu’une variable aléatoire suit une loi exponentielle ou une loi uniforme.",
+    "Déterminer la fonction de répartition d’une variable aléatoire qui suit une loi exponentielle ou une loi uniforme.",
+    "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement.",
+    "En particulier, ils résolvent des problèmes puisés dans des situations réelles menant à un modèle statistique ou probabiliste."
+   ]
+  }
+ ],
+ "notes": "Pages 78-83 (p78 = section cover 'Sciences expérimentales'). Three domains: Analyse (p79-81), Géométrie (p82), Statistiques - Probabilités (p83). No Arithmétique domain. Each domain page has 'Contenu disciplinaire' (sub-headings in bold = topics) followed by 'Aptitudes à développer', a two-column table: left column = aptitudes (kept as objectives), right column = teacher comments/admitted theorems/definitions (excluded). Aptitudes are given once per domain, so each domain has one block with topic null holding them; topic blocks carry only contents. Aptitudes are split in the source into '1. Les élèves mobilisent une technique ... pour :' (the bullet items are kept, the lead-in sentence is not) and '2. Les élèves résolvent des problèmes ...' (the lead sentence and each 'En particulier' sub-item are kept as objectives). Formulas lost in the text layer were rewritten in plain notation from the page images. In Analyse, the content topics are the bold sub-headings under the bullets 'Fonctions numériques d’une variable réelle' and 'Suites réelles' (that grouping level is not repeated in the topic field); the aptitude table has its own sub-headings 'Fonctions' and 'Suites' which are not encoded. The Equations différentielles heading carries its content in the heading line itself (contents []). Printed spellings kept (e.g. 'racine neme')."
+}

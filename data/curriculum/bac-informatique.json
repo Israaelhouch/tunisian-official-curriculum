@@ -291,7 +291,284 @@
           "objectives": [],
           "children": []
         }
-      ]
+      ],
+      "programme": {
+        "source": {
+          "document": "Programme officiel de mathématiques — enseignement secondaire",
+          "issuer": "Ministère de l'Éducation (Tunisie)",
+          "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/math.pdf",
+          "pages": "90-96"
+        },
+        "units": [
+          {
+            "domain": "Analyse",
+            "topic": "Limites et continuité",
+            "contents": [
+              "Opérations sur les limites, limites et ordre, limite d’une fonction monotone, limite d’une fonction composée.",
+              "Continuité en un réel, continuité sur un intervalle, opérations sur les fonctions continues, continuité d’une fonction composée. Théorème des valeurs intermédiaires.",
+              "Fonction continue et strictement monotone sur un intervalle, théorème de la bijection."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Dérivation",
+            "contents": [
+              "Dérivation en un réel, dérivation sur un intervalle, opérations sur les dérivées, dérivée d’une fonction composée,",
+              "Lien entre signe de la dérivée et variation.",
+              "Lien entre dérivée et extremum local.",
+              "Dérivée seconde, point d’inflexion.",
+              "Dérivée de fonctions réciproques.",
+              "Théorème des accroissements finis, inégalité des accroissements finis.",
+              "Primitives de fonctions continues, propriétés et opérations sur les primitives."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Fonctions polynômes, rationnelles , √f , |f| .",
+            "contents": [
+              "Etude et représentation graphique."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Fonction logarithme népérien",
+            "contents": [
+              "Propriétés, limites usuelles, lim(x→+∞) (lnx / ⁿ√x) ; lim(x→0⁺) (ⁿ√x lnx), n ∈ ℕ* .",
+              "Etude et représentation graphique de fonctions du type x ↦ ln(u(x)) , où u est une fonction du programme."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Fonction exponentielle",
+            "contents": [
+              "Propriétés, limites usuelles, lim(x→+∞) (eˣ / ⁿ√x), n ∈ ℕ* ; lim(x→−∞) (xⁿ eˣ), n ∈ ℕ .",
+              "Etude et représentation graphique.",
+              "Etude et représentation graphique de fonctions du type x ↦ e^(u(x)) , où u est une fonction du programme."
+            ],
+            "objectives": [],
+            "chapter": "Fonctions exponentielles"
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Fonctions du type x ↦ aˣ , a > 0 .",
+            "contents": [
+              "Propriétés, limites usuelles.",
+              "Etude et représentation graphique."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Intégrale d’une fonction continue sur un intervalle [a,b]",
+            "contents": [
+              "Propriétés : linéarité, relation de Chasles, positivité, comparaison d’intégrales.",
+              "Intégration par parties.",
+              "Formule de la moyenne et inégalité de la moyenne.",
+              "Calcul d’aires planes."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Suites réelles",
+            "contents": [
+              "Variation, suite minorée, suite majorée, suite bornée.",
+              "Opérations sur les suites, convergence, opérations sur les limites, théorèmes de comparaison.",
+              "Suites croissantes et majorées, suites décroissantes et minorées.",
+              "Suites récurrentes."
+            ],
+            "objectives": [],
+            "chapter": "Suites réelles"
+          },
+          {
+            "domain": "Analyse",
+            "contents": [],
+            "objectives": [
+              "Reconnaître si une fonction est continue en un réel ou sur un intervalle à partir de son expression algébrique ou d’un graphique.",
+              "Déterminer une valeur exacte ou approchée d’une solution d’une équation de la forme f(x) = k , dans le cas où f est une fonction continue sur un intervalle.",
+              "Déterminer la limite éventuelle d’une fonction du programme en un réel ou à l’infini.",
+              "Reconnaître qu'une fonction réalise une bijection.",
+              "Reconnaître si une fonction du programme est dérivable en un point ou sur un intervalle.",
+              "Reconnaître que le nombre dérivé d’une fonction en a est la pente de la tangente à la courbe de cette fonction en le point d’abscisse a .",
+              "Déterminer l’équation de la tangente (ou des demi-tangentes) à une courbe en un point d’abscisse a.",
+              "Déterminer le nombre dérivé d’une fonction du programme en un réel a connaissant l’équation de la tangente à la courbe représentative de la fonction au point d’abscisse a.",
+              "Déterminer la dérivée d’une fonction du programme sur un intervalle en utilisant les opérations sur les fonctions dérivables et les dérivées de fonctions usuelles.",
+              "Déterminer la dérivée d’une fonction composée.",
+              "Résoudre des inéquations en utilisant l’inégalité des accroissements finis.",
+              "Déterminer le sens de variation d’une fonction du programme connaissant le signe de sa dérivée.",
+              "Déterminer le sens de variation d’une fonction à partir de sa représentation graphique.",
+              "Reconnaître qu’un réel est un extremum local ou global d’une fonction du programme.",
+              "Reconnaître un point d’inflexion.",
+              "Reconnaître qu’un point ou une droite est un centre ou un axe de symétrie d'une courbe.",
+              "Reconnaître les branches infinies éventuelles de la courbe représentative d’une fonction du programme.",
+              "Tracer la courbe représentative de la réciproque d’une fonction donnée.",
+              "Tracer une courbe représentative d’une fonction à partir d’une autre en utilisant une transformation plane (translation, symétrie axiale ou centrale) ou une transformation d’écriture menant à un changement de repère.",
+              "Exploiter ou créer un graphique pour étudier la position relative de deux courbes.",
+              "Exploiter ou créer une représentation graphique pour déterminer ou estimer les solutions éventuelles d’une équation ou d’une inéquation.",
+              "Déterminer l’ensemble des primitives d’une fonction continue sur un intervalle I.",
+              "Reconnaître qu’une fonction est la primitive d’une fonction continue sur un intervalle I, qui s’annule en un réel a de I.",
+              "Calculer les primitives des fonctions usuelles.",
+              "Calculer une intégrale en utilisant une primitive.",
+              "Calculer une intégrale à l’aide d’intégration par parties.",
+              "Calculer l'aire d'une partie du plan limitée par des courbes du plan plane.",
+              "Démontrer des inégalités en utilisant les propriétés des intégrales.",
+              "Reconnaître qu’un réel est un majorant ou un minorant d’une suite du programme.",
+              "Etudier les variations d’une suite du programme.",
+              "Représenter graphiquement les points An de coordonnées (n, un), dans le cas où (un) est une suite du type un = f(n) où f est une fonction du programme.",
+              "Représenter graphiquement une suite récurrente.",
+              "Etudier la convergence d’une suite du programme.",
+              "Déterminer une valeur exacte ou approchée de la limite d’une suite convergente.",
+              "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement faisant appel à des suites ou à des fonctions du programme.",
+              "Ils résolvent des problèmes puisés dans des situations réelles pouvant être modélisées par une suite ou une fonction du programme.",
+              "Ils résolvent des problèmes d’optimisation.",
+              "Ils conçoivent et élaborent un algorithme et / ou un organigramme pour modéliser des situations."
+            ]
+          },
+          {
+            "domain": "Statistiques - Probabilités",
+            "topic": "Séries statistiques à deux caractères",
+            "contents": [
+              "Ajustements affines (méthode des moindres carrés, méthode de Mayer), droites de régression, corrélation linéaire, coefficient de corrélation linéaire, covariance.",
+              "Exemples d’ajustements non affines."
+            ],
+            "objectives": [],
+            "chapter": "Séries statistiques à deux caractères"
+          },
+          {
+            "domain": "Statistiques - Probabilités",
+            "topic": "Probabilité",
+            "contents": [
+              "Probabilité conditionnelle, formule des probabilités totales, formule de Bayes.",
+              "Variable aléatoire, loi de probabilité, schéma de Bernoulli, loi binomiale.",
+              "Espérance, variance et écart-type d’une variable aléatoire (cas particulier d’une loi binomiale).",
+              "Exemples de lois continues : Loi uniforme, loi exponentielle."
+            ],
+            "objectives": [],
+            "chapter": "Probabilités"
+          },
+          {
+            "domain": "Statistiques - Probabilités",
+            "contents": [],
+            "objectives": [
+              "Décider, à partir d’un nuage de points, de l’utilité d’un ajustement affine.",
+              "Déterminer et tracer une droite de régression.",
+              "Calculer la covariance d’une série statistique double.",
+              "Calculer le coefficient de corrélation linéaire et interpréter le résultat",
+              "Calculer la probabilité d’un événement sachant qu’un autre est réalisé.",
+              "Décider de l’indépendance de deux événements.",
+              "Calculer la probabilité d’un événement en utilisant la formule de BAYES et/ou la formule des probabilités totales.",
+              "Déterminer la loi de probabilité d’une variable aléatoire.",
+              "Calculer les caractéristiques d’une variable aléatoire et interpréter les résultats.",
+              "Reconnaître un schéma de Bernoulli et en dégager les paramètres.",
+              "Déterminer la loi de probabilité d’une épreuve de Bernoulli.",
+              "Reconnaître qu’une variable aléatoire suit une loi exponentielle ou une loi uniforme.",
+              "Déterminer la fonction de répartition d’une variable aléatoire qui suit une loi exponentielle ou une loi uniforme.",
+              "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement.",
+              "En particulier, ils résolvent des problèmes puisés dans des situations réelles menant à un modèle statistique ou probabiliste."
+            ]
+          },
+          {
+            "domain": "Algèbre et géométrie",
+            "topic": "Nombres complexes",
+            "contents": [
+              "Opérations algébriques sur le corps des complexes, propriétés du conjugué et du module.",
+              "Résolution d’équations de degré supérieur ou égal à 2 à coefficients complexes."
+            ],
+            "objectives": [],
+            "chapter": "Nombres complexes"
+          },
+          {
+            "domain": "Algèbre et géométrie",
+            "topic": "Systèmes linéaires de n équations à p inconnues réelles avec n ≤ 3 et p ≤ 3",
+            "contents": [
+              "Matrices ( n x p ) avec n ≤ 3 et p ≤ 3.",
+              "Opérations sur les matrices (addition , multiplication et multiplication par un réel).",
+              "Déterminant d’une matrice carrée d’ordre 2 ou 3.",
+              "Inverse d’une matrice carrée d’ordre 2 ou 3.",
+              "Résolution de systèmes linéaires de n équations à p inconnues réelles avec n ≤ 3 et p ≤ 3."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Algèbre et géométrie",
+            "topic": "Géométrie dans l’espace",
+            "contents": [
+              "Vecteurs de l'espace",
+              "Droites et plans de l’espace, équations, position relative."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Algèbre et géométrie",
+            "topic": "Les graphes",
+            "contents": [
+              "Sommets, arêtes, ordre d'un graphe, degré d'un sommet, théorème d'Euler, chemin, algorithme de DIJKSTRA.",
+              "Matrice associée à un graphe.",
+              "Longueur d’une chaîne, distance entre deux sommets.",
+              "Graphe orienté, boucle.",
+              "Graphe probabiliste, matrice de transition."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Algèbre et géométrie",
+            "contents": [],
+            "objectives": [
+              "Représenter un point connaissant son affixe.",
+              "Calculer ou transformer des expressions complexes.",
+              "Déterminer le conjugué d’un nombre complexe.",
+              "Déterminer le module d’un nombre complexe.",
+              "Calculer la racine carré d’un nombre complexe.",
+              "Résoudre une équation de degré supérieur ou égal à 2, à coefficients complexes.",
+              "Représenter dans le plan complexe les racines d’ une équation à coefficients complexes.",
+              "Résoudre un système linéaire de n équation à p inconnues réelles en utilisant les opérations sur les matrices (n , p = 2 ; 3).",
+              "Résoudre un système linéaire de n équations à n inconnues réelles (n = 2 ou 3), en utilisant l’inverse d’une matrice carrée d’ordre 2 ou 3 de déterminant non nul.",
+              "Déterminer des équations paramétriques ou des équations cartésiennes d’une droite de l’espace.",
+              "Déterminer des équations paramétriques ou une équation cartésienne d’un plan.",
+              "Déterminer l’intersection d’une droite et d’un plan, de deux plans, de trois plans.",
+              "Colorier un graphe.",
+              "Déterminer le nombre chromatique.",
+              "Reconnaître une chaîne eulérienne.",
+              "Etablir le lien entre la somme des degrés des sommets et le nombre d’arêtes d’un graphe.",
+              "Etudier la convergence d’un graphe probabiliste à deux sommets.",
+              "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement.",
+              "Ils résolvent des problèmes pouvant être modélisés par un système linéaire.",
+              "Ils résolvent des problèmes pouvant être modélisés par un graphe orienté ou non.",
+              "Ils conçoivent et élaborent un algorithme et / ou un organigramme pour modéliser des situations."
+            ]
+          },
+          {
+            "domain": "Arithmétique",
+            "topic": "Arithmétique",
+            "contents": [
+              "Congruence dans Z",
+              "Théorème de Bezout",
+              "Résolution sur des exemples d’équation du type : ax + by = c avec a, b et c entiers relatifs."
+            ],
+            "objectives": [],
+            "chapter": "Arithmétique"
+          },
+          {
+            "domain": "Arithmétique",
+            "contents": [],
+            "objectives": [
+              "Connaître et utiliser les propriétés de la divisibilité dans ℤ .",
+              "Calculer le quotient et le reste de la division euclidienne dans ℤ .",
+              "Calculer le PGCD et le PPCM de deux entiers relatifs non nuls.",
+              "Exploiter les propriétés de congruence dans ℤ .",
+              "Reconnaître que deux entiers sont premiers entre eux, en utilisant la relation de Bezout.",
+              "Résoudre dans ℤ des équations du type : ax + by = c avec a, b et c entiers relatifs.",
+              "Les élèves résolvent des problèmes numériques dans des situations mathématiques ou en rapport avec leur environnement dans des contextes familiers ou non familiers.",
+              "les élèves résolvent des problèmes d’arithmétique",
+              "Les élèves résolvent des problèmes puisés dans des situations réelles menant à un modèle arithmétique."
+            ]
+          }
+        ]
+      }
     },
     {
       "subject": {
@@ -492,7 +769,284 @@
             }
           ]
         }
-      ]
+      ],
+      "programme": {
+        "source": {
+          "document": "Programme officiel de sciences physiques — 3ème et 4ème années de l'enseignement secondaire",
+          "issuer": "Ministère de l'Éducation (Tunisie)",
+          "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/physique3_4.pdf",
+          "pages": "141-155"
+        },
+        "units": [
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "EVOLUTION DE SYSTEMES ELECTRIQUES > I. Le condensateur, le dipôle RC",
+            "contents": [
+              "I-1. Description sommaire d’un condensateur.",
+              "I-2. Charge électrique et capacité d’un condensateur.",
+              "I-3. Réponse d’un dipôle RC à un échelon de tension ; constante de temps τ = R.C.",
+              "I-4. Energie emmagasinée dans un condensateur."
+            ],
+            "objectives": [
+              "Réaliser un montage permettant de tracer la courbe d’évolution de la charge électrique d’un condensateur au cours du temps.",
+              "Déterminer à l’aide de la courbe de charge d’un condensateur la valeur de la capacité C.",
+              "Reconnaitre que l'intensité i du courant est une grandeur algébrique.",
+              "Déterminer, graphiquement, à partir de la courbe de réponse uc(t) ou i(t) d’un dipôle RC soumis à un échelon de tension, la constante de temps τ =R.C.",
+              "Etablir l’équation différentielle qui régit la charge instantanée q(t) d’un condensateur, la tension uC(t) à ses bornes et l’intensité i(t) du courant qui parcourt le circuit de charge durant le régime transitoire.",
+              "Calculer l’énergie emmagasinée dans un condensateur."
+            ],
+            "chapter": "Le condensateur ; le dipôle RC"
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "EVOLUTION DE SYSTEMES ELECTRIQUES",
+            "contents": [
+              "II. La bobine, le dipôle RL",
+              "II-1. Induction électromagnétique",
+              "Courant induit : Loi de Lenz.",
+              "Force électromotrice d'induction.",
+              "II-2. Auto induction : Force électromotrice d’auto induction et inductance d’un solénoïde.",
+              "II-3. Réponse d’un dipôle RL à un échelon de tension ; constante de temps τ = L/R.",
+              "II-4. Energie emmagasinée dans une bobine.",
+              "III. Le circuit RLC série",
+              "III-1. Oscillations libres amorties",
+              "Régimes pseudopériodique et apériodique."
+            ],
+            "objectives": [
+              "Mettre en évidence expérimentalement le phénomène d’induction électromagnétique.",
+              "Appliquer la loi de Lenz.",
+              "Reconnaître les facteurs dont dépend la f.e.m. d’auto-induction.",
+              "Etablir l’équation différentielle qui régit les variations de i en fonction du temps dans un dipôle RL alimenté par un échelon de tension.",
+              "Déterminer graphiquement, à partir des courbes de réponses uL(t) ou i(t), soumis à un échelon de tension, la constante de temps τ = L/R.",
+              "Calculer l’énergie emmagasinée dans un solénoïde.",
+              "Réaliser un montage permettant de suivre les oscillations libres d’un circuit RLC série.",
+              "Reconnaître le régime pseudopériodique et le régime apériodique.",
+              "Reconnaître le facteur responsable de l’amortissement."
+            ],
+            "chapter": "Évolution de systèmes électriques"
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "EVOLUTION DE SYSTEMES ELECTRIQUES",
+            "contents": [
+              "Equation différentielle.",
+              "L'énergie totale et sa non conservation.",
+              "III-2. Cas particulier des oscillations libres non amorties",
+              "Equation différentielle.",
+              "Période propre T0 et fréquence propre N0.",
+              "L'énergie totale et sa conservation.",
+              "III-3. Entretien des oscillations à l'aide d'un dipôle à résistance négative",
+              "III-4. Oscillations forcées en régime sinusoïdal",
+              "Production.",
+              "Influence de la fréquence. d'excitation sur les oscillations et résonance d'intensité.",
+              "Impédance électrique.",
+              "Puissance moyenne et facteur de puissance : Pertes en ligne."
+            ],
+            "objectives": [
+              "Etablir l’équation différentielle des oscillations libres d’un circuit RLC série.",
+              "Interpréter la diminution de l’amplitude des oscillations libres amorties par le transfert d’énergie de l’oscillateur vers le milieu extérieur.",
+              "Réaliser un montage permettant d'entretenir des oscillations d’un circuit RLC série.",
+              "Déterminer la valeur de la résistance négative indispensable à l'entretien des oscillations d’un circuit RLC série.",
+              "Distinguer, en régime forcé, le résonateur de l’excitateur.",
+              "Visualiser simultanément à l’oscilloscope la tension excitatrice u(t) et l'intensité du courant i(t).",
+              "Mesurer l’amplitude et la fréquence d’une grandeur oscillante sinusoïdale.",
+              "Déterminer le déphasage entre la tension excitatrice u(t) et l’intensité du courant i(t).",
+              "Mettre en évidence expérimentalement le phénomène de résonance d’intensité.",
+              "Etablir l’expression de l’intensité maximale Im en fonction de la fréquence des excitations de l’oscillateur.",
+              "Calculer la puissance moyenne absorbée par un oscillateur électrique.",
+              "Expliquer l’importance du facteur de puissance dans les transformations de l’énergie électrique."
+            ],
+            "chapter": "Évolution de systèmes électriques"
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "EVOLUTION DE SYSTEMES ELECTRIQUES > IV. Les filtres",
+            "contents": [
+              "IV-1. Définitions : filtrage de signaux électriques et filtre.",
+              "IV-2. Fonction de transfert et gain d'un filtre.",
+              "IV-3. Bande passante et fréquence de coupure.",
+              "IV-4. Filtres passe-bas",
+              "Filtre passe-bas passif",
+              "Filtre passe-bas actif",
+              "IV-5. Filtre passe-haut : circuit CR.",
+              "IV-6. Filtre passe-bande : circuit RLC série."
+            ],
+            "objectives": [
+              "Reconnaître le schéma d'un filtre.",
+              "Distinguer entre l'entrée et la sortie d'un filtre.",
+              "Réaliser un filtre (passe-bas, passe-haut, passe-bande).",
+              "Etablir l'expression de la fonction de transfert T = USm/UEm d'un filtre.",
+              "Calculer le gain d'un filtre.",
+              "Tracer la courbe de réponse USm=f(N) [ou G=f(N)] d'un filtre.",
+              "Déterminer la (ou les) fréquence(s) de coupure et la largeur de la bande passante d'un filtre."
+            ]
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "EVOLUTION DE SYSTEMES ELECTRIQUES",
+            "contents": [
+              "V. Production de signaux périodiques non sinusoïdaux",
+              "V-1. Générateurs de signaux non sinusoïdaux : Les multivibrateurs.",
+              "V-2. Fonctionnement d'un multivibrateur astable",
+              "Principe",
+              "Chronogrammes",
+              "Caractéristiques : période, rapport cyclique et niveaux de sortie.",
+              "VI. Conversion de signaux",
+              "VI-1. Signaux analogiques, logiques et numériques : Définitions et comparaison.",
+              "VI-2. Convertisseur analogique-numérique (CAN) et convertisseur numérique-analogique (CNA) : Définitions, symbole, exemple et intérêts.",
+              "VI-3. CNA",
+              "Principe de fonctionnement du CNA à réseau de résistances pondérées.",
+              "Caractéristique de transfert uS=f(N)."
+            ],
+            "objectives": [
+              "Reconnaître un multivibrateur astable.",
+              "Réaliser un montage de multivibrateur astable.",
+              "Visualiser et tracer les chronogrammes d'un multivibrateur astable.",
+              "Tracer les chronogrammes d'un multivibrateur astable.",
+              "Interpréter les chronogrammes d'un multivibrateur astable.",
+              "Calculer la période du signal généré par un multivibrateur astable.",
+              "Calculer le rapport cyclique δ d'un multivibrateur astable.",
+              "Relever les deux niveaux de sortie d'un multivibrateur astable.",
+              "Comparer un signal analogique avec un signal numérique.",
+              "Distinguer un convertisseur analogique-numérique (CAN) d'un convertisseur numérique-analogique (CNA).",
+              "Etablir l'expression de la tension de sortie uS d'un CNA à réseau de résistances pondérées en fonction du nombre N d'entrées.",
+              "Convertir un signal numérique en signal analogique.",
+              "Tracer la caractéristique de transfert uS=f(N) d'un CNA."
+            ],
+            "chapter": "Évolution de systèmes électriques"
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "ONDES > I. Ondes mécaniques progressives",
+            "contents": [
+              "I-1. Notion d'onde",
+              "Onde transversale et onde longitudinale.",
+              "Célérité d’une onde.",
+              "I-2. Onde progressive sinusoïdale",
+              "Double périodicité : périodicité temporelle (T) et périodicité spatiale (longueur d'onde λ )."
+            ],
+            "objectives": [
+              "Distinguer entre une onde transversale et une onde longitudinale.",
+              "Reconnaître que la propagation d’une onde est due à une propagation d’énergie sans transport de matière.",
+              "Réaliser une expérience illustrant la propagation d’une onde sinusoïdale dans un milieu homogène et isotrope.",
+              "Identifier, dans un milieu de propagation donné, les propriétés dont dépend la célérité d’une onde.",
+              "Etablir l'équation horaire du mouvement d'un point donné du milieu de propagation connaissant celle de la source d'onde progressive et représenter graphiquement le diagramme du mouvement de ce point.",
+              "Représenter graphiquement l'aspect à un instant donné, du milieu (ou d'une coupe du milieu) de propagation d'une onde progressive.",
+              "Reconnaître la double périodicité d’une onde sinusoïdale."
+            ],
+            "chapter": "Ondes mécaniques progressives"
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "ONDES",
+            "contents": [
+              "II. Interactions onde-matière :",
+              "II-1. Diffraction mécanique et lumineuse : caractère ondulatoire de la lumière.",
+              "II-2. Réflexion",
+              "II-3. Réfraction",
+              "II-4. Dispersion",
+              "III. Transmission des signaux :",
+              "III-1. L'onde électromagnétique : support de transmission de l'information."
+            ],
+            "objectives": [
+              "Justifier le caractère ondulatoire de la lumière à partir d’expériences de diffraction d’ondes mécaniques et d’ondes lumineuses.",
+              "Préciser l'influence, sur le phénomène de diffraction, du quotient λ/a (λ étant la longueur d'onde et a la largeur de la fente).",
+              "Réaliser des expériences de réflexion, de réfraction et de dispersion d'ondes mécaniques.",
+              "Montrer qu’une lumière blanche est constituée d'une infinité de radiations monochromatiques.",
+              "Distinguer un milieu dispersif d'un milieu non dispersif.",
+              "Justifier le recours à l'onde électromagnétique comme support de transmission de l'information.",
+              "Décrire le principe de transmission d'un signal via une onde électromagnétique."
+            ],
+            "chapter": "Ondes"
+          },
+          {
+            "domain": "A. PHYSIQUE",
+            "topic": "ONDES",
+            "contents": [
+              "III-2. Ondes lumineuses et ondes hertziennes : Domaines de fréquences, milieux de propagation, émission et réception.",
+              "III-3. Modulation de l'onde porteuse de l'information",
+              "III-4. Modulation d'amplitude",
+              "Modulation.",
+              "Démodulation.",
+              "III-5. Modulation de fréquence"
+            ],
+            "objectives": [
+              "Distinguer les ondes lumineuses et les ondes hertziennes par leurs fréquences.",
+              "Expliquer les fonctions de la modulation et de la démodulation d'un signal.",
+              "Réaliser la modulation d'une tension sinusoïdale en amplitude.",
+              "Mettre expérimentalement en évidence l'influence de la composante continue ajoutée à la tension modulante sur la qualité de la modulation.",
+              "Calculer le taux de modulation d'un signal sinusoïdal.",
+              "Réaliser la démodulation d'un signal électrique sinusoïdal modulé en amplitude.",
+              "Mettre expérimentalement en évidence l'influence de la fréquence de l'onde électromagnétique porteuse du signal sur la démodulation de ce dernier.",
+              "Réaliser la modulation d'une tension sinusoïdale en fréquence."
+            ],
+            "chapter": "Ondes"
+          },
+          {
+            "domain": "B. CHIMIE",
+            "topic": "MESURE D'UNE QUANTITE DE MATIERE",
+            "contents": [
+              "I. Détermination d’une quantité de matière à l’aide d’une réaction chimique",
+              "I-1. Dosage acido-basique (rappel)",
+              "I-2. Par oxydoréduction : dosage manganimétrique.",
+              "II. Détermination d’une quantité de matière par mesure d’une grandeur physique",
+              "Masse, volume et concentration (rappel).",
+              "Conductance électrique."
+            ],
+            "objectives": [
+              "Titrer une solution aqueuse par réaction acide-base ou par réaction d’oxydo-réduction.",
+              "Calculer la conductance (G) d’une portion de solution électrolytique.",
+              "Tracer la courbe d’étalonnage G=f(C) pour des solutions titrées.",
+              "Exploiter une courbe d’étalonnage pour déterminer la concentration inconnue d’une solution."
+            ],
+            "chapter": "Mesure d'une quantité de matière"
+          },
+          {
+            "domain": "B. CHIMIE",
+            "topic": "ELECTROCHIMIE",
+            "contents": [
+              "I. Pile électrochimique : la pile Daniell",
+              "II. Electrolyse",
+              "II-1. Le phénomène d’électrolyse, exemple de réaction imposée",
+              "II-2. Exemples et applications industrielles",
+              "Electrolyseur à électrodes inattaquables.",
+              "Application : obtention des métaux par voie humide (zinc, cuivre).",
+              "Electrolyseur à anode soluble.",
+              "Applications : Affinage des métaux, galvanostégie (protection contre la corrosion et décoration) et galvanoplastie (reproduction d’objets).",
+              "II-3. Autre application : les piles rechargeables (accumulateurs) : pile plomb-acide, pile cadmium-nickel, pile NiMH."
+            ],
+            "objectives": [
+              "Expliquer le principe de fonctionnement d'une pile.",
+              "Schématiser une pile.",
+              "Symboliser une pile.",
+              "Reconnaître les pôles d'une pile.",
+              "Ecrire les équations des transformations chimiques qui se produisent au niveau des électrodes d'une pile au cours de son fonctionnement.",
+              "Ecrire les équations des transformations chimiques se produisant au niveau des électrodes, lors d'une électrolyse.",
+              "Donner des exemples de piles rechargeables."
+            ],
+            "chapter": "Électrochimie"
+          },
+          {
+            "domain": "B. CHIMIE",
+            "topic": "CHMIE ORGANIQUE > I. Les alcools aliphatiques saturés :",
+            "contents": [
+              "I.1. Structure et nomenclature",
+              "I.2. Quelques propriétés physiques",
+              "I.3. Oxydations ménagées des alcools",
+              "Applications :",
+              "Ethylotest.",
+              "Oxydation biochimique."
+            ],
+            "objectives": [
+              "Nommer un alcool, connaissant sa formule semi développée et inversement.",
+              "Distinguer les trois classes d'alcool.",
+              "Expliquer le principe de l'éthylotest.",
+              "Réaliser et interpréter une réaction d'estérification."
+            ],
+            "chapter": "Les alcools aliphatiques saturés"
+          }
+        ]
+      }
     },
     {
       "subject": {

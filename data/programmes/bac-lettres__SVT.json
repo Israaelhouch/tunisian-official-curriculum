@@ -1,0 +1,160 @@
+{
+ "class": "bac-lettres",
+ "subject": "SVT",
+ "source": {
+  "document": "Programme officiel de sciences de la vie et de la terre — enseignement secondaire",
+  "issuer": "Ministère de l'Éducation (Tunisie)",
+  "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/svt.pdf",
+  "pages": "59-64"
+ },
+ "units": [
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Expliquer les fonctions du testicule",
+    "Identifier les structures ovariennes et les étapes de la folliculogenèse et de l’ovogenèse.",
+    "Expliquer la régulation de la fonction reproductrice chez la femme.",
+    "Identifier les étapes de la fécondation.",
+    "Expliquer le mode d’action des moyens contraceptifs chimiques",
+    "Expliquer les principes de la FIVETE.",
+    "Pratiquer l’hygiène de la procréation."
+   ]
+  },
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": "La fonction reproductrice chez l’homme : 1- Les cellules sexuelles",
+   "contents": [
+    "Structure du spermatozoïde",
+    "La spermatogenèse."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": "La fonction reproductrice chez l’homme : 2- Fonction endocrine du testicule",
+   "contents": [],
+   "objectives": []
+  },
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": "La fonction reproductrice chez la femme : 1- Les cellules sexuelles.",
+   "contents": [
+    "La folliculogenèse",
+    "L’ovogenèse",
+    "Structure de l’ovocyte"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": "La fonction reproductrice chez la femme : 2- Cycle sexuel chez la femme :",
+   "contents": [
+    "cycle ovarien",
+    "cycle hormonal",
+    "cycle utérin"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": "La fonction reproductrice chez la femme : 3- Régulation du cycle sexuel par le complexe hypothalamo-hypophysaire.",
+   "contents": [],
+   "objectives": []
+  },
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": "4- La fécondation :",
+   "contents": [
+    "les conditions de la fécondation.",
+    "les étapes de la fécondation."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": "5- Maîtrise de la procréation :",
+   "contents": [
+    "la contraception par la pilule.",
+    "la procréation médicalement assistée : (cas de la FIVETE)."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": "6- Hygiène de la procréation :",
+   "contents": [
+    "risques liés au tabagisme à l’alcoolisme et à la toxicomanie.",
+    "maladies congénitales liées à une mauvaise hygiène.",
+    "infections sexuellement transmissibles (IST)."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "II- Neurophysiologie et hygiène du système nerveux",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Comprendre l’organisation du tissu nerveux.",
+    "Expliquer les effets nocifs des drogues sur le fonctionnement du système nerveux",
+    "Adopter des comportements de protection du système nerveux."
+   ]
+  },
+  {
+   "domain": "II- Neurophysiologie et hygiène du système nerveux",
+   "topic": "1- Le tissu nerveux, support de la fonction de relation :",
+   "contents": [
+    "notions de neurone et de synapse."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "II- Neurophysiologie et hygiène du système nerveux",
+   "topic": "2- L’activité réflexe :",
+   "contents": [
+    "Étude d’un réflexe à point de départ cutané : les réflexes conditionnels :",
+    "cas du réflexe conditionnel répondant Pavlovien.",
+    "cas de réflexe conditionnel opérant Skinnerien."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "II- Neurophysiologie et hygiène du système nerveux",
+   "topic": "3- Hygiène du système nerveux.",
+   "contents": [
+    "Effets des drogues sur le fonctionnement du système nerveux.",
+    "Le stress."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "III- L’évolution biologique",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Présenter les preuves de l’évolution",
+    "Expliquer les mécanismes de l’évolution"
+   ]
+  },
+  {
+   "domain": "III- L’évolution biologique",
+   "topic": "1- Quelques faits de l’évolution : preuves paléontologiques et anatomiques",
+   "contents": [],
+   "objectives": []
+  },
+  {
+   "domain": "III- L’évolution biologique",
+   "topic": "2- Mécanismes de l’évolution : mutation et élection naturelle",
+   "contents": [],
+   "objectives": []
+  },
+  {
+   "domain": "III- L’évolution biologique",
+   "topic": "3- Les théories de l’évolution : Lamarckisme, Darwinisme, néo-darwinisme",
+   "contents": [],
+   "objectives": []
+  }
+ ],
+ "notes": "Objectives are printed in one 'Objectifs' cell per theme; they are kept at theme level (topic null), not split between units. Pages 60-64 (p59 is the section cover 'Lettres'). 3 themes, 14 units. Each theme is a 4-column table (Thème | Objectifs | Contenu | Activités envisageables); the 'Activités envisageables' column (including its NB remarks) is excluded. domain = the Thème (week counts dropped), topic = the numbered unit in the Contenu column. In the tables the Objectifs column is one undivided cell per theme page (the dashed row separators run only across Contenu/Activités), so each objective was assigned to the unit it is printed beside on the page image, checked against its wording. Contents are the Contenu lines as printed (sub-headings like 'Les cellules sexuelles :' kept as their own item, bullets/dashes stripped). Theme I has full-width sub-headings 'La fonction reproductrice chez l’homme :' (p60) and '... chez la femme :' (p61), kept as a topic prefix; units 4-6 (p62) are printed without such a sub-heading. Objectives are short action-verb statements (Expliquer / Identifier / Pratiquer / Comprendre / Présenter / Adopter), 0-2 per unit. Placement calls: p60 'Expliquer les fonctions du testicule' is printed beside unit 1 but the undivided cell also spans unit 2 (Fonction endocrine du testicule); kept on unit 1 only. p61 'Expliquer la régulation de la fonction reproductrice chez la femme.' is printed beside unit 3 (may also cover unit 2). p63 the objective cell has nothing beside unit 2 (L’activité réflexe). p64 unit 3 (théories de l’évolution) has no objective beside it; unit titles on p64 carry their content in the heading, no separate items. 'mutation et élection naturelle' is printed as such (likely a typo for 'sélection'), kept verbatim."
+}

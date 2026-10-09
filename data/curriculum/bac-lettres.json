@@ -661,7 +661,122 @@
           "objectives": [],
           "children": []
         }
-      ]
+      ],
+      "programme": {
+        "source": {
+          "document": "Programme officiel de mathématiques — enseignement secondaire",
+          "issuer": "Ministère de l'Éducation (Tunisie)",
+          "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/math.pdf",
+          "pages": "103-105"
+        },
+        "units": [
+          {
+            "domain": "Analyse",
+            "topic": "Problèmes du second degré",
+            "contents": [],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Fonctions",
+            "contents": [
+              "Nombre dérivé en un point – Dérivation sur un intervalle – Fonction dérivée – Opérations sur les dérivées.",
+              "Liens entre le signe de la dérivée, le sens de variations et les extrema.",
+              "Etude et représentation graphique de fonctions polynômes du premier degré, du second degré, du troisième degré et bicarrées.",
+              "Etude et représentation graphique des fonctions: du type x ↦ (ax+b)/(cx+d) .",
+              "Etude et représentation graphique de la fonction logarithme népérien.",
+              "Etude et représentation graphique de la fonction exponentielle, de base e.",
+              "Etude et représentation graphique des fonctions x ↦ ln (ax+b) et x ↦ e^(ax+b) ."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "topic": "Suites",
+            "contents": [
+              "Etude des suites arithmétiques, des suites géométriques, des suites récurrentes du type : { un+1 = aun + b ; u0 donné. } ou { un+1 = (aun + b)/(cun + d) ; u0 donné. } ."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Analyse",
+            "contents": [],
+            "objectives": [
+              "Déterminer l’ensemble de définition d’une fonction.",
+              "Reconnaître que le nombre dérivé d’une fonction en a est la pente de la tangente à la courbe de cette fonction en le point d’abscisse a .",
+              "Déterminer l’équation de la tangente à une courbe en un point d’abscisse a.",
+              "Déterminer le nombre dérivé d’une fonction en un réel x0 connaissant l’équation de la tangente à la courbe représentative de la fonction au point d’abscisse a.",
+              "Déterminer la dérivée d’une fonction sur un intervalle en utilisant les opérations sur les fonctions dérivables et les dérivées de fonctions usuelles.",
+              "Déterminer le sens de variation d’une fonction connaissant le signe de sa dérivée.",
+              "Déterminer le sens de variation d’une fonction à partir de sa représentation graphique.",
+              "Reconnaître qu’un réel est un extremum d’une fonction.",
+              "Représenter graphiquement des fonctions polynômes du premier degré, du second degré, du troisième degré et bicarrées.",
+              "Représenter graphiquement une fonction du programme.",
+              "Exploiter ou créer un graphique pour étudier la position relative de deux courbes.",
+              "Exploiter ou créer une représentation graphique pour déterminer ou estimer les solutions éventuelles d’une équation ou d’une inéquation.",
+              "Connaître la limite d’une suite arithmétique",
+              "Connaître la limite d’une suite géométrique",
+              "Calculer un terme d’une suite récurrente définie par une fonction affine ou homographique.",
+              "Représenter graphiquement les points An de coordonnées (n, un), dans le cas où (un)n est une suite récurrente définie par une fonction affine ou homographique.",
+              "Représenter sur l’un des axes du repère les termes d’une suite récurrente définie par une fonction affine ou homographique.",
+              "Déterminer la limite éventuelle d’une suite récurrente définie par une fonction affine ou homographique.",
+              "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement faisant appel à des suites ou à des fonctions du programme.",
+              "Ils résolvent des problèmes puisés dans des situations réelles pouvant être modélisées par une suite, une équation ou une inéquation du second degré ou une fonction du programme.",
+              "Ils résolvent des problèmes d’optimisation."
+            ]
+          },
+          {
+            "domain": "Statistiques – Dénombrement – Probabilités",
+            "topic": "Séries statistiques à un caractère",
+            "contents": [
+              "Paramètres de position, de dispersion."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Statistiques – Dénombrement – Probabilités",
+            "topic": "Distribution normale",
+            "contents": [],
+            "objectives": []
+          },
+          {
+            "domain": "Statistiques – Dénombrement – Probabilités",
+            "topic": "Séries statistiques à deux caractères",
+            "contents": [
+              "Tableau à deux entrées, distributions marginales, fréquences marginales - paramètres de position et de dispersion des distributions marginales. Nuage de points, point moyen.",
+              "Droite de régression, covariance, coefficient de corrélation."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "Statistiques – Dénombrement – Probabilités",
+            "topic": "Probabilité",
+            "contents": [
+              "Loi binomiale.",
+              "Loi exponentielle."
+            ],
+            "objectives": [],
+            "chapter": "Probabilités"
+          },
+          {
+            "domain": "Statistiques – Dénombrement – Probabilités",
+            "contents": [],
+            "objectives": [
+              "Résumer une série statistique à un caractère et déterminer ses paramètres de position et de dispersion.",
+              "Interpréter une série statistique ayant une distribution normale.",
+              "Organiser une série statistique à deux caractères dans un tableau à deux entrées et déterminer ses distributions marginales ainsi que leurs paramètres de position et de dispersion.",
+              "Représenter à l’aide d’un nuage de points une série statistique à deux caractères et déterminer son point moyen.",
+              "Déterminer la droite de régression.",
+              "Estimer la probabilité d’un événement à partir de sa fréquence de réalisation.",
+              "Calculer la probabilité d’un événement dans le cas d’équiprobabilité, ou d’épreuves successives.",
+              "Reconnaître qu’une variable aléatoire suit une loi binomiale.",
+              "Reconnaître qu’une variable aléatoire suit une loi exponentielle.",
+              "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement.",
+              "En particulier, ils résolvent des problèmes puisés dans des situations réelles menant à un modèle statistique ou probabiliste."
+            ]
+          }
+        ]
+      }
     },
     {
       "subject": {
@@ -774,7 +889,163 @@
             }
           ]
         }
-      ]
+      ],
+      "programme": {
+        "source": {
+          "document": "Programme officiel de sciences de la vie et de la terre — enseignement secondaire",
+          "issuer": "Ministère de l'Éducation (Tunisie)",
+          "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/svt.pdf",
+          "pages": "59-64"
+        },
+        "units": [
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "contents": [],
+            "objectives": [
+              "Expliquer les fonctions du testicule",
+              "Identifier les structures ovariennes et les étapes de la folliculogenèse et de l’ovogenèse.",
+              "Expliquer la régulation de la fonction reproductrice chez la femme.",
+              "Identifier les étapes de la fécondation.",
+              "Expliquer le mode d’action des moyens contraceptifs chimiques",
+              "Expliquer les principes de la FIVETE.",
+              "Pratiquer l’hygiène de la procréation."
+            ]
+          },
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "topic": "La fonction reproductrice chez l’homme : 1- Les cellules sexuelles",
+            "contents": [
+              "Structure du spermatozoïde",
+              "La spermatogenèse."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "topic": "La fonction reproductrice chez l’homme : 2- Fonction endocrine du testicule",
+            "contents": [],
+            "objectives": []
+          },
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "topic": "La fonction reproductrice chez la femme : 1- Les cellules sexuelles.",
+            "contents": [
+              "La folliculogenèse",
+              "L’ovogenèse",
+              "Structure de l’ovocyte"
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "topic": "La fonction reproductrice chez la femme : 2- Cycle sexuel chez la femme :",
+            "contents": [
+              "cycle ovarien",
+              "cycle hormonal",
+              "cycle utérin"
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "topic": "La fonction reproductrice chez la femme : 3- Régulation du cycle sexuel par le complexe hypothalamo-hypophysaire.",
+            "contents": [],
+            "objectives": []
+          },
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "topic": "4- La fécondation :",
+            "contents": [
+              "les conditions de la fécondation.",
+              "les étapes de la fécondation."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "topic": "5- Maîtrise de la procréation :",
+            "contents": [
+              "la contraception par la pilule.",
+              "la procréation médicalement assistée : (cas de la FIVETE)."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "I- Reproduction humaine et santé",
+            "topic": "6- Hygiène de la procréation :",
+            "contents": [
+              "risques liés au tabagisme à l’alcoolisme et à la toxicomanie.",
+              "maladies congénitales liées à une mauvaise hygiène.",
+              "infections sexuellement transmissibles (IST)."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "II- Neurophysiologie et hygiène du système nerveux",
+            "contents": [],
+            "objectives": [
+              "Comprendre l’organisation du tissu nerveux.",
+              "Expliquer les effets nocifs des drogues sur le fonctionnement du système nerveux",
+              "Adopter des comportements de protection du système nerveux."
+            ]
+          },
+          {
+            "domain": "II- Neurophysiologie et hygiène du système nerveux",
+            "topic": "1- Le tissu nerveux, support de la fonction de relation :",
+            "contents": [
+              "notions de neurone et de synapse."
+            ],
+            "objectives": []
+          },
+          {
+            "domain": "II- Neurophysiologie et hygiène du système nerveux",
+            "topic": "2- L’activité réflexe :",
+            "contents": [
+              "Étude d’un réflexe à point de départ cutané : les réflexes conditionnels :",
+              "cas du réflexe conditionnel répondant Pavlovien.",
+              "cas de réflexe conditionnel opérant Skinnerien."
+            ],
+            "objectives": [],
+            "chapter": "L'activité réflexe"
+          },
+          {
+            "domain": "II- Neurophysiologie et hygiène du système nerveux",
+            "topic": "3- Hygiène du système nerveux.",
+            "contents": [
+              "Effets des drogues sur le fonctionnement du système nerveux.",
+              "Le stress."
+            ],
+            "objectives": [],
+            "chapter": "Hygiène du système nerveux"
+          },
+          {
+            "domain": "III- L’évolution biologique",
+            "contents": [],
+            "objectives": [
+              "Présenter les preuves de l’évolution",
+              "Expliquer les mécanismes de l’évolution"
+            ]
+          },
+          {
+            "domain": "III- L’évolution biologique",
+            "topic": "1- Quelques faits de l’évolution : preuves paléontologiques et anatomiques",
+            "contents": [],
+            "objectives": []
+          },
+          {
+            "domain": "III- L’évolution biologique",
+            "topic": "2- Mécanismes de l’évolution : mutation et élection naturelle",
+            "contents": [],
+            "objectives": []
+          },
+          {
+            "domain": "III- L’évolution biologique",
+            "topic": "3- Les théories de l’évolution : Lamarckisme, Darwinisme, néo-darwinisme",
+            "contents": [],
+            "objectives": []
+          }
+        ]
+      }
     },
     {
       "subject": {

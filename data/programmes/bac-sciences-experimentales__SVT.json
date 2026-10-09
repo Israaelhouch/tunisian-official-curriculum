@@ -1,0 +1,230 @@
+{
+ "class": "bac-sciences-experimentales",
+ "subject": "SVT",
+ "source": {
+  "document": "Programme officiel de sciences de la vie et de la terre — enseignement secondaire",
+  "issuer": "Ministère de l'Éducation (Tunisie)",
+  "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/svt.pdf",
+  "pages": "43-52"
+ },
+ "units": [
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Expliquer les fonctions du testicule et leur régulation.",
+    "Expliquer les fonctions de l’ovaire et leur régulation.",
+    "Décrire les étapes de la fécondation.",
+    "Reconnaître les règles d’hygiène de la procréation.",
+    "Expliquer le mode d’action de la pilule combinée.",
+    "Expliquer la technique de la FIVETE."
+   ]
+  },
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": "1- La fonction reproductrice chez l’homme.",
+   "contents": [
+    "Les cellules sexuelles :",
+    "structure du spermatozoïde",
+    "la spermatogenèse",
+    "La testostérone :",
+    "origine",
+    "effets biologiques",
+    "la régulation de sa sécrétion par le complexe hypothalamo-hypophysaire"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": "2- La fonction de reproduction chez la femme",
+   "contents": [
+    "Les cellules sexuelles :",
+    "la folliculogenèse",
+    "l’ovogenèse.",
+    "structure de l’ovocyte",
+    "Le cycle sexuel chez la femme : cycle ovarien, cycle utérin, cycle hormonal",
+    "Rôle des hormones sexuelles femelles",
+    "Régulation du cycle sexuel par le complexe hypothalamo-hypophysaire."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "I- Reproduction humaine et santé",
+   "topic": "3 - La procréation",
+   "contents": [
+    "Les conditions et les étapes de la fécondation",
+    "Nidation et rôle du placenta",
+    "Maîtrise de la procréation. :",
+    "la contraception par la pilule",
+    "la procréation médicalement assistée : cas de la FIVETE",
+    "Hygiène de la procréation :",
+    "risques liés au tabagisme, à l’alcoolisme et à la toxicomanie",
+    "maladies congénitales liées à une mauvaise hygiène"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "II- Génétique",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Expliquer les conséquences génétiques de la méiose",
+    "Résoudre des problèmes de dihybridisme.",
+    "Expliquer le mode de transmission de caractères héréditaires.",
+    "Expliquer les risques d’apparition des maladies héréditaires dans les mariages consanguins.",
+    "Etre conscient de l’importance du diagnostic prénatal."
+   ]
+  },
+  {
+   "domain": "II- Génétique",
+   "topic": "1– le brassage de l’information génétique",
+   "contents": [
+    "La méiose et ses conséquences génétiques (brassages inter chromosomique et intra chromosomique).",
+    "Transmission de deux couples d’allèles chez les diploïdes :",
+    "cas d’indépendance",
+    "cas de liaison génétique."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "II- Génétique",
+   "topic": "2 -Génétique humaine.",
+   "contents": [
+    "L’hérédité :",
+    "hérédité autosomale : cas d’un couple d’allèles",
+    "hérédité liée au sexe : cas d’un couple d’allèles",
+    "Risque de la consanguinité",
+    "Diagnostic prénatal :",
+    "dépistage d’anomalies de caryotypes",
+    "dépistage d’anomalies géniques.",
+    "utilisation de la sonde moléculaire"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "III- Évolution biologique",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Argumenter la phylogénie des espèces."
+   ]
+  },
+  {
+   "domain": "III- Évolution biologique",
+   "topic": null,
+   "contents": [
+    "Phylogénie des espèces",
+    "Spéciation"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "IV- Neurophysiologie",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Construire la notion de neurone et de synapse.",
+    "Expliquer la naissance, la propagation et la transmission du message nerveux.",
+    "Expliquer le mécanisme du réflexe myotatique.",
+    "Expliquer la transmission neuromusculaire et le fonctionnement du muscle",
+    "Expliquer le mécanisme de la régulation de la pression artérielle",
+    "Adopter un comportement préventif de la santé du système nerveux"
+   ]
+  },
+  {
+   "domain": "IV- Neurophysiologie",
+   "topic": "1 – Le tissu nerveux, support histologique du comportement",
+   "contents": [
+    "Les constituants du tissu nerveux : cellules nerveuses et gliales.",
+    "Notions de neurone et de synapse."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "IV- Neurophysiologie",
+   "topic": "2 –Le réflexe myotatique",
+   "contents": [
+    "Les éléments histologiques qui interviennent dans le réflexe",
+    "Le message nerveux :",
+    "le potentiel de repos.",
+    "le potentiel d’action.",
+    "la transduction et le codage de l’intensité du stimulus par les récepteurs sensoriels.",
+    "la propagation du message nerveux.",
+    "la transmission synaptique.",
+    "synapses excitatrices et synapses inhibitrices.",
+    "Intégration postsynaptique"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "IV- Neurophysiologie",
+   "topic": "3- Fonctionnement d’un effecteur moteur : le muscle squelettique :",
+   "contents": [
+    "transmission neuromusculaire.",
+    "mécanisme de la contraction musculaire"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "IV- Neurophysiologie",
+   "topic": "4- Régulation de la pression artérielle",
+   "contents": [],
+   "objectives": []
+  },
+  {
+   "domain": "IV- Neurophysiologie",
+   "topic": "5- Hygiène du système nerveux",
+   "contents": [
+    "Les dangers des drogues sur le fonctionnement du système nerveux.",
+    "Le stress"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "V- Immunité : maintien de l’intégrité de l’organisme",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Définir la notion d’immunité spécifique et identifier ses propriétés.",
+    "Distinguer la RIMH et la RIMC.",
+    "Expliquer les mécanismes de la réponse immunitaire spécifique.",
+    "Expliquer les processus du dysfonctionnement du système immunitaire en rapport avec les allergies, le SIDA."
+   ]
+  },
+  {
+   "domain": "V- Immunité : maintien de l’intégrité de l’organisme",
+   "topic": "1. Le soi et le non soi",
+   "contents": [
+    "Les marqueurs biologiques du soi : groupes sanguins, antigènes HLA"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "V- Immunité : maintien de l’intégrité de l’organisme",
+   "topic": "2. Immunité à médiation humorale et immunité à médiation cellulaire.",
+   "contents": [],
+   "objectives": []
+  },
+  {
+   "domain": "V- Immunité : maintien de l’intégrité de l’organisme",
+   "topic": "3- Les étapes de la réponse immunitaire spécifique :",
+   "contents": [
+    "phase d’induction : reconnaissance et activation.",
+    "Phase d’amplification et de différenciation :",
+    "phase effectrice : neutralisation et élimination de l’antigène"
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "V- Immunité : maintien de l’intégrité de l’organisme",
+   "topic": "4- Dysfonctionnement du système immunitaire :",
+   "contents": [
+    "les allergies",
+    "le SIDA, cas de déficit immunitaire acquis"
+   ],
+   "objectives": []
+  }
+ ],
+ "notes": "Objectives are printed in one 'Objectifs' cell per theme; they are kept at theme level (topic null), not split between units. Pages 44-52 (p43 is the section cover 'Sciences expérimentales'). 5 themes, 14 numbered units + theme III which has no numbered unit (topic null). Each theme is a 4-column table (Thème | Objectifs | Contenu | Activités envisageables); the 'Activités envisageables' column (including its NB remarks) is excluded. domain = the Thème (week counts dropped), topic = the numbered unit in the Contenu column. In the tables the Objectifs column is one undivided cell per theme page (the dashed row separators run only across Contenu/Activités), so each objective was assigned to the unit it is printed beside on the page image, checked against its wording. Contents are the Contenu lines as printed (sub-headings like 'Les cellules sexuelles :' kept as their own item, bullets/dashes stripped). Objectives are short action-verb statements (Expliquer / Décrire / Reconnaître / Résoudre / Argumenter / Construire / Définir / Distinguer / Adopter / Etre conscient), 1-4 per unit. Placement calls: p49 'Expliquer la naissance, la propagation et la transmission du message nerveux.' is printed beside unit 1 (above the dashed separator) but its wording matches unit 2 (Le message nerveux), so it was put in unit 2; p50 'Adopter un comportement préventif de la santé du système nerveux' is printed just above the unit-5 separator but belongs to 5- Hygiène du système nerveux by wording. Units 4 (pression artérielle) and V-2 (RIMH/RIMC) have no Contenu items beyond their title. p52 'Phase d’amplification et de différenciation :' ends with a colon and no following item, as printed. 'Etre' kept without accent as printed."
+}

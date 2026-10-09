@@ -1,0 +1,119 @@
+{
+ "class": "bac-lettres",
+ "subject": "MATH",
+ "source": {
+  "document": "Programme officiel de mathématiques — enseignement secondaire",
+  "issuer": "Ministère de l'Éducation (Tunisie)",
+  "url": "http://www.edunet.tn/ressources/pedagogie/programmes/nouveaux_programme2011/secondaire/math.pdf",
+  "pages": "103-105"
+ },
+ "units": [
+  {
+   "domain": "Analyse",
+   "topic": "Problèmes du second degré",
+   "contents": [],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": "Fonctions",
+   "contents": [
+    "Nombre dérivé en un point – Dérivation sur un intervalle – Fonction dérivée – Opérations sur les dérivées.",
+    "Liens entre le signe de la dérivée, le sens de variations et les extrema.",
+    "Etude et représentation graphique de fonctions polynômes du premier degré, du second degré, du troisième degré et bicarrées.",
+    "Etude et représentation graphique des fonctions: du type x ↦ (ax+b)/(cx+d) .",
+    "Etude et représentation graphique de la fonction logarithme népérien.",
+    "Etude et représentation graphique de la fonction exponentielle, de base e.",
+    "Etude et représentation graphique des fonctions x ↦ ln (ax+b) et x ↦ e^(ax+b) ."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": "Suites",
+   "contents": [
+    "Etude des suites arithmétiques, des suites géométriques, des suites récurrentes du type : { un+1 = aun + b ; u0 donné. } ou { un+1 = (aun + b)/(cun + d) ; u0 donné. } ."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Analyse",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Déterminer l’ensemble de définition d’une fonction.",
+    "Reconnaître que le nombre dérivé d’une fonction en a est la pente de la tangente à la courbe de cette fonction en le point d’abscisse a .",
+    "Déterminer l’équation de la tangente à une courbe en un point d’abscisse a.",
+    "Déterminer le nombre dérivé d’une fonction en un réel x0 connaissant l’équation de la tangente à la courbe représentative de la fonction au point d’abscisse a.",
+    "Déterminer la dérivée d’une fonction sur un intervalle en utilisant les opérations sur les fonctions dérivables et les dérivées de fonctions usuelles.",
+    "Déterminer le sens de variation d’une fonction connaissant le signe de sa dérivée.",
+    "Déterminer le sens de variation d’une fonction à partir de sa représentation graphique.",
+    "Reconnaître qu’un réel est un extremum d’une fonction.",
+    "Représenter graphiquement des fonctions polynômes du premier degré, du second degré, du troisième degré et bicarrées.",
+    "Représenter graphiquement une fonction du programme.",
+    "Exploiter ou créer un graphique pour étudier la position relative de deux courbes.",
+    "Exploiter ou créer une représentation graphique pour déterminer ou estimer les solutions éventuelles d’une équation ou d’une inéquation.",
+    "Connaître la limite d’une suite arithmétique",
+    "Connaître la limite d’une suite géométrique",
+    "Calculer un terme d’une suite récurrente définie par une fonction affine ou homographique.",
+    "Représenter graphiquement les points An de coordonnées (n, un), dans le cas où (un)n est une suite récurrente définie par une fonction affine ou homographique.",
+    "Représenter sur l’un des axes du repère les termes d’une suite récurrente définie par une fonction affine ou homographique.",
+    "Déterminer la limite éventuelle d’une suite récurrente définie par une fonction affine ou homographique.",
+    "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement faisant appel à des suites ou à des fonctions du programme.",
+    "Ils résolvent des problèmes puisés dans des situations réelles pouvant être modélisées par une suite, une équation ou une inéquation du second degré ou une fonction du programme.",
+    "Ils résolvent des problèmes d’optimisation."
+   ]
+  },
+  {
+   "domain": "Statistiques – Dénombrement – Probabilités",
+   "topic": "Séries statistiques à un caractère",
+   "contents": [
+    "Paramètres de position, de dispersion."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Statistiques – Dénombrement – Probabilités",
+   "topic": "Distribution normale",
+   "contents": [],
+   "objectives": []
+  },
+  {
+   "domain": "Statistiques – Dénombrement – Probabilités",
+   "topic": "Séries statistiques à deux caractères",
+   "contents": [
+    "Tableau à deux entrées, distributions marginales, fréquences marginales - paramètres de position et de dispersion des distributions marginales. Nuage de points, point moyen.",
+    "Droite de régression, covariance, coefficient de corrélation."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Statistiques – Dénombrement – Probabilités",
+   "topic": "Probabilité",
+   "contents": [
+    "Loi binomiale.",
+    "Loi exponentielle."
+   ],
+   "objectives": []
+  },
+  {
+   "domain": "Statistiques – Dénombrement – Probabilités",
+   "topic": null,
+   "contents": [],
+   "objectives": [
+    "Résumer une série statistique à un caractère et déterminer ses paramètres de position et de dispersion.",
+    "Interpréter une série statistique ayant une distribution normale.",
+    "Organiser une série statistique à deux caractères dans un tableau à deux entrées et déterminer ses distributions marginales ainsi que leurs paramètres de position et de dispersion.",
+    "Représenter à l’aide d’un nuage de points une série statistique à deux caractères et déterminer son point moyen.",
+    "Déterminer la droite de régression.",
+    "Estimer la probabilité d’un événement à partir de sa fréquence de réalisation.",
+    "Calculer la probabilité d’un événement dans le cas d’équiprobabilité, ou d’épreuves successives.",
+    "Reconnaître qu’une variable aléatoire suit une loi binomiale.",
+    "Reconnaître qu’une variable aléatoire suit une loi exponentielle.",
+    "Les élèves résolvent des problèmes dans des situations mathématiques ou en rapport avec l’environnement.",
+    "En particulier, ils résolvent des problèmes puisés dans des situations réelles menant à un modèle statistique ou probabiliste."
+   ]
+  }
+ ],
+ "notes": "Pages 103-105 (p103 = section cover 'Lettres'). Two domains: Analyse (p104), Statistiques – Dénombrement – Probabilités (p105). Each domain page has 'Contenu disciplinaire' (sub-headings in bold = topics) followed by 'Aptitudes à développer', a two-column table: left column = aptitudes (kept as objectives), right column = teacher comments/admitted theorems/definitions (excluded). Aptitudes are given once per domain, so each domain has one block with topic null holding them; topic blocks carry only contents. Aptitudes are split in the source into '1. Les élèves mobilisent une technique ... pour :' (the bullet items are kept, the lead-in sentence is not) and '2. Les élèves résolvent des problèmes ...' (the lead sentence and each 'En particulier' sub-item are kept as objectives). Formulas lost in the text layer were rewritten in plain notation from the page images. In Analyse the content topics are the bulleted bold headings 'Problèmes du second degré' (no content listed), 'Fonctions', 'Suites'; the aptitude table has a 'Suites' sub-heading which is not encoded. 'Distribution normale' has no content listed. The 'Droite de régression ...' line is a non-bold bullet under 'Séries statistiques à deux caractères' and is kept as a content item there. The recurrence systems in the Suites content were rewritten in plain notation from the page image. Despite the domain title, no Dénombrement content or aptitude is listed."
+}

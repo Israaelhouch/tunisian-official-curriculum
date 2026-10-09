@@ -13,6 +13,10 @@ Generated 2026-10-09 by `scripts/export_curriculum.py` from `data/curriculum/*.j
 - **Collège (enseignement de base):** 8eme-base FRAN (6), 8eme-base ARAB (4), 9eme-base ARAB (2), 9eme-base PHYS (1), 9eme-base ISLAM (1), 8eme-base ISLAM (1), 7eme-base PHYS (1), 7eme-base ISLAM (1), 7eme-base CIVIQ (1), 7eme-base ARAB (1)
 - **Primaire:** 5eme-primaire ARAB (34), 3eme-primaire ARAB (33), 6eme-primaire MATH (16), 3eme-primaire MATH (16), 6eme-primaire ARAB (9), 4eme-primaire ARAB (7), 4eme-primaire MATH (5), 6eme-primaire EVEIL (2), 5eme-primaire MATH (1), 3eme-primaire EVEIL (1)
 
+## Learning objectives (official programmes)
+- 13 class subjects so far (847 objectives): bac-economie-gestion MATH, bac-informatique MATH, bac-informatique PHYS, bac-lettres MATH, bac-lettres SVT, bac-mathematiques MATH, bac-mathematiques PHYS, bac-mathematiques SVT, bac-sciences-experimentales SVT, bac-sciences-experimentales PHYS, bac-sciences-experimentales MATH, bac-techniques MATH, bac-techniques PHYS.
+- 71 of 164 programme topics are linked to a chapter (near-identical names only); the 2011 programmes often word topics differently from the textbooks, so the others are left unlinked.
+
 ## Untitled groupings kept (their chapters are named)
 - 1ere-primaire MATH (6), 2eme-primaire MATH (6), 5eme-primaire MATH (5), 6eme-primaire ARAB (1), 7eme-base ANGL (5), 8eme-base ANGL (5), 8eme-base TECHNO (3)
 
