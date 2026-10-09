@@ -6,9 +6,10 @@
    files must carry identical data; a class (level + section) appears once.
 3. Upsert in a single transaction, keyed by code:
        levels by code, sections by (level, code), subjects by code,
-       section subjects by (section, subject), chapters by code.
-   Re-running updates rows in place. Subjects and chapters that were removed
-   from a file are deleted for that class.
+       section subjects by (section, subject), chapters by code,
+       programme units by (section subject, order).
+   Re-running updates rows in place. Subjects, chapters and programme units
+   that were removed from a file are deleted for that class.
 
 Usage:
     DATABASE_URL=postgresql://user:pass@localhost:5432/exams python scripts/load_curriculum.py
@@ -41,6 +42,7 @@ from models import (  # noqa: E402
     ChapterSchema,
     ClassCurriculum,
     EducationalLevel,
+    ProgrammeUnit,
     Section,
     SectionSubject,
     SectionSubjectSchema,
@@ -180,6 +182,7 @@ def load_section_subject(session: Session, section: Section, subject: Subject,
     }, {
         "instruction_language": entry.instruction_language,
         "is_optional": entry.is_optional,
+        "programme_source": entry.programme.source.model_dump() if entry.programme else None,
     }, stats)
 
     prefix = f"{class_key}.{subject.code}"
@@ -192,7 +195,27 @@ def load_section_subject(session: Session, section: Section, subject: Subject,
         if chapter.code not in kept:
             session.delete(chapter)
             stats.deleted[Chapter.__tablename__] += 1
+    load_programme(session, row, entry, stats)
     return row
+
+
+def load_programme(session: Session, owner: SectionSubject, entry: SectionSubjectSchema,
+                   stats: Stats) -> None:
+    """Programme units by order; a unit's `chapter` (a printed name) becomes a chapter id."""
+    chapter_ids = {c.name_fr or c.name_ar: c.id for c in session.scalars(
+        select(Chapter).where(Chapter.section_subject_id == owner.id).order_by(Chapter.code))}
+    units = entry.programme.units if entry.programme else []
+    for order, unit in enumerate(units, 1):
+        upsert(session, ProgrammeUnit, {"section_subject_id": owner.id, "order_index": order}, {
+            "domain": unit.domain, "topic": unit.topic,
+            "contents": unit.contents, "objectives": unit.objectives,
+            "chapter_id": chapter_ids[unit.chapter] if unit.chapter else None,
+        }, stats)
+    for stale in session.scalars(select(ProgrammeUnit).where(
+        ProgrammeUnit.section_subject_id == owner.id, ProgrammeUnit.order_index > len(units),
+    )).all():
+        session.delete(stale)
+        stats.deleted[ProgrammeUnit.__tablename__] += 1
 
 
 def load_chapters(session: Session, owner: SectionSubject, chapters: list[ChapterSchema],
@@ -257,7 +280,8 @@ def main(argv: Optional[list[str]] = None) -> int:
         log.error("%s", str(exc).splitlines()[0])
         return 1
 
-    for table in ("educational_levels", "sections", "subjects", "section_subjects", "chapters"):
+    for table in ("educational_levels", "sections", "subjects", "section_subjects", "chapters",
+                  "programme_units"):
         log.info("%-22s inserted=%-4d updated=%-4d deleted=%d", table,
                  stats.inserted[table], stats.updated[table], stats.deleted[table])
     return 0

@@ -36,6 +36,7 @@ from sqlalchemy import (
     ForeignKey,
     Integer,
     Numeric,
+    Text,
     String,
     UniqueConstraint,
     func,
@@ -206,6 +207,8 @@ class SectionSubject(TimestampMixin, Base):
     )
     # Options chosen by the student (3rd foreign language, music, arts...).
     is_optional: Mapped[bool] = mapped_column(default=False, nullable=False)
+    # Official programme document the objectives come from: {document, issuer, url, pages}.
+    programme_source: Mapped[Optional[dict]] = mapped_column(JSON)
 
     section: Mapped[Section] = relationship(back_populates="subjects")
     subject: Mapped[Subject] = relationship(back_populates="section_subjects")
@@ -214,6 +217,12 @@ class SectionSubject(TimestampMixin, Base):
         back_populates="section_subject",
         cascade="all, delete-orphan",
         order_by="Chapter.order_index",
+    )
+    # Official programme: learning objectives, as organised by the Ministry's document.
+    programme_units: Mapped[list[ProgrammeUnit]] = relationship(
+        back_populates="section_subject",
+        cascade="all, delete-orphan",
+        order_by="ProgrammeUnit.order_index",
     )
 
     __table_args__ = (
@@ -270,6 +279,36 @@ class Chapter(TimestampMixin, BilingualNameMixin, Base):
         return f"<Chapter {self.code} {(self.name_fr or self.name_ar)!r}>"
 
 
+class ProgrammeUnit(TimestampMixin, Base):
+    """A unit of the official programme of a class subject: a domain/theme and an optional topic, with the
+    contents to teach and the learning objectives, copied verbatim from the Ministry's document. Linked to a
+    chapter only when the names clearly match."""
+
+    __tablename__ = "programme_units"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    section_subject_id: Mapped[int] = mapped_column(
+        ForeignKey("section_subjects.id", ondelete="CASCADE"), nullable=False, index=True
+    )
+    order_index: Mapped[int] = mapped_column(Integer, nullable=False)
+    domain: Mapped[Optional[str]] = mapped_column(Text)
+    topic: Mapped[Optional[str]] = mapped_column(Text)
+    contents: Mapped[list[str]] = mapped_column(JSON, default=list, nullable=False)
+    objectives: Mapped[list[str]] = mapped_column(JSON, default=list, nullable=False)
+    chapter_id: Mapped[Optional[int]] = mapped_column(ForeignKey("chapters.id", ondelete="SET NULL"))
+
+    section_subject: Mapped[SectionSubject] = relationship(back_populates="programme_units")
+    chapter: Mapped[Optional[Chapter]] = relationship()
+
+    __table_args__ = (
+        UniqueConstraint("section_subject_id", "order_index", name="uq_programme_unit_order"),
+        CheckConstraint("order_index >= 1", name="ck_programme_unit_order_positive"),
+    )
+
+    def __repr__(self) -> str:
+        return f"<ProgrammeUnit {self.order_index} {self.domain!r} / {self.topic!r}>"
+
+
 # ---------------------------------------------------------------------------
 # Pydantic schemas — one `ClassCurriculum` per file in data/curriculum/
 # ---------------------------------------------------------------------------
@@ -316,6 +355,28 @@ class SubjectSchema(BilingualName):
     code: str = Field(pattern=CODE_PATTERN)
 
 
+class ProgrammeSource(StrictModel):
+    document: str
+    issuer: str
+    url: str
+    pages: Optional[str] = None
+
+
+class ProgrammeUnitSchema(StrictModel):
+    """Verbatim from the official programme; `chapter` = printed name of a chapter of this subject."""
+
+    domain: Optional[str] = None
+    topic: Optional[str] = None
+    contents: list[str] = Field(default_factory=list)
+    objectives: list[str] = Field(default_factory=list)
+    chapter: Optional[str] = None
+
+
+class ProgrammeSchema(StrictModel):
+    source: ProgrammeSource
+    units: list[ProgrammeUnitSchema] = Field(min_length=1)
+
+
 class SectionSubjectSchema(StrictModel):
     """An official subject of this class."""
 
@@ -323,12 +384,31 @@ class SectionSubjectSchema(StrictModel):
     instruction_language: InstructionLanguage
     is_optional: bool = False
     chapters: list[ChapterSchema] = Field(default_factory=list)
+    programme: Optional[ProgrammeSchema] = None
 
     @field_validator("chapters")
     @classmethod
     def _unique_chapter_order(cls, v: list[ChapterSchema]) -> list[ChapterSchema]:
         _ensure_unique([c.order_index for c in v], "chapters.order_index")
         return v
+
+    @model_validator(mode="after")
+    def _programme_links_exist(self) -> SectionSubjectSchema:
+        if self.programme:
+            names = chapter_names(self.chapters)
+            broken = [u.chapter for u in self.programme.units if u.chapter and u.chapter not in names]
+            if broken:
+                raise ValueError(f"programme units link to unknown chapters: {broken}")
+        return self
+
+
+def chapter_names(chapters: list[ChapterSchema]) -> set[str]:
+    """Printed names of every chapter and theme of a subject."""
+    out: set[str] = set()
+    for c in chapters:
+        out.add(c.name_fr or c.name_ar or "")
+        out |= chapter_names(c.children)
+    return out
 
 
 class LevelSchema(BilingualName):
