@@ -1,0 +1,109 @@
+{
+ "code": "223103",
+ "title": "فيزياء",
+ "used_for": [
+  "1ere-secondaire/PHYS",
+  "1ere-sport/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "L’Electricité",
+   "children": [
+    {
+     "name": "Le phénomène d’électrisation",
+     "children": []
+    },
+    {
+     "name": "Le circuit électrique",
+     "children": []
+    },
+    {
+     "name": "L’intensité du courant électrique",
+     "children": []
+    },
+    {
+     "name": "La tension électrique",
+     "children": []
+    },
+    {
+     "name": "Le dipôle résistor",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "La Matière",
+   "children": [
+    {
+     "name": "Les états physiques de la matière",
+     "children": []
+    },
+    {
+     "name": "Quelques propriétés de la matière",
+     "children": []
+    },
+    {
+     "name": "La masse",
+     "children": []
+    },
+    {
+     "name": "Les changements d’état physique d’un corps pur",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "La Mécanique",
+   "children": [
+    {
+     "name": "Le mouvement",
+     "children": []
+    },
+    {
+     "name": "Les actions mécaniques",
+     "children": []
+    },
+    {
+     "name": "Forces et équilibre",
+     "children": []
+    },
+    {
+     "name": "Forces et pression",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "L’Energie",
+   "children": [
+    {
+     "name": "Energie et contrôle",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "L’Astronomie",
+   "children": [
+    {
+     "name": "La Terre et l’univers",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "L’Optique",
+   "children": [
+    {
+     "name": "La lumière et sa propagation",
+     "children": []
+    },
+    {
+     "name": "Spectre de lumière et vision",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Physique 1ère année. Sommaire (pp.4-5, tabular) gives themes and chapters; theme order fixed by chapter page numbers and CHAPITRE markers (Electricité p9 ... Optique p259). Sections not given in sommaire (chapter pages only list 'Activités (I)...' plans, recovered for chapter 1 only), so chapters have no children."
+}

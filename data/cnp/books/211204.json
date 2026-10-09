@@ -1,0 +1,137 @@
+{
+ "code": "211204",
+ "title": "التفكير الاسلامي",
+ "used_for": [
+  "2eme-lettres/ISLAM",
+  "2eme-sciences/ISLAM",
+  "2eme-technologie-informatique/ISLAM",
+  "2eme-economie-services/ISLAM",
+  "2eme-sport/ISLAM"
+ ],
+ "toc": [
+  {
+   "name": "التوازن والوسطيّة",
+   "children": [
+    {
+     "name": "التفكّر في العبادة",
+     "children": [
+      {
+       "name": "الصفات الإلهيّة",
+       "children": []
+      },
+      {
+       "name": "العبادة : دلالاتها ومقاصدها",
+       "children": []
+      },
+      {
+       "name": "الكون يسبّح الله",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "بناء الشخصيّة",
+     "children": [
+      {
+       "name": "عناصر بناء الشخصيّة في الإسلام",
+       "children": []
+      },
+      {
+       "name": "شخصيّة محمّد صلّى الله عليه وسلّم مثال التوازن",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "الفاعليّة",
+   "children": [
+    {
+     "name": "الوحي",
+     "children": [
+      {
+       "name": "الوحي : المفهوم والدلالة",
+       "children": []
+      },
+      {
+       "name": "الوحي والتاريخ",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "التربية والتعليم",
+     "children": [
+      {
+       "name": "العلاقة بين المعلّم والمتعلّم",
+       "children": []
+      },
+      {
+       "name": "دور التعليم في تنمية الذات",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "الإصلاح",
+     "children": [
+      {
+       "name": "الدين النصيحة",
+       "children": []
+      },
+      {
+       "name": "من مشاغل الإصلاح",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "الاستشراف",
+   "children": [
+    {
+     "name": "المبحث السادس",
+     "children": [
+      {
+       "name": "الاستخلاف في القرآن الكريم",
+       "children": []
+      },
+      {
+       "name": "الاستخلاف وحركة التاريخ",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "الأمل والتوكّل",
+     "children": [
+      {
+       "name": "الأمل والصحّة النفسيّة",
+       "children": []
+      },
+      {
+       "name": "الأمل في القرآن",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "الإنسان ومصيره",
+     "children": [
+      {
+       "name": "المصير ومعنى الحياة",
+       "children": []
+      },
+      {
+       "name": "الإنسان وقدره",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Source: محتوى الكتاب p.80 (lesson list, 16 lessons) + axis title pages (p.5 'التوازن والوسطية', p.29 'الفاعلية', p.55 'الاستشراف') and running heads 'مبحث ...' giving the intermediate مبحث level; structure axis -> مبحث -> lesson. OCR fixes: 'التوازث'->'التوازن', 'التفلر'->'التفكّر', 'الاستش اف'->'الاستشراف', 'تدمية'->'تنمية'. 1 positional placeholder: the first مبحث of axis 3 (running head 'الاسكلاف وا لهام', second word unreadable) -> 'المبحث السادس'. Excluded: مقدمة الكتاب."
+}

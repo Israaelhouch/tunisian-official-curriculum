@@ -1,0 +1,80 @@
+{
+ "code": "228461",
+ "title": "Génie électrique - Manuel d'activités",
+ "used_for": [
+  "bac-techniques/TECHNO"
+ ],
+ "toc": [
+  {
+   "name": "Microcontrôleurs",
+   "children": [
+    {
+     "name": "Sources d’interruption",
+     "children": []
+    },
+    {
+     "name": "Timers",
+     "children": []
+    },
+    {
+     "name": "Convertisseur analogique numérique",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Logique combinatoire",
+   "children": [
+    {
+     "name": "Circuits combinatoires",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Logique séquentielle",
+   "children": [
+    {
+     "name": "Compteurs/décompteurs intégrés synchrones",
+     "children": []
+    },
+    {
+     "name": "Séquence 2",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Amplificateurs linéaires intégrés",
+   "children": [
+    {
+     "name": "Séquence 1",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Systèmes triphasés équilibrés",
+   "children": [
+    {
+     "name": "Réseau triphasé",
+     "children": []
+    },
+    {
+     "name": "Moteurs asynchrones triphasés",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Moteur à courant continu",
+   "children": [
+    {
+     "name": "Moteur à courant continu à excitation indépendante",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Génie électrique, manuel d'activités, 4ème année sciences techniques (6 themes per avant-propos). Themes and séquences from the OCR'd sommaire (pp.8-9) and the 'THÈME n : ... / SÉQUENCE n : ...' running footers (pp.12-13, 72-73, 82-93, 163-184, 233). OCR fix: 'Amplicateurs Linéaires Intégrés' -> 'Amplificateurs linéaires intégrés'. PLACEHOLDERS: 'Séquence 2' of Logique séquentielle (pp.104-120: activities on Tri/Robot/Grafcet synchronisé; title garbled in the sommaire and no footer page extracted) and 'Séquence 1' of Amplificateurs linéaires intégrés (pp.126-152; sommaire label only partly legible 'Anpicateur ... intégré'), names not recoverable. Activities (Activité 1..n, mostly generic or OCR-damaged) not used as children; résumés, projets, grilles d'auto-évaluation excluded."
+}

@@ -1,0 +1,97 @@
+{
+ "code": "224231",
+ "title": "كيمياء (شعبة العلوم(",
+ "used_for": [
+  "2eme-sciences/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "La Matière",
+   "children": [
+    {
+     "name": "Un modèle de l’atome",
+     "children": []
+    },
+    {
+     "name": "L’élément chimique",
+     "children": []
+    },
+    {
+     "name": "Un modèle de répartition des électrons d’un atome",
+     "children": []
+    },
+    {
+     "name": "De l’atome aux édifices chimiques",
+     "children": []
+    },
+    {
+     "name": "Classification périodique des éléments chimiques",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Les Solutions",
+   "children": [
+    {
+     "name": "Les électrolytes",
+     "children": []
+    },
+    {
+     "name": "Dissolution et précipitation des électrolytes",
+     "children": []
+    },
+    {
+     "name": "Tests d’identification de quelques ions",
+     "children": []
+    },
+    {
+     "name": "Solutions aqueuses d’acide",
+     "children": []
+    },
+    {
+     "name": "Solutions aqueuses de base",
+     "children": []
+    },
+    {
+     "name": "Ionisation propre de l’eau pure",
+     "children": []
+    },
+    {
+     "name": "Notion de pH",
+     "children": []
+    },
+    {
+     "name": "Acides forts, acides faibles, bases fortes, bases faibles",
+     "children": []
+    },
+    {
+     "name": "Réaction d’un acide fort avec une base forte en solution aqueuse",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Chimie Organique",
+   "children": [
+    {
+     "name": "Structure et nomenclature des hydrocarbures aliphatiques",
+     "children": []
+    },
+    {
+     "name": "Réactions spécifiques des hydrocarbures aliphatiques",
+     "children": []
+    },
+    {
+     "name": "Polymères synthétiques et polymères naturels",
+     "children": []
+    },
+    {
+     "name": "Matières plastiques : impact sur l’environnement et gestion des déchets",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Chimie 2ème sciences. Themes and lessons from the Sommaire (p.4), confirmed by lesson title headings. Lesson 9 is 'Réactions d’un acide fort...' in sommaire but 'Réaction d’un acide fort...' on its title page; title page used. Sections inside lessons not recoverable for all lessons, so none given."
+}

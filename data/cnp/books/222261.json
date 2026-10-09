@@ -1,0 +1,131 @@
+{
+ "code": "222261",
+ "title": "الرياضيات (شعبة الإقتصاد والخدمات)",
+ "used_for": [
+  "2eme-economie-services/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Les pourcentages",
+   "children": [
+    {
+     "name": "Valeur approchée – Arrondi"
+    },
+    {
+     "name": "Pourcentage"
+    },
+    {
+     "name": "Pourcentages d'évolution et coefficient multiplicateur"
+    },
+    {
+     "name": "Séries chronologiques"
+    }
+   ]
+  },
+  {
+   "name": "Proportion",
+   "children": [
+    {
+     "name": "Proportion"
+    },
+    {
+     "name": "Partages proportionnels"
+    }
+   ]
+  },
+  {
+   "name": "Suites arithmétiques - Suites géométriques",
+   "children": [
+    {
+     "name": "Introduction"
+    },
+    {
+     "name": "Suites arithmétiques"
+    },
+    {
+     "name": "Suites géométriques"
+    }
+   ]
+  },
+  {
+   "name": "Statistiques et dénombrement",
+   "children": [
+    {
+     "name": "Statistiques"
+    },
+    {
+     "name": "Dénombrement"
+    },
+    {
+     "name": "Expérience aléatoire et simulation"
+    }
+   ]
+  },
+  {
+   "name": "Problèmes du premier degré à une inconnue",
+   "children": [
+    {
+     "name": "Fonctions affines"
+    },
+    {
+     "name": "Fonctions affines par intervalles"
+    },
+    {
+     "name": "Sens de variation"
+    },
+    {
+     "name": "Position relative de deux courbes"
+    },
+    {
+     "name": "Signe d'un binôme"
+    }
+   ]
+  },
+  {
+   "name": "Problèmes du premier degré à deux ou trois inconnues",
+   "children": [
+    {
+     "name": "Equations linéaires du premier degré à deux inconnues"
+    },
+    {
+     "name": "Systèmes d'équations linéaires du premier degré à deux inconnues"
+    },
+    {
+     "name": "Régionnement du plan"
+    },
+    {
+     "name": "Exemples de problèmes d'optimisation"
+    },
+    {
+     "name": "Systèmes d'équations du premier degré à trois inconnues"
+    }
+   ]
+  },
+  {
+   "name": "Problèmes du second degré",
+   "children": [
+    {
+     "name": "Introduction"
+    },
+    {
+     "name": "Les paraboles"
+    },
+    {
+     "name": "Trinôme du second degré"
+    }
+   ]
+  },
+  {
+   "name": "Exemples de fonctions de référence",
+   "children": [
+    {
+     "name": "Fonction du type x ↦ ax³ (a ≠ 0)"
+    },
+    {
+     "name": "Fonction du type x ↦ a/x (a ≠ 0)"
+    }
+   ]
+  }
+ ],
+ "notes": "2ème Economie et Services. 8 chapters from sommaire (p5); sections from roman-numbered headings (I., II., ...) in page order. Ch.8: section formulas are images; I (x ↦ ax³) and III (x ↦ a/x, confirmed by p161 activity text) reconstructed from residues; section II ('Fonction x ...', formula lost) skipped as unreadable. Sommaire spells 'références'."
+}

@@ -1,0 +1,67 @@
+{
+ "code": "105704",
+ "title": "علوم الحياة والأرض",
+ "used_for": [
+  "7eme-base/SVT"
+ ],
+ "toc": [
+  {
+   "name": "مفهوم الوسط",
+   "children": [
+    {
+     "name": "مكونات الوسط"
+    },
+    {
+     "name": "العلاقات بين مكونات الوسط"
+    },
+    {
+     "name": "تنوع الأوساط البيئية"
+    }
+   ]
+  },
+  {
+   "name": "دراسة بعض مكونات الوسط",
+   "children": [
+    {
+     "name": "خصائص الصخور الرسوبية"
+    },
+    {
+     "name": "فوائد واستعمالات الصخور الرسوبية"
+    },
+    {
+     "name": "مكونات التربة وخصائصها وأنواعها"
+    },
+    {
+     "name": "التربة وعلاقتها بالكائنات الحية"
+    },
+    {
+     "name": "المحافظة على التربة"
+    }
+   ]
+  },
+  {
+   "name": "[placeholder] الجزء الثالث",
+   "children": [
+    {
+     "name": "تنوع الفقريات وتصنيفها"
+    },
+    {
+     "name": "تنوع الحيوانات اللافقرية وتصنيفها"
+    },
+    {
+     "name": "تنوع النباتات الزهرية وتصنيفها"
+    },
+    {
+     "name": "تنوع الكائنات الدقيقة"
+    },
+    {
+     "name": "الوحدة التركيبية للكائنات الحية: الخلية"
+    },
+    {
+     "name": "دور الإنسان في المحافظة على التنوع البيولوجي"
+    }
+   ]
+  }
+ ],
+ "notes": "Rebuilt from full-page OCR. The book has THREE parts (not two): each opens with a situation page (p4, p38, p82) and ends with أحوصل / أقيم مكتسباتي / أضيف إلى مكتسباتي (p31-36, p77-81, p131-140); p83 is printed 'فهرس الجزء الثالث' and the final فهرس p143 label 'الجرء JUN' is that third part. Part 1 title: opener heading p4 reads 'مفهوم | لوسط ا Sul' -> 'مفهوم الوسط'; a trailing word is unreadable (OCR noise 'Sul'/'ليش'), so the title may be truncated. Part 2 title 'دراسة بعض مكونات الوسط' from opener p38 ('بعص' -> 'بعض'). PLACEHOLDER: part 3 title - opener heading p82 reads only 'التنوع' + unreadable word, so a positional label is kept. Lessons from the فهرس p143, p83 (part-3 فهرس) and running headers; part-2 lesson order follows the pages/running headers (مكونات التربة p56-62 before التربة وعلاقتها بالكائنات الحية p64-69; the p143 OCR lists them swapped, p39 agrees with page order). OCR fixes: 'pal' -> 'الصخور', 'وعلاقنها بالكائئات' -> 'وعلاقتها بالكائنات', 'الحافظة على الترية' -> 'المحافظة على التربة', 'التباتات ... وتصديفها' -> 'النباتات ... وتصنيفها', 'للكائنات LI' -> 'للكائنات الحية'. Excluded أحوصل / أقيم مكتسباتي / أضيف إلى مكتسباتي."
+}

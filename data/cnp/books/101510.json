@@ -1,0 +1,276 @@
+{
+ "code": "101510",
+ "title": "عربية - مسالك الكتابة",
+ "used_for": [
+  "5eme-primaire/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "قواعد اللغة",
+   "children": [
+    {
+     "name": "الاسم النكرة والاسم المعرّف بـ«ال» والاسم العلم",
+     "children": []
+    },
+    {
+     "name": "الاسم المعرفة: أسماء الإشارة",
+     "children": []
+    },
+    {
+     "name": "الدرس 3 (ص 8)",
+     "children": []
+    },
+    {
+     "name": "الدرس 4 (ص 12)",
+     "children": []
+    },
+    {
+     "name": "الدرس 5 (ص 14)",
+     "children": []
+    },
+    {
+     "name": "المركب العطفي",
+     "children": []
+    },
+    {
+     "name": "الفعل المهموز في الماضي والمضارع المرفوع",
+     "children": []
+    },
+    {
+     "name": "الدرس 8 (ص 22)",
+     "children": []
+    },
+    {
+     "name": "المتممات: المفعول فيه للزمان",
+     "children": []
+    },
+    {
+     "name": "المفعول فيه للمكان",
+     "children": []
+    },
+    {
+     "name": "الفعل المثال في الماضي والمضارع",
+     "children": []
+    },
+    {
+     "name": "الدرس 12 (ص 33)",
+     "children": []
+    },
+    {
+     "name": "المتممات: الحال",
+     "children": []
+    },
+    {
+     "name": "الدرس 14 (ص 38)",
+     "children": []
+    },
+    {
+     "name": "الدرس 15 (ص 41)",
+     "children": []
+    },
+    {
+     "name": "اسم المفعول",
+     "children": []
+    },
+    {
+     "name": "المبتدأ: مفردة - مركبا",
+     "children": []
+    },
+    {
+     "name": "الخبر: مفردة - مركبا نعتيا - مركبا إضافيا - مركبا بالجر",
+     "children": []
+    },
+    {
+     "name": "الأجوف في الماضي",
+     "children": []
+    },
+    {
+     "name": "الأجوف في المضارع المرفوع والمضارع المنصوب",
+     "children": []
+    },
+    {
+     "name": "النواسخ الفعلية (كان - أصبح - مازال - صار - ليس)",
+     "children": []
+    },
+    {
+     "name": "الدرس 22 (ص 59)",
+     "children": []
+    },
+    {
+     "name": "النواسخ الفعلية والحرفية",
+     "children": []
+    },
+    {
+     "name": "الدرس 24 (ص 64)",
+     "children": []
+    },
+    {
+     "name": "اسم الناسخ",
+     "children": []
+    },
+    {
+     "name": "خبر الناسخ",
+     "children": []
+    },
+    {
+     "name": "الدرس 27 (ص 74)",
+     "children": []
+    },
+    {
+     "name": "الدرس 28 (ص 77)",
+     "children": []
+    },
+    {
+     "name": "القرائن الدالة على الفاعل",
+     "children": []
+    },
+    {
+     "name": "القرائن الدالة على المفعول به",
+     "children": []
+    },
+    {
+     "name": "القرائن الدالة على الحال",
+     "children": []
+    },
+    {
+     "name": "القرائن الدالة على المبتدأ والخبر",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "الإنتاج الكتابي",
+   "children": [
+    {
+     "name": "الدرس 1 (ص 90)",
+     "children": []
+    },
+    {
+     "name": "الدرس 2 (ص 92)",
+     "children": []
+    },
+    {
+     "name": "الشخصيات والأحداث",
+     "children": []
+    },
+    {
+     "name": "الدرس 4 (ص 99)",
+     "children": []
+    },
+    {
+     "name": "الدرس 5 (ص 104)",
+     "children": []
+    },
+    {
+     "name": "الدرس 6 (ص 108)",
+     "children": []
+    },
+    {
+     "name": "الدرس 7 (ص 111)",
+     "children": []
+    },
+    {
+     "name": "الدرس 8 (ص 114)",
+     "children": []
+    },
+    {
+     "name": "الدرس 9 (ص 116)",
+     "children": []
+    },
+    {
+     "name": "وضع الختام",
+     "children": []
+    },
+    {
+     "name": "سياق التحول",
+     "children": []
+    },
+    {
+     "name": "النص السردي المكتمل",
+     "children": []
+    },
+    {
+     "name": "الدرس 13 (ص 126)",
+     "children": []
+    },
+    {
+     "name": "الدرس 14 (ص 130)",
+     "children": []
+    },
+    {
+     "name": "الدرس 15 (ص 134)",
+     "children": []
+    },
+    {
+     "name": "الدرس 16 (ص 137)",
+     "children": []
+    },
+    {
+     "name": "المكان المفتوح",
+     "children": []
+    },
+    {
+     "name": "المكان المغلق",
+     "children": []
+    },
+    {
+     "name": "الدرس 19 (ص 146)",
+     "children": []
+    },
+    {
+     "name": "الدرس 20 (ص 149)",
+     "children": []
+    },
+    {
+     "name": "الدرس 21 (ص 153)",
+     "children": []
+    },
+    {
+     "name": "الدرس 22 (ص 157)",
+     "children": []
+    },
+    {
+     "name": "الدرس 23 (ص 160)",
+     "children": []
+    },
+    {
+     "name": "الدرس 24 (ص 163)",
+     "children": []
+    },
+    {
+     "name": "الدرس 25 (ص 166)",
+     "children": []
+    },
+    {
+     "name": "الدرس 26 (ص 169)",
+     "children": []
+    },
+    {
+     "name": "الرسالة",
+     "children": []
+    },
+    {
+     "name": "الدرس 28 (ص 176)",
+     "children": []
+    },
+    {
+     "name": "الدرس 29 (ص 180)",
+     "children": []
+    },
+    {
+     "name": "الدرس 30 (ص 183)",
+     "children": []
+    },
+    {
+     "name": "الإرشاد والتوجيه (1)",
+     "children": []
+    },
+    {
+     "name": "الإرشاد والتوجيه (2)",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Two parts named by the two فهرس pages (p.190 'فهرس قواعد اللغة', p.191 'فهرس الإنتاج الكتابي'), each 32 numbered lessons. The فهرس OCR is fragmentary (grammar lessons 17-32 partly, writing lessons 10-12/17-19/32 partly), so titles come mostly from 'الدرس N' header lines on lesson pages and encoded-font headings. The grammar فهرس also has a column of competence groups (e.g. 'أتصرّف في الجملة الاسميّة بتنويع المبتدأ والخبر', 'بعض الوظائف') but their extents are unreadable, so lessons are listed flat under each part. Exercise/evaluation pages excluded. Many placeholders 'الدرس N (ص X)': 11 grammar + 23 writing lessons whose titles are unreadable in all sources (partial readings: writing 5 heading 'البطل', 7 '…المحورية والشخصية…', 13 '…والمطلوب…والتعليمة', 19/20 'الموصوف…', 24 'الوصف…'; grammar 4 'الفعل الثلاثي…', 27/28 'تصريف المضاعف…'). Low confidence."
+}

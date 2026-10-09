@@ -1,0 +1,52 @@
+{
+ "code": "222221",
+ "title": "الرياضيات (شعبة الآداب)",
+ "used_for": [
+  "2eme-lettres/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Activités numériques",
+   "children": [
+    {
+     "name": "Pourcentages",
+     "children": [
+      {
+       "name": "Estimation, arrondi"
+      },
+      {
+       "name": "Pourcentages"
+      }
+     ]
+    },
+    {
+     "name": "Suites arithmétiques - Suites géométriques",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Activités algébriques",
+   "children": [
+    {
+     "name": "Equations et inéquations - Systèmes d'équations",
+     "children": []
+    },
+    {
+     "name": "Fonctions",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Statistiques",
+   "children": [
+    {
+     "name": "Statistiques",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "2ème Lettres. Sommaire (p5) groups chapters into 3 parts (Activités numériques / algébriques / Statistiques) with matching part title pages. Chapter 1 sections taken from its opener page (p8); other chapter openers not in the extract, so their sections are left empty. Sommaire says 'Pourcentage', opener 'Pourcentages' (opener used)."
+}

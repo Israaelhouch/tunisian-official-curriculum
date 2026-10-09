@@ -1,0 +1,123 @@
+{
+ "code": "223231",
+ "title": "الفيزياء (شعبة العلوم)",
+ "used_for": [
+  "2eme-sciences/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Circuits électriques",
+   "children": [
+    {
+     "name": "Puissance et énergie électrique",
+     "children": []
+    },
+    {
+     "name": "Conductibilité électrique",
+     "children": []
+    },
+    {
+     "name": "Récepteurs passifs (1)",
+     "children": []
+    },
+    {
+     "name": "Récepteurs passifs (2)",
+     "children": []
+    },
+    {
+     "name": "Récepteurs actifs",
+     "children": []
+    },
+    {
+     "name": "Le dipôle générateur",
+     "children": []
+    },
+    {
+     "name": "Adaptation : loi de Pouillet",
+     "children": []
+    },
+    {
+     "name": "Le courant alternatif",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Forces, mouvements, pression",
+   "children": [
+    {
+     "name": "Systèmes et interactions mécaniques",
+     "children": []
+    },
+    {
+     "name": "Equilibre d’un solide soumis à trois forces",
+     "children": []
+    },
+    {
+     "name": "Equilibre d’un solide assujetti à tourner autour d’un axe fixe",
+     "children": []
+    },
+    {
+     "name": "Mouvement du point matériel",
+     "children": []
+    },
+    {
+     "name": "Pression en un point d’un liquide",
+     "children": []
+    },
+    {
+     "name": "Poussée d’Archimède",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Énergie et contrôle",
+   "children": [
+    {
+     "name": "Energie cinétique",
+     "children": []
+    },
+    {
+     "name": "Energie potentielle",
+     "children": []
+    },
+    {
+     "name": "Energie thermique",
+     "children": []
+    },
+    {
+     "name": "Travail et puissance",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Lumière",
+   "children": [
+    {
+     "name": "Réflexion de la lumière",
+     "children": []
+    },
+    {
+     "name": "Réfraction de la lumière",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Terre et univers",
+   "children": [
+    {
+     "name": "Gravitation universelle",
+     "children": []
+    },
+    {
+     "name": "Pression atmosphérique",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Physique 2ème sciences. Parts (PARTIE 1-5 openers, pp.4,133,228,289,313) and chapters 1-22 from part sommaires/markers and chapter title pages; chapter 11 full title from p.163 heading. Part 2 title printed as stacked words 'FORCES MOUVEMENTS PRESSION' (commas added). Sections not recoverable beyond chapter 1, so chapters have no children. End-of-chapter documents excluded."
+}

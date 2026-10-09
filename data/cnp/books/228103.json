@@ -1,0 +1,117 @@
+{
+ "code": "228103",
+ "title": "Technologie - Manuel d'activités",
+ "used_for": [
+  "1ere-secondaire/TECHNO"
+ ],
+ "toc": [
+  {
+   "name": "Analyse fonctionnelle",
+   "children": [
+    {
+     "name": "Analyse fonctionnelle d’un système technique",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Analyse structurelle et conception",
+   "children": [
+    {
+     "name": "Lecture d’un dessin d’ensemble",
+     "children": []
+    },
+    {
+     "name": "Graphe de montage et graphe de démontage",
+     "children": []
+    },
+    {
+     "name": "Dessin de définition",
+     "children": []
+    },
+    {
+     "name": "Dessin assisté par ordinateur (DAO)",
+     "children": []
+    },
+    {
+     "name": "Liaisons mécaniques",
+     "children": []
+    },
+    {
+     "name": "Systèmes combinatoires",
+     "children": []
+    },
+    {
+     "name": "Transmission de puissance",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Les matériaux utilisés",
+   "children": [
+    {
+     "name": "Matériaux utilisés",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Les énergies mises en œuvre",
+   "children": [
+    {
+     "name": "Énergies renouvelables",
+     "children": []
+    },
+    {
+     "name": "Convertisseurs statiques d’énergie électrique",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Réalisation et production",
+   "children": [
+    {
+     "name": "Projet 1 : Robot suiveur de ligne et éviteur d’obstacles",
+     "children": [
+      {
+       "name": "Programmation d’une carte de commande d’un système embarqué",
+       "children": []
+      },
+      {
+       "name": "Procédés de mise en forme des matériaux",
+       "children": []
+      },
+      {
+       "name": "Procédés et typologie des assemblages",
+       "children": []
+      },
+      {
+       "name": "Contrôle des composants",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Projet 2 : Lampe connectée",
+     "children": [
+      {
+       "name": "Programmation d’une carte de commande d’un système embarqué",
+       "children": []
+      },
+      {
+       "name": "Fonction interfaçage",
+       "children": []
+      },
+      {
+       "name": "Contrôle des composants",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Technologie manuel d'activités 1ère année. OCR'd Sommaire (p.7) gives 5 themes, 13 chapters and project sub-items; confirmed by chapter title headings and 'Thème n' markers (pp.8-228). OCR fixes: 'Transmission de PUISSANCE'->'Transmission de puissance', 'Lampe CONNECHÉE'->'Lampe connectée' (p.228 heading). Theme names taken from sommaire banners (theme numbers partly garbled by OCR). Activity case studies not used as sections."
+}

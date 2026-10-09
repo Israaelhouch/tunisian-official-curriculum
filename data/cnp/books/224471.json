@@ -1,0 +1,106 @@
+{
+ "code": "224471",
+ "title": "كيمياء_شعبة علوم الإعلامية",
+ "used_for": [
+  "bac-informatique/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Mesure d'une quantité de matière",
+   "children": [
+    {
+     "name": "Détermination d'une quantité de matière à l'aide d'une réaction chimique",
+     "children": [
+      {
+       "name": "Réaction d'une solution d'un acide fort avec une solution de base forte"
+      },
+      {
+       "name": "Étude d'une réaction d'oxydoréduction"
+      }
+     ]
+    },
+    {
+     "name": "Détermination d'une quantité de matière par mesure d'une grandeur physique",
+     "children": [
+      {
+       "name": "Détermination d'une quantité de matière par la mesure d'une masse, d'un volume ou d'une concentration"
+      },
+      {
+       "name": "La conductance"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Électrochimie",
+   "children": [
+    {
+     "name": "Pile électrochimique : pile Daniell",
+     "children": [
+      {
+       "name": "Transfert direct d'électrons entre un oxydant et un réducteur"
+      },
+      {
+       "name": "Pile électrochimique : pile Daniell"
+      },
+      {
+       "name": "Autres exemples de piles électrochimiques"
+      }
+     ]
+    },
+    {
+     "name": "Électrolyse",
+     "children": [
+      {
+       "name": "Le phénomène d'électrolyse : exemple de réaction imposée"
+      },
+      {
+       "name": "Électrolyse à électrodes attaquables"
+      },
+      {
+       "name": "Électrolyse à électrodes inattaquables"
+      },
+      {
+       "name": "Les accumulateurs"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "La chimie organique",
+   "children": [
+    {
+     "name": "Les alcools aliphatiques saturés",
+     "children": [
+      {
+       "name": "Présentation des alcools"
+      },
+      {
+       "name": "Nomenclature des alcools"
+      },
+      {
+       "name": "Classes et isomérie des alcools"
+      }
+     ]
+    },
+    {
+     "name": "L'oxydation ménagée des alcools",
+     "children": [
+      {
+       "name": "Combustion des alcools"
+      },
+      {
+       "name": "Oxydation ménagée des alcools"
+      },
+      {
+       "name": "Applications"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "French chemistry book (Bac Sciences de l'informatique). Complete detailed sommaire on p4-5 (themes, chapters, A/B/C or I/II/III sections) used directly; exercices, l'essentiel, fiches expérimentales, documents excluded."
+}

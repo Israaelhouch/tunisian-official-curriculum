@@ -1,0 +1,110 @@
+{
+ "code": "206321",
+ "title": "جغرافيا_شعبتا الآداب والاقتصاد والتصرف",
+ "used_for": [
+  "3eme-lettres/GEO",
+  "3eme-economie-gestion/GEO"
+ ],
+ "toc": [
+  {
+   "name": "المجال والتنمية في العالم العربي",
+   "children": [
+    {
+     "name": "مزايا الموقع الجغرافي",
+     "children": []
+    },
+    {
+     "name": "الوسط الطبيعي: المزايا والضغوطات",
+     "children": []
+    },
+    {
+     "name": "الموارد الطبيعية",
+     "children": []
+    },
+    {
+     "name": "السكان والمشكلات السكانية",
+     "children": []
+    },
+    {
+     "name": "التجارب التنموية بالبلدان العربية",
+     "children": []
+    },
+    {
+     "name": "الأدفاق المادية واللامادية بالعالم العربي",
+     "children": []
+    },
+    {
+     "name": "تنظيم المجال بالعالم العربي",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "المجال والتنمية بالبلاد التونسية",
+   "children": [
+    {
+     "name": "الإطار الطبيعي: المزايا والضغوطات",
+     "children": []
+    },
+    {
+     "name": "السكان والسياسة السكانية",
+     "children": []
+    },
+    {
+     "name": "التجارب التنموية",
+     "children": []
+    },
+    {
+     "name": "المجال الفلاحي",
+     "children": []
+    },
+    {
+     "name": "المجال الصناعي",
+     "children": []
+    },
+    {
+     "name": "الأنشطة الخدمية",
+     "children": []
+    },
+    {
+     "name": "التهيئة الترابية",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "أقاليم البلاد التونسية",
+   "children": [
+    {
+     "name": "أسس التقسيم الإقليمي",
+     "children": []
+    },
+    {
+     "name": "الشمال الشرقي",
+     "children": []
+    },
+    {
+     "name": "الوسط الشرقي",
+     "children": []
+    },
+    {
+     "name": "الجنوب الشرقي",
+     "children": []
+    },
+    {
+     "name": "الشمال الغربي",
+     "children": []
+    },
+    {
+     "name": "الوسط الغربي",
+     "children": []
+    },
+    {
+     "name": "الجنوب الغربي",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Source: المحتوى in back (p415) for lesson titles, cross-checked with the full-page OCR of each lesson's opening page ('الدرس الأول ... الحادي والعشرون'). Axis titles from the OCR of the axis title pages: p5 'المجال والتنمية في العالم العربي', p135 'المجال والتنمية بالبلاد التونسية' (OCR 'امجال والتدمية', evident fix), axis 3 'أقاليم البلاد التونسية' from heading p269. Excluded: مقدمة, ملف منهجي, النص التأليفي, activities, references. No placeholders."
+}

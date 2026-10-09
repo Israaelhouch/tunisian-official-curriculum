@@ -1,0 +1,254 @@
+{
+ "code": "223433",
+ "title": "فيزياء _شعبة العلوم التجريبية",
+ "used_for": [
+  "bac-sciences-experimentales/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Évolution de systèmes",
+   "children": [
+    {
+     "name": "Le condensateur ; le dipôle RC",
+     "children": [
+      {
+       "name": "Définition et exemples"
+      },
+      {
+       "name": "Charge et décharge d'un condensateur"
+      },
+      {
+       "name": "Charge d'un condensateur et intensité du courant"
+      },
+      {
+       "name": "Relation entre la charge q et la tension uC"
+      },
+      {
+       "name": "Capacité d'un condensateur plan"
+      },
+      {
+       "name": "Tension de service et tension de claquage"
+      },
+      {
+       "name": "Énergie emmagasinée par un condensateur"
+      },
+      {
+       "name": "Réponse d'un dipôle RC à un échelon de tension"
+      },
+      {
+       "name": "Décharge d'un condensateur dans un résistor"
+      },
+      {
+       "name": "Influence des grandeurs caractéristiques d'un dipôle RC sur la durée de charge ou de décharge d'un condensateur"
+      }
+     ]
+    },
+    {
+     "name": "La bobine ; le dipôle RL",
+     "children": [
+      {
+       "name": "Le phénomène d'induction électromagnétique"
+      },
+      {
+       "name": "Loi de Lenz"
+      },
+      {
+       "name": "La force électromotrice d'induction"
+      },
+      {
+       "name": "L'auto-induction"
+      },
+      {
+       "name": "Énergie magnétique emmagasinée dans une bobine"
+      },
+      {
+       "name": "Applications de l'induction électromagnétique"
+      },
+      {
+       "name": "Réponse d'un dipôle RL à un échelon de tension"
+      },
+      {
+       "name": "La rupture du courant dans un dipôle RL"
+      },
+      {
+       "name": "Influence des grandeurs caractéristiques d'un dipôle RL sur le régime transitoire"
+      }
+     ]
+    },
+    {
+     "name": "Oscillations électriques libres",
+     "children": [
+      {
+       "name": "Production d'oscillations libres amorties"
+      },
+      {
+       "name": "Influence de l'amortissement"
+      },
+      {
+       "name": "Équation différentielle régissant l'évolution d'un circuit RLC série en régime libre"
+      },
+      {
+       "name": "Énergie totale d'un oscillateur RLC série"
+      },
+      {
+       "name": "Nature des oscillations libres non amorties"
+      },
+      {
+       "name": "Énergie totale d'un oscillateur LC"
+      }
+     ]
+    },
+    {
+     "name": "Oscillations électriques forcées en régime sinusoïdal",
+     "children": [
+      {
+       "name": "Réponse d'un circuit RLC série à une tension sinusoïdale"
+      },
+      {
+       "name": "Influence de la fréquence d'excitation sur la réponse d'un circuit RLC série"
+      },
+      {
+       "name": "Influence de la résistance totale du circuit sur la résonance"
+      },
+      {
+       "name": "Le phénomène de surtension"
+      },
+      {
+       "name": "Applications de la résonance"
+      },
+      {
+       "name": "Puissance moyenne et facteur de puissance"
+      }
+     ]
+    },
+    {
+     "name": "Oscillations libres d'un pendule élastique",
+     "children": [
+      {
+       "name": "Oscillations libres non amorties"
+      },
+      {
+       "name": "Oscillations libres amorties"
+      }
+     ]
+    },
+    {
+     "name": "Oscillations forcées d'un pendule élastique en régime sinusoïdal",
+     "children": [
+      {
+       "name": "Production d'oscillations forcées"
+      },
+      {
+       "name": "Influence de la fréquence de l'excitateur sur l'amplitude des oscillations"
+      },
+      {
+       "name": "Influence de l'amortissement sur l'amplitude des oscillations"
+      },
+      {
+       "name": "Étude théorique"
+      },
+      {
+       "name": "Puissance mécanique moyenne"
+      },
+      {
+       "name": "Importance des oscillations mécaniques forcées et de la résonance"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ondes",
+   "children": [
+    {
+     "name": "Ondes mécaniques progressives",
+     "children": [
+      {
+       "name": "Propagation d'un ébranlement"
+      },
+      {
+       "name": "Propagation d'une onde sinusoïdale entretenue"
+      }
+     ]
+    },
+    {
+     "name": "Nature ondulatoire de la lumière",
+     "children": [
+      {
+       "name": "La diffraction"
+      },
+      {
+       "name": "Dispersion de la lumière"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Physique atomique et nucléaire",
+   "children": [
+    {
+     "name": "Spectre atomique",
+     "children": [
+      {
+       "name": "Énergie des systèmes en interaction"
+      },
+      {
+       "name": "La quantification de l'énergie"
+      },
+      {
+       "name": "Spectres lumineux"
+      },
+      {
+       "name": "Spectres de l'atome d'hydrogène"
+      },
+      {
+       "name": "Applications"
+      }
+     ]
+    },
+    {
+     "name": "Le noyau atomique",
+     "children": [
+      {
+       "name": "Structure et cohésion du noyau (rappels)"
+      },
+      {
+       "name": "Équivalence masse-énergie"
+      },
+      {
+       "name": "Stabilité du noyau"
+      }
+     ]
+    },
+    {
+     "name": "Réactions nucléaires",
+     "children": [
+      {
+       "name": "Le phénomène de radioactivité"
+      },
+      {
+       "name": "Les différents types de rayonnements radioactifs"
+      },
+      {
+       "name": "Mécanismes nucléaires"
+      },
+      {
+       "name": "Évolution temporelle de la radioactivité"
+      },
+      {
+       "name": "La réaction de fission"
+      },
+      {
+       "name": "La réaction de fusion"
+      },
+      {
+       "name": "Applications des réactions de fission et de fusion"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "French physics book (Bac Sciences expérimentales, updated edition). 3 themes / 11 chapters from the sommaire (p4-5) and theme pages; sections from size-14 numbered headings in page order. Theme 1 sub-parts (systèmes électriques / pendule élastique) omitted to stay within 3 levels; chapter 5 uses its two sub-parts because inner headings repeat (Étude théorique...)."
+}

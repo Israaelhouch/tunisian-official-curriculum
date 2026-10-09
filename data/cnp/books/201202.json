@@ -1,0 +1,210 @@
+{
+ "code": "201202",
+ "title": "عيون الأدب_ الجزء الأول_نصوص",
+ "used_for": [
+  "2eme-lettres/ARAB",
+  "2eme-sciences/ARAB",
+  "2eme-technologie-informatique/ARAB",
+  "2eme-economie-services/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "الشعر الجاهلي",
+   "children": [
+    {
+     "name": "في معنى الجاهلية"
+    },
+    {
+     "name": "رواية الشعر في الجاهلية"
+    },
+    {
+     "name": "من مظاهر التنوع القبلي"
+    },
+    {
+     "name": "لخولة أطلال"
+    },
+    {
+     "name": "عوجاء مرقال"
+    },
+    {
+     "name": "ثلاث هن من عيشة الفتى"
+    },
+    {
+     "name": "ستبدي لك الأيام ما كنت جاهلا"
+    },
+    {
+     "name": "لنا الدنيا ومن أضحى عليها"
+    },
+    {
+     "name": "أغشى الوغى وأعف عند المغنم"
+    },
+    {
+     "name": "ليس على ناري حجاب"
+    },
+    {
+     "name": "إني مانع جاري"
+    },
+    {
+     "name": "ضراب الكماة"
+    },
+    {
+     "name": "حامي العرين"
+    },
+    {
+     "name": "تلف مقيم"
+    },
+    {
+     "name": "بدا لي وجه نعم"
+    },
+    {
+     "name": "يا طائر البان"
+    },
+    {
+     "name": "تداويت منها بها"
+    },
+    {
+     "name": "من حكم الجاهليين"
+    },
+    {
+     "name": "الخير بنواصي الخيل معصوب"
+    },
+    {
+     "name": "في بنية القصيدة"
+    },
+    {
+     "name": "هيكل القصيدة الجاهلية بين التراث النقدي والدراسات الحديثة"
+    },
+    {
+     "name": "هاجس الرحيل في الشعر الجاهلي"
+    }
+   ]
+  },
+  {
+   "name": "التجديد في الشعر العربي في القرن الثاني للهجرة",
+   "children": [
+    {
+     "name": "الشعر وسمات المجتمع الجديد"
+    },
+    {
+     "name": "القدماء والمحدثون"
+    },
+    {
+     "name": "سلام الله ذي العرش"
+    },
+    {
+     "name": "لا تبكين على رسم ولا طلل"
+    },
+    {
+     "name": "بنا شوق إليك"
+    },
+    {
+     "name": "الأرجوزة ذات الأمثال"
+    },
+    {
+     "name": "الخمر والطبيعة"
+    },
+    {
+     "name": "المغتسلة"
+    },
+    {
+     "name": "دعاني من هويت فلم أجبه"
+    },
+    {
+     "name": "أيها الباني لهدم الليالي"
+    },
+    {
+     "name": "يا خاطب القهوة الصهباء"
+    },
+    {
+     "name": "لأشربن بكأس الموت"
+    },
+    {
+     "name": "وذات دل"
+    },
+    {
+     "name": "المنايا تجوس كل البلاد"
+    },
+    {
+     "name": "هذا العيش لا خيم البوادي"
+    },
+    {
+     "name": "فابكي على قبري"
+    },
+    {
+     "name": "دع عنك لومي"
+    },
+    {
+     "name": "لغة القصيدة وبناؤها الفني في القرن الثاني الهجري"
+    },
+    {
+     "name": "الصنعة الشعرية"
+    },
+    {
+     "name": "موقف النقاد القدامى من شعر الحكمة والزهد"
+    }
+   ]
+  },
+  {
+   "name": "النادرة",
+   "children": [
+    {
+     "name": "في الكتابة عن البخل والبخلاء"
+    },
+    {
+     "name": "كلام بكلام"
+    },
+    {
+     "name": "مثل هذا لا يكون إلا سماويا"
+    },
+    {
+     "name": "النص الرابع"
+    },
+    {
+     "name": "النص الخامس"
+    },
+    {
+     "name": "أراني أنفخ في غير فحم"
+    },
+    {
+     "name": "إن الخرق شؤم"
+    },
+    {
+     "name": "ما هضمه إلا الضحك"
+    },
+    {
+     "name": "أجرش يا أبا كعب أجرش"
+    },
+    {
+     "name": "إنما العين مكروه يحدث"
+    },
+    {
+     "name": "قد أشكل علينا هذا الأمر"
+    },
+    {
+     "name": "صناعة النادرة"
+    },
+    {
+     "name": "بنائيات البخل في نوادر البخلاء"
+    },
+    {
+     "name": "من الصّفات الفنيّة في كتاب البخلاء"
+    }
+   ]
+  },
+  {
+   "name": "المسائل الحضارية",
+   "children": [
+    {
+     "name": "العلاقات بين الشباب"
+    },
+    {
+     "name": "العنف"
+    },
+    {
+     "name": "عالم الصورة"
+    }
+   ]
+  }
+ ],
+ "notes": "Text anthology vol.1: محور -> texts (introductory, selected and complementary texts kept in book order, group labels dropped). Sources: فهرس pp253-255 (OCR), axis-1 contents table p6, axis openers p5/p86/p174-175 and text headings; rebuild pass added full-page OCR of openers and decoding of font-encoded headings (the book uses a legacy Arabic font whose headings extract as Latin symbols, e.g. p195 decodes to the known 'أراني أنفخ في غير فحم', p204 to 'أجرش يا أبا كعب أجرش', which validated the mapping). Axis 2 title assembled from فهرس p254 + opener p86. Axis 3 = 'النادرة': printed '— النادرة —' on opener p174 (OCR 'الثادرة') and as the encoded title line of its فهرس page p175 ('IQOÉqædG' = النّادرة), the same slot that carries the axis-2 title on p86; a longer line above it on p174 ('... في الأدب ...') is unreadable, so the title may be fuller in print. Resolved text placeholders: A2 #13 = 'وذات دل' (encoded heading p138 'x∫nO päGnPh', بشار); A3 #2 = 'كلام بكلام' (encoded heading p181, decoding slightly uncertain); first المسائل الحضارية issue = 'العلاقات بين الشباب' (opener p223 'بيث الشباب' + heading p224 'العلاقات بين ...'). Remaining positional placeholders (no readable source on openers/headings/فهرس): A1 #14 (أبو ذؤيب الهذلي, 'تلف ...'); A2 #10 ('... الباني لهدم الليالي', أبو العتاهية); A3 #4 ('... القميص عافاك الله'), #5 ('... ملك الموت'), #7 ('إن الخرق ...'), #14 ('من الصفات ... في كتاب البخلاء'). 'إني مانع جاري' and 'بدا لي وجه نعم' confirmed by encoded headings p45/p60. Last item = oral-communication 'المسائل الحضارية' section (p223-239), issues as children. Excluded: ورقات منهجية/لغوية, maps and images index. Second rebuild pass (full-page OCR of every page): resolved A1 #14 = 'تلف مقيم' (heading p56; axis table p6 'تلف ..'); A2 #10 = 'أيها الباني لهدم الليالي' (axis table p86 'أيها الباني لهدم ..' + back فهرس p254 '.. الباني لهدم الليالي'; heading p129 partial); A3 #7 = 'إن الخرق شؤم' (heading p198 '«إدالخرق شوم»', فهرس 'إن الخرق ..'); A3 #14 = 'من الصّفات الفنيّة في كتاب البخلاء' (heading p220 and axis table p175). Still positional: A3 #4 ('... القميص عافاك الله', heading p187 and table p175 lose the first word) and A3 #5 ('... ملك الموت', p191 has no heading, table p175 first word unreadable)."
+}

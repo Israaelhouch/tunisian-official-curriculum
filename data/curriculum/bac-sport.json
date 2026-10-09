@@ -1,0 +1,420 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Décret gouvernemental n° 2021-143 du 1er mars 2021 modifiant le décret n° 2019-1085 (JORT n° 22, 2021) — https://9anoun.tn/fr/kb/jorts/jort-2021-022-ae9df/decret-gouvernemental-ndeg-2021-143-du-1er-mars-2021-modifiant-le-decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et--5cae85b018dea9894163eae4e6c6a61b",
+    "Décret gouvernemental n° 2019-1085 du 19 novembre 2019 fixant l'horaire des études dans l'enseignement de base et dans l'enseignement secondaire (JORT n° 95, 2019) — https://9anoun.tn/kb/jorts/jort-2019-095-424da/decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et-dans-lenseignement-secondaire-60",
+    "CNP 201481 — كتاب العربية — https://www.cnp.com.tn/arabic/PDF/201481P00.pdf",
+    "CNP 210402 — فلسفة_الشعب العلمية — https://www.cnp.com.tn/arabic/PDF/210402P00.pdf",
+    "CNP 221402 — فرنسية_شعب علمية — https://www.cnp.com.tn/arabic/PDF/221402P00.pdf",
+    "CNP 222481 — رياضيات — https://www.cnp.com.tn/arabic/PDF/222481P00.pdf",
+    "CNP 225481 — Sciences biologiques - Sport — https://www.cnp.com.tn/arabic/PDF/225481P01.pdf",
+    "CNP 241403 — انقليزية — https://www.cnp.com.tn/arabic/PDF/241403P00.pdf"
+  ],
+  "level": {
+    "name_fr": "Baccalauréat (4ème année secondaire)",
+    "name_ar": "البكالوريا (السنة الرابعة ثانوي)",
+    "code": "BAC",
+    "cycle": "secondaire",
+    "grade_number": 4,
+    "display_order": 13,
+    "is_national_exam_year": true
+  },
+  "section": {
+    "name_fr": "Sport",
+    "name_ar": "رياضة",
+    "code": "SPORT",
+    "is_common_core": false
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الرياضة والقيم",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الرياضة والإعلام",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الرياضة والقانون",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Français",
+        "name_ar": "الفرنسية",
+        "code": "FRAN"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Souvenirs et nostalgie",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Histoires d'amour",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Liberté, j'écris ton nom...",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Module de lecture : Le silence de la mer",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Guerre et Paix",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "L'Homme et la Science",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Module de lecture : La Cantatrice chauve",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Anglais",
+        "name_ar": "الإنجليزية",
+        "code": "ANGL"
+      },
+      "instruction_language": "en",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "First Impressions",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Art Shows and Holidaying",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Education Matters",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Creative Inventive Minds",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Life Issues",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Exemples de fonctions polynômes et fonctions homographiques",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Solution(s) d'une équation du type f(x) = k",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Calcul d'aires planes",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Fonctions logarithme népérien",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Fonction exponentielle de base e",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Suites réelles",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Probabilités",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences physiques",
+        "name_ar": "العلوم الفيزيائية",
+        "code": "PHYS"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences biologiques",
+        "name_ar": "علوم البيولوجيا",
+        "code": "BIO"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "La reproduction humaine",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "La fonction reproductrice chez l'homme",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "La fonction reproductrice chez la femme",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "La procréation",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Génétique humaine",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Transmission des caractères héréditaires",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Prévention des maladies héréditaires",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Neurophysiologie",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Le tissu nerveux",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Le réflexe myotatique",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Les réflexes conditionnels",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Le muscle squelettique",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "La régulation de la pression artérielle",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Informatique",
+        "name_ar": "الإعلامية",
+        "code": "INFO"
+      },
+      "instruction_language": "fr",
+      "is_optional": true,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Histoire",
+        "name_ar": "التاريخ",
+        "code": "HIST"
+      },
+      "instruction_language": "ar",
+      "is_optional": true,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Géographie",
+        "name_ar": "الجغرافيا",
+        "code": "GEO"
+      },
+      "instruction_language": "ar",
+      "is_optional": true,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Spécialité sportive",
+        "name_ar": "الاختصاص الرياضي",
+        "code": "SPORTSPEC"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Philosophie",
+        "name_ar": "الفلسفة",
+        "code": "PHILO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الإنسان بين الكثرة والوحدة",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الإنية والغيرية",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الخصوصية والكونية",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الحقيقة",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "العلم بين الحقيقة والنمذجة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "القيم بين النسبي والمطلق",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الدولة: السيادة والمواطنة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأخلاق: الخير والسعادة",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

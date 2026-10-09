@@ -1,0 +1,65 @@
+{
+ "code": "225105",
+ "title": "العلوم البيولوجية",
+ "used_for": [
+  "1ere-sport/BIO"
+ ],
+ "toc": [
+  {
+   "name": "Plan d’organisation du corps humain",
+   "children": [
+    {
+     "name": "Vue d’ensemble sur les appareils et leurs fonctions",
+     "children": []
+    },
+    {
+     "name": "La cellule : unité de structure des êtres vivants",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "La motricité",
+   "children": [
+    {
+     "name": "Les différents mouvements corporels",
+     "children": []
+    },
+    {
+     "name": "L’appareil squelettique",
+     "children": []
+    },
+    {
+     "name": "Hygiène de la posture et des mouvements",
+     "children": []
+    },
+    {
+     "name": "Le muscle strié squelettique",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Microbes et santé",
+   "children": [
+    {
+     "name": "La diversité du monde microbien",
+     "children": []
+    },
+    {
+     "name": "La contamination par les microbes",
+     "children": []
+    },
+    {
+     "name": "Les défenses de l’organisme",
+     "children": []
+    },
+    {
+     "name": "Les applications médicales pour aider l’organisme",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Sciences biologiques 1ère année section sport. Themes and chapters from the Sommaire (p.157), confirmed by theme/chapter openers. Chapters follow a fixed Se rappeler/Agir/Bilan/Exercices pattern with no named sections, so no children."
+}

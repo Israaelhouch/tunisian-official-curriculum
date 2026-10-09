@@ -1,0 +1,137 @@
+{
+ "code": "221302",
+ "title": "فرنسية_شعب علمية",
+ "used_for": [
+  "3eme-mathematiques/FRAN",
+  "3eme-sciences-experimentales/FRAN",
+  "3eme-informatique/FRAN",
+  "3eme-techniques/FRAN",
+  "3eme-economie-gestion/FRAN",
+  "3eme-sport/FRAN"
+ ],
+ "toc": [
+  {
+   "name": "Invitation au voyage",
+   "children": [
+    {
+     "name": "« Ce que j’ai appris sur les routes »"
+    },
+    {
+     "name": "Comment peut-on être persan ?"
+    },
+    {
+     "name": "Le tourisme"
+    },
+    {
+     "name": "Voyage"
+    },
+    {
+     "name": "Le port"
+    },
+    {
+     "name": "Autocritique"
+    },
+    {
+     "name": "Micromégas"
+    }
+   ]
+  },
+  {
+   "name": "Le mythe aujourd’hui",
+   "children": [
+    {
+     "name": "De « La valeur du mythe »"
+    },
+    {
+     "name": "Les hiéroglyphes livrent leur secret à Champollion"
+    },
+    {
+     "name": "Le mythe du western"
+    },
+    {
+     "name": "« Vous traverserez les miroirs... »"
+    }
+   ]
+  },
+  {
+   "name": "Le droit à la différence",
+   "children": [
+    {
+     "name": "« L’éternel masculin et l’éternel féminin »"
+    },
+    {
+     "name": "Déclaration des droits de l’homme et du citoyen (26 août 1789)"
+    },
+    {
+     "name": "« Heureux d’être comme je suis »"
+    },
+    {
+     "name": "« Prière à Dieu »"
+    },
+    {
+     "name": "Les amis"
+    },
+    {
+     "name": "« D’inquiétantes espèces mal nourries »"
+    }
+   ]
+  },
+  {
+   "name": "Module de lecture : Celui qui n’avait jamais vu la mer",
+   "children": []
+  },
+  {
+   "name": "Scènes comiques",
+   "children": [
+    {
+     "name": "Un beau parti ?"
+    },
+    {
+     "name": "Le médecin de Cucugnan"
+    },
+    {
+     "name": "Charlie Chaplin"
+    },
+    {
+     "name": "Le salon de Mme Verdurin"
+    },
+    {
+     "name": "Drôle de leçon"
+    },
+    {
+     "name": "Cruelle épreuve"
+    },
+    {
+     "name": "Onze francs soixante quinze"
+    }
+   ]
+  },
+  {
+   "name": "Le pouvoir de l’image",
+   "children": [
+    {
+     "name": "L’image, elle, ne ment pas..."
+    },
+    {
+     "name": "La publicité : « une promesse de bonheur »"
+    },
+    {
+     "name": "L’affiche"
+    },
+    {
+     "name": "Littérature et cinéma"
+    },
+    {
+     "name": "Le portrait ovale"
+    },
+    {
+     "name": "Nuit de Sine"
+    },
+    {
+     "name": "Un tableau impressionniste !"
+    }
+   ]
+  }
+ ],
+ "notes": "From the Sommaire (p4) and the Table des matières (p295): modules d'apprentissage 1-5 plus the Module de lecture (whole-work reading of Le Clézio's novella, placed between modules 3 and 4), with the texts and documents listed under each. Authors and pages dropped."
+}

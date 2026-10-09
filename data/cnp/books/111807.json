@@ -1,0 +1,78 @@
+{
+ "code": "111807",
+ "title": "التربية الاسلامية",
+ "used_for": [
+  "8eme-base/ISLAM"
+ ],
+ "toc": [
+  {
+   "name": "«قل آمنت بالله ثم استقم»",
+   "children": [
+    {
+     "name": "الإيمان بالغيب"
+    },
+    {
+     "name": "آثار الإيمان بالغيب"
+    },
+    {
+     "name": "الأعمال بالنيات"
+    }
+   ]
+  },
+  {
+   "name": "المبحث الثاني (عنوان غير مقروء)",
+   "children": [
+    {
+     "name": "صلاة الجماعة"
+    },
+    {
+     "name": "صلاة الجمعة"
+    },
+    {
+     "name": "الصوم"
+    },
+    {
+     "name": "التيسير في الصوم"
+    },
+    {
+     "name": "الزكاة"
+    },
+    {
+     "name": "أنواع الزكاة ومصارفها"
+    }
+   ]
+  },
+  {
+   "name": "«وأحسن كما أحسن الله إليك»",
+   "children": [
+    {
+     "name": "بر الوالدين"
+    },
+    {
+     "name": "الإحسان إلى ذوي القربى"
+    },
+    {
+     "name": "آداب الجوار"
+    },
+    {
+     "name": "التكافل الاجتماعي"
+    },
+    {
+     "name": "نشاط إدماجي: دراسة الآيات 36-40 من سورة النساء"
+    }
+   ]
+  },
+  {
+   "name": "«ولا تبغ الفساد في الأرض»",
+   "children": [
+    {
+     "name": "التوازن البيئي"
+    },
+    {
+     "name": "الثروات الطبيعية"
+    }
+   ]
+  }
+ ],
+ "notes": "From فهرس المحتويات (pp.157-158, only مباحث 1 and 3 survive), the p9 programme grid (lists all lessons by مبحث) and lesson headings (pp.13-136). المبحث الثاني title not printed in surviving pages -> positional label; المبحث الرابع title from p9 grid ('ولا تبغ الفساد في' + 'الأرض' completing the verse). 'الصوم' p54 from heading (OCR 'الطوم'); 'أنواع الزكاة ومصارفها' (p75) is a lesson-size heading but absent from the p9 grid - medium certainty. Unnamed 'نشاط إدماجي' items (pp.34, ~82, 142) excluded; the named one (p117) kept."
+}

@@ -1,0 +1,42 @@
+{
+ "code": "222422",
+ "title": "رياضيات_شعبة الآداب",
+ "used_for": [
+  "bac-lettres/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Dérivées et applications",
+   "children": []
+  },
+  {
+   "name": "Exemples de fonctions polynômes",
+   "children": []
+  },
+  {
+   "name": "Exemples de fonctions homographiques",
+   "children": []
+  },
+  {
+   "name": "Fonction logarithme népérien",
+   "children": []
+  },
+  {
+   "name": "Fonction exponentielle",
+   "children": []
+  },
+  {
+   "name": "Suites réelles",
+   "children": []
+  },
+  {
+   "name": "Statistiques",
+   "children": []
+  },
+  {
+   "name": "Probabilités",
+   "children": []
+  }
+ ],
+ "notes": "Chapters from the clean sommaire on p4 (8 chapters, confirmed by préface). OCR'd scan with no headings data; sections not recoverable beyond chapter 1, so children left empty."
+}

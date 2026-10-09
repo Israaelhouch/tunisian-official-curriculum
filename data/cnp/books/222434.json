@@ -1,0 +1,38 @@
+{
+ "code": "222434",
+ "title": "رياضيات ج2_شعبة العلوم التجريبية",
+ "used_for": [
+  "bac-sciences-experimentales/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Nombres complexes",
+   "children": []
+  },
+  {
+   "name": "Equations à coefficients complexes",
+   "children": []
+  },
+  {
+   "name": "Produit scalaire – Produit vectoriel dans l'espace",
+   "children": []
+  },
+  {
+   "name": "Equations de droites, de plans et de sphères",
+   "children": []
+  },
+  {
+   "name": "Probabilités sur un ensemble fini",
+   "children": []
+  },
+  {
+   "name": "Variables aléatoires",
+   "children": []
+  },
+  {
+   "name": "Statistiques",
+   "children": []
+  }
+ ],
+ "notes": "Sommaire p4 (OCR, page numbers misaligned but names clean); 7 chapters as stated in préface. No headings data; sections not reliably recoverable, children empty."
+}

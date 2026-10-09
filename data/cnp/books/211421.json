@@ -1,0 +1,102 @@
+{
+ "code": "211421",
+ "title": "تفكير اسلامي_شعبة الآداب",
+ "used_for": [
+  "bac-lettres/ISLAM"
+ ],
+ "toc": [
+  {
+   "name": "التوحيد والمجتمع",
+   "children": [
+    {
+     "name": "التوحيد والحرية",
+     "children": [
+      {
+       "name": "التوحيد وتحرير الإنسان"
+      },
+      {
+       "name": "الحرية في الفكر الإسلامي: الفكر الكلامي"
+      },
+      {
+       "name": "الحرية في الفكر الإسلامي: الفكر الفلسفي"
+      }
+     ]
+    },
+    {
+     "name": "التوحيد والكونية",
+     "children": [
+      {
+       "name": "الكونية من المنظور الإسلامي"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "تسخير الكون ومسؤولية الإنسان",
+   "children": [
+    {
+     "name": "الغيب والشهادة",
+     "children": [
+      {
+       "name": "الإنسان بين الغيب والشهادة"
+      },
+      {
+       "name": "الغيب ومعنى الحياة"
+      }
+     ]
+    },
+    {
+     "name": "الإنسان ووعي الزمن",
+     "children": [
+      {
+       "name": "الزمن في القرآن"
+      },
+      {
+       "name": "الزمن والبناء الحضاري"
+      }
+     ]
+    },
+    {
+     "name": "الإبداع والقيم",
+     "children": [
+      {
+       "name": "الإبداع والقيم"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "النص والتاريخ",
+   "children": [
+    {
+     "name": "الإعجاز التشريعي",
+     "children": [
+      {
+       "name": "الإعجاز التشريعي في القرآن"
+      }
+     ]
+    },
+    {
+     "name": "فلسفة التشريع",
+     "children": [
+      {
+       "name": "مصادر التشريع"
+      },
+      {
+       "name": "مناهج التشريع (1)"
+      },
+      {
+       "name": "مناهج التشريع (2)"
+      },
+      {
+       "name": "مقاصد التشريع"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Sources: front 'خارطة الكتاب' p.4 and p.8 plus back فهرس p.238 (both OCR'd) and running heads. Structure مبحث -> مسألة -> درس; integration activities (نشاط إدماجي) and index of names excluded. Lessons 2-3 of التوحيد والحرية named from the front map (الفكر الكلامي / الفكر الفلسفي); the back فهرس gives garbled alternative titles (... والقدر / ... معترك الأسباب). The last lesson is 'مقاصد التشريع' in the back فهرس but 'النص والمصلحة' in the front map; back version kept. The front map lists 'مناهج التشريع' once while the back splits it into two lessons."
+}

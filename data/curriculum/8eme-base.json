@@ -1,0 +1,1039 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Décret gouvernemental n° 2019-1085 du 19 novembre 2019 fixant l'horaire des études dans l'enseignement de base et dans l'enseignement secondaire (JORT n° 95, 2019) — https://9anoun.tn/kb/jorts/jort-2019-095-424da/decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et-dans-lenseignement-secondaire-60",
+    "CNP 101806 — نزهة القراءة_نصوص — https://www.cnp.com.tn/arabic/PDF/101806P00.pdf",
+    "CNP 101808 — نحو عربي — https://www.cnp.com.tn/arabic/PDF/101808P01.pdf",
+    "CNP 102805 — الرياضيات — https://www.cnp.com.tn/arabic/PDF/102805P00.pdf",
+    "CNP 103802 — العلوم الفيزيائية — https://www.cnp.com.tn/arabic/PDF/103802P00.pdf",
+    "CNP 105804 — علوم الحياة والأرض — https://www.cnp.com.tn/arabic/PDF/105804P01.pdf",
+    "CNP 111807 — التربية الاسلامية — https://www.cnp.com.tn/arabic/PDF/111807P00.pdf",
+    "CNP 111809 — المواد الاجتماعية — https://www.cnp.com.tn/arabic/PDF/111809P01.pdf",
+    "CNP 121804 — فرنسية — https://www.cnp.com.tn/arabic/PDF/121804P00.pdf",
+    "CNP 128803 — Technologie - Manuel d'activités — https://www.cnp.com.tn/arabic/PDF/128803P01.pdf",
+    "CNP 133701 — الإعلامية — https://www.cnp.com.tn/arabic/PDF/133701P00.pdf",
+    "CNP 141806 — أنقليزية — https://www.cnp.com.tn/arabic/PDF/141806P01.pdf"
+  ],
+  "level": {
+    "name_fr": "8ème année de base",
+    "name_ar": "السنة الثامنة أساسي",
+    "code": "8B",
+    "cycle": "preparatoire",
+    "grade_number": 8,
+    "display_order": 8,
+    "is_national_exam_year": false
+  },
+  "section": {
+    "name_fr": "Tronc commun",
+    "name_ar": "جذع مشترك",
+    "code": "TC",
+    "is_common_core": true
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "المدينة والريف",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "علم الإعراب",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الجملة المركبة وخصائصها التركيبية (1): حدود الجملة المركبة: الإسناد والاستقلال",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الجملة المركبة وخصائصها التركيبية (2): النواة الإسنادية الأساسية والنواة الإسنادية الفرعية",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الوظائف الأساسية في الجملة الفعلية المركبة (1): الفاعل مركبا موصوليا",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الوظائف الأساسية في الجملة الفعلية المركبة (2): المفعول به مركبا موصوليا",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الوظائف الأساسية في الجملة الفعلية المركبة (3)",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الوظائف الأساسية في الجملة الفعلية المركبة (4): أفعال القلوب والتحويل: أثرها في الجملة معنويا وتركيبيا",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الوظائف الأساسية في الجملة الاسمية المركبة (1): المبتدأ أو اسم الناسخ مركبا موصوليا",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الوظائف الأساسية في الجملة الاسمية المركبة (2): الخبر أو خبر الناسخ مركبا إسناديا",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الوظائف الأساسية في الجملة الاسمية المركبة (3): أفعال المقاربة وأفعال الشروع: أثرها في الجملة معنويا وتركيبيا",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المتممات المشتملة على مركبات إسنادية فرعية (1): المفعول فيه مشتملا على مركب إسنادي فرعي",
+              "order_index": 10,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المتممات المشتملة على مركبات إسنادية فرعية (2): المفعول المطلق مشتملا على مركب إسنادي فرعي",
+              "order_index": 11,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المتممات المشتملة على مركبات إسنادية فرعية (3): المفعول لأجله مشتملا على مركب إسنادي فرعي",
+              "order_index": 12,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المتممات المشتملة على مركبات إسنادية فرعية (4): الحال مشتملة على مركب إسنادي فرعي",
+              "order_index": 13,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "علم الصرف",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "تصريف الفعل المزيد (1): عناصر الزيادة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "تصريف الفعل المزيد (2): مسندا إلى المعلوم والمجهول",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اشتقاق الأسماء من المزيد (1): اسم الفاعل واسم المفعول من المزيد",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اشتقاق الأسماء من المزيد (2): المصدر وأوزانه",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اشتقاق الأسماء الدالة على الحدث أو على أحد متعلقاته (1): المصدر الميمي واسم الزمان واسم المكان",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اشتقاق الأسماء الدالة على الحدث أو على أحد متعلقاته (2)",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اشتقاق الأسماء الدالة على الحدث أو على أحد متعلقاته (3)",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اشتقاق الأسماء الدالة على الحدث أو على أحد متعلقاته (4)",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اشتقاق الأسماء الدالة على الحدث أو على أحد متعلقاته (5)",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الاسم من حيث الجنس والعدد (1)",
+              "order_index": 10,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الاسم من حيث الجنس والعدد (2): جمع التكسير",
+              "order_index": 11,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Français",
+        "name_ar": "الفرنسية",
+        "code": "FRAN"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Les années collège",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Anglais",
+        "name_ar": "الإنجليزية",
+        "code": "ANGL"
+      },
+      "instruction_language": "en",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Module 1",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Meet the Browns",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "A letter from an English friend",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Can she go to London ?",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Preparing for the trip",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "London wonders",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Module 2",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "English secondary schools (1)",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "English secondary schools (2)",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "English secondary schools (3)",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Do you like school ?",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Parents and education",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Module 3",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Entertainment",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "The party is on",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Having dinner with the Smiths",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Sporting activities",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "What do you do in your spare time ?",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Module 4",
+          "order_index": 4,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Planning Easter holidays",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Transport",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Accommodation",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Getting ready for the trip",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Shopping in Edinburgh",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Module 5",
+          "order_index": 5,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Relationships",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Friends",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Family relationships",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Save our planet",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Pets",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "أنشطة في الحساب - قابلية القسمة على 8",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "مجموعة الأعداد الصحيحة النسبية",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الجمع والطرح والضرب في مجموعة الأعداد الصحيحة النسبية",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الأعداد الكسرية",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الجمع والطرح في مجموعة الأعداد الكسرية",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الضرب والقسمة في مجموعة الأعداد الكسرية",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "القوى في مجموعة الأعداد الكسرية",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "معادلات من الدرجة الأولى ذات مجهول واحد",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "التناسب",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أنشطة حول الإحصاء والاحتمالات",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "التناظر المركزي",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الزوايا الحاصلة عن تقاطع مستقيم مع مستقيمين متوازيين",
+          "order_index": 12,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المثلثات المتقايسة",
+          "order_index": 13,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "رباعيات الأضلاع",
+          "order_index": 14,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الهرم والمخروط والكرة",
+          "order_index": 15,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "التوازي في الفضاء",
+          "order_index": 16,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences physiques",
+        "name_ar": "العلوم الفيزيائية",
+        "code": "PHYS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "المادة في الطبيعة",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "تراص المادة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المحاليل المائية",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "بنية المادة",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الضغط الهوائي",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "دور الهواء في الاحتراق",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الكهرمغناطيس",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "التوتر الكهربائي",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "توزيع التوتر الكهربائي",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الضوء",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "مفهوم الرؤية",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الانتشار المستقيمي للضوء",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences de la vie et de la terre",
+        "name_ar": "علوم الحياة والأرض",
+        "code": "SVT"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "تحسين الإنتاج النباتي",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "التغذية المعدنية عند النبات الأخضر",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التغذية الكربونية عند النبات الأخضر",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التكاثر والنمو عند النبات الأخضر",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الفلاحة البيولوجية",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "تحسين الإنتاج الحيواني",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "التغذية عند الحيوان",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التكاثر عند الحيوان",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "النمو عند الحيوان",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "العلاقات الغذائية والتوازن البيئي",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "العلاقات الغذائية بين الكائنات الحية",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التوازن البيئي",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Technologie",
+        "name_ar": "التكنولوجيا",
+        "code": "TECHNO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "المحور 1",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "التعبير الوظيفي",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "كراس الشروط الوظيفي",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "المحور 2",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "التعبير البياني",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الدارات الإلكترونية والكهربائية",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المواد المستعملة",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الطاقة المستعملة",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الطاقات المتجددة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "المحور 4",
+          "order_index": 4,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "برمجة لوحة تحكم",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "إنجاز عمليات تقنية",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Informatique",
+        "name_ar": "الإعلامية",
+        "code": "INFO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Ordinateur et système d’exploitation",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Rappels et présentation des supports de stockage",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Exploitation de logiciels",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Traitement du son",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Eléments de présentation",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Internet",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Messagerie électronique",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Projet",
+          "order_index": 4,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Autour du texte, de l’image et du son",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation islamique",
+        "name_ar": "التربية الإسلامية",
+        "code": "ISLAM"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "«قل آمنت بالله ثم استقم»",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "«وأحسن كما أحسن الله إليك»",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "«ولا تبغ الفساد في الأرض»",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation civique",
+        "name_ar": "التربية المدنية",
+        "code": "CIVIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الطفل مشاركا في الحياة العامة",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المشاركة بالانخراط في التنظيمات",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المشاركة من خلال الانتخابات",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Histoire",
+        "name_ar": "التاريخ",
+        "code": "HIST"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "العالم الإسلامي من القرن 6 ه (12 م) إلى القرن 10 ه (16 م)",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أوروبا الغربية من عصر النهضة إلى الثورة الصناعية",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "البلاد التونسية من الحكم العثماني إلى انتصاب الحماية الفرنسية",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Géographie",
+        "name_ar": "الجغرافيا",
+        "code": "GEO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "خريطة التفاوت في التقدم في العالم",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "نماذج من العالم المتقدم",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الولايات المتحدة الأمريكية قوة عظمى",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الاتحاد الأوروبي: تكتل اقتصادي قوي",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "نماذج من العالم النامي",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الصين قوة صاعدة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "السنغال: صعوبات التنمية وحصيلتها",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation musicale",
+        "name_ar": "التربية الموسيقية",
+        "code": "MUSIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Arts plastiques",
+        "name_ar": "التربية التشكيلية",
+        "code": "ARTPL"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation théâtrale",
+        "name_ar": "التربية المسرحية",
+        "code": "THEATRE"
+      },
+      "instruction_language": "ar",
+      "is_optional": true,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    }
+  ]
+}

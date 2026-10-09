@@ -1,0 +1,74 @@
+{
+ "code": "225321",
+ "title": "علوم الحياة والأرض_شعبة الاداب",
+ "used_for": [
+  "3eme-lettres/SVT"
+ ],
+ "toc": [
+  {
+   "name": "Les êtres vivants : unité d'organisation, reproduction conforme",
+   "children": [
+    {
+     "name": "La cellule, unité de structure des êtres vivants",
+     "children": [
+      {
+       "name": "La structure de la cellule eucaryote"
+      },
+      {
+       "name": "L'ultrastructure de la cellule eucaryote"
+      }
+     ]
+    },
+    {
+     "name": "La mitose, mécanisme de reproduction conforme",
+     "children": [
+      {
+       "name": "Observation de cellules en division"
+      },
+      {
+       "name": "Mitose et programme génétique"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "L'information génétique et la diversité biologique",
+   "children": [
+    {
+     "name": "Les caractères héréditaires : espèce, lignée, individu",
+     "children": []
+    },
+    {
+     "name": "L'information génétique : sa nature et sa structure",
+     "children": []
+    },
+    {
+     "name": "Origine de la diversité génétique : mutation et reproduction sexuée",
+     "children": [
+      {
+       "name": "Les mutations sources de diversité génétique"
+      },
+      {
+       "name": "La reproduction sexuée source de diversité"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "La génétique humaine",
+   "children": [
+    {
+     "name": "Mécanisme de la transmission des caractères héréditaires chez l'espèce humaine",
+     "children": []
+    },
+    {
+     "name": "La prévention des maladies héréditaires",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Themes and chapters from back sommaire (p95), theme pages (p5, p37) and chapter title pages; sections from chapter sommaires and body headings where visible. Theme names from p95 sommaire / p5 title."
+}

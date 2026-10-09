@@ -1,0 +1,668 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Décret gouvernemental n° 2019-1085 du 19 novembre 2019 fixant l'horaire des études dans l'enseignement de base et dans l'enseignement secondaire (JORT n° 95, 2019) — https://9anoun.tn/kb/jorts/jort-2019-095-424da/decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et-dans-lenseignement-secondaire-60",
+    "CNP 101410 — دروب الحوار_عربية — https://www.cnp.com.tn/arabic/PDF/101410P00.pdf",
+    "CNP 101411 — أدوات التواصل_عربية — https://www.cnp.com.tn/arabic/PDF/101411P00.pdf",
+    "CNP 102407 — رياضيات — https://www.cnp.com.tn/arabic/PDF/102407P00.pdf",
+    "CNP 103404 — الإيقاظ العلمي — https://www.cnp.com.tn/arabic/PDF/103404P00.pdf",
+    "CNP 121410 — فرنسية_قراءة — https://www.cnp.com.tn/arabic/PDF/121410P00.pdf"
+  ],
+  "level": {
+    "name_fr": "4ème année primaire",
+    "name_ar": "السنة الرابعة ابتدائي",
+    "code": "4P",
+    "cycle": "primaire",
+    "grade_number": 4,
+    "display_order": 4,
+    "is_national_exam_year": false
+  },
+  "section": {
+    "name_fr": "Tronc commun",
+    "name_ar": "جذع مشترك",
+    "code": "TC",
+    "is_common_core": true
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "نشأة صداقة",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "النحلة العاملة",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "مفاجأة الأب",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "وحانت الساعة",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "في الاتحاد قوة",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "وحلّت ساعة الخلاص",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "عبث الطفولة",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "على الشاطئ",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "يوم انتهى قبل أوانه",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "مهارة العنكبوت (1)",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "مهارة العنكبوت (2)",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "مهارة العنكبوت (3)",
+          "order_index": 12,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المزمار السحري (1)",
+          "order_index": 13,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المزمار السحري (2)",
+          "order_index": 14,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المارد وسكان القرية (1)",
+          "order_index": 15,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المارد وسكان القرية (2)",
+          "order_index": 16,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "حيرة أم",
+          "order_index": 17,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أنشودة الميلاد",
+          "order_index": 18,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "في أعماق البحر (1)",
+          "order_index": 19,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "في أعماق البحر (2)",
+          "order_index": 20,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "ونجحت التجربة",
+          "order_index": 21,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الأسد والثيران",
+          "order_index": 22,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "النسر والعصافير",
+          "order_index": 23,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "ليلى والذئب (1)",
+          "order_index": 24,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "ليلى والذئب (2)",
+          "order_index": 25,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أمي",
+          "order_index": 26,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الزيارة المفاجئة (1)",
+          "order_index": 27,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الزيارة المفاجئة (2)",
+          "order_index": 28,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الزيارة المفاجئة (3)",
+          "order_index": 29,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "رحلة بحرية (1)",
+          "order_index": 30,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "رحلة بحرية (2)",
+          "order_index": 31,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الكلب والحمامة",
+          "order_index": 32,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "خدمة سريعة",
+          "order_index": 33,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "وهكذا تم إنقاذي",
+          "order_index": 34,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "سميحة ومديحة والسحاب (1)",
+          "order_index": 35,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "سميحة ومديحة والسحاب (2)",
+          "order_index": 36,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الأرض الجميلة (1)",
+          "order_index": 37,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الأرض الجميلة (2)",
+          "order_index": 38,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "فرحة اللقاء",
+          "order_index": 39,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الجملة الفعلية",
+          "order_index": 40,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الجملة الاسمية",
+          "order_index": 41,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "النواسخ",
+          "order_index": 42,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الفعل",
+          "order_index": 43,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المتممات",
+          "order_index": 44,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الإنتاج الكتابي (الدروس 1-24، ص 95-142)",
+          "order_index": 45,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Français",
+        "name_ar": "الفرنسية",
+        "code": "FRAN"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Vive l'école !",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Bienvenue chez les Duval",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Sois mon ami !",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Tends-moi la main !",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Un cœur qui bat",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Bon appétit !",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Amusons-nous",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Quoi de neuf à la télé",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "« Conte-nous une histoire, dis ! »",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "« Conte-nous une histoire, dis ! »",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Anglais",
+        "name_ar": "الإنجليزية",
+        "code": "ANGL"
+      },
+      "instruction_language": "en",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "أكون الأعداد ذات 5 أرقام وأفككها وأركبها",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتعرف المسالك المختصرة وموقع عقدة على الشبكة",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتصرف في القطع النقدية والأوراق المالية (5 د و10 د)",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أقارن الأعداد ذات 5 أرقام وأرتبها",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتصرف في الأعداد ذات 5 أرقام (بعض أرقامها صفر)",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتصرف في القطع النقدية والأوراق المالية",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتعرف المستقيم ونصف المستقيم وقطعة المستقيم",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أوظف الجمع والضرب والطرح على الأعداد ذات 5 أرقام",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتصرف في وحدات قيس الأطوال (المتر وأجزاؤه)",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أرسم المستقيمات المتعامدة والمستقيمات المتوازية",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أنجز عملية الضرب في عقد أو مائة كاملة",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أوظف التعامد والتوازي في تصنيف المضلعات ورسمها",
+          "order_index": 12,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتصرف في وحدات قيس الأطوال (المتر ومضاعفاته)",
+          "order_index": 13,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أنجز عملية الضرب في عدد ذي رقمين",
+          "order_index": 14,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أرسم المستطيل والمربع باعتماد خاصيات الأضلاع والزوايا",
+          "order_index": 15,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أكون الأعداد ذات 6 أرقام وأفككها وأركبها",
+          "order_index": 16,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتصرف في وحدات قيس الكتل (الكيلوغرام والغرام)",
+          "order_index": 17,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أقارن الأعداد ذات 6 أرقام وأرتبها",
+          "order_index": 18,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أحسب قيس محيط شكل مكون من مستطيلات ومربعات",
+          "order_index": 19,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أوظف الجمع والطرح والضرب على الأعداد ذات 6 أرقام",
+          "order_index": 20,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتصرف في الأعداد ذات 6 أرقام (بعض أرقامها صفر)",
+          "order_index": 21,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتعرف القسمة الإقليدية",
+          "order_index": 22,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أنجز عملية قسمة قاسمها عدد ذو رقم واحد",
+          "order_index": 23,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أحدد الزمن بالساعة والدقيقة",
+          "order_index": 24,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éveil scientifique",
+        "name_ar": "الإيقاظ العلمي",
+        "code": "EVEIL"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "علم الأحياء",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الحواس والوقاية من الأمراض",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التنقل",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التغذية",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التكاثر والنمو",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التنفس",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "فيزياء",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الزمن",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المادة",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الطاقة",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Technologie",
+        "name_ar": "التكنولوجيا",
+        "code": "TECHNO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation islamique",
+        "name_ar": "التربية الإسلامية",
+        "code": "ISLAM"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation musicale",
+        "name_ar": "التربية الموسيقية",
+        "code": "MUSIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Arts plastiques",
+        "name_ar": "التربية التشكيلية",
+        "code": "ARTPL"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    }
+  ]
+}

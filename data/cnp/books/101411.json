@@ -1,0 +1,328 @@
+{
+ "code": "101411",
+ "title": "أدوات التواصل_عربية",
+ "used_for": [
+  "4eme-primaire/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "الجملة الفعلية",
+   "children": [
+    {
+     "name": "الفاعل",
+     "children": []
+    },
+    {
+     "name": "الفاعل",
+     "children": []
+    },
+    {
+     "name": "الفاعل",
+     "children": []
+    },
+    {
+     "name": "الفاعل",
+     "children": []
+    },
+    {
+     "name": "الفاعل: معطوف عليه + معطوف",
+     "children": []
+    },
+    {
+     "name": "الفاعل",
+     "children": []
+    },
+    {
+     "name": "المفعول به",
+     "children": []
+    },
+    {
+     "name": "المفعول به",
+     "children": []
+    },
+    {
+     "name": "المفعول به: منعوت + نعت",
+     "children": []
+    },
+    {
+     "name": "المفعول به: مضاف + مضاف إليه",
+     "children": []
+    },
+    {
+     "name": "المفعول به: معطوف عليه + معطوف",
+     "children": []
+    },
+    {
+     "name": "المفعول به: مبدل منه + بدل",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "الجملة الاسمية",
+   "children": [
+    {
+     "name": "الدرس 13 (ص 27)",
+     "children": []
+    },
+    {
+     "name": "الدرس 14 (ص 29)",
+     "children": []
+    },
+    {
+     "name": "الدرس 15 (ص 31)",
+     "children": []
+    },
+    {
+     "name": "الدرس 16 (ص 33)",
+     "children": []
+    },
+    {
+     "name": "الدرس 17 (ص 35)",
+     "children": []
+    },
+    {
+     "name": "الدرس 18 (ص 37)",
+     "children": []
+    },
+    {
+     "name": "الخبر بمختلف أشكاله",
+     "children": []
+    },
+    {
+     "name": "الدرس 20 (ص 41)",
+     "children": []
+    },
+    {
+     "name": "الدرس 21 (ص 43)",
+     "children": []
+    },
+    {
+     "name": "الخبر: مضاف + مضاف إليه",
+     "children": []
+    },
+    {
+     "name": "الدرس 23 (ص 47)",
+     "children": []
+    },
+    {
+     "name": "الجملة الاسمية (حصة تأليفية)",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "النواسخ",
+   "children": [
+    {
+     "name": "النواسخ الفعلية",
+     "children": []
+    },
+    {
+     "name": "الدرس 26 (ص 52)",
+     "children": []
+    },
+    {
+     "name": "الدرس 27 (ص 54)",
+     "children": []
+    },
+    {
+     "name": "الدرس 28 (ص 56)",
+     "children": []
+    },
+    {
+     "name": "الدرس 29 (ص 58)",
+     "children": []
+    },
+    {
+     "name": "الجملة الاسمية المسبوقة بإنّ",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "الفعل",
+   "children": [
+    {
+     "name": "الدرس 31 (ص 61)",
+     "children": []
+    },
+    {
+     "name": "الدرس 32 (ص 63)",
+     "children": []
+    },
+    {
+     "name": "الدرس 33 (ص 65)",
+     "children": []
+    },
+    {
+     "name": "تصريف الصحيح السالم مجردا ومزيدا في الماضي",
+     "children": []
+    },
+    {
+     "name": "الدرس 35 (ص 69)",
+     "children": []
+    },
+    {
+     "name": "الدرس 36 (ص 71)",
+     "children": []
+    },
+    {
+     "name": "الدرس 37 (ص 73)",
+     "children": []
+    },
+    {
+     "name": "الدرس 38 (ص 75)",
+     "children": []
+    },
+    {
+     "name": "الدرس 39 (ص 77)",
+     "children": []
+    },
+    {
+     "name": "الدرس 40 (ص 79)",
+     "children": []
+    },
+    {
+     "name": "الدرس 41 (ص 81)",
+     "children": []
+    },
+    {
+     "name": "الدرس 42 (ص 83)",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "المتممات",
+   "children": [
+    {
+     "name": "المفعول فيه للزمان",
+     "children": []
+    },
+    {
+     "name": "الدرس 44 (ص 86)",
+     "children": []
+    },
+    {
+     "name": "الحال",
+     "children": []
+    },
+    {
+     "name": "الدرس 46 (ص 90)",
+     "children": []
+    },
+    {
+     "name": "الدرس 47 (ص 92)",
+     "children": []
+    },
+    {
+     "name": "الدرس 48 (ص 94)",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "الإنتاج الكتابي (الدروس 1-24، ص 95-142)",
+   "children": [
+    {
+     "name": "أدوات الربط: و - ف - ثم (1)",
+     "children": []
+    },
+    {
+     "name": "أدوات الربط: و - ف - ثم (2)",
+     "children": []
+    },
+    {
+     "name": "أدوات الربط: و - ف - ثم (حصة تأليفية)",
+     "children": []
+    },
+    {
+     "name": "أدوات الربط: قبل أن - بعد أن - بينما (1)",
+     "children": []
+    },
+    {
+     "name": "أدوات الربط: قبل أن - بعد أن - بينما (2)",
+     "children": []
+    },
+    {
+     "name": "أدوات الربط: قبل أن - بعد أن - بينما (3)",
+     "children": []
+    },
+    {
+     "name": "الوصف بالجملة الاسمية",
+     "children": []
+    },
+    {
+     "name": "الوصف بالنعت",
+     "children": []
+    },
+    {
+     "name": "الدرس 9 (ص 111)",
+     "children": []
+    },
+    {
+     "name": "الأفعال الدالة على القول في السرد",
+     "children": []
+    },
+    {
+     "name": "الأفعال الدالة على القول في الحوار وعلامات التنقيط",
+     "children": []
+    },
+    {
+     "name": "الأفعال الدالة على القول في السرد وفي الحوار (حصة تأليفية)",
+     "children": []
+    },
+    {
+     "name": "العلاقات بين الشخصيات (1)",
+     "children": []
+    },
+    {
+     "name": "العلاقات بين الشخصيات (2)",
+     "children": []
+    },
+    {
+     "name": "العلاقات بين الشخصيات (3)",
+     "children": []
+    },
+    {
+     "name": "وصف الشخصيات والأعمال",
+     "children": []
+    },
+    {
+     "name": "وصف الإطار المكاني والإطار الزماني (1)",
+     "children": []
+    },
+    {
+     "name": "وصف الإطار المكاني والإطار الزماني (2)",
+     "children": []
+    },
+    {
+     "name": "زمن القصة (1)",
+     "children": []
+    },
+    {
+     "name": "زمن القصة (2)",
+     "children": []
+    },
+    {
+     "name": "زمن القصة (3)",
+     "children": []
+    },
+    {
+     "name": "زمن السرد (1)",
+     "children": []
+    },
+    {
+     "name": "زمن السرد (2)",
+     "children": []
+    },
+    {
+     "name": "زمن السرد (3)",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Grammar/expression book. Part 1 = 48 grammar lessons (p.3-94), grouped under the category label printed in each lesson header (الجملة الفعلية / الجملة الاسمية / النواسخ / الفعل / المتممات); category boundaries partly inferred from which label appears on lesson pages (OCR noisy). Lesson sub-titles (e.g. which form of الفاعل) are mostly unreadable: kept only the printed main function name where that much is readable; fully unreadable lessons are positional 'الدرس N (ص X)'. Part 2 = 24 expression lessons (p.95-142) taken from the فهرس p.144 + lesson headers; its part title is not printed/readable, hence the positional top-level label. Placeholders: 28 grammar lessons + 1 expression lesson + 1 part label. Low reliability for part 1."
+}

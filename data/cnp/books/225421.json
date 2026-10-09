@@ -1,0 +1,163 @@
+{
+ "code": "225421",
+ "title": "علوم الحياة والأرض_شعبة الآداب",
+ "used_for": [
+  "bac-lettres/SVT"
+ ],
+ "toc": [
+  {
+   "name": "Reproduction humaine et santé",
+   "children": [
+    {
+     "name": "La fonction reproductrice chez l'homme",
+     "children": [
+      {
+       "name": "Se rappeler l'organisation de l'appareil génital de l'homme"
+      },
+      {
+       "name": "Identifier les fonctions et les structures histologiques du testicule"
+      },
+      {
+       "name": "Décrire la structure du spermatozoïde humain"
+      },
+      {
+       "name": "Reconnaître les étapes de la spermatogenèse"
+      }
+     ]
+    },
+    {
+     "name": "La fonction reproductrice chez la femme",
+     "children": [
+      {
+       "name": "Identifier les organes de l'appareil reproducteur de la femme"
+      },
+      {
+       "name": "Dégager les particularités du gamète femelle"
+      },
+      {
+       "name": "La folliculogenèse"
+      },
+      {
+       "name": "Déroulement de l'ovogenèse"
+      },
+      {
+       "name": "Les phases du cycle ovarien"
+      },
+      {
+       "name": "Décrire les étapes du cycle utérin"
+      },
+      {
+       "name": "Relier le cycle ovarien et le cycle utérin"
+      },
+      {
+       "name": "Expliquer le contrôle du cycle ovarien"
+      },
+      {
+       "name": "Expliquer le rétrocontrôle ovarien"
+      },
+      {
+       "name": "Construire un schéma de synthèse simple de la régulation du cycle sexuel"
+      }
+     ]
+    },
+    {
+     "name": "La procréation",
+     "children": [
+      {
+       "name": "Déterminer les conditions de la fécondation"
+      },
+      {
+       "name": "Décrire et caractériser les étapes de la fécondation"
+      },
+      {
+       "name": "Déterminer la composition et le mode d'action de la pilule"
+      },
+      {
+       "name": "Identifier les causes de la stérilité"
+      },
+      {
+       "name": "Décrire les étapes de la FIVETE"
+      },
+      {
+       "name": "Déterminer les règles d'hygiène assurant le bon déroulement de la grossesse"
+      },
+      {
+       "name": "Identifier les IST et déterminer les moyens de prévention de ces maladies"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Neurophysiologie et hygiène du système nerveux",
+   "children": [
+    {
+     "name": "Le tissu nerveux",
+     "children": [
+      {
+       "name": "Identifier les différentes parties du système nerveux chez l'homme"
+      },
+      {
+       "name": "Identifier l'unité structurale du tissu nerveux"
+      },
+      {
+       "name": "Préciser le mode de connexion entre les neurones"
+      }
+     ]
+    },
+    {
+     "name": "L'activité réflexe",
+     "children": [
+      {
+       "name": "Mettre en évidence les éléments anatomiques du réflexe à point de départ cutané"
+      },
+      {
+       "name": "Dégager les conditions d'établissement du réflexe conditionnel pavlovien"
+      },
+      {
+       "name": "Dégager les conditions d'établissement du réflexe conditionnel opérant"
+      }
+     ]
+    },
+    {
+     "name": "Hygiène du système nerveux",
+     "children": [
+      {
+       "name": "Décrire les manifestations du stress"
+      },
+      {
+       "name": "Expliquer les mécanismes physiologiques du stress"
+      },
+      {
+       "name": "S'informer sur les drogues et leurs effets"
+      },
+      {
+       "name": "Comment éviter le piège des drogues ?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "L'évolution biologique",
+   "children": [
+    {
+     "name": "Argumenter l'évolution par les données de la paléontologie"
+    },
+    {
+     "name": "Argumenter l'évolution par les données de l'anatomie comparée"
+    },
+    {
+     "name": "Expliquer le rôle des mutations dans l'évolution"
+    },
+    {
+     "name": "Expliquer le rôle du milieu dans l'évolution biologique"
+    },
+    {
+     "name": "Dégager les idées essentielles des théories de l'évolution"
+    }
+   ]
+  }
+ ],
+ "notes": "French SVT book (Bac Lettres). Themes/chapters from the table des matières (p128) and chapter opening pages (TOC uses short forms, e.g. 'Neurophysiologie', 'Reproduction chez l'homme'). Third level = 'Activité' titles from headings (numbering removed). Theme 3 has no chapters, so its activities are listed directly under it. Exercises, glossaire, bibliographie excluded."
+}

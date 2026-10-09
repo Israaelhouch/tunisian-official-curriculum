@@ -1,0 +1,159 @@
+{
+ "code": "225104",
+ "title": "علوم الحياة والأرض",
+ "used_for": [
+  "1ere-secondaire/SVT"
+ ],
+ "toc": [
+  {
+   "name": "Amélioration de la production végétale",
+   "children": [
+    {
+     "name": "La nutrition minérale des plantes vertes",
+     "children": [
+      {
+       "name": "L’absorption d’eau",
+       "children": []
+      },
+      {
+       "name": "Le mécanisme de l’absorption",
+       "children": []
+      },
+      {
+       "name": "La transpiration",
+       "children": []
+      },
+      {
+       "name": "Besoin des plantes vertes en sels minéraux",
+       "children": []
+      },
+      {
+       "name": "La conduction",
+       "children": []
+      },
+      {
+       "name": "Amélioration de la production végétale",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "La nutrition carbonée des plantes vertes",
+     "children": [
+      {
+       "name": "La matière organique dans la plante verte",
+       "children": []
+      },
+      {
+       "name": "Les conditions de la photosynthèse",
+       "children": []
+      },
+      {
+       "name": "Rôle de la lumière et de la chlorophylle",
+       "children": []
+      },
+      {
+       "name": "Rôle du dioxyde de carbone",
+       "children": []
+      },
+      {
+       "name": "Transport de la sève élaborée",
+       "children": []
+      },
+      {
+       "name": "Les conditions optimales de la photosynthèse",
+       "children": []
+      },
+      {
+       "name": "Risques liés à l’utilisation des engrais chimiques et des pesticides",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "La multiplication végétative",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Microbes et santé",
+   "children": [
+    {
+     "name": "La diversité du monde microbien",
+     "children": []
+    },
+    {
+     "name": "Les agents pathogènes et les maladies infectieuses",
+     "children": [
+      {
+       "name": "La grippe",
+       "children": []
+      },
+      {
+       "name": "La tuberculose pulmonaire",
+       "children": []
+      },
+      {
+       "name": "La rougeole",
+       "children": []
+      },
+      {
+       "name": "Le tétanos",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "La défense de l’organisme",
+     "children": [
+      {
+       "name": "L’immunité non spécifique",
+       "children": []
+      },
+      {
+       "name": "L’immunité spécifique",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Découverte et gestion de notre environnement géologique",
+   "children": [
+    {
+     "name": "Etude d’un site géologique local",
+     "children": [
+      {
+       "name": "Sortie géologique",
+       "children": []
+      },
+      {
+       "name": "Etude d’une roche : le calcaire oolithique",
+       "children": []
+      },
+      {
+       "name": "Histoire géologique du site",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Exploitation et gestion d’une roche à intérêt économique : le phosphate",
+     "children": [
+      {
+       "name": "Les phosphates",
+       "children": []
+      },
+      {
+       "name": "Risques liés à l’exploitation des phosphates et solutions pour une gestion rationnelle",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "SVT 1ère année. Parts/chapters from part openers (pp.6, 89, 135) and markers; sections from the Sommaire (pp.198-199, page-ordered). Part 3 is titled 'Découverte et gestion des ressources géologiques' in the sommaire but 'Découverte et gestion de notre environnement géologique' on its opener (p.135); opener used. Excluded 'Les acquis du collège', Bilan, Exercices, situations d'intégration, fiches méthodes, lexique. No sections listed for 'La multiplication végétative'; 'La diversité du monde microbien' has a single section of the same name, left empty. 'Sortie gélogique' OCR/typo fixed."
+}

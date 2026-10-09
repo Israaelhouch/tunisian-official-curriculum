@@ -1,0 +1,71 @@
+{
+ "code": "291302",
+ "title": "الإسبانية",
+ "used_for": [
+  "3eme-mathematiques/ESPA",
+  "3eme-sciences-experimentales/ESPA",
+  "3eme-informatique/ESPA",
+  "3eme-techniques/ESPA",
+  "3eme-lettres/ESPA",
+  "3eme-economie-gestion/ESPA"
+ ],
+ "toc": [
+  {
+   "name": "¡Hola!",
+   "children": []
+  },
+  {
+   "name": "¡Soy francesa, de París!",
+   "children": []
+  },
+  {
+   "name": "¿A qué te dedicas?",
+   "children": []
+  },
+  {
+   "name": "Le presento al señor Alonso",
+   "children": []
+  },
+  {
+   "name": "Mi familia",
+   "children": []
+  },
+  {
+   "name": "¿Cómo es?",
+   "children": []
+  },
+  {
+   "name": "¿Qué es esto?",
+   "children": []
+  },
+  {
+   "name": "España está en el sur",
+   "children": []
+  },
+  {
+   "name": "¿Dónde está la plaza Cibeles?",
+   "children": []
+  },
+  {
+   "name": "¡Qué ciudad tan bonita!",
+   "children": []
+  },
+  {
+   "name": "Vivo en una casa pequeña",
+   "children": []
+  },
+  {
+   "name": "Tengo un ordenador portátil",
+   "children": []
+  },
+  {
+   "name": "¿Cuánto vale?",
+   "children": []
+  },
+  {
+   "name": "¡Yo, prefiero éste!",
+   "children": []
+  }
+ ],
+ "notes": "'Alcántara 1'. Taken from the ÍNDICE (p4-6), which lists Lecciones 1-14. Lesson 8's title is missing from the extracted índice and comes from the p60 heading 'ESPAÑA ESTÁ EN EL SUR'. All titles were checked against the page headings. Left out: Repaso 1-4, the Glosario and the Resumen gramatical. The índice gives no lesson sub-titles, only communicative, grammatical and cultural objectives, so children are empty."
+}

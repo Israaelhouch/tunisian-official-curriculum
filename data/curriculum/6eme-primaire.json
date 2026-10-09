@@ -1,0 +1,803 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Décret gouvernemental n° 2021-143 du 1er mars 2021 modifiant le décret n° 2019-1085 (JORT n° 22, 2021) — https://9anoun.tn/fr/kb/jorts/jort-2021-022-ae9df/decret-gouvernemental-ndeg-2021-143-du-1er-mars-2021-modifiant-le-decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et--5cae85b018dea9894163eae4e6c6a61b",
+    "CNP 101611 — عالم القراءة _نصوص — https://www.cnp.com.tn/arabic/PDF/101611P00.pdf",
+    "CNP 101612 — عالم الكتابة _تمارين — https://www.cnp.com.tn/arabic/PDF/101612P00.pdf",
+    "CNP 102609 — الرياضيات — https://www.cnp.com.tn/arabic/PDF/102609P00.pdf",
+    "CNP 103604 — الإيقاظ العلمي — https://www.cnp.com.tn/arabic/PDF/103604P00.pdf",
+    "CNP 111612 — التاريخ والجغرافيا — https://www.cnp.com.tn/arabic/PDF/111612P00.pdf",
+    "CNP 121614 — فرنسية_ قراءة — https://www.cnp.com.tn/arabic/PDF/121614P00.pdf"
+  ],
+  "level": {
+    "name_fr": "6ème année primaire",
+    "name_ar": "السنة السادسة ابتدائي",
+    "code": "6P",
+    "cycle": "primaire",
+    "grade_number": 6,
+    "display_order": 6,
+    "is_national_exam_year": false
+  },
+  "section": {
+    "name_fr": "Tronc commun",
+    "name_ar": "جذع مشترك",
+    "code": "TC",
+    "is_common_core": true
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "استعمال قواعد اللغة",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الاسم المعرّف بالإضافة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "ضمائر الجر",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "صيغة المضارع المنصوب من المضاعف مجرّدا ومزيدا",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "صيغة المضارع المجزوم وصيغة الأمر من المضاعف مجرّدا ومزيدا",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "صيغة الماضي من الفعل الناقص مجرّدا ومزيدا",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "صيغة المضارع المرفوع من الفعل الناقص مجرّدا ومزيدا",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "صيغة المضارع المنصوب من الفعل الناقص مجرّدا ومزيدا",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "صيغة المضارع المجزوم من الفعل الناقص مجرّدا ومزيدا",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "صيغة الأمر من الفعل الناقص مجرّدا ومزيدا",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأسماء المقصورة النكرة",
+              "order_index": 10,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "تقديم الخبر على المبتدأ",
+              "order_index": 11,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المصدر من الفعل الثلاثي المزيد",
+              "order_index": 12,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المفعول المطلق",
+              "order_index": 13,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الهمزة المتطرّفة",
+              "order_index": 14,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اسم الفاعل من المضاعف المجرّد",
+              "order_index": 15,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اسم المفعول من المضاعف المجرّد",
+              "order_index": 16,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اسم الفاعل من الناقص",
+              "order_index": 17,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اسم المفعول من الناقص",
+              "order_index": 18,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الهمزة المتوسّطة على الألف / الواو / الياء / السّطر",
+              "order_index": 19,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "إعراب الاسم المثنّى",
+              "order_index": 20,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "إعراب جمع المذكر السالم",
+              "order_index": 21,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "إعراب الجمع المؤنث السالم",
+              "order_index": 22,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "إعراب الأسماء الخمسة",
+              "order_index": 23,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الواو والياء في الجمع المذكر السالم المضاف",
+              "order_index": 24,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التاء المفتوحة في الجمع المؤنث السالم",
+              "order_index": 25,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المركب التمييزي",
+              "order_index": 26,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اسم الفاعل من الفعل المزيد",
+              "order_index": 27,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اسم المفعول من الفعل المزيد",
+              "order_index": 28,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "القسم الثاني (عنوان غير مقروء)",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "بنية النص السردي",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "وضع البداية",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "سياق التحوّل",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "وضع النهاية",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "السرد الخطي",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "السرد غير الخطي",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الشخصيات في السرد",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الزمان والمكان في السرد",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "وصف الشخص",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "وصف أشياء وحيوانات",
+              "order_index": 10,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "وصف مشهد يغلب عليه السكون",
+              "order_index": 11,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "وصف مشهد تغلب عليه الحركة",
+              "order_index": 12,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "من الخطاب المنقول إلى الخطاب المباشر",
+              "order_index": 13,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أفعال القول",
+              "order_index": 14,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "من الخطاب المباشر إلى الخطاب المنقول",
+              "order_index": 15,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المقطع الحواري المتعدد الأطراف",
+              "order_index": 16,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المقطع التفسيري: كيف ...؟",
+              "order_index": 17,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المقطع التفسيري: ماذا أعرف عن ...؟",
+              "order_index": 18,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المقطع التفسيري: لماذا ...؟",
+              "order_index": 19,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المقطع التفسيري: الأسباب والنتائج",
+              "order_index": 20,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المقطع التوجيهي (1): الأمر والنهي",
+              "order_index": 21,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المقطع التوجيهي (2): استعمال المصادر",
+              "order_index": 22,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "النص السردي مغنى بالوصف والحوار",
+              "order_index": 23,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "النص السردي مغنى بالحوار والتفسير",
+              "order_index": 24,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Français",
+        "name_ar": "الفرنسية",
+        "code": "FRAN"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Travailler pour s’épanouir",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Communiquer avec les autres",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Accepter les autres",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "S’entraider pour mieux réussir",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Sauver la nature",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Être en forme et mieux se porter",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Profiter de son temps libre",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Découvrir d’autres modes de vie",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Anglais",
+        "name_ar": "الإنجليزية",
+        "code": "ANGL"
+      },
+      "instruction_language": "en",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "أبني زوايا أقيستها بالدّرجة 15 - 30 - 60 - 90 - 120",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتعرّف شبه المنحرف وأرسمه",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتعرّف مضاعفات مشتركة لعددين صحيحين طبيعيين فأكثر",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أوظّف التناسب في السّلّم",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتعرّف متوازيات الأضلاع وخاصّياتها",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أرسم متوازيات الأضلاع وأبنيها",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أفكّك الأعداد الكسريّة وأركّبها",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أحسب قيس محيط دائرة",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أكتب عددا كسريّا بطرق مختلفة",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أقارن الأعداد الكسريّة وأرتّبها",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتعرّف الأعداد الكسريّة العشريّة وأكتبها بطرق مختلفة",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أحسب مساحة متوازي أضلاع (متوازي الأضلاع، المستطيل، المعيّن، المربّع)",
+          "order_index": 12,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتصرّف في الأعداد الكسريّة",
+          "order_index": 13,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أجمع الأعداد الكسريّة وأطرحها",
+          "order_index": 14,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أحسب قيس مساحة القرص الدّائري",
+          "order_index": 15,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أوظّف التناسب في حساب معدّل السّرعة",
+          "order_index": 16,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éveil scientifique",
+        "name_ar": "الإيقاظ العلمي",
+        "code": "EVEIL"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "العين والضوء",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الهواء والتنفس",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الطاقة",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Technologie",
+        "name_ar": "التكنولوجيا",
+        "code": "TECHNO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation islamique",
+        "name_ar": "التربية الإسلامية",
+        "code": "ISLAM"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Histoire",
+        "name_ar": "التاريخ",
+        "code": "HIST"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الصراع العثماني الإسباني على البلاد التونسية وانتصاب الأتراك بتونس",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الدولة المرادية وإنجازاتها",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الهجرة الأندلسية ونتائجها",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "قيام الدولة الحسينية وأهمّ إنجازاتها",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "مظاهر الأزمة في البلاد التونسية في القرن التاسع عشر",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "إصلاحات أحمد باي العسكرية والاجتماعية",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الإصلاحات السياسية: عهد الأمان ودستور 1861",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "خير الدين باشا وأفكاره الإصلاحية",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "احتلال تونس وانتصاب الحماية الفرنسية",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الهيمنة الاستعمارية الفرنسية على البلاد التونسية",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "حركة الشباب التونسي",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الحزب الحر الدستوري التونسي: البرنامج والنشاط",
+          "order_index": 12,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الحزب الحر الدستوري الجديد وتجذّر النضال الوطني",
+          "order_index": 13,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "تكتّل القوى الوطنية ضد الاستعمار الفرنسي والحصول على الاستقلال",
+          "order_index": 14,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "تونس من 1956 إلى 1987",
+          "order_index": 15,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Géographie",
+        "name_ar": "الجغرافيا",
+        "code": "GEO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "مجال المغرب العربي",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "خريطة توزع السكان بالمغرب العربي",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المجال الفلاحي بالمغرب العربي",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المجال الصناعي بالمغرب العربي",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "شبكات النقل والمواصلات والمبادلات التجارية بالمغرب العربي",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "البلاد التونسية: السكان",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الفلاحة والصيد البحري في البلاد التونسية",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الصناعة بالبلاد التونسية",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "السياحة بالبلاد التونسية",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "التجارة الخارجية التونسية",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation civique",
+        "name_ar": "التربية المدنية",
+        "code": "CIVIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation musicale",
+        "name_ar": "التربية الموسيقية",
+        "code": "MUSIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Arts plastiques",
+        "name_ar": "التربية التشكيلية",
+        "code": "ARTPL"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    }
+  ]
+}

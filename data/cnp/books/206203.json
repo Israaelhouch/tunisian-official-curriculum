@@ -1,0 +1,79 @@
+{
+ "code": "206203",
+ "title": "الجغرافيا(شعبتي الآداب و الاقتصاد والخدمات)",
+ "used_for": [
+  "2eme-lettres/GEO",
+  "2eme-economie-services/GEO"
+ ],
+ "toc": [
+  {
+   "name": "المدن تنظم المجال",
+   "children": [
+    {
+     "name": "وظائف المدينة",
+     "children": []
+    },
+    {
+     "name": "التراتب الحضري",
+     "children": []
+    },
+    {
+     "name": "الشّبكات الحضريّة",
+     "children": []
+    },
+    {
+     "name": "الحواضر الكبرى تنظم المجال العالمي",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "تنظيم المجالات الريفيّة",
+   "children": [
+    {
+     "name": "وظائف المجال الريفي",
+     "children": []
+    },
+    {
+     "name": "تنظيم المجال الريفي في العالم المتقدّم",
+     "children": []
+    },
+    {
+     "name": "الدرس السابع",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "شبكات النّقل والاتصال ودورها في تنظيم المجال",
+   "children": [
+    {
+     "name": "شبكات النّقل والاتصال",
+     "children": []
+    },
+    {
+     "name": "دور شبكات النّقل والاتصال في تنظيم المجال",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "التّهيئة الترابيّة",
+   "children": [
+    {
+     "name": "تهيئة منطقة سياحيّة",
+     "children": []
+    },
+    {
+     "name": "تهيئة منطقة صناعيّة",
+     "children": []
+    },
+    {
+     "name": "تهيئة منطقة سقويّة",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Source: فهرس المحتوى p.160 (OCR) cross-checked with axis title pages/headings (p.5 'المدن تنظم المجال', p.117 'التهيئة الترابية'). OCR fixes: 'التّقل'->'النّقل' (axis 3 'شبكات JEU' fixed from lesson 8 title), 'تهيكة/تهيئكة'->'تهيئة'. 1 positional placeholder: lesson 7 title printed 'تنظيم المجال الرّيفي في العالم Ut' (last word unreadable) -> 'الدرس السابع'. Lesson sub-sections not reliably recoverable, left empty. Excluded: تقديم, خريطة الكتاب, الفهارس."
+}

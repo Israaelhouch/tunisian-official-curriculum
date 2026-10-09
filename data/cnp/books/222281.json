@@ -1,0 +1,49 @@
+{
+ "code": "222281",
+ "title": "Math.matiques Sport",
+ "used_for": [
+  "2eme-sport/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Equations et inéquations du second degré",
+   "children": [
+    {
+     "name": "Equations du second degré"
+    },
+    {
+     "name": "Inéquations du second degré"
+    }
+   ]
+  },
+  {
+   "name": "Système de deux équations du premier degré à deux inconnues",
+   "children": []
+  },
+  {
+   "name": "Fonctions affines",
+   "children": []
+  },
+  {
+   "name": "Fonctions : x ↦ ax² ; x ↦ a/x",
+   "children": []
+  },
+  {
+   "name": "Calcul vectoriel",
+   "children": []
+  },
+  {
+   "name": "Base et repère cartésien",
+   "children": []
+  },
+  {
+   "name": "Barycentre",
+   "children": []
+  },
+  {
+   "name": "Activités dans un repère orthonormé",
+   "children": []
+  }
+ ],
+ "notes": "2ème Sport. Sommaire (p5-6) lists only rubriques/pages without chapter names; names taken from running headers 'CHAPITRE n : ...'. Ch.4 header truncated to 'Fonctions :'; formulas x ↦ ax² and x ↦ a/x taken from the sommaire/répartition (glyph-mangled). Ch.1 sections from its 'Contenu du chapitre' opener; other openers not in the extract, so no children. GeoGebra and corrigés excluded."
+}

@@ -1,0 +1,194 @@
+{
+ "code": "101410",
+ "title": "دروب الحوار_عربية",
+ "used_for": [
+  "4eme-primaire/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "نشأة صداقة",
+   "children": []
+  },
+  {
+   "name": "النحلة العاملة",
+   "children": []
+  },
+  {
+   "name": "النص 3 (ص 9)",
+   "children": []
+  },
+  {
+   "name": "مفاجأة الأب",
+   "children": []
+  },
+  {
+   "name": "وحانت الساعة",
+   "children": []
+  },
+  {
+   "name": "النص 6 (ص 18)",
+   "children": []
+  },
+  {
+   "name": "في الاتحاد قوة",
+   "children": []
+  },
+  {
+   "name": "وحلّت ساعة الخلاص",
+   "children": []
+  },
+  {
+   "name": "عبث الطفولة",
+   "children": []
+  },
+  {
+   "name": "على الشاطئ",
+   "children": []
+  },
+  {
+   "name": "يوم انتهى قبل أوانه",
+   "children": []
+  },
+  {
+   "name": "النص 14 (ص 39)",
+   "children": []
+  },
+  {
+   "name": "مهارة العنكبوت (1)",
+   "children": []
+  },
+  {
+   "name": "مهارة العنكبوت (2)",
+   "children": []
+  },
+  {
+   "name": "مهارة العنكبوت (3)",
+   "children": []
+  },
+  {
+   "name": "النص 20 (ص 54)",
+   "children": []
+  },
+  {
+   "name": "المزمار السحري (1)",
+   "children": []
+  },
+  {
+   "name": "المزمار السحري (2)",
+   "children": []
+  },
+  {
+   "name": "المارد وسكان القرية (1)",
+   "children": []
+  },
+  {
+   "name": "المارد وسكان القرية (2)",
+   "children": []
+  },
+  {
+   "name": "النص 27 (ص 73)",
+   "children": []
+  },
+  {
+   "name": "حيرة أم",
+   "children": []
+  },
+  {
+   "name": "أنشودة الميلاد",
+   "children": []
+  },
+  {
+   "name": "في أعماق البحر (1)",
+   "children": []
+  },
+  {
+   "name": "في أعماق البحر (2)",
+   "children": []
+  },
+  {
+   "name": "ونجحت التجربة",
+   "children": []
+  },
+  {
+   "name": "الأسد والثيران",
+   "children": []
+  },
+  {
+   "name": "النسر والعصافير",
+   "children": []
+  },
+  {
+   "name": "ليلى والذئب (1)",
+   "children": []
+  },
+  {
+   "name": "ليلى والذئب (2)",
+   "children": []
+  },
+  {
+   "name": "أمي",
+   "children": []
+  },
+  {
+   "name": "الزيارة المفاجئة (1)",
+   "children": []
+  },
+  {
+   "name": "الزيارة المفاجئة (2)",
+   "children": []
+  },
+  {
+   "name": "الزيارة المفاجئة (3)",
+   "children": []
+  },
+  {
+   "name": "رحلة بحرية (1)",
+   "children": []
+  },
+  {
+   "name": "رحلة بحرية (2)",
+   "children": []
+  },
+  {
+   "name": "الكلب والحمامة",
+   "children": []
+  },
+  {
+   "name": "خدمة سريعة",
+   "children": []
+  },
+  {
+   "name": "النص 51 (ص 137)",
+   "children": []
+  },
+  {
+   "name": "وهكذا تم إنقاذي",
+   "children": []
+  },
+  {
+   "name": "سميحة ومديحة والسحاب (1)",
+   "children": []
+  },
+  {
+   "name": "سميحة ومديحة والسحاب (2)",
+   "children": []
+  },
+  {
+   "name": "النص 57 (ص 152)",
+   "children": []
+  },
+  {
+   "name": "الأرض الجميلة (1)",
+   "children": []
+  },
+  {
+   "name": "الأرض الجميلة (2)",
+   "children": []
+  },
+  {
+   "name": "فرحة اللقاء",
+   "children": []
+  }
+ ],
+ "notes": "Sources: فهرس (OCR p.167-168, very noisy) + numbered text-title lines on each opener page + headings. The book is a flat sequence of 62 numbered texts with no printed unit/محور titles, so depth 1. Excluded the recurring single-page evaluation text (للتقييم: nos. 7,15,23,30,37,45,53,61) and the following الإدماج/integration text (nos. 8,16,24,31,38,46,54,62, e.g. الأسد والحمار الوحشي, وعاد إليه رشده, عنقود العنب, المهندس); this eval/integration pattern is inferred from page layout (one-page text + 'الإدماج'/'للتقييم' labels), not from a clean sommaire. Positional placeholders (numbered as in the book, with page) where the title was unreadable in every source: texts 3, 6, 14, 20, 27, 51, 57 (57 reads 'النهر ال...'). 'أمي' (41) taken from the فهرس only; light OCR fixes applied (e.g. 'التذب والحيامة'->'الكلب والحمامة', 'على الشاطيع'->'على الشاطئ')."
+}

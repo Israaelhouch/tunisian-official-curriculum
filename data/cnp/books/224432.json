@@ -1,0 +1,188 @@
+{
+ "code": "224432",
+ "title": "كيمياء_شعبة الرياضيات",
+ "used_for": [
+  "bac-mathematiques/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Cinétique chimique",
+   "children": [
+    {
+     "name": "Notion d'avancement d'une réaction",
+     "children": [
+      {
+       "name": "Notion de système chimique"
+      },
+      {
+       "name": "Transformation chimique dans un système"
+      }
+     ]
+    },
+    {
+     "name": "Vitesse d'une réaction chimique",
+     "children": [
+      {
+       "name": "Comparaison de la rapidité des transformations chimiques"
+      },
+      {
+       "name": "Vitesse moyenne d'une réaction chimique"
+      },
+      {
+       "name": "Vitesse instantanée d'une réaction chimique"
+      },
+      {
+       "name": "Autres expressions de la vitesse d'une réaction"
+      }
+     ]
+    },
+    {
+     "name": "Principaux facteurs cinétiques",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Équilibre chimique",
+   "children": [
+    {
+     "name": "Notion d'équilibre chimique",
+     "children": [
+      {
+       "name": "Avancement maximal d'une réaction"
+      },
+      {
+       "name": "Réactions totales et réactions limitées"
+      },
+      {
+       "name": "Taux d'avancement final d'une réaction chimique"
+      },
+      {
+       "name": "Notion d'équilibre chimique"
+      }
+     ]
+    },
+    {
+     "name": "Loi d'action de masse - Conditions d'évolution spontanée",
+     "children": [
+      {
+       "name": "Fonction des concentrations"
+      },
+      {
+       "name": "Calcul de la fonction des concentrations"
+      },
+      {
+       "name": "Loi d'action de masse"
+      },
+      {
+       "name": "Les conditions d'évolution spontanée"
+      },
+      {
+       "name": "Application des conditions d'évolution spontanée à quelques réactions chimiques"
+      }
+     ]
+    },
+    {
+     "name": "Déplacement des équilibres chimiques - Loi de modération",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Les réactions acide-base",
+   "children": [
+    {
+     "name": "Application de la loi d'action de masse aux réactions acide-base",
+     "children": []
+    },
+    {
+     "name": "pH des solutions aqueuses",
+     "children": []
+    },
+    {
+     "name": "Variation du pH au cours d'une réaction entre un acide et une base",
+     "children": [
+      {
+       "name": "Détermination du taux d'avancement final d'une réaction acide-base"
+      },
+      {
+       "name": "Variation du pH d'une solution d'un monoacide fort suite à l'ajout d'une solution de monobase forte"
+      },
+      {
+       "name": "Variation du pH d'une solution d'un monoacide faible suite à l'ajout d'une solution de monobase forte"
+      },
+      {
+       "name": "Variation du pH d'une solution d'une monobase faible suite à l'ajout d'une solution d'un monoacide fort"
+      },
+      {
+       "name": "Application aux dosages acide-base"
+      },
+      {
+       "name": "Les solutions tampons"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Piles électrochimiques",
+   "children": [
+    {
+     "name": "Piles du type pile Daniell",
+     "children": [
+      {
+       "name": "Transfert direct d'électrons d'un réducteur à un oxydant"
+      },
+      {
+       "name": "Transfert indirect d'électrons d'un oxydant à un réducteur"
+      },
+      {
+       "name": "Étude de la pile Daniell"
+      },
+      {
+       "name": "Étude des piles du type pile Daniell"
+      }
+     ]
+    },
+    {
+     "name": "Potentiel standard d'un couple redox et pouvoir oxydant de sa forme oxydée",
+     "children": [
+      {
+       "name": "Étude de l'influence des concentrations sur la f.e.m de la pile Daniell"
+      },
+      {
+       "name": "Comparaison des forces de deux couples redox d'après la valeur de la force électromotrice standard E° de la pile correspondante"
+      },
+      {
+       "name": "Choix d'une référence pour les couples redox"
+      },
+      {
+       "name": "Comparaison d'un couple Ox/Red au couple H3O+/H2(g)"
+      },
+      {
+       "name": "Détermination de la f.e.m. standard d'une pile"
+      },
+      {
+       "name": "Classement électrochimique des couples redox"
+      }
+     ]
+    },
+    {
+     "name": "Piles alcalines",
+     "children": [
+      {
+       "name": "Description et fonctionnement de la pile alcaline à oxyde de manganèse"
+      },
+      {
+       "name": "Description et fonctionnement de la pile alcaline à oxyde d'argent"
+      },
+      {
+       "name": "Description et fonctionnement de la pile alcaline à oxyde de mercure"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "French chemistry book (Bac Maths). 4 themes / 12 chapters from the sommaire (p5) and chapter headings; sections from roman-numbered headings (I-, II-...). Chapter names taken from the chapter opening pages (sommaire says 'Etude de la pile Daniell' for ch10 and 'Pile alcaline' for ch12). Sections left empty for ch3, ch6, ch7, ch8 because the headings extract is incomplete for them (only some numbered sections detected). Ch1 may have a missing section III. End-of-chapter TP sheets and reading texts excluded."
+}

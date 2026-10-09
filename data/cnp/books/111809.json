@@ -1,0 +1,185 @@
+{
+ "code": "111809",
+ "title": "المواد الاجتماعية",
+ "used_for": [
+  "8eme-base/HIST",
+  "8eme-base/GEO",
+  "8eme-base/CIVIQ"
+ ],
+ "by_subject": {
+  "HIST": [
+   {
+    "name": "العالم الإسلامي من القرن 6 ه (12 م) إلى القرن 10 ه (16 م)",
+    "children": [
+     {
+      "name": "محاولات توحيد بلاد المغرب والأندلس",
+      "children": []
+     },
+     {
+      "name": "إفريقية في العهد الحفصي",
+      "children": []
+     },
+     {
+      "name": "تأثير الحضارة العربية الإسلامية في الغرب المسيحي",
+      "children": []
+     }
+    ]
+   },
+   {
+    "name": "أوروبا الغربية من عصر النهضة إلى الثورة الصناعية",
+    "children": [
+     {
+      "name": "النهضة الأوروبية",
+      "children": []
+     },
+     {
+      "name": "الثورة الفرنسية",
+      "children": []
+     },
+     {
+      "name": "الثورة الصناعية",
+      "children": []
+     }
+    ]
+   },
+   {
+    "name": "البلاد التونسية من الحكم العثماني إلى انتصاب الحماية الفرنسية",
+    "children": [
+     {
+      "name": "التطور السياسي بالإيالة التونسية",
+      "children": []
+     },
+     {
+      "name": "الإيالة التونسية في القرن 19 م: الأزمات ومحاولات الإصلاح",
+      "children": []
+     },
+     {
+      "name": "احتلال تونس وانتصاب الحماية",
+      "children": []
+     }
+    ]
+   }
+  ],
+  "GEO": [
+   {
+    "name": "خريطة التفاوت في التقدم في العالم",
+    "children": []
+   },
+   {
+    "name": "نماذج من العالم المتقدم",
+    "children": [
+     {
+      "name": "الولايات المتحدة الأمريكية قوة عظمى",
+      "children": [
+       {
+        "name": "مظاهر القوة الاقتصادية",
+        "children": []
+       },
+       {
+        "name": "دعائم القوة الاقتصادية",
+        "children": []
+       },
+       {
+        "name": "مظاهر النفوذ الأمريكي في العالم",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "الاتحاد الأوروبي: تكتل اقتصادي قوي",
+      "children": [
+       {
+        "name": "دعائم القوة الاقتصادية",
+        "children": []
+       },
+       {
+        "name": "مظاهر القوة الاقتصادية",
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "نماذج من العالم النامي",
+    "children": [
+     {
+      "name": "الصين قوة صاعدة",
+      "children": [
+       {
+        "name": "الثقل الديمغرافي والسياسة السكانية ونتائجها",
+        "children": []
+       },
+       {
+        "name": "التنمية الاقتصادية والمقومات والمظاهر والتحولات",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "السنغال: صعوبات التنمية وحصيلتها",
+      "children": []
+     }
+    ]
+   }
+  ],
+  "CIVIQ": [
+   {
+    "name": "الطفل مشاركا في الحياة العامة",
+    "children": [
+     {
+      "name": "مفهوم المشاركة في الحياة العامة وأشكالها",
+      "children": []
+     },
+     {
+      "name": "لماذا المشاركة في الحياة العامة؟",
+      "children": []
+     },
+     {
+      "name": "مجالات مشاركة الطفل في الحياة العامة",
+      "children": []
+     }
+    ]
+   },
+   {
+    "name": "المشاركة بالانخراط في التنظيمات",
+    "children": [
+     {
+      "name": "مفهوم التنظيم الحزبي والجمعياتي",
+      "children": []
+     },
+     {
+      "name": "الانتظام تجسيم للمشاركة",
+      "children": []
+     },
+     {
+      "name": "الانتظام تجسيم للتعددية",
+      "children": []
+     },
+     {
+      "name": "التعددية السياسية ضمان للتداول السلمي على السلطة",
+      "children": []
+     }
+    ]
+   },
+   {
+    "name": "المشاركة من خلال الانتخابات",
+    "children": [
+     {
+      "name": "الانتخابات تجسيم للمشاركة في الحياة العامة",
+      "children": []
+     },
+     {
+      "name": "الانتخاب وسيلة لتجديد الهيئات الممثلة",
+      "children": []
+     },
+     {
+      "name": "الترشح فرصة لممارسة المسؤولية",
+      "children": []
+     }
+    ]
+   }
+  ]
+ },
+ "notes": "Almost all text uses legacy Arabic fonts with broken encoding (not OCR'd). The general فهرس on p284 (history, geography and civics) was decoded by mapping glyph codes to letters (the mapping was checked against many known words), with page numbers matching the headings (history lessons p6/14/25, 37/53/64, 79/92/106). Fixed decoding artifacts where the word was evident: مكاهر/التنكيم/الانتكام -> مظاهر/التنظيم/الانتظام, الطمفل -> الطفل, الترشمح/لمارسة -> الترشح/لممارسة, المثلة -> الممثلة. 'قوة عظمى' and the 'إلى ... الحماية الفرنسية' fragments were in a second encoding and decoded the same way. History lesson at p79: the فهرس gives only 'التطور السياسي'; the lesson heading reads 'التطور السياسي بالإيالة التونسية ... القرن ... إلى نهاية القرن ...' with the century numbers lost, so the readable first line was kept. GEO: 'خريطة التفاوت في التقدم في العالم' (p116) is an introductory lesson before axis 1 and is kept as a top-level item; the country studies (USA, EU, China, Senegal) are a middle level with their lessons below. 'التنمية الاقتصادية والمقومات...' is kept as printed (the 'و' may be a stand-in for ':'). Excluded: حصة أشغال موجهة, حصة تعلم بالإدماج, حصة تقييم ذاتي."
+}

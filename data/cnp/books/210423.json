@@ -1,0 +1,26 @@
+{
+ "code": "210423",
+ "title": "فلسفة ج2_شعبة الآداب",
+ "used_for": [
+  "bac-lettres/PHILO"
+ ],
+ "toc": [
+  {
+   "name": "العمل: النجاعة والعدالة",
+   "children": []
+  },
+  {
+   "name": "الدولة: السيادة والمواطنة",
+   "children": []
+  },
+  {
+   "name": "الأخلاق: الخير والسعادة",
+   "children": []
+  },
+  {
+   "name": "الفن: الجمال والحقيقة",
+   "children": []
+  }
+ ],
+ "notes": "Four axes (مسائل) with titles taken from the full-page OCR of their 'نافذة مدخل إلى التفكير' title pages: p5 'العمل : النجاعة والعدالة', p100 'الدولة: السيادة والمواطنة', p211 'الأخلاق : الخير والسعادة' (printed under the heading 'القيم بين النسبي والمطلق'; axis actually opens at p211, its مدخل إشكالي at p217), p309 'الفن: الجمال والحقيقة'; running headers confirm each. Text (سند) titles not given: headings and the فهرس (pp.393-400) use glyph-encoded fonts and only a few text pages were re-OCR'd, so the list would be incomplete. Readable text titles seen on opener pages: الأساس الطبيعي للحق (p121), الديمقراطية والعنف (p123), جوهر الأخلاق (p218), جمالية القبح (p322), وهم الإبداع الفني (p336), خواص الألحان وأصنافها (p344), فرادة الإبداع الفني (p365). No placeholders."
+}

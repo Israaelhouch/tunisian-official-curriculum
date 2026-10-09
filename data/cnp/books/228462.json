@@ -1,0 +1,130 @@
+{
+ "code": "228462",
+ "title": "Génie Mécanique Activités_Section Sciences techniques",
+ "used_for": [
+  "bac-techniques/TECHNO"
+ ],
+ "toc": [
+  {
+   "name": "Analyse fonctionnelle",
+   "children": [
+    {
+     "name": "Analyse fonctionnelle interne d'un produit",
+     "children": [
+      {
+       "name": "Micro-fraiseuse : analyse fonctionnelle interne d'un produit"
+      },
+      {
+       "name": "Imprimante 3D : analyse fonctionnelle interne d'un produit"
+      },
+      {
+       "name": "Micro tour : analyse fonctionnelle interne d'un produit"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Analyse structurelle et conception",
+   "children": [
+    {
+     "name": "Communication technique",
+     "children": [
+      {
+       "name": "Perceuse sensitive"
+      },
+      {
+       "name": "Poupée mobile"
+      },
+      {
+       "name": "Pince de soudage"
+      },
+      {
+       "name": "Machine d'essai de traction"
+      }
+     ]
+    },
+    {
+     "name": "Typologie des assemblages",
+     "children": [
+      {
+       "name": "Tête universelle de la fraiseuse"
+      },
+      {
+       "name": "Extrudeuse de pâte à savon"
+      },
+      {
+       "name": "Chariot élévateur à 3 roues"
+      }
+     ]
+    },
+    {
+     "name": "Transmission de puissance",
+     "children": [
+      {
+       "name": "Maquette d'embrayage à disque : étude d'embrayage"
+      },
+      {
+       "name": "Tour parallèle"
+      },
+      {
+       "name": "Maquette de boîte de vitesses : engrenages - frein"
+      },
+      {
+       "name": "Fraiseuse universelle"
+      },
+      {
+       "name": "Maquette moteur à explosion"
+      },
+      {
+       "name": "Palan électrique à chaîne"
+      }
+     ]
+    },
+    {
+     "name": "Comportement du solide déformable",
+     "children": [
+      {
+       "name": "Banc d'essai de torsion"
+      },
+      {
+       "name": "Banc d'essai de flexion"
+      },
+      {
+       "name": "Micro tour : sollicitations composées"
+      },
+      {
+       "name": "Touret à meuler : sollicitations composées"
+      },
+      {
+       "name": "Machine de torsion de limes dentaires"
+      },
+      {
+       "name": "Grue d'atelier"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Réalisation et production",
+   "children": [
+    {
+     "name": "Obtention des pièces",
+     "children": [
+      {
+       "name": "Bateau à pédales : plasturgie"
+      },
+      {
+       "name": "Maquette train épicycloïdal"
+      },
+      {
+       "name": "Maquette mécanisme à came"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "French mechanical engineering activity book (Technologie - Génie mécanique, 4e Sciences techniques). Built from the detailed sommaire (p4-5): Axe -> Thème -> Activité (support titles). Sub-activities (e.g. 'Lecture d'un dessin d'ensemble', 'Cotation fonctionnelle', 'Étude de frein', 'Boîte de vitesses') dropped to keep 3 levels; 'Synthèse' pages excluded. Last theme contains one activity and two projects (Projet 1, Projet 2). OCR ligature errors fixed (dé¿nition, À exion -> flexion)."
+}

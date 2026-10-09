@@ -1,0 +1,148 @@
+{
+ "code": "103802",
+ "title": "العلوم الفيزيائية",
+ "used_for": [
+  "8eme-base/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "المادة في الطبيعة",
+   "children": [
+    {
+     "name": "تراص المادة",
+     "children": [
+      {
+       "name": "الكتلة الحجمية: تعريفها ووحدة قيسها"
+      },
+      {
+       "name": "التحديد العملي للكتلة الحجمية"
+      },
+      {
+       "name": "الأجسام الطافية والأجسام المغمورة"
+      }
+     ]
+    },
+    {
+     "name": "المحاليل المائية",
+     "children": [
+      {
+       "name": "الانحلال في الماء"
+      },
+      {
+       "name": "تركيز محلول"
+      },
+      {
+       "name": "الإشباع والانحلالية"
+      },
+      {
+       "name": "العوامل المؤثرة في الانحلالية"
+      }
+     ]
+    },
+    {
+     "name": "بنية المادة",
+     "children": [
+      {
+       "name": "تجزئة المادة"
+      },
+      {
+       "name": "الهباءة والجسم النقي الهبائي"
+      }
+     ]
+    },
+    {
+     "name": "الضغط الهوائي",
+     "children": [
+      {
+       "name": "التيارات الهوائية والتكهنات"
+      }
+     ]
+    },
+    {
+     "name": "دور الهواء في الاحتراق",
+     "children": [
+      {
+       "name": "ضرورة الأكسجين للاحتراق"
+      },
+      {
+       "name": "الاحتراق التام وأهميته في الحياة"
+      },
+      {
+       "name": "الاحتراق غير التام"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "الكهرمغناطيس",
+   "children": [
+    {
+     "name": "التوتر الكهربائي",
+     "children": [
+      {
+       "name": "توزيع التيار الكهربائي في دارة متفرعة"
+      },
+      {
+       "name": "مفهوم التوتر الكهربائي"
+      },
+      {
+       "name": "قيس التوتر الكهربائي"
+      }
+     ]
+    },
+    {
+     "name": "توزيع التوتر الكهربائي",
+     "children": [
+      {
+       "name": "توزيع التوتر الكهربائي في دارة بالتسلسل"
+      },
+      {
+       "name": "الملاءمة بين ثنائي قطب مولد وثنائي قطب متقبل"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "الضوء",
+   "children": [
+    {
+     "name": "مفهوم الرؤية",
+     "children": [
+      {
+       "name": "مصادر الضوء"
+      },
+      {
+       "name": "مكاشيف الضوء: الإبصار - شروط الرؤية"
+      },
+      {
+       "name": "الخاصيات البصرية للأوساط"
+      }
+     ]
+    },
+    {
+     "name": "الانتشار المستقيمي للضوء",
+     "children": [
+      {
+       "name": "مبدأ الانتشار المستقيمي للضوء"
+      },
+      {
+       "name": "الأحزمة الضوئية"
+      },
+      {
+       "name": "[placeholder] الدرس 24"
+      },
+      {
+       "name": "تطبيقات الانتشار المستقيمي للضوء"
+      },
+      {
+       "name": "تطبيق مبدأ الانتشار المستقيمي للضوء"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Sources: programme tables p4-7 (OCR; one page per محور: المادة في الطبيعة -1-/-2-, الكهرمغناطيس, الضوء) giving chapter rows with pages and '>' lesson rows, plus numbered lesson headings (1)-(26) in the body. Structure: محور -> chapter -> numbered lesson. Theme 'الضوء' OCR'd 'والضيوء'/'الصنهء'. Uncertain: lesson 10 (p67) heading reads 'التيارات الهوائية والتكهنات' + an unreadable trailing word; TOC also shows a row 'الطقس' (p66) between الضغط الهوائي and lesson 10 that could be its own heading; lesson 18 'متقبل' taken from the TOC objective text (heading word garbled). PLACEHOLDER: lesson 24 (p133) title unreadable everywhere. Lessons 25/26 have near-identical printed titles (p137 / p142), kept both as printed."
+}

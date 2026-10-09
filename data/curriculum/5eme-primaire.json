@@ -1,0 +1,865 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Décret gouvernemental n° 2021-143 du 1er mars 2021 modifiant le décret n° 2019-1085 (JORT n° 22, 2021) — https://9anoun.tn/fr/kb/jorts/jort-2021-022-ae9df/decret-gouvernemental-ndeg-2021-143-du-1er-mars-2021-modifiant-le-decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et--5cae85b018dea9894163eae4e6c6a61b",
+    "CNP 101509 — مسالك القراءة_نصوص — https://www.cnp.com.tn/arabic/PDF/101509P00.pdf",
+    "CNP 101510 — عربية - مسالك الكتابة — https://www.cnp.com.tn/arabic/PDF/101510P00.pdf",
+    "CNP 102511 — رياضيات — https://www.cnp.com.tn/arabic/PDF/102511P00.pdf",
+    "CNP 103504 — الإيقاظ العلمي — https://www.cnp.com.tn/arabic/PDF/103504P00.pdf",
+    "CNP 111512 — المواد الإجتماعية — https://www.cnp.com.tn/arabic/PDF/111512P00.pdf",
+    "CNP 121511 — فرنسية_ قراءة — https://www.cnp.com.tn/arabic/PDF/121511P01.pdf"
+  ],
+  "level": {
+    "name_fr": "5ème année primaire",
+    "name_ar": "السنة الخامسة ابتدائي",
+    "code": "5P",
+    "cycle": "primaire",
+    "grade_number": 5,
+    "display_order": 5,
+    "is_national_exam_year": false
+  },
+  "section": {
+    "name_fr": "Tronc commun",
+    "name_ar": "جذع مشترك",
+    "code": "TC",
+    "is_common_core": true
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الوحدة 1 (النصوص 1-8)",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أعيّن تعاقب الأحداث في النص السردي",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أحدّد أركان النص السردي",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الوحدة 4 (النصوص 25-32)",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أحدّد خصائص النص الوصفي",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتبيّن العلاقة بين الوصف والسرد",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتبيّن خصائص النص التفسيري",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتبيّن خصائص النص التوجيهي",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "قواعد اللغة",
+          "order_index": 9,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الاسم النكرة والاسم المعرّف بـ«ال» والاسم العلم",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الاسم المعرفة: أسماء الإشارة",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المركب العطفي",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الفعل المهموز في الماضي والمضارع المرفوع",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المتممات: المفعول فيه للزمان",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المفعول فيه للمكان",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الفعل المثال في الماضي والمضارع",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المتممات: الحال",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اسم المفعول",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المبتدأ: مفردة - مركبا",
+              "order_index": 10,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الخبر: مفردة - مركبا نعتيا - مركبا إضافيا - مركبا بالجر",
+              "order_index": 11,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأجوف في الماضي",
+              "order_index": 12,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأجوف في المضارع المرفوع والمضارع المنصوب",
+              "order_index": 13,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "النواسخ الفعلية (كان - أصبح - مازال - صار - ليس)",
+              "order_index": 14,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "النواسخ الفعلية والحرفية",
+              "order_index": 15,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اسم الناسخ",
+              "order_index": 16,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "خبر الناسخ",
+              "order_index": 17,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القرائن الدالة على الفاعل",
+              "order_index": 18,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القرائن الدالة على المفعول به",
+              "order_index": 19,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القرائن الدالة على الحال",
+              "order_index": 20,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القرائن الدالة على المبتدأ والخبر",
+              "order_index": 21,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الإنتاج الكتابي",
+          "order_index": 10,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الشخصيات والأحداث",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "وضع الختام",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "سياق التحول",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "النص السردي المكتمل",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المكان المفتوح",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المكان المغلق",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الرسالة",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الإرشاد والتوجيه (1)",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الإرشاد والتوجيه (2)",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Français",
+        "name_ar": "الفرنسية",
+        "code": "FRAN"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Rendons notre environnement plus agréable",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Apprenons à vivre ensemble",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Aidons et respectons les autres",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Découvrons les secrets d'une bonne santé",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Organisons notre vie entre le travail et les loisirs",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Découvrons d'autres pays",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Réalisons des projets",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Utilisons l'ordinateur",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الفترة 1",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "أكوّن الأعداد ذات 7 أرقام فأكثر وأكتبها وأقرؤها",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أحدّد إحداثيات عقدة على الشبكة",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أفكّك الأعداد ذات 7 أرقام فأكثر وأركّبها",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أقارن الأعداد ذات 7 أرقام فأكثر وأرتّبها",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أرسم صورة شكل على الشبكة باستعمال التناظر المحوري",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أوظّف الجمع والطرح والضرب على الأعداد الصحيحة الطبيعية",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أوظّف القسمة على الأعداد الصحيحة الطبيعية",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 2",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "أنجز عملية القسمة على عدد ذي رقمين",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أتصرّف في وحدات قيس الكتل: القنطار والطن",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أتعرّف الدائرة والقرص الدائري",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أرسم الموسّط العمودي لقطعة مستقيم",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أنجز عملية قسمة على عدد ذي 3 أرقام فأكثر",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أوظّف الدائرة في البناءات الهندسية",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أرسم المستقيمات المتعامدة والمستقيمات المتوازية",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 3",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "أتعرّف سلسلتين من الأعداد الصحيحة الطبيعية المتناسبة طردا",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أكوّن الأعداد الكسرية وأكتبها وأقرؤها",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أتصرّف في وحدات قيس المساحة: المتر المربّع وأجزاؤه",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أتصرّف في وحدات قيس المساحة: المتر المربّع ومضاعفاته",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أرسم الزوايا وأقيسها",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أتصرّف في وحدات القيس الفلاحية",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 4",
+          "order_index": 4,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "أكوّن الأعداد العشرية وأكتبها وأقرؤها",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أفكّك الأعداد العشرية وأركّبها",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أقارن الأعداد العشرية وأرتّبها",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أتصرّف في الأعداد العشرية",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أجمع الأعداد العشرية وأطرحها",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أتصرّف في وحدات قيس الزمن: الساعة - الدقيقة - الثانية",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أجمع وأطرح الأعداد التي تقيس الزمن",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 5",
+          "order_index": 5,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "أنجز عملية ضرب عدد عشري في آخر صحيح",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أنجز عملية ضرب عدد عشري في آخر عشري",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أنجز عمليات الجمع والطرح والضرب في مجموعة الأعداد العشرية",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أقسم عددا عشريا على عدد صحيح طبيعي",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أرسم كلا من المستطيل والمربع استنادا إلى القطرين ومحاور التناظر",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أقسم عددا صحيحا طبيعيا على عدد آخر صحيح طبيعي يكون الخارج عددا عشريا",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أنجز عملية قسمة قاسمها عدد عشري",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أتعرّف المثلثات وأرسمها",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أتعرّف ارتفاعات المثلث وأرسمها",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أنجز عملية الضرب على الأعداد التي تقيس الزمن",
+              "order_index": 10,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éveil scientifique",
+        "name_ar": "الإيقاظ العلمي",
+        "code": "EVEIL"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الضوء",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "جسم الإنسان",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الكهرباء",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الوسط البيئي",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Technologie",
+        "name_ar": "التكنولوجيا",
+        "code": "TECHNO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation islamique",
+        "name_ar": "التربية الإسلامية",
+        "code": "ISLAM"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Histoire",
+        "name_ar": "التاريخ",
+        "code": "HIST"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "التمهيد لدراسة التاريخ",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "البلاد التونسية من عصور ما قبل التاريخ إلى العهد الروماني",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "القيروان مركز إشعاع للحضارة العربية الإسلامية",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المهدية وتونس مركزا إشعاع للحضارة العربية الإسلامية",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Géographie",
+        "name_ar": "الجغرافيا",
+        "code": "GEO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "المواقع والاتجاهات الجغرافية",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المشاهد الريفية",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المشاهد الحضرية",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "علاقة المجال الريفي بالمجال الحضري",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation civique",
+        "name_ar": "التربية المدنية",
+        "code": "CIVIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "توزيع الأدوار وتبادلها داخل العائلة",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "دور الطفل في العائلة",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المدرسة فضاء للحياة المدرسية",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "علاقة المدرسة بالعائلة",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الطفل في محيطه الاجتماعي والثقافي",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "حقوق المتساكنين وواجباتهم",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "حقوق الطفل في العائلة",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "حقوق الطفل وواجباته في المدرسة",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الوقاية من حوادث الطرقات",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "في احترام الملك الخاص والملك العمومي",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "دفع الضرائب والأداءات",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "التقسيم الإداري والترابي للبلاد التونسية",
+          "order_index": 12,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المجال الجغرافي للوطن",
+          "order_index": 13,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الدفاع عن الوطن",
+          "order_index": 14,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "رموز الوطن",
+          "order_index": 15,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation musicale",
+        "name_ar": "التربية الموسيقية",
+        "code": "MUSIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Arts plastiques",
+        "name_ar": "التربية التشكيلية",
+        "code": "ARTPL"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    }
+  ]
+}

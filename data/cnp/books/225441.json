@@ -1,0 +1,172 @@
+{
+ "code": "225441",
+ "title": "علوم الحياة والأرض_شعبة الرياضيات",
+ "used_for": [
+  "bac-mathematiques/SVT"
+ ],
+ "toc": [
+  {
+   "name": "Neurophysiologie",
+   "children": [
+    {
+     "name": "Le tissu nerveux",
+     "children": [
+      {
+       "name": "Identifier les différentes parties du système nerveux chez l'homme"
+      },
+      {
+       "name": "Identifier l'unité structurale du tissu nerveux"
+      },
+      {
+       "name": "Préciser le mode de connexion entre les neurones"
+      }
+     ]
+    },
+    {
+     "name": "L'activité réflexe",
+     "children": [
+      {
+       "name": "Mettre en évidence les éléments anatomiques du réflexe à point de départ cutané"
+      },
+      {
+       "name": "Expliquer la naissance du message nerveux"
+      },
+      {
+       "name": "Expliquer l'origine du potentiel d'action"
+      },
+      {
+       "name": "Déterminer la vitesse de propagation du message nerveux et expliquer le mécanisme de sa propagation"
+      },
+      {
+       "name": "Expliquer le mécanisme de la transmission synaptique"
+      },
+      {
+       "name": "Mettre en évidence le rôle intégrateur du neurone postsynaptique"
+      },
+      {
+       "name": "Expliquer le mécanisme de la coordination des muscles antagonistes"
+      },
+      {
+       "name": "Reconstituer le circuit anatomique intervenant dans le réflexe à point de départ cutané"
+      }
+     ]
+    },
+    {
+     "name": "L'hygiène du système nerveux",
+     "children": [
+      {
+       "name": "Décrire les manifestations du stress"
+      },
+      {
+       "name": "Expliquer les mécanismes physiologiques du stress"
+      },
+      {
+       "name": "S'informer sur les drogues et leurs effets"
+      },
+      {
+       "name": "Expliquer le mode d'action des drogues sur le cerveau"
+      },
+      {
+       "name": "Comment éviter le piège des drogues ?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Reproduction humaine et santé",
+   "children": [
+    {
+     "name": "La fonction reproductrice chez l'homme",
+     "children": [
+      {
+       "name": "Se rappeler l'organisation de l'appareil génital de l'homme"
+      },
+      {
+       "name": "Identifier les fonctions et les structures histologiques du testicule"
+      },
+      {
+       "name": "Décrire la structure d'un spermatozoïde"
+      },
+      {
+       "name": "Décrire les étapes de la spermatogenèse"
+      },
+      {
+       "name": "Déterminer les mécanismes de régulation des fonctions testiculaires"
+      }
+     ]
+    },
+    {
+     "name": "La fonction reproductrice chez la femme",
+     "children": [
+      {
+       "name": "Identifier les organes de l'appareil reproducteur de la femme"
+      },
+      {
+       "name": "Dégager les particularités du gamète femelle"
+      },
+      {
+       "name": "Décrire les follicules ovariens"
+      },
+      {
+       "name": "Identifier les étapes de l'ovogenèse"
+      },
+      {
+       "name": "Préciser les phases du cycle ovarien"
+      },
+      {
+       "name": "Décrire le cycle utérin"
+      },
+      {
+       "name": "Relier le cycle ovarien et le cycle utérin"
+      },
+      {
+       "name": "Expliquer le contrôle du cycle ovarien"
+      },
+      {
+       "name": "Expliquer le rétrocontrôle ovarien"
+      },
+      {
+       "name": "Construire un schéma de synthèse de la régulation du cycle sexuel"
+      }
+     ]
+    },
+    {
+     "name": "La procréation",
+     "children": [
+      {
+       "name": "Déterminer les conditions de la fécondation"
+      },
+      {
+       "name": "Décrire les étapes de la fécondation"
+      },
+      {
+       "name": "Déterminer la composition et le mode d'action de la pilule contraceptive"
+      },
+      {
+       "name": "Identifier les causes de la stérilité"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Génétique humaine",
+   "children": [
+    {
+     "name": "Déterminer le mode de transmission des tares héréditaires"
+    },
+    {
+     "name": "Analyser le caryotype normal"
+    },
+    {
+     "name": "Détecter les anomalies chromosomiques"
+    },
+    {
+     "name": "Détecter les anomalies géniques"
+    }
+   ]
+  }
+ ],
+ "notes": "French SVT book (Bac Mathématiques). 3 themes / 6 chapters from the table des matières (p160) and theme introductions (chapter 2 opening page reads 'Étude d'un réflexe moteur à point de départ cutané'). Third level = 'Activité' titles (numbering removed). Theme 3 has no chapters; its activity 1 was not detected in the extract. Procréation may have further activities after 'Identifier les causes de la stérilité' (objectives mention PMA) that were not detected. Exercises, glossaire excluded."
+}

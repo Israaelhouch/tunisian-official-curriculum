@@ -1,0 +1,210 @@
+{
+ "code": "229262",
+ "title": "التصرف(شعبة الإقتصاد والخدمات)",
+ "used_for": [
+  "2eme-economie-services/GEST"
+ ],
+ "toc": [
+  {
+   "name": "Introduction à la gestion",
+   "children": [
+    {
+     "name": "Définition de la gestion",
+     "children": []
+    },
+    {
+     "name": "Les finalités de la gestion",
+     "children": []
+    },
+    {
+     "name": "Concepts fondamentaux",
+     "children": []
+    },
+    {
+     "name": "Les tâches du gestionnaire",
+     "children": []
+    },
+    {
+     "name": "Les outils de la gestion",
+     "children": []
+    },
+    {
+     "name": "La notion d’opportunité",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "L’entreprise centre de décisions",
+   "children": [
+    {
+     "name": "Présentation de l’entreprise",
+     "children": [
+      {
+       "name": "Définition de l’entreprise",
+       "children": []
+      },
+      {
+       "name": "Rôles de l’entreprise",
+       "children": []
+      },
+      {
+       "name": "Les objectifs de l’entreprise",
+       "children": []
+      },
+      {
+       "name": "La classification des entreprises",
+       "children": []
+      },
+      {
+       "name": "Les fonctions de l’entreprise",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Les partenaires de l’entreprise",
+     "children": [
+      {
+       "name": "Identification des partenaires",
+       "children": []
+      },
+      {
+       "name": "Relations de l’entreprise avec ses partenaires",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "L’information dans l’entreprise",
+     "children": [
+      {
+       "name": "Les caractéristiques de l’information",
+       "children": []
+      },
+      {
+       "name": "Collecte, saisie, traitement, synthèse et circulation des informations",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "La prise de décisions",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Les décisions d’achat",
+   "children": [
+    {
+     "name": "L’identification des besoins",
+     "children": []
+    },
+    {
+     "name": "La recherche, la consultation, la négociation et le choix des fournisseurs",
+     "children": []
+    },
+    {
+     "name": "La passation de la commande",
+     "children": []
+    },
+    {
+     "name": "Le suivi et la réception de la commande, la fiche de stocks",
+     "children": []
+    },
+    {
+     "name": "La réception, la saisie et le règlement de la facture",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Les décisions de production",
+   "children": [
+    {
+     "name": "Le processus de fabrication",
+     "children": []
+    },
+    {
+     "name": "L’organisation de la production",
+     "children": []
+    },
+    {
+     "name": "Le contrôle de la production",
+     "children": []
+    },
+    {
+     "name": "La notion de coût",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Les décisions liées au personnel de l’entreprise",
+   "children": [
+    {
+     "name": "Le recrutement du personnel",
+     "children": []
+    },
+    {
+     "name": "La rémunération du personnel",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Les décisions de ventes",
+   "children": [
+    {
+     "name": "Les prévisions des ventes",
+     "children": []
+    },
+    {
+     "name": "La provocation des ventes",
+     "children": []
+    },
+    {
+     "name": "La réalisation et le suivi des ventes",
+     "children": [
+      {
+       "name": "La livraison",
+       "children": []
+      },
+      {
+       "name": "La facturation",
+       "children": []
+      },
+      {
+       "name": "Le service après-vente",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "La saisie et le recouvrement des ventes",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Les décisions d’investissement et de financement",
+   "children": [
+    {
+     "name": "Les opérations d’investissement",
+     "children": []
+    },
+    {
+     "name": "Les opérations de financement",
+     "children": [
+      {
+       "name": "Les sources et le choix de financement",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Gestion 2ème économie et services. Chapters I-VII, sections (I-, II-...) and sub-sections (I-1...) from the Table des matières (pp.193-198), checked against course headings. Sensibilisation/Synthèse/A retenir/Evaluation/Complément and introductions excluded. TOC slips corrected from headings: ch.II 'II-2 Rôles de l’entreprise' is 'Relations de l’entreprise [avec] ses partenaires' in the text (p.63; 'avec' missing in the heading too), ch.VI last section numbered III in TOC but IV in text."
+}

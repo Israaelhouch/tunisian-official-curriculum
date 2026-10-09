@@ -1,0 +1,121 @@
+{
+ "code": "225381",
+ "title": "Science Biologique - sport",
+ "used_for": [
+  "3eme-sport/BIO"
+ ],
+ "toc": [
+  {
+   "name": "Le milieu intérieur et sa constance : l'homéostasie",
+   "children": [
+    {
+     "name": "Le milieu intérieur et ses caractéristiques",
+     "children": []
+    },
+    {
+     "name": "Le rôle du néphron dans la régulation de l'équilibre hydrominéral",
+     "children": []
+    },
+    {
+     "name": "La régulation de la glycémie",
+     "children": []
+    },
+    {
+     "name": "Les moyens de prévention du diabète",
+     "children": []
+    },
+    {
+     "name": "Hygiène du milieu intérieur",
+     "children": [
+      {
+       "name": "La déshydratation"
+      },
+      {
+       "name": "Impacts de la déshydratation sur l'équilibre hydrominéral"
+      },
+      {
+       "name": "Conséquences de la déshydratation sur la santé et les capacités"
+      },
+      {
+       "name": "Hygiène du milieu intérieur"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Immunité : maintien de l'intégrité de l'organisme",
+   "children": [
+    {
+     "name": "Le soi et le non soi",
+     "children": [
+      {
+       "name": "Les marqueurs biologiques du soi"
+      },
+      {
+       "name": "Le non soi, cible du système immunitaire"
+      }
+     ]
+    },
+    {
+     "name": "Les organes et les cellules de l'immunité",
+     "children": []
+    },
+    {
+     "name": "Les étapes de la réponse immunitaire spécifique",
+     "children": []
+    },
+    {
+     "name": "Dysfonctionnement du système immunitaire",
+     "children": [
+      {
+       "name": "Les allergies"
+      },
+      {
+       "name": "Le SIDA"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "L'information génétique et son expression",
+   "children": [
+    {
+     "name": "Notion de caractère héréditaire, d'information génétique, de phénotype et de génotype",
+     "children": [
+      {
+       "name": "Les critères de détermination de l'espèce"
+      },
+      {
+       "name": "Diversité à l'intérieur d'une espèce"
+      },
+      {
+       "name": "Notion de caractères héréditaires"
+      },
+      {
+       "name": "Notions de phénotype et de génotype"
+      }
+     ]
+    },
+    {
+     "name": "Localisation, nature et structure de l'information génétique",
+     "children": []
+    },
+    {
+     "name": "Origine de la diversité",
+     "children": []
+    },
+    {
+     "name": "Du génotype au phénotype : expression de l'information génétique",
+     "children": []
+    },
+    {
+     "name": "Transmission d'un couple d'allèles chez les diploïdes",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Table des matières (p4) with 3 themes and 14 chapters. Sections from roman-numeral headings visible in the extract; for most chapters they were not available (left empty). Hygiène/dysfonctionnement sections partly taken from synthesis text; medium confidence on those."
+}

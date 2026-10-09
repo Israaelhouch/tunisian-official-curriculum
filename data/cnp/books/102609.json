@@ -1,0 +1,138 @@
+{
+ "code": "102609",
+ "title": "الرياضيات",
+ "used_for": [
+  "6eme-primaire/MATH"
+ ],
+ "toc": [
+  {
+   "name": "الدرس 1 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "الدرس 2 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "أبني زوايا أقيستها بالدّرجة 15 - 30 - 60 - 90 - 120",
+   "children": []
+  },
+  {
+   "name": "الدرس 4 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "أتعرّف شبه المنحرف وأرسمه",
+   "children": []
+  },
+  {
+   "name": "أتعرّف مضاعفات مشتركة لعددين صحيحين طبيعيين فأكثر",
+   "children": []
+  },
+  {
+   "name": "أوظّف التناسب في السّلّم",
+   "children": []
+  },
+  {
+   "name": "أتعرّف متوازيات الأضلاع وخاصّياتها",
+   "children": []
+  },
+  {
+   "name": "أرسم متوازيات الأضلاع وأبنيها",
+   "children": []
+  },
+  {
+   "name": "الدرس 10 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "أفكّك الأعداد الكسريّة وأركّبها",
+   "children": []
+  },
+  {
+   "name": "أحسب قيس محيط دائرة",
+   "children": []
+  },
+  {
+   "name": "الدرس 13 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "الدرس 14 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "الدرس 15 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "أكتب عددا كسريّا بطرق مختلفة",
+   "children": []
+  },
+  {
+   "name": "أقارن الأعداد الكسريّة وأرتّبها",
+   "children": []
+  },
+  {
+   "name": "أتعرّف الأعداد الكسريّة العشريّة وأكتبها بطرق مختلفة",
+   "children": []
+  },
+  {
+   "name": "الدرس 19 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "الدرس 20 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "الدرس 21 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "أحسب مساحة متوازي أضلاع (متوازي الأضلاع، المستطيل، المعيّن، المربّع)",
+   "children": []
+  },
+  {
+   "name": "أتصرّف في الأعداد الكسريّة",
+   "children": []
+  },
+  {
+   "name": "الدرس 24 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "أجمع الأعداد الكسريّة وأطرحها",
+   "children": []
+  },
+  {
+   "name": "أحسب قيس مساحة القرص الدّائري",
+   "children": []
+  },
+  {
+   "name": "الدرس 27 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "الدرس 28 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "أوظّف التناسب في حساب معدّل السّرعة",
+   "children": []
+  },
+  {
+   "name": "الدرس 30 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "الدرس 31 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "الدرس 32 (عنوان غير مقروء)",
+   "children": []
+  }
+ ],
+ "notes": "No فهرس in the book (checked all 174 OCR'd pages). The preface (p3) says the book has five فترات, each a set of lessons with problem-solving pages and ending with 'أوظف مكتسباتي وأقيّمها' + 'أتسلى', but no period titles are printed and the period boundaries are not all recoverable (period ends seen at pp.33-34, 65, 131, 171-173), so the book is given as a flat list of lessons in page order, depth 1. Lesson titles from 30pt headings and the first OCR line of lesson-start pages. Excluded: opening review pages pp.4-13, 'أتدرّب على حل المسائل' pages, 'أوظف مكتسباتي وأقيّمها' evaluations, 'أتسلى'. Positional labels (lesson-start page found but title unreadable or truncated): 1 p14 ('أوظف التعامد والتوازي ومنصّف ...'), 2 p16 ('... على الأعداد التي تقيس الزمن'), 4 p24 ('... الأضلاع', triangles), 10 p50 ('... الأعداد الكسريّة وأكتبها وأقرؤها', first word unreadable), 13 p66, 14 p70 (divisibility by 2 and 5), 15 p74 (multiples of 3 and 9 / divisibility), 19 p93 (proportionality), 20 p98 (triangle area), 21 p107 ('أوظف التناسب في حساب ... المائويّة'), 24 p122 (area of rhombus/trapezoid?), 27 p136, 28 p140 (areas), 30 p153 ('أوظف التناسب في حساب ... والمسافة'), 31 p157 (solids: cube/rectangular box), 32 p165 ('أحسب قيس المساحة الجمليّة وقيس المساحة الجانبيّة لكل من متوازي ...'). 'أجمع' in lesson 25 restored from OCR 'pan' (only reading fitting '... الأعداد الكسرية وأطرحها'). Some lesson starts may have been missed (pp.103-106, 163-164 ambiguous). Low confidence."
+}

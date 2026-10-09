@@ -1,0 +1,85 @@
+{
+ "code": "281403",
+ "title": "الإيطالية",
+ "used_for": [
+  "bac-mathematiques/ITAL",
+  "bac-sciences-experimentales/ITAL",
+  "bac-informatique/ITAL",
+  "bac-techniques/ITAL",
+  "bac-lettres/ITAL",
+  "bac-economie-gestion/ITAL"
+ ],
+ "toc": [
+  {
+   "name": "Città o campagna",
+   "children": [
+    {
+     "name": "Giovannino va in città"
+    },
+    {
+     "name": "Abitare in campagna"
+    },
+    {
+     "name": "Avanza lo smog"
+    }
+   ]
+  },
+  {
+   "name": "Moda e Made in Italy",
+   "children": []
+  },
+  {
+   "name": "Sport e benessere",
+   "children": []
+  },
+  {
+   "name": "Cibo e alimentazione",
+   "children": [
+    {
+     "name": "L'appetito viene mangiando...!"
+    },
+    {
+     "name": "Che si mangia...!"
+    },
+    {
+     "name": "Mi tocca fare la spesa...!"
+    },
+    {
+     "name": "Il cibo è uno dei piaceri della vita!"
+    }
+   ]
+  },
+  {
+   "name": "Mass-media e telecomunicazioni",
+   "children": [
+    {
+     "name": "I nativi digitali"
+    },
+    {
+     "name": "La pubblicità"
+    },
+    {
+     "name": "Poste Italiane"
+    },
+    {
+     "name": "Amicizia via Internet"
+    }
+   ]
+  },
+  {
+   "name": "Le feste italiane",
+   "children": [
+    {
+     "name": "Non c'è amore dentro"
+    },
+    {
+     "name": "Lo stress delle feste"
+    },
+    {
+     "name": "A Carnevale ogni scherzo vale"
+    }
+   ]
+  }
+ ],
+ "notes": "Units from the INDICE (p166, back of book) which lists only unit/theme/objectives, no lesson titles. Lesson titles taken from large headings (A-, B-, C-, D- sections). Units 2 and 3 left empty because only some of their lessons appear in headings (A 'La nuova stagione è iniziata a Milano...!', 'Al centro commerciale'; A 'Attiva il corpo...Attiva la mente', D 'Vergogna perché non si può più andare allo stadio...!'). 'Amicizia via Internet' (unit 5) has no letter prefix but same heading style. 'Per saperne di più', songs/hymn, Riepilogo sull'Italia, Tavole riassuntive / Ricapitolazione della grammatica excluded."
+}

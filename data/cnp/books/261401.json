@@ -1,0 +1,109 @@
+{
+ "code": "261401",
+ "title": "الألمانية",
+ "used_for": [
+  "bac-mathematiques/ALLEM",
+  "bac-sciences-experimentales/ALLEM",
+  "bac-informatique/ALLEM",
+  "bac-techniques/ALLEM",
+  "bac-lettres/ALLEM",
+  "bac-economie-gestion/ALLEM"
+ ],
+ "toc": [
+  {
+   "name": "Feste und fröhliche Ereignisse",
+   "children": [
+    {
+     "name": "Wann sind Sie geboren?"
+    },
+    {
+     "name": "Eine Einladung"
+    },
+    {
+     "name": "Geschenke zum Geburtstag"
+    },
+    {
+     "name": "Was schenke ich zum Geburtstag?"
+    }
+   ]
+  },
+  {
+   "name": "Städte und Verkehrsmittel",
+   "children": [
+    {
+     "name": "Mit der Bahn"
+    },
+    {
+     "name": "Fahrpläne"
+    },
+    {
+     "name": "In der Stadt"
+    },
+    {
+     "name": "Orientierung in der Stadt"
+    },
+    {
+     "name": "Berlin"
+    }
+   ]
+  },
+  {
+   "name": "Aussehen und Charakter",
+   "children": [
+    {
+     "name": "Bekannte Gesichter in Deutschland"
+    },
+    {
+     "name": "Kleider machen Leute"
+    },
+    {
+     "name": "In der Boutique"
+    },
+    {
+     "name": "Vor dem Schaufenster"
+    }
+   ]
+  },
+  {
+   "name": "Schule und Beruf",
+   "children": [
+    {
+     "name": "Mein Traumberuf ist..."
+    },
+    {
+     "name": "Zufrieden oder unzufrieden?"
+    },
+    {
+     "name": "Das Schulsystem in Deutschland"
+    },
+    {
+     "name": "Zukunftspläne"
+    },
+    {
+     "name": "Lehrstellensuche"
+    }
+   ]
+  },
+  {
+   "name": "Massenmedien",
+   "children": [
+    {
+     "name": "Alltag und Medien"
+    },
+    {
+     "name": "Hast du ein Handy?"
+    },
+    {
+     "name": "Fernsehen"
+    },
+    {
+     "name": "Fernsehgewohnheiten"
+    },
+    {
+     "name": "Braucht man heutzutage einen Computer?"
+    }
+   ]
+  }
+ ],
+ "notes": "From the Inhaltsverzeichnis (p5-7) of 'Ach so!': 5 Kapitel -> Lektionen L1-L23, confirmed by headings. Per-chapter Grammatik/Übungen/Selbstkontrolle pages and Anhang (Hörtexte, Wörterliste) excluded."
+}

@@ -1,0 +1,78 @@
+{
+ "code": "222381",
+ "title": "Maths - sport",
+ "used_for": [
+  "3eme-sport/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Généralités sur les fonctions",
+   "children": [
+    {
+     "name": "Ensemble de définition"
+    },
+    {
+     "name": "Sens de variation et extremum"
+    },
+    {
+     "name": "Fonction paire, fonction impaire"
+    }
+   ]
+  },
+  {
+   "name": "Continuité et limites",
+   "children": []
+  },
+  {
+   "name": "Limites et comportement asymptotique",
+   "children": []
+  },
+  {
+   "name": "Dérivation et applications",
+   "children": [
+    {
+     "name": "Nombre dérivé"
+    },
+    {
+     "name": "Interprétation graphique du nombre dérivé"
+    },
+    {
+     "name": "Fonction dérivée"
+    },
+    {
+     "name": "Applications de la dérivation"
+    }
+   ]
+  },
+  {
+   "name": "Exemples d'étude de fonctions",
+   "children": []
+  },
+  {
+   "name": "Suites réelles",
+   "children": [
+    {
+     "name": "Définition et vocabulaire"
+    },
+    {
+     "name": "Le principe de récurrence"
+    },
+    {
+     "name": "Suites arithmétiques"
+    },
+    {
+     "name": "Suite géométrique"
+    }
+   ]
+  },
+  {
+   "name": "Dénombrement",
+   "children": []
+  },
+  {
+   "name": "Probabilités",
+   "children": []
+  }
+ ],
+ "notes": "The PDF text layer uses subset fonts with a scrambled (font-specific, order-preserving) character encoding, so nothing is directly legible. Names were recovered by deterministic decoding of the book's own text: sommaire p5 lists 9 entries (8 chapters + 'Eléments de correction', excluded) with page numbers decoding to 6, 23, 40, 62, 73/83/93, 103, 124, 141, 164; confirmed by decoded chapter headings (p6 'Généralités sur les fonctions', p23 'Continuité et limites'). Sections decoded from ch.1 opening page plan (I-III), and numbered section headings for Dérivation (p64-70, I-IV) and Suites réelles (p105-111, I-IV); these may be incomplete. Probabilités headings only partially decodable (II 'De la fréquence à la probabilité', IV/V 'Epreuves successives et événements indépendants/dépendants'; I and III missing), so left empty. Confidence limited by the encoding."
+}

@@ -1,0 +1,54 @@
+{
+ "code": "228233",
+ "title": "Technologie - Manuel d'activités(sciences et technologie de l'info)",
+ "used_for": [
+  "2eme-sciences/TECHNO",
+  "2eme-technologie-informatique/TECHNO"
+ ],
+ "toc": [
+  {
+   "name": "Analyse fonctionnelle",
+   "children": [
+    {
+     "name": "Analyse fonctionnelle interne",
+     "children": []
+    },
+    {
+     "name": "Description temporelle du comportement d’un système technique",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Analyse structurelle et conception",
+   "children": [
+    {
+     "name": "Définition graphique d’un objet technique et DAO",
+     "children": []
+    },
+    {
+     "name": "Système de numération et codes",
+     "children": []
+    },
+    {
+     "name": "Transmission de puissance",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Réalisation et production",
+   "children": [
+    {
+     "name": "Procédés de mise en forme des matériaux – Procédés et typologie des assemblages – Métrologie",
+     "children": []
+    },
+    {
+     "name": "Systèmes embarqués : programmation d’une carte de commande",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Technologie manuel d'activités 2ème (sciences / technologie de l'informatique). Sommaire (p.8) is in a shifted-font encoding (each char -29); decoded it gives 3 themes and 7 séquences, confirmed by 'Thème n' openers (pp.9, 60, 165). Activities inside séquences are only labelled 'Activité N1, N2...' with no titles in the sommaire (activity headings also garbled), so séquences have no children. Activités d'évaluation excluded. Last séquence printed on two lines 'Systèmes embarqués / Programmation d’une carte de commande' (joined with a colon)."
+}

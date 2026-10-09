@@ -1,0 +1,63 @@
+{
+ "code": "291401",
+ "title": "الإسبانية",
+ "used_for": [
+  "bac-mathematiques/ESPA",
+  "bac-sciences-experimentales/ESPA",
+  "bac-informatique/ESPA",
+  "bac-techniques/ESPA",
+  "bac-lettres/ESPA",
+  "bac-economie-gestion/ESPA"
+ ],
+ "toc": [
+  {
+   "name": "¿Qué hora es?",
+   "children": []
+  },
+  {
+   "name": "¿Qué haces cada día?",
+   "children": []
+  },
+  {
+   "name": "¡Por fin el sábado!",
+   "children": []
+  },
+  {
+   "name": "¿Qué plan tienes?",
+   "children": []
+  },
+  {
+   "name": "¿Cómo quedamos?",
+   "children": []
+  },
+  {
+   "name": "¿Vienes conmigo?",
+   "children": []
+  },
+  {
+   "name": "¿Qué has hecho este fin de semana?",
+   "children": []
+  },
+  {
+   "name": "¿Dónde fuiste la semana pasada?",
+   "children": []
+  },
+  {
+   "name": "¡Qué gente tan interesante!",
+   "children": []
+  },
+  {
+   "name": "Cuando yo era niña...",
+   "children": []
+  },
+  {
+   "name": "¡Cómo cambian las cosas!",
+   "children": []
+  },
+  {
+   "name": "¿Qué te pasa?",
+   "children": []
+  }
+ ],
+ "notes": "Alcántara 2. From the ÍNDICE (p4-6): 12 lecciones in a flat sequence (no grouping units), confirmed by size-24 headings. The índice gives only objectives/grammar/culture per lesson, no sub-lesson titles, so children are empty. Repaso 1-5, Glosario and Resumen gramatical excluded."
+}

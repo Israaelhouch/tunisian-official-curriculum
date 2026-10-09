@@ -1,0 +1,61 @@
+{
+ "code": "211321",
+ "title": "التفكير الإسلامي_شعبة الآداب",
+ "used_for": [
+  "3eme-lettres/ISLAM"
+ ],
+ "toc": [
+  {
+   "name": "التوحيد والمجتمع",
+   "children": [
+    {
+     "name": "البعد الاجتماعي للتوحيد"
+    },
+    {
+     "name": "أصول النظام الاجتماعي في الإسلام"
+    },
+    {
+     "name": "المبادئ السياسية الكبرى"
+    },
+    {
+     "name": "الدولة والقيم"
+    }
+   ]
+  },
+  {
+   "name": "تسخير الكون ومسؤولية الإنسان",
+   "children": [
+    {
+     "name": "التفكير فريضة إسلامية"
+    },
+    {
+     "name": "الدرس الثاني"
+    },
+    {
+     "name": "الدرس الثالث"
+    },
+    {
+     "name": "الدرس الرابع"
+    }
+   ]
+  },
+  {
+   "name": "النص والتاريخ",
+   "children": [
+    {
+     "name": "الدرس الأول"
+    },
+    {
+     "name": "في الحاجة إلى التأويل"
+    },
+    {
+     "name": "الإعجاز دلالاته ومظاهره"
+    },
+    {
+     "name": "الدرس الرابع"
+    }
+   ]
+  }
+ ],
+ "notes": "Three مباحث, titles from their opening pages (p6, p39, p68) and running heads. المبحث الأول lessons from محتويات الكتاب (p109) and lesson opening pages (p8, p14, p21, p28). المبحث الثاني: lesson 1 'التفكير فريضة إسلامية' from the full-page OCR of p41; lessons 2 (p47, 'مقومات ... في الإسلام'), 3 (p53, 'دلالات ...') and 4 (p57, 'مسؤولية الإنسان في ...') are only partly readable, so positional labels 'الدرس الثاني/الثالث/الرابع' are used. المبحث الثالث: lessons 2 (p78) and 3 (p85) readable; lesson 1 (p70) and lesson 4 (p93, on التشريع/الاجتهاد) have no readable title: positional labels 'الدرس الأول' / 'الدرس الرابع'. Excluded: activities (نشاط), نشاط إدماجي, أؤلف بين مكتسباتي / أعمق مكتسباتي, نصوص للتوسع. 5 placeholders."
+}

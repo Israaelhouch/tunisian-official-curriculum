@@ -1,0 +1,57 @@
+{
+ "code": "221421",
+ "title": "فرنسية_شعبة الآداب",
+ "used_for": [
+  "bac-lettres/FRAN"
+ ],
+ "toc": [
+  {
+   "name": "Partage",
+   "children": []
+  },
+  {
+   "name": "L'engagement en littérature",
+   "children": []
+  },
+  {
+   "name": "L'appel de la modernité",
+   "children": []
+  },
+  {
+   "name": "À la lumière de la raison",
+   "children": []
+  },
+  {
+   "name": "Poésies",
+   "children": [
+    {
+     "name": "La chevelure"
+    },
+    {
+     "name": "Le pain"
+    },
+    {
+     "name": "Barbara"
+    },
+    {
+     "name": "Phèdre"
+    },
+    {
+     "name": "Aube"
+    }
+   ]
+  },
+  {
+   "name": "Lecture d'une œuvre complète",
+   "children": [
+    {
+     "name": "Antigone"
+    },
+    {
+     "name": "Carmen"
+    }
+   ]
+  }
+ ],
+ "notes": "Modules from the sommaire (p5-6). The sommaire only lists generic activity rubrics per module (Textes à lire et à expliquer, Activités lexicales, Pratique de la langue, ...), and the texts of modules 1-4 are mostly untitled extracts (only a few titles like 'Je t'aime', 'Le déserteur' appear in headings), so their children are left empty. Module 5 text titles taken from headings p243-251. Glossaire, annexes, lectures complémentaires, autoévaluation excluded."
+}

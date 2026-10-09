@@ -1,0 +1,99 @@
+{
+ "code": "261304",
+ "title": "الألمانية",
+ "used_for": [
+  "3eme-mathematiques/ALLEM",
+  "3eme-sciences-experimentales/ALLEM",
+  "3eme-informatique/ALLEM",
+  "3eme-techniques/ALLEM",
+  "3eme-lettres/ALLEM",
+  "3eme-economie-gestion/ALLEM"
+ ],
+ "toc": [
+  {
+   "name": "Soziale Beziehungen / Gegenseitiges Kennenlernen",
+   "children": [
+    {
+     "name": "Guten Tag! / Hallo!"
+    },
+    {
+     "name": "Wer ist das?"
+    },
+    {
+     "name": "Woher kommen Sie? Wo wohnen Sie?"
+    },
+    {
+     "name": "Zahlen"
+    },
+    {
+     "name": "Was sind Sie von Beruf?"
+    }
+   ]
+  },
+  {
+   "name": "Schule",
+   "children": [
+    {
+     "name": "Wie heißt das auf Deutsch?"
+    },
+    {
+     "name": "Schulfächer"
+    }
+   ]
+  },
+  {
+   "name": "Wohnen",
+   "children": [
+    {
+     "name": "Wohnen"
+    },
+    {
+     "name": "Ist die Wohnung frei?"
+    },
+    {
+     "name": "Wohnsituationen"
+    }
+   ]
+  },
+  {
+   "name": "Essen und Trinken",
+   "children": [
+    {
+     "name": "Was essen Sie gern?"
+    },
+    {
+     "name": "Ja, bitte?"
+    }
+   ]
+  },
+  {
+   "name": "Alltag und Freizeit",
+   "children": [
+    {
+     "name": "Was machen Sie in Ihrer Freizeit?"
+    },
+    {
+     "name": "Wie spät ist es?"
+    },
+    {
+     "name": "Eine Verabredung"
+    }
+   ]
+  },
+  {
+   "name": "Gesundheit",
+   "children": [
+    {
+     "name": "Wie geht es Ihnen?"
+    },
+    {
+     "name": "Die Sprechstunde"
+    },
+    {
+     "name": "Stefan ist krank"
+    }
+   ]
+  }
+ ],
+ "notes": "'Ach so!' Lehr- und Arbeitsbuch 1. Taken from the Inhaltsverzeichnis (p6-9), which lists Kapitel 1-6 with lessons L1-L18, and checked against the page headings. The full L3 title 'Woher kommen Sie? Wo wohnen Sie?' comes from the p17 heading. Left out: the Grammatik, Übungen and Selbstkontrolle pages, Anhang 1 (Aussprache) and Anhang 2 (Wörterliste)."
+}

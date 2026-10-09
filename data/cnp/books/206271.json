@@ -1,0 +1,65 @@
+{
+ "code": "206271",
+ "title": "الجغرافيا (شعبتي العلوم و تكنولوجيا الإعلامية)",
+ "used_for": [
+  "2eme-sciences/GEO",
+  "2eme-technologie-informatique/GEO"
+ ],
+ "toc": [
+  {
+   "name": "العالم العربي : المجال والتنمية",
+   "children": [
+    {
+     "name": "الموقع والوسط الطبيعي بالعالم العربي : المزايا والضغوطات",
+     "children": []
+    },
+    {
+     "name": "الموارد الطبيعيّة بالعالم العربي",
+     "children": []
+    },
+    {
+     "name": "العالم العربي : السكّان والمسألة السكانيّة",
+     "children": []
+    },
+    {
+     "name": "التنمية الاقتصاديّة في العالم العربي",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "البلاد التونسيّة : المجال والتنمية",
+   "children": [
+    {
+     "name": "الوسط الطبيعي التونسي : المزايا والضغوطات",
+     "children": []
+    },
+    {
+     "name": "الموارد الطبيعيّة بالبلاد التونسيّة",
+     "children": []
+    },
+    {
+     "name": "البلاد التونسيّة : السكّان",
+     "children": []
+    },
+    {
+     "name": "البلاد التونسيّة : المجال الفلاحي",
+     "children": []
+    },
+    {
+     "name": "البلاد التونسيّة : المجال الصناعي",
+     "children": []
+    },
+    {
+     "name": "البلاد التونسيّة : المجال السياحي",
+     "children": []
+    },
+    {
+     "name": "البلاد التونسيّة : التفاوت الإقليمي",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Source: فهرس الكتاب p.144 (OCR), cross-checked with lesson-title headings. Lesson 6 last word unreadable in فهرس ('ge bell') but printed as 'المجال السياحم' (=السياحي) in p.125 heading. OCR fixes: 'الضفوطات'->'الضغوطات'. No positional placeholders. Excluded: المقدمة العامة, خريطة الكتاب, نشاط تقييمي. Activities (النشاط الأول...) not used as sections; lessons have empty children."
+}

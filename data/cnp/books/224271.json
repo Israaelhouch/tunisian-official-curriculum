@@ -1,0 +1,61 @@
+{
+ "code": "224271",
+ "title": "كيمياء (شعبة تكنولوجيا الإعلامية)",
+ "used_for": [
+  "2eme-technologie-informatique/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "La matière",
+   "children": [
+    {
+     "name": "Un modèle de description de l’atome",
+     "children": []
+    },
+    {
+     "name": "L’élément chimique",
+     "children": []
+    },
+    {
+     "name": "Un modèle du cortège électronique",
+     "children": []
+    },
+    {
+     "name": "Des atomes aux molécules",
+     "children": []
+    },
+    {
+     "name": "Tableau de la classification périodique des éléments",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Les solutions aqueuses acides et basiques",
+   "children": [
+    {
+     "name": "Le pH des solutions aqueuses",
+     "children": []
+    },
+    {
+     "name": "Réactions des solutions acides et basiques",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Chimie organique : les matières plastiques",
+   "children": [
+    {
+     "name": "Généralités sur les matières plastiques",
+     "children": []
+    },
+    {
+     "name": "Les déchets plastiques",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Chimie 2ème Technologie de l'informatique. Themes and chapters from the Table des matières (p.175, 'LA LATIERE' OCR -> 'La matière'), ordered by page and confirmed by theme openers and chapter headings (pp.6-143). Accents restored from ALL CAPS. Documents (e.g. 'Le noyau et ses constituants', 'Les pluies acides') excluded; no sections recoverable."
+}

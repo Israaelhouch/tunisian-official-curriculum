@@ -1,0 +1,315 @@
+{
+ "code": "222451",
+ "title": "رياضيات_شعبة العلوم التقنية",
+ "used_for": [
+  "bac-techniques/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Limite et continuité",
+   "children": [
+    {
+     "name": "Prolongement par continuité"
+    },
+    {
+     "name": "Limite et ordre"
+    },
+    {
+     "name": "Fonctions monotones et limites"
+    },
+    {
+     "name": "Limite et continuité d'une fonction composée"
+    },
+    {
+     "name": "Continuité sur un intervalle – Image d'un intervalle par une fonction continue"
+    },
+    {
+     "name": "Résolution d'équations de la forme f(x) = k"
+    },
+    {
+     "name": "Limites et comportement asymptotique"
+    }
+   ]
+  },
+  {
+   "name": "Dérivabilité",
+   "children": [
+    {
+     "name": "Dérivabilité à gauche – Dérivabilité à droite"
+    },
+    {
+     "name": "Dérivabilité sur un intervalle – Fonction dérivée"
+    },
+    {
+     "name": "Dérivée seconde et point d'inflexion"
+    },
+    {
+     "name": "Dérivée et sens de variation"
+    },
+    {
+     "name": "Extrema"
+    },
+    {
+     "name": "Dérivée d'une fonction composée"
+    },
+    {
+     "name": "Théorème et inégalités des accroissements finis"
+    }
+   ]
+  },
+  {
+   "name": "Fonction continue et strictement monotone sur un intervalle",
+   "children": [
+    {
+     "name": "Restriction d'une fonction"
+    },
+    {
+     "name": "Image d'un intervalle par une fonction continue et strictement monotone"
+    },
+    {
+     "name": "Fonction réciproque d'une fonction continue et strictement monotone"
+    },
+    {
+     "name": "Fonction réciproque de la fonction x ↦ xⁿ"
+    },
+    {
+     "name": "Dérivée d'une fonction réciproque"
+    }
+   ]
+  },
+  {
+   "name": "Etude de fonctions",
+   "children": [
+    {
+     "name": "Etude d'exemples de fonctions polynômes"
+    },
+    {
+     "name": "Etude d'exemples de fonctions rationnelles"
+    },
+    {
+     "name": "Etude d'exemples de fonctions irrationnelles"
+    },
+    {
+     "name": "Etude d'exemples de fonctions trigonométriques"
+    }
+   ]
+  },
+  {
+   "name": "Fonctions primitives",
+   "children": [
+    {
+     "name": "Fonctions primitives d'une fonction continue"
+    },
+    {
+     "name": "Opérations sur les fonctions primitives"
+    },
+    {
+     "name": "Exemples de calcul de fonctions primitives"
+    }
+   ]
+  },
+  {
+   "name": "Fonctions logarithmes",
+   "children": [
+    {
+     "name": "La fonction logarithme népérien"
+    },
+    {
+     "name": "Propriété fondamentale de la fonction ln – Règles de calcul"
+    },
+    {
+     "name": "Etude de la fonction x ↦ ln x"
+    },
+    {
+     "name": "Résolution d'équations et d'inéquations"
+    },
+    {
+     "name": "Dérivée d'une fonction du type x ↦ ln(u(x))"
+    },
+    {
+     "name": "Etude d'exemples de fonctions du type x ↦ ln(u(x))"
+    }
+   ]
+  },
+  {
+   "name": "Fonctions exponentielles",
+   "children": [
+    {
+     "name": "La fonction exponentielle de base e"
+    },
+    {
+     "name": "Théorème fondamental – Règles de calcul"
+    },
+    {
+     "name": "Etude de la fonction x ↦ eˣ"
+    },
+    {
+     "name": "Dérivée de eᵘ – Primitive de u'eᵘ où u est une fonction dérivable"
+    },
+    {
+     "name": "Fonctions puissances"
+    },
+    {
+     "name": "Etude d'exemples de fonctions du type exp(u(x))"
+    }
+   ]
+  },
+  {
+   "name": "Calcul intégral",
+   "children": [
+    {
+     "name": "Intégrale d'une fonction continue"
+    },
+    {
+     "name": "Propriétés de l'intégrale"
+    },
+    {
+     "name": "Inégalités de la moyenne – Théorème de la moyenne"
+    },
+    {
+     "name": "Théorème d'intégration par parties"
+    },
+    {
+     "name": "Calcul d'aires planes – Calcul des volumes de solides de révolution"
+    }
+   ]
+  },
+  {
+   "name": "Suites réelles",
+   "children": [
+    {
+     "name": "Sens de variation d'une suite réelle"
+    },
+    {
+     "name": "Suite majorée, suite minorée, suite bornée"
+    },
+    {
+     "name": "Limite d'une suite réelle"
+    },
+    {
+     "name": "Opérations sur les limites de suites"
+    },
+    {
+     "name": "Théorèmes de comparaison"
+    }
+   ]
+  },
+  {
+   "name": "Nombres complexes",
+   "children": [
+    {
+     "name": "Opérations algébriques sur les nombres complexes"
+    },
+    {
+     "name": "Module d'un nombre complexe"
+    },
+    {
+     "name": "Forme trigonométrique et forme exponentielle d'un nombre complexe"
+    },
+    {
+     "name": "Colinéarité et orthogonalité de deux vecteurs"
+    }
+   ]
+  },
+  {
+   "name": "Equations à coefficients complexes",
+   "children": [
+    {
+     "name": "Racines carrées d'un nombre complexe"
+    },
+    {
+     "name": "Équation du second degré à coefficients complexes"
+    },
+    {
+     "name": "Racines n-ièmes d'un nombre complexe non nul"
+    },
+    {
+     "name": "Équations de degré supérieur à 2 dans ℂ"
+    }
+   ]
+  },
+  {
+   "name": "Droites et plans dans l'espace",
+   "children": [
+    {
+     "name": "Equations de droites dans l'espace – Positions relatives de deux droites"
+    },
+    {
+     "name": "Equations de plans dans l'espace – Positions relatives de deux plans"
+    },
+    {
+     "name": "Positions relatives d'une droite et d'un plan de l'espace"
+    }
+   ]
+  },
+  {
+   "name": "Produit scalaire, produit vectoriel et produit mixte dans l'espace",
+   "children": [
+    {
+     "name": "Exploitation du produit scalaire dans l'espace"
+    },
+    {
+     "name": "Exploitation du produit vectoriel dans l'espace"
+    },
+    {
+     "name": "Exploitation du produit mixte dans l'espace"
+    },
+    {
+     "name": "La sphère"
+    }
+   ]
+  },
+  {
+   "name": "Probabilité sur un ensemble fini",
+   "children": [
+    {
+     "name": "Probabilité sur un ensemble fini"
+    },
+    {
+     "name": "Probabilité uniforme"
+    },
+    {
+     "name": "Probabilité conditionnelle"
+    },
+    {
+     "name": "Évènements indépendants"
+    },
+    {
+     "name": "Principe des probabilités composées"
+    },
+    {
+     "name": "Principe des probabilités totales – Formule de Bayes"
+    }
+   ]
+  },
+  {
+   "name": "Variables aléatoires réelles",
+   "children": [
+    {
+     "name": "Variable aléatoire réelle"
+    },
+    {
+     "name": "La loi binomiale"
+    },
+    {
+     "name": "Exemples de variables aléatoires réelles continues"
+    }
+   ]
+  },
+  {
+   "name": "Statistiques",
+   "children": [
+    {
+     "name": "Séries statistiques à deux caractères quantitatifs"
+    },
+    {
+     "name": "Ajustement affine d'une série statistique double"
+    },
+    {
+     "name": "Exemples d'ajustement non affine"
+    }
+   ]
+  }
+ ],
+ "notes": "16 chapters from the sommaire (p5-6, page numbers) matching mode d'emploi. Sections from size-20 headings in page order; chapter 1 sections confirmed by its 'Plan du chapitre'. 'Module d'un nombre complexe' taken from a marker line (p225). Formula fragments restored in a few section titles (x ↦ xⁿ, ln(u(x)), eˣ, ℂ). Any opening section of a chapter not caught as a heading may be missing (e.g. start of Dérivabilité)."
+}

@@ -1,0 +1,157 @@
+{
+ "code": "103304",
+ "title": "الإيقاظ العلمي",
+ "used_for": [
+  "3eme-primaire/EVEIL"
+ ],
+ "toc": [
+  {
+   "name": "التنقل",
+   "children": [
+    {
+     "name": "حاجة الإنسان والحيوان إلى التنقل"
+    },
+    {
+     "name": "درس غير مقروء (ص 12)"
+    },
+    {
+     "name": "التنقل في الماء"
+    },
+    {
+     "name": "التنقل في الجو"
+    }
+   ]
+  },
+  {
+   "name": "التغذية",
+   "children": [
+    {
+     "name": "مصادر الأغذية: مصدر نباتي - مصدر حيواني"
+    },
+    {
+     "name": "تنوع الأغذية بالنسبة إلى الإنسان"
+    },
+    {
+     "name": "درس غير مقروء (ص 35)"
+    },
+    {
+     "name": "حاجة النبات إلى الغذاء"
+    }
+   ]
+  },
+  {
+   "name": "التكاثر والنمو",
+   "children": [
+    {
+     "name": "درس غير مقروء (ص 44)"
+    },
+    {
+     "name": "الحيوانات البيوضة"
+    },
+    {
+     "name": "الحيوانات الولودة"
+    }
+   ]
+  },
+  {
+   "name": "التنفس",
+   "children": [
+    {
+     "name": "حركات القفص الصدري"
+    },
+    {
+     "name": "درس غير مقروء (ص 67)"
+    }
+   ]
+  },
+  {
+   "name": "الوقاية من الأمراض",
+   "children": [
+    {
+     "name": "بعض الأمراض المعدية التي تصيب الإنسان: مرض الرمد"
+    },
+    {
+     "name": "بعض الأمراض التي تصيب الحيوانات الأهلية: داء الكلب"
+    }
+   ]
+  },
+  {
+   "name": "حماية المحيط",
+   "children": [
+    {
+     "name": "دور الإنسان في المحافظة على البيئة ومقاومة التلوث"
+    },
+    {
+     "name": "أهمية الشجرة في الحياة وحماية بعض النباتات والحيوانات من الصيد والحرائق"
+    }
+   ]
+  },
+  {
+   "name": "الزمن",
+   "children": [
+    {
+     "name": "الأحداث الدورية، الأحداث غير الدورية"
+    },
+    {
+     "name": "تقدير فترة زمنية باعتماد ظاهرة دورية مألوفة"
+    },
+    {
+     "name": "درس غير مقروء (ص 98)"
+    },
+    {
+     "name": "الساعة الرملية"
+    },
+    {
+     "name": "درس غير مقروء (ص 106)"
+    },
+    {
+     "name": "الساعة ذات العقارب"
+    },
+    {
+     "name": "الساعات ذات الخانات"
+    }
+   ]
+  },
+  {
+   "name": "محور غير مقروء (ص 118-139)",
+   "children": [
+    {
+     "name": "التأثير الظاهر للقوة"
+    },
+    {
+     "name": "درس غير مقروء (ص 122)"
+    },
+    {
+     "name": "شروط حصول عمل"
+    },
+    {
+     "name": "درس غير مقروء (ص 129)"
+    },
+    {
+     "name": "درس غير مقروء (ص 132)"
+    },
+    {
+     "name": "أنواع الطاقة"
+    }
+   ]
+  },
+  {
+   "name": "المادة",
+   "children": [
+    {
+     "name": "حالات المادة في الطبيعة"
+    },
+    {
+     "name": "التبخر والغليان"
+    },
+    {
+     "name": "الإسالة"
+    },
+    {
+     "name": "درس غير مقروء (ص 154)"
+    }
+   ]
+  }
+ ],
+ "notes": "Sources: lesson pages ('المحور : ...' and 'الموضوع : ...' lines, large-font headings) cross-checked with the OCR'd فهرس (pp.158-159, very noisy). Axis -> lesson. The book is split into علم الأحياء (axes 1-6) and a physics part (axes 7-9, divider p.90 unreadable); that part level is not used. Placeholders: unreadable lesson titles at pp.12, 35, 44 (flowering-plant reproduction), 67 (respiratory hygiene), 98 (time-measuring tool / pendulum), 106 (likely water clock), 122 (falling body), 129 ('... العمل'), 132 (energy), 154 (melting/freezing; title blank, TOC prints the objective); axis of pp.118-139 unreadable (heading garbled; p.129 shows '... : العمل'). OCR-corrected names: 'حاجة الإنسان والحيوان إلى التنقل' (TOC 'الكل'), 'التنقل في الماء' (TOC shows only '... الماء'), 'حاجة النبات إلى الغذاء' (from objective + TOC fragment), 'الحيوانات البيوضة/الولودة' (TOC fragments). Excluded: مذكرة تقييم، التقييم، أقيم مكتسباتي، أدعم مكتسباتي and integration pages (87, 116, 140). Low-medium confidence."
+}

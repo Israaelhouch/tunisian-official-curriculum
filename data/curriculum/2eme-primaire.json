@@ -1,0 +1,555 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Décret gouvernemental n° 2019-1085 du 19 novembre 2019 fixant l'horaire des études dans l'enseignement de base et dans l'enseignement secondaire (JORT n° 95, 2019) — https://9anoun.tn/kb/jorts/jort-2019-095-424da/decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et-dans-lenseignement-secondaire-60",
+    "CNP 101215 — Arabia Kiaa 2B — https://www.cnp.com.tn/arabic/PDF/101215P00.pdf",
+    "CNP 102210 — Riadhiette 2B — https://www.cnp.com.tn/arabic/PDF/102210P00.pdf"
+  ],
+  "level": {
+    "name_fr": "2ème année primaire",
+    "name_ar": "السنة الثانية ابتدائي",
+    "code": "2P",
+    "cycle": "primaire",
+    "grade_number": 2,
+    "display_order": 2,
+    "is_national_exam_year": false
+  },
+  "section": {
+    "name_fr": "Tronc commun",
+    "name_ar": "جذع مشترك",
+    "code": "TC",
+    "is_common_core": true
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "العيش معا والمواطنة",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المحيط والاستهلاك / المبادرة وبناء المشاريع",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الصحة والرفاه",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "وسائل الإعلام والاتصال",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المحيط والاستهلاك",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المبادرة وبناء المشاريع",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "العيش معا والمواطنة",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "خزانة النصوص",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Français",
+        "name_ar": "الفرنسية",
+        "code": "FRAN"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الفترة 1",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "المجموعات ومكوناتها والعلاقة بينها",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المجموعات: متمم مجموعة في أخرى",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: تمثيل الوضعية برسم",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 99: الجمع بالاحتفاظ ومن دونه",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: استخراج المعلومات من نص الوضعية",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 99: الطرح دون زيادة ولا تفكيك",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: تمييز المعطيات وثيقة الصلة بالوضعية",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الخط المستقيم والخط المنحني: الرسم والتوظيف",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القطع النقدية المتداولة 5، 10، 20، 50: التصرف فيها",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: تحديد المطلوب",
+              "order_index": 10,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 2",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الأعداد من 0 إلى 99: مكمل عدد إلى آخر",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: تمثيل الوضعية بمخطط",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 99: الجمع والطرح دون زيادة ولا تفكيك",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الخط المنكسر: التعرف والاستعمال",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: طرح أسئلة توافق معطيات الوضعية",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "العدد 100: القراءة والكتابة والتمثيل",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: إعادة صوغ الوضعية بأسلوب شخصي",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "العدد 100: التفكيك والتركيب",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القطعة النقدية 100 مي: التصرف فيها",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: صوغ وضعية تناسب عملية جمع أو طرح",
+              "order_index": 10,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 3",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الأعداد من 0 إلى 199: القراءة والكتابة والتمثيل",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: إنتاج أسئلة توافق معطيات الوضعية",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 199: تفكيك وتركيب",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "صوغ الإجابات اللفظية المناسبة",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 199: المقارنة والترتيب",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الخط المنكسر: الرسم والتوظيف",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: تحديد العلاقة بين خاصيات المفاهيم",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القطع النقدية المتداولة: التصرف في القطع النقدية 5، 10، 20، 50، 100",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 199: الجمع بالاحتفاظ",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: تحديد المطلوب",
+              "order_index": 10,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 4",
+          "order_index": 4,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الأعداد من 0 إلى 199: الجمع بالاحتفاظ ومن دونه",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: إنتاج وضعية يتطلب حلها توظيف الجمع أو الطرح",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 199: الطرح دون زيادة ولا تفكيك",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المضلعات: تعرف المضلعات",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: إنتاج وضعية يتطلب حلها توظيف الجمع أو الطرح",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 199: الجمع والطرح دون زيادة ولا تفكيك",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 499: القراءة والكتابة والتمثيل",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: إنتاج وضعية يتطلب حلها توظيف الجمع أو الطرح أو المكمل",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 499: التفكيك والتركيب",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القطع النقدية المتداولة: التصرف في القطعة النقدية 200",
+              "order_index": 10,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: إنتاج وضعية يتطلب حلها توظيف الجمع أو الطرح أو المكمل",
+              "order_index": 11,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 5",
+          "order_index": 5,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الأعداد من 0 إلى 499: المقارنة والترتيب",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 499: الجمع بالاحتفاظ ومن دونه",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: تحرير حل مسألة",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 499: الطرح دون زيادة ولا تفكيك",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القطع النقدية المتداولة 5، 10، 20، 50، 100، 200: التصرف فيها",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: تحرير حل مسألة",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 499: الجمع والطرح دون زيادة",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المضلعات: الرسم",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: تحرير حل مسألة",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 6",
+          "order_index": 6,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الأعداد من 0 إلى 999: القراءة والكتابة والتمثيل",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 999: التفكيك والتركيب والمقارنة والترتيب",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: تحرير حل مسألة",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 999: الجمع والطرح دون زيادة ولا تفكيك",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: تحرير حل مسألة",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القطعة النقدية نصف دينار: التصرف فيها",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المضلعات: توظيفها",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التدرب على حل الوضعية المشكل: تقييم التمشي المعتمد والنتائج",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éveil scientifique",
+        "name_ar": "الإيقاظ العلمي",
+        "code": "EVEIL"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Technologie",
+        "name_ar": "التكنولوجيا",
+        "code": "TECHNO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation islamique",
+        "name_ar": "التربية الإسلامية",
+        "code": "ISLAM"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation musicale",
+        "name_ar": "التربية الموسيقية",
+        "code": "MUSIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Arts plastiques",
+        "name_ar": "التربية التشكيلية",
+        "code": "ARTPL"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    }
+  ]
+}

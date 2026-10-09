@@ -1,0 +1,171 @@
+{
+ "code": "228362",
+ "title": "Génie mécanique - Manuel d'activités",
+ "used_for": [
+  "3eme-techniques/TECHNO"
+ ],
+ "toc": [
+  {
+   "name": "Analyse fonctionnelle",
+   "children": [
+    {
+     "name": "Analyse fonctionnelle externe et interne d'un produit",
+     "children": [
+      {
+       "name": "Imprimante 3D"
+      },
+      {
+       "name": "Robot SAM"
+      },
+      {
+       "name": "Machine à pain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Analyse structurelle et conception",
+   "children": [
+    {
+     "name": "Communication technique",
+     "children": [
+      {
+       "name": "Réducteur à engrenages cylindriques"
+      },
+      {
+       "name": "Réducteur à engrenages cylindriques et coniques"
+      },
+      {
+       "name": "Réducteur à roue et vis sans fin"
+      },
+      {
+       "name": "Tourelle porte-outil"
+      }
+     ]
+    },
+    {
+     "name": "Typologie des assemblages",
+     "children": [
+      {
+       "name": "Perceuse sensitive"
+      },
+      {
+       "name": "Poupée mobile"
+      },
+      {
+       "name": "Etau de modélisme"
+      },
+      {
+       "name": "Réducteur à engrenages cylindro-conique"
+      },
+      {
+       "name": "Tour parallèle"
+      },
+      {
+       "name": "Tapis roulant de course"
+      }
+     ]
+    },
+    {
+     "name": "Transmission de puissance",
+     "children": [
+      {
+       "name": "Perceuse sensitive"
+      },
+      {
+       "name": "Réducteur à engrenages cylindriques"
+      },
+      {
+       "name": "Scooter"
+      },
+      {
+       "name": "Dispositif de transmission"
+      },
+      {
+       "name": "Escalier mécanique"
+      }
+     ]
+    },
+    {
+     "name": "Comportement statique du solide indéformable",
+     "children": [
+      {
+       "name": "Bride hydraulique"
+      },
+      {
+       "name": "Cric hydraulique roulant"
+      },
+      {
+       "name": "Suspension arrière de VTT"
+      },
+      {
+       "name": "Système de bridage"
+      },
+      {
+       "name": "Pince du robot SAM"
+      }
+     ]
+    },
+    {
+     "name": "Comportement du solide déformable",
+     "children": [
+      {
+       "name": "Essai de traction"
+      },
+      {
+       "name": "Bride hydraulique"
+      },
+      {
+       "name": "Cric hydraulique"
+      },
+      {
+       "name": "Suspension arrière de VTT"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Réalisation et production",
+   "children": [
+    {
+     "name": "Obtention des pièces (Projet)",
+     "children": [
+      {
+       "name": "Analyse fonctionnelle"
+      },
+      {
+       "name": "Recherche des solutions constructives"
+      },
+      {
+       "name": "Dimensionnement des composants"
+      },
+      {
+       "name": "Obtention des pièces par enlèvement de matière"
+      },
+      {
+       "name": "Obtention des pièces par méthode additive"
+      },
+      {
+       "name": "Obtention des pièces par moulage"
+      },
+      {
+       "name": "Métrologie dimensionnelle"
+      },
+      {
+       "name": "Métrologie géométrique"
+      },
+      {
+       "name": "Appui réglable"
+      },
+      {
+       "name": "Bride de serrage"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Activity manual. Detailed sommaire (p4-p6, page order restored). Structure axe -> thème -> activités; activities are named by their study support (product/system) as printed; sub-activities (e.g. lecture d'un dessin d'ensemble, cotation fonctionnelle) omitted due to depth limit. 'Appui réglable' and 'Bride de serrage' are the 'Autres projets'."
+}

@@ -1,0 +1,55 @@
+{
+ "code": "271401",
+ "title": "كتاب اللغة الصينية",
+ "used_for": [
+  "bac-mathematiques/CHIN",
+  "bac-sciences-experimentales/CHIN",
+  "bac-informatique/CHIN",
+  "bac-techniques/CHIN",
+  "bac-lettres/CHIN",
+  "bac-economie-gestion/CHIN"
+ ],
+ "toc": [
+  {
+   "name": "你买了什么东西",
+   "children": []
+  },
+  {
+   "name": "你们去长城了没有",
+   "children": []
+  },
+  {
+   "name": "他不去旅行了",
+   "children": []
+  },
+  {
+   "name": "我上网上两个小时",
+   "children": []
+  },
+  {
+   "name": "你吃过烤鸭吗",
+   "children": []
+  },
+  {
+   "name": "我正在打电话",
+   "children": []
+  },
+  {
+   "name": "学校里边有医院吗",
+   "children": []
+  },
+  {
+   "name": "你们先进来吧",
+   "children": []
+  },
+  {
+   "name": "你说对了",
+   "children": []
+  },
+  {
+   "name": "再见",
+   "children": []
+  }
+ ],
+ "notes": "Dragon 2 (10 leçons). The 目录 (p4) is in a broken font encoding; titles decoded by a constant code-point shift (+0x49D0), checked against the pinyin of lesson 1 dialogue and the lesson headings. Fixed residual glyphs: 第 (课 numbering), 有 (shown as 'M'), 吃 (lesson 5). Lesson 7 title completed with 吗 from its page heading (p86). Lessons are the only level; per-lesson rubrics (课文, 词语, 表达练习, 语法) not listed. Grammar abbreviation table (p133) excluded. Lesson 4 title kept as printed (possibly 我上网上了两个小时)."
+}

@@ -1,0 +1,62 @@
+{
+ "code": "102905",
+ "title": "الرياضيات",
+ "used_for": [
+  "9eme-base/MATH"
+ ],
+ "toc": [
+  {
+   "name": "التعداد والحساب",
+   "children": []
+  },
+  {
+   "name": "مجموعة الأعداد الحقيقية ℝ",
+   "children": []
+  },
+  {
+   "name": "العمليات في مجموعة الأعداد الحقيقية",
+   "children": []
+  },
+  {
+   "name": "القوى في مجموعة الأعداد الحقيقية",
+   "children": []
+  },
+  {
+   "name": "الترتيب والمقاربة",
+   "children": []
+  },
+  {
+   "name": "الجذاءات المعتبرة والعبارات الجبرية",
+   "children": []
+  },
+  {
+   "name": "المعادلات والمتراجحات من الدرجة الأولى",
+   "children": []
+  },
+  {
+   "name": "الإحصاء والاحتمالات",
+   "children": []
+  },
+  {
+   "name": "التعيين في المستوي",
+   "children": []
+  },
+  {
+   "name": "مبرهنة طالس وتطبيقاتها",
+   "children": []
+  },
+  {
+   "name": "العلاقات القياسية في المثلث القائم",
+   "children": []
+  },
+  {
+   "name": "أنشطة حول الرباعيات",
+   "children": []
+  },
+  {
+   "name": "التعامد في الفضاء",
+   "children": []
+  }
+ ],
+ "notes": "Source: TOC p4 (OCR, chapters 1-13 with pages; left domain column أنشطة عددية/جبرية/هندسية partly unreadable, so chapters given flat). OCR fixes: 'الترئيب'->'الترتيب', 'الجذاءاث المعنبرة والعباراث'->'الجذاءات المعتبرة والعبارات', 'المعادزاث والمنراجحاث'->'المعادلات والمتراجحات', 'تطبيقائها'->'تطبيقاتها', 'التعامه'->'التعامد' (confirmed by encoded heading p202), 'IR'->'ℝ'. Chapter 9 line is missing from the OCR'd TOC; its title comes from the chapter heading p131 OCR'd as 'النعييه 3 المسنوي' and read as 'التعيين في المستوي' (dot-confusion OCR; medium certainty). Sections not reliably recoverable. No placeholders."
+}

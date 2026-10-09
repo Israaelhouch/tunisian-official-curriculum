@@ -1,0 +1,102 @@
+{
+ "code": "281304",
+ "title": "الإيطالية",
+ "used_for": [
+  "3eme-mathematiques/ITAL",
+  "3eme-sciences-experimentales/ITAL",
+  "3eme-informatique/ITAL",
+  "3eme-techniques/ITAL",
+  "3eme-lettres/ITAL",
+  "3eme-economie-gestion/ITAL"
+ ],
+ "toc": [
+  {
+   "name": "Ciao, mi presento",
+   "children": [
+    {
+     "name": "Chi sei?"
+    },
+    {
+     "name": "L’intervallo"
+    },
+    {
+     "name": "In biblioteca"
+    },
+    {
+     "name": "Come si pronuncia"
+    }
+   ]
+  },
+  {
+   "name": "Andiamo a lezione",
+   "children": [
+    {
+     "name": "Bruno a scuola"
+    },
+    {
+     "name": "Nel corridoio"
+    },
+    {
+     "name": "Alla mensa"
+    }
+   ]
+  },
+  {
+   "name": "Casa, dolce casa",
+   "children": [
+    {
+     "name": "Che bello stare in famiglia!"
+    },
+    {
+     "name": "La villetta di Manuela"
+    },
+    {
+     "name": "Vieni da me!"
+    }
+   ]
+  },
+  {
+   "name": "Vi presento un amico",
+   "children": [
+    {
+     "name": "La Signora Limoneacido"
+    },
+    {
+     "name": "Come sei bella!"
+    },
+    {
+     "name": "Festival di Sanremo"
+    }
+   ]
+  },
+  {
+   "name": "I mestieri",
+   "children": [
+    {
+     "name": "Chi non lavora...!"
+    },
+    {
+     "name": "Cosa faremo?"
+    },
+    {
+     "name": "Un colloquio"
+    }
+   ]
+  },
+  {
+   "name": "Tempo libero",
+   "children": [
+    {
+     "name": "Ogni posto è buono con gli amici"
+    },
+    {
+     "name": "Guardare la TV"
+    },
+    {
+     "name": "Che cosa fai stasera?"
+    }
+   ]
+  }
+ ],
+ "notes": "Units 1-6 come from the INDICE (p126). The lessons are the A-/B-/C-(/D-) dialogue headings in each unit, taken from page headings. Left out: the songs, the cultural pages ('Per conoscere meglio l'Italia', pp.106-113) and the Tavole riassuntive (grammar appendix)."
+}

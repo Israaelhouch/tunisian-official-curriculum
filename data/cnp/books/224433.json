@@ -1,0 +1,271 @@
+{
+ "code": "224433",
+ "title": "كيمياء_شعبة العلوم التجريبية",
+ "used_for": [
+  "bac-sciences-experimentales/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Cinétique chimique",
+   "children": [
+    {
+     "name": "Avancement d'une réaction chimique",
+     "children": [
+      {
+       "name": "Définitions"
+      },
+      {
+       "name": "Transformation rapide et transformation lente"
+      },
+      {
+       "name": "Évolution de l'avancement d'une réaction chimique"
+      }
+     ]
+    },
+    {
+     "name": "Vitesse d'une réaction chimique",
+     "children": [
+      {
+       "name": "Comparaison de la rapidité des transformations chimiques"
+      },
+      {
+       "name": "Vitesse moyenne d'une réaction chimique"
+      },
+      {
+       "name": "Vitesse instantanée d'une réaction chimique"
+      },
+      {
+       "name": "Relation entre la vitesse d'une réaction et la concentration d'un réactif ou celle d'un produit"
+      }
+     ]
+    },
+    {
+     "name": "Principaux facteurs cinétiques",
+     "children": [
+      {
+       "name": "Influence de la concentration des réactifs sur la vitesse d'une réaction"
+      },
+      {
+       "name": "Influence de la température sur la vitesse d'une réaction"
+      },
+      {
+       "name": "Influence des catalyseurs sur la vitesse d'une réaction"
+      },
+      {
+       "name": "Applications"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Équilibre chimique",
+   "children": [
+    {
+     "name": "Notion d'équilibre chimique",
+     "children": [
+      {
+       "name": "Rappel"
+      },
+      {
+       "name": "Notion d'équilibre chimique"
+      },
+      {
+       "name": "Étude d'un exemple : équilibre atteint suite à une estérification ou une hydrolyse"
+      }
+     ]
+    },
+    {
+     "name": "Loi d'action de masse - Conditions d'évolution spontanée",
+     "children": [
+      {
+       "name": "Fonction des concentrations"
+      },
+      {
+       "name": "Calcul de la fonction des concentrations"
+      },
+      {
+       "name": "Loi d'action de masse"
+      },
+      {
+       "name": "Les conditions d'évolution spontanée"
+      },
+      {
+       "name": "Application des conditions d'évolution spontanée à quelques réactions chimiques"
+      }
+     ]
+    },
+    {
+     "name": "Déplacement des équilibres chimiques - Loi de modération",
+     "children": [
+      {
+       "name": "Effet de la variation de pression à température constante sur un système fermé en équilibre"
+      },
+      {
+       "name": "Effet de la variation d'une concentration à température constante sur un système en équilibre"
+      },
+      {
+       "name": "Effet de la variation de température à pression constante sur un système fermé en équilibre"
+      },
+      {
+       "name": "Énoncé de la loi de modération"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Les réactions acide-base",
+   "children": [
+    {
+     "name": "Application de la loi d'action de masse aux réactions acide-base",
+     "children": [
+      {
+       "name": "Rappel de définitions"
+      },
+      {
+       "name": "Application de la loi d'action de masse à l'ionisation propre de l'eau"
+      },
+      {
+       "name": "Application de la loi d'action de masse aux réactions acide-base"
+      },
+      {
+       "name": "Classification des acides et des bases"
+      },
+      {
+       "name": "Relation entre la force d'un acide et celle de sa base conjuguée"
+      }
+     ]
+    },
+    {
+     "name": "pH des solutions aqueuses",
+     "children": [
+      {
+       "name": "pH d'une solution aqueuse"
+      },
+      {
+       "name": "pH d'une solution aqueuse d'un monoacide fort"
+      },
+      {
+       "name": "pH d'une solution aqueuse d'une monobase forte"
+      },
+      {
+       "name": "pH d'une solution aqueuse d'un monoacide faible"
+      },
+      {
+       "name": "pH d'une solution aqueuse d'une monobase faible"
+      }
+     ]
+    },
+    {
+     "name": "Variation du pH au cours d'une réaction entre un acide et une base",
+     "children": [
+      {
+       "name": "Détermination du taux d'avancement final d'une réaction acide-base"
+      },
+      {
+       "name": "Variation du pH d'une solution d'un monoacide fort suite à l'ajout d'une solution de monobase forte"
+      },
+      {
+       "name": "Variation du pH d'une solution d'un monoacide faible suite à l'ajout d'une solution de monobase forte"
+      },
+      {
+       "name": "Variation du pH d'une solution d'une monobase faible suite à l'ajout d'une solution d'un monoacide fort"
+      },
+      {
+       "name": "Application aux dosages acide-base"
+      },
+      {
+       "name": "Les solutions tampons"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "La chimie organique",
+   "children": [
+    {
+     "name": "Les amides aliphatiques",
+     "children": [
+      {
+       "name": "Présentation des amides aliphatiques"
+      },
+      {
+       "name": "Structure des amides aliphatiques"
+      },
+      {
+       "name": "Nomenclature des amides aliphatiques"
+      },
+      {
+       "name": "Préparation des amides à partir des sels d'ammonium"
+      },
+      {
+       "name": "Hydrolyse des amides"
+      }
+     ]
+    },
+    {
+     "name": "Passage entre les dérivés des acides carboxyliques",
+     "children": [
+      {
+       "name": "Rappel : les dérivés des acides carboxyliques"
+      },
+      {
+       "name": "Passages entre les dérivés des acides carboxyliques"
+      },
+      {
+       "name": "Applications industrielles"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Piles électrochimiques",
+   "children": [
+    {
+     "name": "Étude de la pile Daniell",
+     "children": [
+      {
+       "name": "Transfert direct d'électrons d'un réducteur à un oxydant"
+      },
+      {
+       "name": "Transfert indirect d'électrons d'un oxydant à un réducteur"
+      },
+      {
+       "name": "Étude de la pile Daniell"
+      },
+      {
+       "name": "Étude des piles du type pile Daniell"
+      }
+     ]
+    },
+    {
+     "name": "Potentiel standard d'un couple redox et pouvoir oxydant de sa forme oxydée",
+     "children": [
+      {
+       "name": "Étude de l'influence des concentrations sur la f.e.m de la pile Daniell"
+      },
+      {
+       "name": "Comparaison des forces de deux couples redox d'après la valeur de la force électromotrice standard E° de la pile correspondante"
+      },
+      {
+       "name": "Choix d'une référence pour les couples redox"
+      },
+      {
+       "name": "Comparaison d'un couple Ox/Red au couple H3O+/H2(g)"
+      },
+      {
+       "name": "Détermination de la f.e.m. standard d'une pile"
+      },
+      {
+       "name": "Classement électrochimique des couples redox"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "French chemistry book (Bac Sciences expérimentales). 5 themes / 13 chapters from the sommaire (p4) and chapter opening pages; sections from roman-numbered headings. Chapter 10 named 'Les amides aliphatiques' as on its opening page (sommaire: 'Les amides'). 'Conclusion' section of ch3, end-of-chapter TP sheets and reading texts excluded."
+}

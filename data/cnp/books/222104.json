@@ -1,0 +1,84 @@
+{
+ "code": "222104",
+ "title": "رياضيات",
+ "used_for": [
+  "1ere-secondaire/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Travaux géométriques",
+   "children": [
+    {
+     "name": "Angles",
+     "children": []
+    },
+    {
+     "name": "Théorème de Thalès et sa réciproque",
+     "children": []
+    },
+    {
+     "name": "Rapports trigonométriques d'un angle aigu. Relations métriques dans un triangle rectangle",
+     "children": []
+    },
+    {
+     "name": "Vecteurs et translations",
+     "children": []
+    },
+    {
+     "name": "Somme de deux vecteurs - Vecteurs colinéaires",
+     "children": []
+    },
+    {
+     "name": "Activités dans un repère",
+     "children": []
+    },
+    {
+     "name": "Quart de tour",
+     "children": []
+    },
+    {
+     "name": "Sections planes d'un solide",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Travaux numériques",
+   "children": [
+    {
+     "name": "Activités numériques I",
+     "children": []
+    },
+    {
+     "name": "Activités numériques II",
+     "children": []
+    },
+    {
+     "name": "Activités algébriques",
+     "children": []
+    },
+    {
+     "name": "Fonctions linéaires",
+     "children": []
+    },
+    {
+     "name": "Equations et inéquations du premier degré à une inconnue",
+     "children": []
+    },
+    {
+     "name": "Fonctions affines",
+     "children": []
+    },
+    {
+     "name": "Systèmes de deux équations à deux inconnues",
+     "children": []
+    },
+    {
+     "name": "Exploitation de l'information",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Cover: 'Mathématiques - Première année de l'enseignement secondaire' with no section named (authors Mcharek, Mhamdi, Klila, Ben Youssef); preface addresses all pupils -> this is the 1ère année TRONC COMMUN book (targets 1ere-secondaire). Structure from the sommaire (p5): 2 parts (Travaux géométriques / Travaux numériques) -> 16 chapters. Sections not given: chapter 'Découvrir' headings are mixed with Retenir/méthode/exercise headings and cannot be separated reliably. Lexique excluded."
+}

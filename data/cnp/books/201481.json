@@ -1,0 +1,22 @@
+{
+ "code": "201481",
+ "title": "كتاب العربية",
+ "used_for": [
+  "bac-sport/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "الرياضة والقيم",
+   "children": []
+  },
+  {
+   "name": "الرياضة والإعلام",
+   "children": []
+  },
+  {
+   "name": "الرياضة والقانون",
+   "children": []
+  }
+ ],
+ "notes": "Three units (الوحدة الأولى/الثانية/الثالثة) confirmed by headings (تصميم الوحدة ...) pp.6, 88, 172 and the three per-unit text indexes (back pp.254-256). Text lists per unit are too badly OCR'd (many titles garbled or missing, stage labels mixed into columns) to be reproduced reliably, so children left empty. Readable examples: unit 1 'ما القيم؟', 'توازن أبعاد الإنسان', 'آلام كرة القدم', 'ما ينقص رياضتنا', 'بإمكاننا هزمه', 'سباق الفخر', 'شعلة الإنقاذ', 'الحاجة إلى حوار الحضارات', 'الحلم والموت'; unit 2 'بين الحياد والانحياز', 'دم أم صواريخ', 'الواجب الإعلامي', 'التيليقراطية'; unit 3 'ما القانون؟', 'آداب الرياضة', 'عقد الاحتراف', 'الحقوق الفكرية', 'الباشا والبوليس', 'القوانين المعيقة', 'اللعبة السياسية', 'قانون الغاب'."
+}

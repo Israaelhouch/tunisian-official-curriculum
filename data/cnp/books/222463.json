@@ -1,0 +1,233 @@
+{
+ "code": "222463",
+ "title": "الرياضيات - شعبة الإقتصاد والتصرف",
+ "used_for": [
+  "bac-economie-gestion/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Limites et continuité",
+   "children": [
+    {
+     "name": "Limites",
+     "children": [
+      {
+       "name": "Limites et ordre"
+      },
+      {
+       "name": "Limite d'une fonction composée"
+      }
+     ]
+    },
+    {
+     "name": "Continuité",
+     "children": [
+      {
+       "name": "Continuité d'une fonction composée"
+      },
+      {
+       "name": "Théorème des valeurs intermédiaires"
+      },
+      {
+       "name": "Théorème de la bijection"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Dérivation - Primitives",
+   "children": [
+    {
+     "name": "Dérivation",
+     "children": [
+      {
+       "name": "Dérivée seconde et point d'inflexion"
+      },
+      {
+       "name": "Dérivée d'une fonction composée"
+      },
+      {
+       "name": "Dérivée de la fonction réciproque"
+      },
+      {
+       "name": "Théorème des accroissements finis"
+      }
+     ]
+    },
+    {
+     "name": "Primitives",
+     "children": [
+      {
+       "name": "Notion de primitive"
+      },
+      {
+       "name": "Ensemble des primitives d'une même fonction"
+      },
+      {
+       "name": "Calculs sur les primitives"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Etude de fonctions",
+   "children": [
+    {
+     "name": "Exemples d'étude de fonction polynôme"
+    },
+    {
+     "name": "Exemples d'étude de fonction rationnelle"
+    },
+    {
+     "name": "Exemples d'étude de fonction contenant des racines carrées"
+    },
+    {
+     "name": "Exemples d'étude de fonction trigonométrique"
+    }
+   ]
+  },
+  {
+   "name": "Fonction logarithme népérien - Fonctions exponentielles",
+   "children": [
+    {
+     "name": "Fonction logarithme népérien",
+     "children": [
+      {
+       "name": "Définition"
+      },
+      {
+       "name": "Propriétés"
+      },
+      {
+       "name": "Etude et représentation graphique"
+      }
+     ]
+    },
+    {
+     "name": "Fonction exponentielle de base e",
+     "children": [
+      {
+       "name": "Définition"
+      },
+      {
+       "name": "Propriétés"
+      },
+      {
+       "name": "Etude et représentation graphique"
+      },
+      {
+       "name": "Fonction x ↦ a^x avec a>0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Intégrale d'une fonction continue",
+   "children": [
+    {
+     "name": "Définition et propriétés"
+    },
+    {
+     "name": "Intégration par parties"
+    },
+    {
+     "name": "Valeur moyenne"
+    },
+    {
+     "name": "Calcul d'aires planes"
+    }
+   ]
+  },
+  {
+   "name": "Suites réelles",
+   "children": [
+    {
+     "name": "Suites minorées, suites majorées"
+    },
+    {
+     "name": "Variation d'une suite"
+    },
+    {
+     "name": "Opérations sur les suites"
+    },
+    {
+     "name": "Suites convergentes - suites divergentes"
+    },
+    {
+     "name": "Opérations sur les limites des suites"
+    },
+    {
+     "name": "Limites et ordre"
+    },
+    {
+     "name": "Exemples de suites récurrentes"
+    }
+   ]
+  },
+  {
+   "name": "Matrices et systèmes",
+   "children": [
+    {
+     "name": "Matrices"
+    },
+    {
+     "name": "Déterminant d'une matrice carrée d'ordre 2 ou 3"
+    },
+    {
+     "name": "Inverse d'une matrice carrée d'ordre 2 ou 3"
+    },
+    {
+     "name": "Résolution des systèmes linéaires de premier degré à deux ou trois inconnues"
+    }
+   ]
+  },
+  {
+   "name": "Statistiques",
+   "children": [
+    {
+     "name": "Covariance"
+    },
+    {
+     "name": "Ajustement",
+     "children": [
+      {
+       "name": "Ajustement affine"
+      },
+      {
+       "name": "Exemples d'ajustements non affines"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Probabilités",
+   "children": [
+    {
+     "name": "Probabilité conditionnelle"
+    },
+    {
+     "name": "Variables aléatoires"
+    }
+   ]
+  },
+  {
+   "name": "Les graphes",
+   "children": [
+    {
+     "name": "Graphes orientés"
+    },
+    {
+     "name": "Matrice associée à un graphe"
+    },
+    {
+     "name": "Graphes probabilistes"
+    }
+   ]
+  }
+ ],
+ "notes": "Rebuilt from full-page OCR of the 10 chapter title pages (pp.5,33,63,85,115,137,165,201,237,273): chapter titles as printed on those pages (cross-checked with running footers and the sommaire p302, whose titles are partly garbled), sections from each chapter's 'Pour commencer' list. Dropped rubrics: Revoir, Avec l'ordinateur, Exercices et problèmes, Math culture. Where the 'Pour commencer' list splits a chapter into parts (Limites/Continuité, Dérivation/Primitives, Logarithme/Exponentielle, Ajustement) a third level is used. OCR typos fixed (e.g. 'Dériwvation', 'plancs'). No placeholders."
+}

@@ -1,0 +1,290 @@
+{
+ "code": "121804",
+ "title": "فرنسية",
+ "used_for": [
+  "8eme-base/FRAN"
+ ],
+ "toc": [
+  {
+   "name": "Les années collège",
+   "children": [
+    {
+     "name": "Tristesse de départ"
+    },
+    {
+     "name": "Retrouvailles de rentrée"
+    },
+    {
+     "name": "Les présentatifs"
+    },
+    {
+     "name": "Les composantes du récit"
+    },
+    {
+     "name": "La gloire scolaire"
+    },
+    {
+     "name": "Les mots de reprise"
+    },
+    {
+     "name": "Les personnages dans le récit"
+    },
+    {
+     "name": "Le chevalier Paladin"
+    },
+    {
+     "name": "Au collège"
+    },
+    {
+     "name": "Un élève brillant"
+    },
+    {
+     "name": "Les pronoms personnels : sujet, COD"
+    },
+    {
+     "name": "Le récit à la 1ère ou à la 3ème personne"
+    },
+    {
+     "name": "La nuit étoilée de Sophie"
+    },
+    {
+     "name": "La naissance d'une vocation"
+    },
+    {
+     "name": "L'accent grave"
+    },
+    {
+     "name": "Mathématiques"
+    }
+   ]
+  },
+  {
+   "name": "Module d'apprentissage 2",
+   "children": [
+    {
+     "name": "Coupe du monde de football"
+    },
+    {
+     "name": "Au zoo"
+    },
+    {
+     "name": "Au théâtre"
+    },
+    {
+     "name": "Les expansions du groupe nominal : le groupe adjectival, la proposition relative"
+    },
+    {
+     "name": "La description dans le récit"
+    },
+    {
+     "name": "Gaston au zoo"
+    },
+    {
+     "name": "L'habit d'Arlequin"
+    },
+    {
+     "name": "Au cirque"
+    },
+    {
+     "name": "Les temps de l'indicatif : l'imparfait et le passé simple"
+    },
+    {
+     "name": "Le portrait physique et moral"
+    },
+    {
+     "name": "Une séance mouvementée"
+    },
+    {
+     "name": "Les verbes d'état"
+    },
+    {
+     "name": "La description d'un animal"
+    },
+    {
+     "name": "La fête de Benjamin Blaireau"
+    },
+    {
+     "name": "L'invitation du chat"
+    },
+    {
+     "name": "Le prestidigitateur"
+    },
+    {
+     "name": "A la foire"
+    }
+   ]
+  },
+  {
+   "name": "Module de lecture 1",
+   "children": [
+    {
+     "name": "Le toucher d'or"
+    }
+   ]
+  },
+  {
+   "name": "Module d'apprentissage 3",
+   "children": [
+    {
+     "name": "Un voyage imprévu"
+    },
+    {
+     "name": "La bicyclette"
+    },
+    {
+     "name": "La détermination"
+    },
+    {
+     "name": "Récit intégrant une description"
+    },
+    {
+     "name": "Voyage"
+    },
+    {
+     "name": "Un navigateur solitaire"
+    },
+    {
+     "name": "L'expression du lieu"
+    },
+    {
+     "name": "Raconter en décrivant un objet"
+    },
+    {
+     "name": "Voyage de vacances"
+    },
+    {
+     "name": "A bicyclette de Paris à Saïgon"
+    },
+    {
+     "name": "L'expression du temps"
+    },
+    {
+     "name": "Raconter en décrivant un lieu et des objets"
+    },
+    {
+     "name": "Une vache dans le métro"
+    },
+    {
+     "name": "À Paris, tout en gris"
+    },
+    {
+     "name": "Un voyageur égaré"
+    },
+    {
+     "name": "Départ"
+    },
+    {
+     "name": "L'Enchanteur"
+    }
+   ]
+  },
+  {
+   "name": "Module d'apprentissage 4",
+   "children": [
+    {
+     "name": "Une passion stupéfiante"
+    },
+    {
+     "name": "La bibliothèque de nos rêves"
+    },
+    {
+     "name": "La forme affirmative et la forme négative"
+    },
+    {
+     "name": "Le dialogue dans le récit"
+    },
+    {
+     "name": "Sondage d'opinions"
+    },
+    {
+     "name": "Le crieur de journaux"
+    },
+    {
+     "name": "Un rêve de lecture"
+    },
+    {
+     "name": "La phrase interrogative"
+    },
+    {
+     "name": "Veillée au coin du feu"
+    },
+    {
+     "name": "Un maître pas comme les autres"
+    },
+    {
+     "name": "Jean et Luc"
+    },
+    {
+     "name": "Les temps de l'indicatif : le présent, le passé composé et le futur simple"
+    },
+    {
+     "name": "Le plaisir de Julien"
+    },
+    {
+     "name": "Premières lectures"
+    },
+    {
+     "name": "Comme un voleur"
+    },
+    {
+     "name": "Clara et les livres"
+    }
+   ]
+  },
+  {
+   "name": "Module de lecture 2",
+   "children": []
+  },
+  {
+   "name": "Module d'apprentissage 5",
+   "children": [
+    {
+     "name": "Le chevreau blanc"
+    },
+    {
+     "name": "Le conditionnel présent"
+    },
+    {
+     "name": "L'homme et l'environnement"
+    },
+    {
+     "name": "Le subjonctif présent"
+    },
+    {
+     "name": "L'explication"
+    },
+    {
+     "name": "L'enfant et les arbres"
+    },
+    {
+     "name": "L'expression de la cause"
+    },
+    {
+     "name": "La mort de la Loute"
+    },
+    {
+     "name": "L'expression de la conséquence"
+    },
+    {
+     "name": "L'argumentation"
+    },
+    {
+     "name": "Entre chien et chat !"
+    },
+    {
+     "name": "Le petit bois"
+    },
+    {
+     "name": "Le nid de chardonnerets"
+    },
+    {
+     "name": "Soyez polis"
+    },
+    {
+     "name": "Le père, l'enfant et l'oiseau"
+    }
+   ]
+  }
+ ],
+ "notes": "Lire et écrire en français, 8e année. Top level = the Table des matières (p231): Modules d'apprentissage 1-5 and Modules de lecture 1-2, in page order. Only Module 1 has a theme title in the extract ('Les années collège', p5). Modules 2-5 and the two reading modules keep their generic sommaire labels: 6 positional labels, no theme titles recovered. Children = text and lesson titles from the headings, in page order. Module 1's 'LE RÉCIT' writing headings were named from the p6 contents table ('Les composantes du récit', 'Le récit à la 1ère ou à la 3ème personne'). 'La naissance d'une vocation' is also taken from the p6 contents table. Repeated writing headings were kept only once: 'Le dialogue dans le récit' appears 3 times in M4, 'L'argumentation' twice in M5. Lecture d'image, 'Étapes à suivre dans la rédaction', the oral piece 'Ici, Radio Verte' and the Lire pour rire item 'Paris, beuf !' (garbled, unsure) were omitted. Module de lecture 1 contains 'Le toucher d'or' (p88). Module de lecture 2 (p181-188) has no recoverable title. Module 3's theme is travel ('thème du voyage') but no theme title is printed in the extract."
+}

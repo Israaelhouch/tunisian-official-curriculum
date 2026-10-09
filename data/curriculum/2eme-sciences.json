@@ -1,0 +1,1099 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Décret gouvernemental n° 2019-1085 du 19 novembre 2019 fixant l'horaire des études dans l'enseignement de base et dans l'enseignement secondaire (JORT n° 95, 2019) — https://9anoun.tn/kb/jorts/jort-2019-095-424da/decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et-dans-lenseignement-secondaire-60",
+    "CNP 201202 — عيون الأدب_ الجزء الأول_نصوص — https://www.cnp.com.tn/arabic/PDF/201202P00.pdf",
+    "CNP 201203 — عيون الأدب_الجزء الثاني_نصوص — https://www.cnp.com.tn/arabic/PDF/201203P00.pdf",
+    "CNP 206271 — الجغرافيا (شعبتي العلوم و تكنولوجيا الإعلامية) — https://www.cnp.com.tn/arabic/PDF/206271P00.pdf",
+    "CNP 207271 — التاريخ (شعبتي العلوم و تكنولوجيا الإعلامية) — https://www.cnp.com.tn/arabic/PDF/207271P01.pdf",
+    "CNP 211203 — التربية المدنية — https://www.cnp.com.tn/arabic/PDF/211203P00.pdf",
+    "CNP 211204 — التفكير الاسلامي — https://www.cnp.com.tn/arabic/PDF/211204P00.pdf",
+    "CNP 221203 — فرنسية — https://www.cnp.com.tn/arabic/PDF/221203P00.pdf",
+    "CNP 222231 — الرياضيات_ج1 (شعبتي العلوم وتكنولوجيا الإعلامية) — https://www.cnp.com.tn/arabic/PDF/222231P00.pdf",
+    "CNP 222232 — الرياضيات_ج2 (شعبتي العلوم وتكنولوجيا الإعلامية) — https://www.cnp.com.tn/arabic/PDF/222232P00.pdf",
+    "CNP 223231 — الفيزياء (شعبة العلوم) — https://www.cnp.com.tn/arabic/PDF/223231P00.pdf",
+    "CNP 224231 — كيمياء (شعبة العلوم( — https://www.cnp.com.tn/arabic/PDF/224231P00.pdf",
+    "CNP 225232 — علوم الحياة والأرض — https://www.cnp.com.tn/arabic/PDF/225232P00.pdf",
+    "CNP 228233 — Technologie - Manuel d'activités(sciences et technologie de l'info) — https://www.cnp.com.tn/arabic/PDF/228233P01.pdf",
+    "CNP 241203 — أنقليزية — https://www.cnp.com.tn/arabic/PDF/241203P00.pdf"
+  ],
+  "level": {
+    "name_fr": "2ème année secondaire",
+    "name_ar": "السنة الثانية ثانوي",
+    "code": "2S",
+    "cycle": "secondaire",
+    "grade_number": 2,
+    "display_order": 11,
+    "is_national_exam_year": false
+  },
+  "section": {
+    "name_fr": "Sciences",
+    "name_ar": "علوم",
+    "code": "SCI",
+    "is_common_core": false
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الشعر الجاهلي",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "التجديد في الشعر العربي في القرن الثاني للهجرة",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "النادرة",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المسائل الحضارية",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المحور الخامس (لمسلك الآداب)",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المحور الخامس (لمسالك العلوم / تكنولوجيا الإعلاميّة / الاقتصاد والخدمات)",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "التواصل",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "دلالات الصيغ الصرفيّة",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Français",
+        "name_ar": "الفرنسية",
+        "code": "FRAN"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Pages d’amour",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Toi, mon semblable",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Femme et société",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Travail et bien-être",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Images d’ici, images d’ailleurs",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Anglais",
+        "name_ar": "الإنجليزية",
+        "code": "ANGL"
+      },
+      "instruction_language": "en",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Family life",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Communicating with others",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Social life",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Social Problems",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Rights and Duties",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Education",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Professional Life",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Media and Arts",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Science and Technology",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Ecology",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Calcul dans IR",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Problèmes du 1er degré et problèmes du second degré",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Notion de polynômes",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Arithmétique",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Calcul vectoriel",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Barycentre",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Translations",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Homothéties",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Rotations",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Suites arithmétiques",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Suites géométriques",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Généralités sur les fonctions",
+          "order_index": 12,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Fonctions de référence",
+          "order_index": 13,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Trigonométrie et mesure des grandeurs",
+          "order_index": 14,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Géométrie analytique",
+          "order_index": 15,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Droites et plans de l'espace",
+          "order_index": 16,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Parallélisme dans l'espace",
+          "order_index": 17,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Orthogonalité dans l'espace",
+          "order_index": 18,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Statistiques",
+          "order_index": 19,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences physiques",
+        "name_ar": "العلوم الفيزيائية",
+        "code": "PHYS"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Physique",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Circuits électriques",
+              "order_index": 1,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Puissance et énergie électrique",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Conductibilité électrique",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Récepteurs passifs (1)",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Récepteurs passifs (2)",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Récepteurs actifs",
+                  "order_index": 5,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Le dipôle générateur",
+                  "order_index": 6,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Adaptation : loi de Pouillet",
+                  "order_index": 7,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Le courant alternatif",
+                  "order_index": 8,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Forces, mouvements, pression",
+              "order_index": 2,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Systèmes et interactions mécaniques",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Equilibre d’un solide soumis à trois forces",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Equilibre d’un solide assujetti à tourner autour d’un axe fixe",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Mouvement du point matériel",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Pression en un point d’un liquide",
+                  "order_index": 5,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Poussée d’Archimède",
+                  "order_index": 6,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Énergie et contrôle",
+              "order_index": 3,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Energie cinétique",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Energie potentielle",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Energie thermique",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Travail et puissance",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Lumière",
+              "order_index": 4,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Réflexion de la lumière",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Réfraction de la lumière",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Terre et univers",
+              "order_index": 5,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Gravitation universelle",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Pression atmosphérique",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name_fr": "Chimie",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "La Matière",
+              "order_index": 1,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Un modèle de l’atome",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "L’élément chimique",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Un modèle de répartition des électrons d’un atome",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "De l’atome aux édifices chimiques",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Classification périodique des éléments chimiques",
+                  "order_index": 5,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Les Solutions",
+              "order_index": 2,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Les électrolytes",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Dissolution et précipitation des électrolytes",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Tests d’identification de quelques ions",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Solutions aqueuses d’acide",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Solutions aqueuses de base",
+                  "order_index": 5,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Ionisation propre de l’eau pure",
+                  "order_index": 6,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Notion de pH",
+                  "order_index": 7,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Acides forts, acides faibles, bases fortes, bases faibles",
+                  "order_index": 8,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Réaction d’un acide fort avec une base forte en solution aqueuse",
+                  "order_index": 9,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Chimie Organique",
+              "order_index": 3,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Structure et nomenclature des hydrocarbures aliphatiques",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Réactions spécifiques des hydrocarbures aliphatiques",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Polymères synthétiques et polymères naturels",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Matières plastiques : impact sur l’environnement et gestion des déchets",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences de la vie et de la terre",
+        "name_ar": "علوم الحياة والأرض",
+        "code": "SVT"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Exploitation rationnelle des ressources géologiques",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "La carte topographique",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Notions de stratigraphie et de tectonique",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "La carte géologique",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Les ressources en eau et leur exploitation",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Une roche sédimentaire à intérêt économique : les phosphates",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Une roche sédimentaire à intérêt économique : le pétrole",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Gestion rationnelle d’un écosystème",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Notion d’écosystème",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Adaptation des êtres vivants aux facteurs climatiques",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "La répartition des végétaux en Tunisie",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Relations trophiques d’un écosystème",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Notion de développement durable",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Les êtres vivants : unité et diversité d’organisation, reproduction conforme",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "La cellule, unité de structure des êtres vivants",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Notions d’espèce, de lignée et de caractère héréditaire",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "La reproduction conforme et son mécanisme cellulaire",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "L’information génétique",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Technologie",
+        "name_ar": "التكنولوجيا",
+        "code": "TECHNO"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Analyse fonctionnelle",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Analyse fonctionnelle interne",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Description temporelle du comportement d’un système technique",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Analyse structurelle et conception",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Définition graphique d’un objet technique et DAO",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Système de numération et codes",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Transmission de puissance",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Réalisation et production",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Procédés de mise en forme des matériaux – Procédés et typologie des assemblages – Métrologie",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Systèmes embarqués : programmation d’une carte de commande",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Informatique",
+        "name_ar": "الإعلامية",
+        "code": "INFO"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Histoire",
+        "name_ar": "التاريخ",
+        "code": "HIST"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الحضارات القديمة في الشرق والعالم المتوسطي",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "التطوّر الحضاري والتحوّلات التاريخيّة في المشرق الإسلامي : من ظهور الإسلام إلى نهاية القرن 5 هـ / 11 م",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "التطوّر الحضاري والتحوّلات التاريخيّة في الغرب الإسلامي من بداية القرن الثاني إلى القرن 9 هـ / من ق 8 م إلى ق 15 م",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "العالم المتوسطي في القرن 16",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Géographie",
+        "name_ar": "الجغرافيا",
+        "code": "GEO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "العالم العربي : المجال والتنمية",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الموقع والوسط الطبيعي بالعالم العربي : المزايا والضغوطات",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الموارد الطبيعيّة بالعالم العربي",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "العالم العربي : السكّان والمسألة السكانيّة",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التنمية الاقتصاديّة في العالم العربي",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "البلاد التونسيّة : المجال والتنمية",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الوسط الطبيعي التونسي : المزايا والضغوطات",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الموارد الطبيعيّة بالبلاد التونسيّة",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "البلاد التونسيّة : السكّان",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "البلاد التونسيّة : المجال الفلاحي",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "البلاد التونسيّة : المجال الصناعي",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "البلاد التونسيّة : المجال السياحي",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "البلاد التونسيّة : التفاوت الإقليمي",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation islamique",
+        "name_ar": "التربية الإسلامية",
+        "code": "ISLAM"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "التوازن والوسطيّة",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "التفكّر في العبادة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "بناء الشخصيّة",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفاعليّة",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الوحي",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التربية والتعليم",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الإصلاح",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الاستشراف",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الأمل والتوكّل",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الإنسان ومصيره",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation civique",
+        "name_ar": "التربية المدنية",
+        "code": "CIVIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الدولة الديمقراطيّة الحديثة",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "دولة القانون",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المجتمع المدني",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    }
+  ]
+}

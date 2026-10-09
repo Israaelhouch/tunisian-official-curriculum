@@ -1,0 +1,51 @@
+{
+ "code": "222232",
+ "title": "الرياضيات_ج2 (شعبتي العلوم وتكنولوجيا الإعلامية)",
+ "used_for": [
+  "2eme-sciences/MATH",
+  "2eme-technologie-informatique/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Suites arithmétiques",
+   "children": []
+  },
+  {
+   "name": "Suites géométriques",
+   "children": []
+  },
+  {
+   "name": "Généralités sur les fonctions",
+   "children": []
+  },
+  {
+   "name": "Fonctions de référence",
+   "children": []
+  },
+  {
+   "name": "Trigonométrie et mesure des grandeurs",
+   "children": []
+  },
+  {
+   "name": "Géométrie analytique",
+   "children": []
+  },
+  {
+   "name": "Droites et plans de l'espace",
+   "children": []
+  },
+  {
+   "name": "Parallélisme dans l'espace",
+   "children": []
+  },
+  {
+   "name": "Orthogonalité dans l'espace",
+   "children": []
+  },
+  {
+   "name": "Statistiques",
+   "children": []
+  }
+ ],
+ "notes": "2ème Sciences / Technologie de l'informatique, Tome 2. 10 chapters from sommaire (p6), confirmed by openers ('Fonctions de références' in sommaire, 'Fonctions de référence' on opener). No section headings recoverable, so no children."
+}

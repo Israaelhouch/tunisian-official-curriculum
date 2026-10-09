@@ -1,0 +1,239 @@
+{
+ "code": "223351",
+ "title": "العلوم الفيزيائية_شعبة العلوم التكنولوجية",
+ "used_for": [
+  "3eme-techniques/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Interaction électromagnétique",
+   "children": [
+    {
+     "name": "Loi de Coulomb",
+     "children": [
+      {
+       "name": "Charges et interaction électrique"
+      },
+      {
+       "name": "Enoncé de la loi de Coulomb"
+      },
+      {
+       "name": "Expression vectorielle de la loi de Coulomb"
+      }
+     ]
+    },
+    {
+     "name": "Champ électrique",
+     "children": [
+      {
+       "name": "Mise en évidence"
+      },
+      {
+       "name": "Vecteur champ électrique"
+      },
+      {
+       "name": "Champ électrique créé par une charge ponctuelle"
+      },
+      {
+       "name": "Champ électrique créé par deux charges ponctuelles"
+      },
+      {
+       "name": "Champ électrique uniforme"
+      }
+     ]
+    },
+    {
+     "name": "Les différents types d'interaction magnétique",
+     "children": [
+      {
+       "name": "Interaction aimant-aimant"
+      },
+      {
+       "name": "Interaction aimant-courant"
+      },
+      {
+       "name": "Interaction courant-courant"
+      },
+      {
+       "name": "La lévitation magnétique"
+      }
+     ]
+    },
+    {
+     "name": "Champ magnétique",
+     "children": [
+      {
+       "name": "Notion de champ magnétique"
+      },
+      {
+       "name": "Champ magnétique terrestre"
+      },
+      {
+       "name": "Champ magnétique créé par un courant continu"
+      }
+     ]
+    },
+    {
+     "name": "Force de Laplace",
+     "children": [
+      {
+       "name": "Mise en évidence"
+      },
+      {
+       "name": "Loi de Laplace"
+      },
+      {
+       "name": "Rôle moteur de la force de Laplace"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mouvements",
+   "children": [
+    {
+     "name": "Etude cinématique d'un solide en translation",
+     "children": [
+      {
+       "name": "Généralités"
+      },
+      {
+       "name": "Grandeurs cinématiques"
+      },
+      {
+       "name": "Mouvement rectiligne uniforme"
+      },
+      {
+       "name": "Mouvement rectiligne uniformément varié"
+      },
+      {
+       "name": "Mouvement rectiligne sinusoïdal"
+      }
+     ]
+    },
+    {
+     "name": "Etude dynamique d'un solide en mouvement de translation",
+     "children": [
+      {
+       "name": "Référentiel galiléen"
+      },
+      {
+       "name": "Deuxième loi de Newton"
+      },
+      {
+       "name": "Théorème du centre d'inertie"
+      },
+      {
+       "name": "Applications"
+      }
+     ]
+    },
+    {
+     "name": "Solide en mouvement de rotation",
+     "children": [
+      {
+       "name": "Mouvement d'un point matériel sur une trajectoire circulaire"
+      },
+      {
+       "name": "Rotation d'un solide autour d'un axe fixe"
+      }
+     ]
+    },
+    {
+     "name": "Energie cinétique",
+     "children": [
+      {
+       "name": "Rappels"
+      },
+      {
+       "name": "Expression de l'énergie cinétique d'un point matériel"
+      },
+      {
+       "name": "Energie cinétique d'un système de points matériels"
+      },
+      {
+       "name": "Théorème de l'énergie cinétique"
+      },
+      {
+       "name": "Applications du théorème de l'énergie cinétique"
+      }
+     ]
+    },
+    {
+     "name": "Mouvement dans un champ électrique uniforme",
+     "children": [
+      {
+       "name": "Rappels - le vecteur accélération"
+      },
+      {
+       "name": "Travail d'une force électrique"
+      },
+      {
+       "name": "Accélération d'une particule chargée dans un champ électrique uniforme"
+      },
+      {
+       "name": "Déviation d'une particule chargée dans un champ électrique uniforme"
+      }
+     ]
+    },
+    {
+     "name": "Mouvement dans un champ magnétique uniforme",
+     "children": [
+      {
+       "name": "Rappel"
+      },
+      {
+       "name": "Effet d'un champ magnétique sur une particule chargée en mouvement"
+      },
+      {
+       "name": "Action d'un champ magnétique sur une particule chargée en mouvement"
+      },
+      {
+       "name": "Applications"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Les amplificateurs opérationnels",
+   "children": [
+    {
+     "name": "Amplificateur opérationnel",
+     "children": [
+      {
+       "name": "Description et brochage d'un amplificateur opérationnel"
+      },
+      {
+       "name": "Fonction de base d'un amplificateur opérationnel"
+      },
+      {
+       "name": "Etude de quelques montages"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Optique",
+   "children": [
+    {
+     "name": "Lentilles minces",
+     "children": [
+      {
+       "name": "Classification des lentilles"
+      },
+      {
+       "name": "Caractéristiques d'une lentille"
+      },
+      {
+       "name": "Image d'un objet lumineux donnée par une lentille convergente"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "From back sommaire (p303-304) and body headings. Book has an intermediate 'sous-thème' level (Interaction électrique, Interaction magnétique, Solide en translation, Mouvement dans les champs) which was dropped to respect the 3-level limit; the 13 numbered chapters are kept under their 4 themes."
+}

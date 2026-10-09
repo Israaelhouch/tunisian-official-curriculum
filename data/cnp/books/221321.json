@@ -1,0 +1,78 @@
+{
+ "code": "221321",
+ "title": "فرنسية_شعبة الآداب",
+ "used_for": [
+  "3eme-lettres/FRAN"
+ ],
+ "toc": [
+  {
+   "name": "Récits de voyages",
+   "children": [
+    {
+     "name": "Des îles toujours neuves"
+    },
+    {
+     "name": "Vers Kairouan"
+    },
+    {
+     "name": "Lettre XXX"
+    },
+    {
+     "name": "Le voyageur"
+    }
+   ]
+  },
+  {
+   "name": "Droit à la différence",
+   "children": [
+    {
+     "name": "Chaque homme est unique"
+    },
+    {
+     "name": "Sottises qu’il faut combattre"
+    },
+    {
+     "name": "Melancholia"
+    }
+   ]
+  },
+  {
+   "name": "Mythes d’hier, mythes d’aujourd’hui",
+   "children": [
+    {
+     "name": "Histoire des stars, histoire des dieux"
+    },
+    {
+     "name": "El Desdichado"
+    }
+   ]
+  },
+  {
+   "name": "Portraits comiques",
+   "children": [
+    {
+     "name": "Candide, ou l’optimisme"
+    }
+   ]
+  },
+  {
+   "name": "Écrits autobiographiques",
+   "children": [
+    {
+     "name": "Une entreprise qui n’eut jamais d’exemple"
+    },
+    {
+     "name": "Que serais-je sans toi ?"
+    },
+    {
+     "name": "Appartenance"
+    }
+   ]
+  },
+  {
+   "name": "Défense d’entrer",
+   "children": []
+  }
+ ],
+ "notes": "Modules come from the general SOMMAIRE (p6-7). That sommaire only lists rubrics, so the texts are the 'Textes à lire et à expliquer'. Module 1's texts come from its own sommaire (p9). For modules 2, 3 and 5 they come from page headings and are INCOMPLETE: the titles of the texts on p60 (module 2), p111 and p117 (module 3) and p246 (module 5) were not extracted, so those texts are left out. Module 4 combines comic portraits with the integrated reading of Voltaire's Candide (lecture suivie; the full text is appended on pp. 323-359). The last item is the second whole-work reading, Défense d'entrer by Anne-Lyse Grobéty (p307). Complementary readings and the rubrics (lexique, image, langue, oral, écriture) are left out."
+}

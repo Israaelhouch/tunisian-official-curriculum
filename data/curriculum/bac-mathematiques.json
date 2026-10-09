@@ -1,0 +1,948 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Arrêté du ministre de l'éducation du 24 avril 2008 relatif au régime de l'examen du baccalauréat (texte de base; exam durations taken from the official 2020 bac timetable)",
+    "Arrêté du 5 février 2018 (ajout du portugais aux options du baccalauréat)",
+    "Décret gouvernemental n° 2019-1085 du 19 novembre 2019 fixant l'horaire des études dans l'enseignement de base et dans l'enseignement secondaire (JORT n° 95, 2019) — https://9anoun.tn/kb/jorts/jort-2019-095-424da/decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et-dans-lenseignement-secondaire-60",
+    "CNP 201403 — نصوص _شعب علمية — https://www.cnp.com.tn/arabic/PDF/201403P00.pdf",
+    "CNP 210402 — فلسفة_الشعب العلمية — https://www.cnp.com.tn/arabic/PDF/210402P00.pdf",
+    "CNP 221402 — فرنسية_شعب علمية — https://www.cnp.com.tn/arabic/PDF/221402P00.pdf",
+    "CNP 222445 — رياضيات ج1_شعبة الرياضيات — https://www.cnp.com.tn/arabic/PDF/222445P00.pdf",
+    "CNP 222446 — رياضيات ج2_شعبة الرياضيات — https://www.cnp.com.tn/arabic/PDF/222446P00.pdf",
+    "CNP 223432 — فيزياء_شعبة الرياضيات — https://www.cnp.com.tn/arabic/PDF/223432P00.pdf",
+    "CNP 224432 — كيمياء_شعبة الرياضيات — https://www.cnp.com.tn/arabic/PDF/224432P00.pdf",
+    "CNP 225441 — علوم الحياة والأرض_شعبة الرياضيات — https://www.cnp.com.tn/arabic/PDF/225441P00.pdf",
+    "CNP 241403 — انقليزية — https://www.cnp.com.tn/arabic/PDF/241403P00.pdf",
+    "CNP 261401 — الألمانية — https://www.cnp.com.tn/arabic/PDF/261401P01.pdf",
+    "CNP 271401 — كتاب اللغة الصينية — https://www.cnp.com.tn/arabic/PDF/271401P00.pdf",
+    "CNP 281403 — الإيطالية — https://www.cnp.com.tn/arabic/PDF/281403P00.pdf",
+    "CNP 291401 — الإسبانية — https://www.cnp.com.tn/arabic/PDF/291401P00.pdf"
+  ],
+  "level": {
+    "name_fr": "Baccalauréat (4ème année secondaire)",
+    "name_ar": "البكالوريا (السنة الرابعة ثانوي)",
+    "code": "BAC",
+    "cycle": "secondaire",
+    "grade_number": 4,
+    "display_order": 13,
+    "is_national_exam_year": true
+  },
+  "section": {
+    "name_fr": "Mathématiques",
+    "name_ar": "رياضيات",
+    "code": "MATH",
+    "is_common_core": false
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "جوانب من الحضارة العربية الإسلامية قديما",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "بعض شواغل الإنسان العربي المعاصر",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Français",
+        "name_ar": "الفرنسية",
+        "code": "FRAN"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Souvenirs et nostalgie",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Histoires d'amour",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Liberté, j'écris ton nom...",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Module de lecture : Le silence de la mer",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Guerre et Paix",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "L'Homme et la Science",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Module de lecture : La Cantatrice chauve",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Anglais",
+        "name_ar": "الإنجليزية",
+        "code": "ANGL"
+      },
+      "instruction_language": "en",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "First Impressions",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Art Shows and Holidaying",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Education Matters",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Creative Inventive Minds",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Life Issues",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Continuité et limites",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Suites réelles",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Dérivabilité",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Fonctions réciproques",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Primitives",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Intégrales",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Fonction logarithme népérien",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Fonction exponentielle",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Equations différentielles",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Nombres complexes",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Isométries du plan",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Déplacements – Antidéplacements",
+          "order_index": 12,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Similitudes",
+          "order_index": 13,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Coniques",
+          "order_index": 14,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Géométrie dans l'espace",
+          "order_index": 15,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Divisibilité dans ℤ",
+          "order_index": 16,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Identité de Bezout",
+          "order_index": 17,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Probabilités",
+          "order_index": 18,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Statistiques",
+          "order_index": 19,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences physiques",
+        "name_ar": "العلوم الفيزيائية",
+        "code": "PHYS"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Physique",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Évolution de systèmes",
+              "order_index": 1,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Le condensateur ; le dipôle RC",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "La bobine ; le dipôle RL",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Oscillations électriques libres",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Oscillations électriques forcées en régime sinusoïdal",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Oscillations libres d'un pendule élastique",
+                  "order_index": 5,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Oscillations forcées d'un pendule élastique en régime sinusoïdal",
+                  "order_index": 6,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Ondes",
+              "order_index": 2,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Ondes mécaniques progressives",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Nature ondulatoire de la lumière",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Physique atomique et nucléaire",
+              "order_index": 3,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Spectre atomique",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Le noyau atomique",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Réactions nucléaires",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name_fr": "Chimie",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Cinétique chimique",
+              "order_index": 1,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Notion d'avancement d'une réaction",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Vitesse d'une réaction chimique",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Principaux facteurs cinétiques",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Équilibre chimique",
+              "order_index": 2,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Notion d'équilibre chimique",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Loi d'action de masse - Conditions d'évolution spontanée",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Déplacement des équilibres chimiques - Loi de modération",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Les réactions acide-base",
+              "order_index": 3,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Application de la loi d'action de masse aux réactions acide-base",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "pH des solutions aqueuses",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Variation du pH au cours d'une réaction entre un acide et une base",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Piles électrochimiques",
+              "order_index": 4,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Piles du type pile Daniell",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Potentiel standard d'un couple redox et pouvoir oxydant de sa forme oxydée",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Piles alcalines",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences de la vie et de la terre",
+        "name_ar": "علوم الحياة والأرض",
+        "code": "SVT"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Neurophysiologie",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Le tissu nerveux",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "L'activité réflexe",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "L'hygiène du système nerveux",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Reproduction humaine et santé",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "La fonction reproductrice chez l'homme",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "La fonction reproductrice chez la femme",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "La procréation",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Génétique humaine",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Déterminer le mode de transmission des tares héréditaires",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Analyser le caryotype normal",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Détecter les anomalies chromosomiques",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Détecter les anomalies géniques",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Informatique",
+        "name_ar": "الإعلامية",
+        "code": "INFO"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Philosophie",
+        "name_ar": "الفلسفة",
+        "code": "PHILO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الإنسان بين الكثرة والوحدة",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الإنية والغيرية",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الخصوصية والكونية",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الحقيقة",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "العلم بين الحقيقة والنمذجة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "القيم بين النسبي والمطلق",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الدولة: السيادة والمواطنة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأخلاق: الخير والسعادة",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Allemand",
+        "name_ar": "الألمانية",
+        "code": "ALLEM"
+      },
+      "instruction_language": "de",
+      "is_optional": true,
+      "chapters": [
+        {
+          "name_fr": "Feste und fröhliche Ereignisse",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Städte und Verkehrsmittel",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Aussehen und Charakter",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Schule und Beruf",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Massenmedien",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Espagnol",
+        "name_ar": "الإسبانية",
+        "code": "ESPA"
+      },
+      "instruction_language": "es",
+      "is_optional": true,
+      "chapters": [
+        {
+          "name_fr": "¿Qué hora es?",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¿Qué haces cada día?",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¡Por fin el sábado!",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¿Qué plan tienes?",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¿Cómo quedamos?",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¿Vienes conmigo?",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¿Qué has hecho este fin de semana?",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¿Dónde fuiste la semana pasada?",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¡Qué gente tan interesante!",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Cuando yo era niña...",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¡Cómo cambian las cosas!",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¿Qué te pasa?",
+          "order_index": 12,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Italien",
+        "name_ar": "الإيطالية",
+        "code": "ITAL"
+      },
+      "instruction_language": "it",
+      "is_optional": true,
+      "chapters": [
+        {
+          "name_fr": "Città o campagna",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Moda e Made in Italy",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Sport e benessere",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Cibo e alimentazione",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Mass-media e telecomunicazioni",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Le feste italiane",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Russe",
+        "name_ar": "الروسية",
+        "code": "RUSSE"
+      },
+      "instruction_language": "ru",
+      "is_optional": true,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Chinois",
+        "name_ar": "الصينية",
+        "code": "CHIN"
+      },
+      "instruction_language": "zh",
+      "is_optional": true,
+      "chapters": [
+        {
+          "name_fr": "你买了什么东西",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "你们去长城了没有",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "他不去旅行了",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "我上网上两个小时",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "你吃过烤鸭吗",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "我正在打电话",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "学校里边有医院吗",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "你们先进来吧",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "你说对了",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "再见",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Portugais",
+        "name_ar": "البرتغالية",
+        "code": "PORT"
+      },
+      "instruction_language": "pt",
+      "is_optional": true,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation musicale",
+        "name_ar": "التربية الموسيقية",
+        "code": "MUSIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": true,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Arts plastiques",
+        "name_ar": "التربية التشكيلية",
+        "code": "ARTPL"
+      },
+      "instruction_language": "ar",
+      "is_optional": true,
+      "chapters": []
+    }
+  ]
+}

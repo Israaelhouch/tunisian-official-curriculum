@@ -1,0 +1,437 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Décret gouvernemental n° 2021-143 du 1er mars 2021 modifiant le décret n° 2019-1085 (JORT n° 22, 2021) — https://9anoun.tn/fr/kb/jorts/jort-2021-022-ae9df/decret-gouvernemental-ndeg-2021-143-du-1er-mars-2021-modifiant-le-decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et--5cae85b018dea9894163eae4e6c6a61b",
+    "Décret gouvernemental n° 2019-1085 du 19 novembre 2019 fixant l'horaire des études dans l'enseignement de base et dans l'enseignement secondaire (JORT n° 95, 2019) — https://9anoun.tn/kb/jorts/jort-2019-095-424da/decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et-dans-lenseignement-secondaire-60",
+    "CNP 201381 — نصوص -شعبة رياضة — https://www.cnp.com.tn/arabic/PDF/201381P01.pdf",
+    "CNP 210301 — الفلسفة_الشعب العلمية — https://www.cnp.com.tn/arabic/PDF/210301P00.pdf",
+    "CNP 221302 — فرنسية_شعب علمية — https://www.cnp.com.tn/arabic/PDF/221302P00.pdf",
+    "CNP 222381 — Maths - sport — https://www.cnp.com.tn/arabic/PDF/222381P01.pdf",
+    "CNP 225381 — Science Biologique - sport — https://www.cnp.com.tn/arabic/PDF/225381P01.pdf",
+    "CNP 241303 — أنقليزية — https://www.cnp.com.tn/arabic/PDF/241303P00.pdf"
+  ],
+  "level": {
+    "name_fr": "3ème année secondaire",
+    "name_ar": "السنة الثالثة ثانوي",
+    "code": "3S",
+    "cycle": "secondaire",
+    "grade_number": 3,
+    "display_order": 12,
+    "is_national_exam_year": false
+  },
+  "section": {
+    "name_fr": "Sport",
+    "name_ar": "رياضة",
+    "code": "SPORT",
+    "is_common_core": false
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "رحلات ومشاهد",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الرياضة والناس",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "السيرة الذاتية",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Français",
+        "name_ar": "الفرنسية",
+        "code": "FRAN"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Invitation au voyage",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Le mythe aujourd’hui",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Le droit à la différence",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Module de lecture : Celui qui n’avait jamais vu la mer",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Scènes comiques",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Le pouvoir de l’image",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Anglais",
+        "name_ar": "الإنجليزية",
+        "code": "ANGL"
+      },
+      "instruction_language": "en",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "In time of test, family is best",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "We learn to give, share and care",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "A change is as good as a rest",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Science and technology: a blessing or a curse?",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Education is not filling a bucket but lighting a fire",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Nature: any future without it?",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Généralités sur les fonctions",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Continuité et limites",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Limites et comportement asymptotique",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Dérivation et applications",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Exemples d'étude de fonctions",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Suites réelles",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Dénombrement",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Probabilités",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences physiques",
+        "name_ar": "العلوم الفيزيائية",
+        "code": "PHYS"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences biologiques",
+        "name_ar": "علوم البيولوجيا",
+        "code": "BIO"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Le milieu intérieur et sa constance : l'homéostasie",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Le milieu intérieur et ses caractéristiques",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Le rôle du néphron dans la régulation de l'équilibre hydrominéral",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "La régulation de la glycémie",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Les moyens de prévention du diabète",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Hygiène du milieu intérieur",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Immunité : maintien de l'intégrité de l'organisme",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Le soi et le non soi",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Les organes et les cellules de l'immunité",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Les étapes de la réponse immunitaire spécifique",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Dysfonctionnement du système immunitaire",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "L'information génétique et son expression",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Notion de caractère héréditaire, d'information génétique, de phénotype et de génotype",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Localisation, nature et structure de l'information génétique",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Origine de la diversité",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Du génotype au phénotype : expression de l'information génétique",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Transmission d'un couple d'allèles chez les diploïdes",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Informatique",
+        "name_ar": "الإعلامية",
+        "code": "INFO"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Histoire",
+        "name_ar": "التاريخ",
+        "code": "HIST"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Géographie",
+        "name_ar": "الجغرافيا",
+        "code": "GEO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Spécialité sportive",
+        "name_ar": "الاختصاص الرياضي",
+        "code": "SPORTSPEC"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation islamique",
+        "name_ar": "التربية الإسلامية",
+        "code": "ISLAM"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation civique",
+        "name_ar": "التربية المدنية",
+        "code": "CIVIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Philosophie",
+        "name_ar": "الفلسفة",
+        "code": "PHILO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "اليومي",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "مقتضيات التفكير",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "تجربة الالتزام",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

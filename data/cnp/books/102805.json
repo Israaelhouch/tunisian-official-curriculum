@@ -1,0 +1,74 @@
+{
+ "code": "102805",
+ "title": "الرياضيات",
+ "used_for": [
+  "8eme-base/MATH"
+ ],
+ "toc": [
+  {
+   "name": "أنشطة في الحساب - قابلية القسمة على 8",
+   "children": []
+  },
+  {
+   "name": "مجموعة الأعداد الصحيحة النسبية",
+   "children": []
+  },
+  {
+   "name": "الجمع والطرح والضرب في مجموعة الأعداد الصحيحة النسبية",
+   "children": []
+  },
+  {
+   "name": "الأعداد الكسرية",
+   "children": []
+  },
+  {
+   "name": "الجمع والطرح في مجموعة الأعداد الكسرية",
+   "children": []
+  },
+  {
+   "name": "الضرب والقسمة في مجموعة الأعداد الكسرية",
+   "children": []
+  },
+  {
+   "name": "القوى في مجموعة الأعداد الكسرية",
+   "children": []
+  },
+  {
+   "name": "معادلات من الدرجة الأولى ذات مجهول واحد",
+   "children": []
+  },
+  {
+   "name": "التناسب",
+   "children": []
+  },
+  {
+   "name": "أنشطة حول الإحصاء والاحتمالات",
+   "children": []
+  },
+  {
+   "name": "التناظر المركزي",
+   "children": []
+  },
+  {
+   "name": "الزوايا الحاصلة عن تقاطع مستقيم مع مستقيمين متوازيين",
+   "children": []
+  },
+  {
+   "name": "المثلثات المتقايسة",
+   "children": []
+  },
+  {
+   "name": "رباعيات الأضلاع",
+   "children": []
+  },
+  {
+   "name": "الهرم والمخروط والكرة",
+   "children": []
+  },
+  {
+   "name": "التوازي في الفضاء",
+   "children": []
+  }
+ ],
+ "notes": "Source: الفهرس p4 (16 numbered chapters with pages); the فهرس also has a left domain column (أنشطة في الحساب / الإحصاء والاحتمالات / ...) that is mostly unreadable in OCR, so chapters are given flat. Chapter 3 TOC line is garbled ('الجمع polo والضرب في ,7'); its full title was read from the chapter heading p25 (font-encoded glyphs decoded letter by letter). Chapter 9 is unreadable in the TOC ('gui'); its title 'التناسب' was read from the encoded chapter heading p120 the same way. Chapter 1 printed as 'أنشطة في الحساب. قابلية القسمة على 8' (heading p6 confirms both parts). Sections not reliably recoverable (headings are font-encoded), so children are empty. No placeholders."
+}

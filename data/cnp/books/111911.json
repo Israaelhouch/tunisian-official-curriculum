@@ -1,0 +1,295 @@
+{
+ "code": "111911",
+ "title": "المواد الاجتماعية",
+ "used_for": [
+  "9eme-base/HIST",
+  "9eme-base/GEO",
+  "9eme-base/CIVIQ"
+ ],
+ "by_subject": {
+  "HIST": [
+   {
+    "name": "تونس والعالم من الحرب العالمية الأولى إلى الحرب العالمية الثانية",
+    "children": [
+     {
+      "name": "الحرب العالمية الأولى: الأسباب وأبرز النتائج",
+      "children": []
+     },
+     {
+      "name": "الحركة الوطنية التونسية في العشرينات",
+      "children": []
+     },
+     {
+      "name": "الحركة الوطنية التونسية في الثلاثينات",
+      "children": []
+     },
+     {
+      "name": "أسباب الحرب العالمية الثانية",
+      "children": []
+     },
+     {
+      "name": "نتائج الحرب العالمية الثانية",
+      "children": []
+     }
+    ]
+   },
+   {
+    "name": "العالم بعد الحرب العالمية الثانية",
+    "children": [
+     {
+      "name": "الحرب الباردة",
+      "children": []
+     },
+     {
+      "name": "تحرر الشعوب المستعمرة",
+      "children": []
+     },
+     {
+      "name": "القضية الفلسطينية",
+      "children": []
+     }
+    ]
+   },
+   {
+    "name": "استقلال بلدان المغرب العربي",
+    "children": [
+     {
+      "name": "الحركة الوطنية التونسية من 1945 إلى 1956",
+      "children": []
+     },
+     {
+      "name": "تونس من 1956 - 1987",
+      "children": []
+     },
+     {
+      "name": "الحركة الوطنية الجزائرية",
+      "children": []
+     },
+     {
+      "name": "الحركة الوطنية المغربية",
+      "children": []
+     },
+     {
+      "name": "الحركة الوطنية الليبية",
+      "children": []
+     }
+    ]
+   }
+  ],
+  "GEO": [
+   {
+    "name": "المغرب العربي",
+    "children": [
+     {
+      "name": "الوسط الطبيعي: المزايا والضغوطات",
+      "children": []
+     },
+     {
+      "name": "الموارد الطبيعية",
+      "children": []
+     },
+     {
+      "name": "السكان والتنمية البشرية",
+      "children": []
+     },
+     {
+      "name": "التنمية الاقتصادية",
+      "children": []
+     }
+    ]
+   },
+   {
+    "name": "البلاد التونسية",
+    "children": [
+     {
+      "name": "السكان",
+      "children": []
+     },
+     {
+      "name": "التنمية الفلاحية",
+      "children": []
+     },
+     {
+      "name": "التنمية الصناعية",
+      "children": []
+     },
+     {
+      "name": "التنمية السياحية",
+      "children": []
+     },
+     {
+      "name": "تنمية التجارة الخارجية",
+      "children": []
+     },
+     {
+      "name": "حصيلة التنمية",
+      "children": []
+     }
+    ]
+   }
+  ],
+  "CIVIQ": [
+   {
+    "name": "الإطار العام للمواطنة",
+    "children": [
+     {
+      "name": "الوطن",
+      "children": [
+       {
+        "name": "مفهوم الوطن",
+        "children": []
+       },
+       {
+        "name": "الهوية الوطنية",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "المواطنة",
+      "children": [
+       {
+        "name": "المواطنة",
+        "children": []
+       },
+       {
+        "name": "المواطنة في بعدها القانوني",
+        "children": []
+       },
+       {
+        "name": "المواطنة في بعدها السياسي",
+        "children": []
+       },
+       {
+        "name": "المواطنة في بعدها الإداري",
+        "children": []
+       },
+       {
+        "name": "المواطنة في بعدها الاجتماعي",
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "الحرية والمسؤولية",
+    "children": [
+     {
+      "name": "الحرية",
+      "children": [
+       {
+        "name": "حرية الرأي والتعبير",
+        "children": []
+       },
+       {
+        "name": "حرية النشر والصحافة",
+        "children": []
+       },
+       {
+        "name": "حرية الاجتماع والتجمع",
+        "children": []
+       },
+       {
+        "name": "حرية التنقل واختيار مقر الإقامة",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "المسؤولية",
+      "children": [
+       {
+        "name": "المسؤولية تجاه المحيط الاجتماعي والثقافي",
+        "children": []
+       },
+       {
+        "name": "المسؤولية تجاه المحيط الطبيعي",
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "الحق والواجب",
+    "children": [
+     {
+      "name": "الحق",
+      "children": [
+       {
+        "name": "حق المشاركة في الحياة السياسية والاجتماعية",
+        "children": []
+       },
+       {
+        "name": "الحق في الصحة",
+        "children": []
+       },
+       {
+        "name": "الحق في التعليم",
+        "children": []
+       },
+       {
+        "name": "الحق في العمل",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "الواجب",
+      "children": [
+       {
+        "name": "واجب الدفاع عن الوطن",
+        "children": []
+       },
+       {
+        "name": "واجب أداء الضرائب",
+        "children": []
+       },
+       {
+        "name": "واجب احترام القانون",
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "المساواة والتسامح",
+    "children": [
+     {
+      "name": "المساواة",
+      "children": [
+       {
+        "name": "المساواة أمام القانون",
+        "children": []
+       },
+       {
+        "name": "المساواة أمام القضاء",
+        "children": []
+       }
+      ]
+     },
+     {
+      "name": "التسامح",
+      "children": [
+       {
+        "name": "قبول الآخر ورفض كل أشكال التمييز",
+        "children": []
+       },
+       {
+        "name": "نبذ العنف والتحريض على التباغض",
+        "children": []
+       },
+       {
+        "name": "اعتماد الحوار والتفاهم",
+        "children": []
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "notes": "Text uses legacy Arabic fonts with broken encoding. The general فهرس (pp. 332-335: history, geography, civics) was decoded by mapping glyph codes to letters (mapping checked against many known words); history page numbers (6,15,24,33,42 / 51,59,67 / 81,91,101,112,123) and geography ones match the lesson headings. Decoding artifacts fixed where the word was evident (e.g. الوطني -> الوطنية in lesson 9, الاآخر -> الآخر). Lesson 10 is kept as printed ('1956 - 1987'). GEO axis 2 lesson 3: the فهرس says 'التنمية الاقتصادية' but the lesson heading (p204) and its objectives say industrial development, so 'التنمية الصناعية' was used from the heading. CIVIQ: مدار الاهتمام -> lesson (الوطن, المواطنة, ...) -> numbered sub-lessons (1-1, 1-2, ...); sub-lesson 2-1 is printed simply as 'المواطنة'. Excluded: نشاط تقييمي, أشغال موجهة."
+}

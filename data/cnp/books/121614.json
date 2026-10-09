@@ -1,0 +1,242 @@
+{
+ "code": "121614",
+ "title": "فرنسية_ قراءة",
+ "used_for": [
+  "6eme-primaire/FRAN"
+ ],
+ "toc": [
+  {
+   "name": "Travailler pour s’épanouir",
+   "children": [
+    {
+     "name": "Apprentie comédienne"
+    },
+    {
+     "name": "J’apprends à utiliser les déterminants, les noms et les pronoms personnels"
+    },
+    {
+     "name": "J’apprends à utiliser les verbes conjugués et les verbes à l’infinitif"
+    },
+    {
+     "name": "Une parfumeuse en herbe"
+    },
+    {
+     "name": "J’apprends à écrire l’infinitif après : à, de, par, pour, sans"
+    },
+    {
+     "name": "Témoignages"
+    },
+    {
+     "name": "Quel métier choisir plus tard ?"
+    },
+    {
+     "name": "Le « tableau » découpé"
+    }
+   ]
+  },
+  {
+   "name": "Communiquer avec les autres",
+   "children": [
+    {
+     "name": "Le vieux robot"
+    },
+    {
+     "name": "J’apprends à utiliser les déterminants démonstratifs et possessifs"
+    },
+    {
+     "name": "J’apprends à conjuguer des verbes à l’impératif"
+    },
+    {
+     "name": "Une télé pas comme les autres"
+    },
+    {
+     "name": "Écrire correctement les homophones a / à"
+    },
+    {
+     "name": "Le monde du journalisme"
+    },
+    {
+     "name": "Fabriquer son journal"
+    },
+    {
+     "name": "Puzzle"
+    }
+   ]
+  },
+  {
+   "name": "Accepter les autres",
+   "children": [
+    {
+     "name": "Le petit lapin tout blanc"
+    },
+    {
+     "name": "J’apprends à utiliser l’adjectif épithète et l’adjectif attribut"
+    },
+    {
+     "name": "J’apprends à conjuguer les verbes « être » et « avoir » au passé composé et au futur"
+    },
+    {
+     "name": "Le nouveau costume"
+    },
+    {
+     "name": "J’apprends à écrire son et sont"
+    },
+    {
+     "name": "L’Indien qui ne savait pas courir"
+    },
+    {
+     "name": "Tous différents et tous semblables"
+    },
+    {
+     "name": "Un bouquet de bienvenue"
+    }
+   ]
+  },
+  {
+   "name": "S’entraider pour mieux réussir",
+   "children": [
+    {
+     "name": "Un bon compagnon"
+    },
+    {
+     "name": "J’apprends à utiliser la phrase négative avec : ne ... plus, ne ... jamais"
+    },
+    {
+     "name": "J’apprends à conjuguer les verbes du type « finir » au passé composé et au futur"
+    },
+    {
+     "name": "L’écureuil et l’escargot"
+    },
+    {
+     "name": "J’apprends à écrire et ou est"
+    },
+    {
+     "name": "Le courage d’un jeune apprenti"
+    },
+    {
+     "name": "L’école, un droit pour tous"
+    },
+    {
+     "name": "Le jeu du Petit Poucet"
+    }
+   ]
+  },
+  {
+   "name": "Sauver la nature",
+   "children": [
+    {
+     "name": "Sauvez Keiko"
+    },
+    {
+     "name": "J’apprends à utiliser des compléments essentiels et des compléments non essentiels"
+    },
+    {
+     "name": "J’apprends à conjuguer les verbes « prendre » et « mettre » au passé composé et au futur"
+    },
+    {
+     "name": "La ménagère de la mer"
+    },
+    {
+     "name": "J’apprends à accorder le verbe avec le sujet"
+    },
+    {
+     "name": "Les parapluies"
+    },
+    {
+     "name": "Conseils pour éviter le gaspillage de l’eau"
+    },
+    {
+     "name": "Une famille de cygnes"
+    }
+   ]
+  },
+  {
+   "name": "Être en forme et mieux se porter",
+   "children": [
+    {
+     "name": "La jeune acrobate"
+    },
+    {
+     "name": "J’apprends à utiliser le complément de lieu"
+    },
+    {
+     "name": "J’apprends à conjuguer les verbes aller et faire au passé composé et au futur"
+    },
+    {
+     "name": "Des vignettes... pour un ballon"
+    },
+    {
+     "name": "J’apprends à accorder l’adjectif avec le nom (1)"
+    },
+    {
+     "name": "La lettre de Jean"
+    },
+    {
+     "name": "Comment te défendre contre le stress"
+    },
+    {
+     "name": "Les exercices d’étirement"
+    }
+   ]
+  },
+  {
+   "name": "Profiter de son temps libre",
+   "children": [
+    {
+     "name": "La lettre de Paul"
+    },
+    {
+     "name": "J’apprends à utiliser le complément de temps"
+    },
+    {
+     "name": "J’apprends à conjuguer les verbes dire, lire et écrire au passé composé et au futur"
+    },
+    {
+     "name": "La lettre de Daniel"
+    },
+    {
+     "name": "J’apprends à accorder l’adjectif avec le nom (2)"
+    },
+    {
+     "name": "La lettre de Monsieur Crêpe"
+    },
+    {
+     "name": "La peinture, la sculpture et le théâtre de marionnettes"
+    },
+    {
+     "name": "Le nombre pensé"
+    }
+   ]
+  },
+  {
+   "name": "Découvrir d’autres modes de vie",
+   "children": [
+    {
+     "name": "Le grand voyage"
+    },
+    {
+     "name": "J’apprends à utiliser le complément de manière"
+    },
+    {
+     "name": "J’apprends à conjuguer les verbes pouvoir et vouloir au présent"
+    },
+    {
+     "name": "Une sortie de classe au Canada"
+    },
+    {
+     "name": "J’apprends à accorder le participe passé"
+    },
+    {
+     "name": "L’île au trésor"
+    },
+    {
+     "name": "Quelques fêtes à travers le monde"
+    },
+    {
+     "name": "La Tour Eiffel"
+    }
+   ]
+  }
+ ],
+ "notes": "Clean text layer. 8 modules (Module 1-8, titles from module opener pages and the TABLEAU DE BORD pp.6-7). Children in page order from the in-page title headings: reading texts (Je lis), documentary texts (Je lis pour m’informer et me documenter), 'Je lis pour agir' activities, and the grammar/conjugation/spelling lessons (J’apprends à ...). Page titles preferred over the tableau de bord where they differ (e.g. 'Puzzle' p40 vs tableau 'Faire la maquette de la Une', 'Quelques fêtes à travers le monde' vs 'Quelques fêtes d’autres pays'). The p34 spelling-lesson heading is truncated ('J’apprends à écrire les mots') -> named from the tableau de bord 'Écrire correctement les homophones a / à'. Excluded: poems (Je récite), vocabulary pages (J’ouvre la boîte à mots / Page vocabulaire, e.g. 'La vie professionnelle', 'La protection de l’environnement'), games (Je joue avec les mots), fiche-contrat pages, révision page p5, conjugation tables pp.135-136."
+}

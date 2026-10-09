@@ -1,0 +1,253 @@
+{
+ "code": "101708",
+ "title": "الأنيس - نصوص",
+ "used_for": [
+  "7eme-base/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "الأسرة",
+   "children": [
+    {
+     "name": "المدرسة الأولى"
+    },
+    {
+     "name": "أحبك... ولكني أريد أن ألعب"
+    },
+    {
+     "name": "عصفور الصباح"
+    },
+    {
+     "name": "النص 4 (عنوان غير مقروء)"
+    },
+    {
+     "name": "أنا أيضا مسؤول"
+    },
+    {
+     "name": "كل آمالنا فيك..."
+    },
+    {
+     "name": "العنقود"
+    },
+    {
+     "name": "الأخوان"
+    },
+    {
+     "name": "أخي إبراهيم"
+    },
+    {
+     "name": "أختي سعيدة"
+    },
+    {
+     "name": "المزارع الصغير"
+    },
+    {
+     "name": "أصبح رجلا"
+    },
+    {
+     "name": "بطلان صغيران"
+    }
+   ]
+  },
+  {
+   "name": "المدرسة",
+   "children": [
+    {
+     "name": "النص 1 (عنوان غير مقروء)"
+    },
+    {
+     "name": "المثابرة"
+    },
+    {
+     "name": "النص 3 (عنوان غير مقروء)"
+    },
+    {
+     "name": "النص 4 (عنوان غير مقروء)"
+    },
+    {
+     "name": "الاعتراف"
+    },
+    {
+     "name": "الرحلة"
+    },
+    {
+     "name": "النص 7 (عنوان غير مقروء)"
+    },
+    {
+     "name": "أنا وأساتذتي"
+    },
+    {
+     "name": "النص 9 (عنوان غير مقروء)"
+    },
+    {
+     "name": "النص 10 (عنوان غير مقروء)"
+    },
+    {
+     "name": "النص 11 (عنوان غير مقروء)"
+    },
+    {
+     "name": "رسالة اعتذار"
+    },
+    {
+     "name": "تلميذ ضعيف"
+    }
+   ]
+  },
+  {
+   "name": "الحي",
+   "children": [
+    {
+     "name": "النص 1 (عنوان غير مقروء)"
+    },
+    {
+     "name": "النص 2 (عنوان غير مقروء)"
+    },
+    {
+     "name": "العودة إلى الحي"
+    },
+    {
+     "name": "حنين"
+    },
+    {
+     "name": "في حي الحمزاوي"
+    },
+    {
+     "name": "النص 6 (عنوان غير مقروء)"
+    },
+    {
+     "name": "الحي العجيب"
+    },
+    {
+     "name": "حي يواجه الشدائد"
+    },
+    {
+     "name": "العم باخير"
+    },
+    {
+     "name": "النادل الظريف"
+    },
+    {
+     "name": "بدر العنكبوت"
+    },
+    {
+     "name": "النص 12 (عنوان غير مقروء)"
+    },
+    {
+     "name": "تحولات"
+    }
+   ]
+  },
+  {
+   "name": "تونس الجميلة",
+   "children": [
+    {
+     "name": "تونس الأحلام"
+    },
+    {
+     "name": "صور من الماضي"
+    },
+    {
+     "name": "النص 3 (عنوان غير مقروء)"
+    },
+    {
+     "name": "جبال خمير"
+    },
+    {
+     "name": "سوسة العتيقة"
+    },
+    {
+     "name": "عرس الواحة"
+    },
+    {
+     "name": "بين تمثالين"
+    },
+    {
+     "name": "عرس تقليدي"
+    }
+   ]
+  },
+  {
+   "name": "الأطفال في العالم",
+   "children": [
+    {
+     "name": "حياتنا في «لابونيا»"
+    },
+    {
+     "name": "أطفال في أتون الحرب"
+    },
+    {
+     "name": "الدكان"
+    },
+    {
+     "name": "امتحان الشجاعة"
+    },
+    {
+     "name": "أطفال غزة"
+    },
+    {
+     "name": "طفلان من النيبال"
+    },
+    {
+     "name": "ضيفة من بلاد بعيدة"
+    },
+    {
+     "name": "صديقة من فلسطين"
+    },
+    {
+     "name": "أصبحنا نحب «أتشان»"
+    },
+    {
+     "name": "تقريب المسافات"
+    }
+   ]
+  },
+  {
+   "name": "حكايات وأساطير",
+   "children": [
+    {
+     "name": "رأي الجازية في الرجال"
+    },
+    {
+     "name": "نصيف"
+    },
+    {
+     "name": "النص 3 (عنوان غير مقروء)"
+    },
+    {
+     "name": "في كهف التنين"
+    },
+    {
+     "name": "منارة فريدة"
+    },
+    {
+     "name": "القمقم"
+    },
+    {
+     "name": "جسر على نهر «درينا»"
+    },
+    {
+     "name": "حصان طروادة"
+    },
+    {
+     "name": "تشانغ والقاضي الحكيم"
+    },
+    {
+     "name": "النص 10 (عنوان غير مقروء)"
+    },
+    {
+     "name": "في المطحنة"
+    },
+    {
+     "name": "طائر الفينيكس"
+    },
+    {
+     "name": "«ديمترا»"
+    },
+    {
+     "name": "عاقبة الظلم"
+    }
+   ]
+  }
+ ],
+ "notes": "Six محاور from axis headings (pp.13-209) and the p5 overview table; texts from the OCR'd فهرس (pp.214-216), which is incomplete: axis 2 (المدرسة) has no surviving entries (children left empty), axis 3 texts 1-2 and the axis-3 long text are missing, axis 4 entries stop at text 8 (pp.118-132; texts after p132 lost). Axis 4 title unreadable in heading (OCR 'الحملة') -> positional label. Positional labels for unreadable titles: axis1 text 2 (p16) and text 4 (OCR 'أخذت غيبائه تطول'); axis3 text 6 and 12; axis4 text 3 ('الشوق إلى ...'); axis6 texts 2 ('نصيف'?), 3 ('... والأسد'), 7 ('نهر دريتا'?), 10, 11 ('في المطحنة'?). 'بدر العنكبوت' kept as OCR'd but doubtful. Long reading texts (نص طويل) kept as last item where named; نصوص الحفظ / أنشطة التأليف والتقييم excluded. | Re-check with full-page OCR (opener_pages): axis 4 title 'تونس الجميلة' from running headers pp.120-147 (p5 table: 'تونس'); axis1 text 2 'أحبك... ولكني أريد أن ألعب' from p16 heading + cross-reference p95; axis6 text 2 'نصيف' (فهرس p216, hero named p180), text 7 'جسر على نهر «درينا»' (p190 heading 'سر على .. «درية»' + فهرس 'نهر دريتا' + source title), text 11 'في المطحنة' (فهرس p216). Axis 2 (المدرسة) filled from text pages pp.48-75 (12 numbered texts at even pages 48-70, then نصوص الحفظ p72, تأليف p73, long text p75): 'المثابرة' p50 (OCR 'الثابرة'), 'الاعتراف' p56, 'الرحلة' p58 (confirmed by cross-ref p97), 'أنا وأساتذتي' p62, 'رسالة اعتذار' p70 (cross-ref p89), long text 'تلميذ ضعيف' p75; unreadable -> positional: texts 1 (p48), 3 (p52, no title line), 4 (p54 'نحو ا..جد'), 7 (p60 'أصبحت ...'), 9 (p64), 10 (p66), 11 (p68 '... أمل'). Still unreadable: axis1 text 4, axis3 texts 1, 2, 6, 12, axis4 text 3, axis6 texts 3 (p182 heading 'الثعلبان'? vs فهرس '... والأسد'), 10. Axis-3 long text (p112) and axis-4 texts after p132 still not listed."
+}

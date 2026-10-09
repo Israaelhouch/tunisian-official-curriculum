@@ -1,0 +1,223 @@
+{
+ "code": "223451",
+ "title": "الفيزياء_شعبة العلوم التقنية",
+ "used_for": [
+  "bac-techniques/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Évolution de systèmes",
+   "children": [
+    {
+     "name": "Le condensateur ; le dipôle RC",
+     "children": [
+      {
+       "name": "Définition et exemples"
+      },
+      {
+       "name": "Charge et décharge d'un condensateur"
+      },
+      {
+       "name": "Charge d'un condensateur et intensité du courant"
+      },
+      {
+       "name": "Relation entre la charge q et la tension uC"
+      },
+      {
+       "name": "Capacité d'un condensateur plan"
+      },
+      {
+       "name": "Tension de service et tension de claquage"
+      },
+      {
+       "name": "Énergie emmagasinée par un condensateur"
+      },
+      {
+       "name": "Réponse d'un dipôle RC à un échelon de tension"
+      },
+      {
+       "name": "Décharge d'un condensateur dans un résistor"
+      },
+      {
+       "name": "Influence des grandeurs caractéristiques d'un dipôle RC sur la durée de charge ou de décharge d'un condensateur"
+      }
+     ]
+    },
+    {
+     "name": "La bobine ; le dipôle RL",
+     "children": [
+      {
+       "name": "Le phénomène d'induction électromagnétique"
+      },
+      {
+       "name": "Loi de Lenz"
+      },
+      {
+       "name": "La force électromotrice d'induction"
+      },
+      {
+       "name": "L'auto-induction"
+      },
+      {
+       "name": "Énergie magnétique emmagasinée dans une bobine"
+      },
+      {
+       "name": "Applications de l'induction électromagnétique"
+      },
+      {
+       "name": "Réponse d'un dipôle RL à un échelon de tension"
+      },
+      {
+       "name": "La rupture du courant dans un dipôle RL"
+      },
+      {
+       "name": "Influence des grandeurs caractéristiques d'un dipôle RL sur le régime transitoire"
+      }
+     ]
+    },
+    {
+     "name": "Oscillations électriques libres",
+     "children": [
+      {
+       "name": "Production d'oscillations libres amorties"
+      },
+      {
+       "name": "Influence de l'amortissement"
+      },
+      {
+       "name": "Équation différentielle régissant la charge q du condensateur dans un circuit RLC série"
+      },
+      {
+       "name": "Énergie totale d'un oscillateur RLC série"
+      },
+      {
+       "name": "Nature des oscillations libres non amorties"
+      },
+      {
+       "name": "Énergie totale d'un oscillateur LC"
+      }
+     ]
+    },
+    {
+     "name": "Oscillations électriques forcées en régime sinusoïdal",
+     "children": [
+      {
+       "name": "Réponse d'un circuit RLC série à une tension sinusoïdale"
+      },
+      {
+       "name": "Influence de la fréquence d'excitation sur la réponse d'un circuit RLC série"
+      },
+      {
+       "name": "Influence de la résistance totale du circuit sur la résonance"
+      },
+      {
+       "name": "Le phénomène de surtension"
+      },
+      {
+       "name": "Applications de la résonance"
+      },
+      {
+       "name": "Puissance moyenne et facteur de puissance"
+      }
+     ]
+    },
+    {
+     "name": "Oscillations libres d'un pendule élastique",
+     "children": [
+      {
+       "name": "Oscillations libres non amorties"
+      },
+      {
+       "name": "Oscillations libres amorties"
+      }
+     ]
+    },
+    {
+     "name": "Oscillations forcées d'un pendule élastique en régime sinusoïdal",
+     "children": [
+      {
+       "name": "Production d'oscillations forcées"
+      },
+      {
+       "name": "Influence de la fréquence de l'excitateur sur l'amplitude des oscillations"
+      },
+      {
+       "name": "Influence de l'amortissement sur l'amplitude des oscillations"
+      },
+      {
+       "name": "Étude théorique"
+      },
+      {
+       "name": "Résonance de vitesse et résonance de charge"
+      },
+      {
+       "name": "Puissance mécanique"
+      },
+      {
+       "name": "Importance des oscillations mécaniques forcées et de la résonance"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Filtres électriques",
+   "children": [
+    {
+     "name": "Les filtres électriques",
+     "children": [
+      {
+       "name": "Filtrage"
+      },
+      {
+       "name": "Fonction de transfert et gain d'un filtre"
+      },
+      {
+       "name": "Bande passante et fréquence de coupure d'un filtre"
+      },
+      {
+       "name": "Applications des filtres"
+      }
+     ]
+    },
+    {
+     "name": "Exemples de filtres électriques",
+     "children": [
+      {
+       "name": "Filtre passe-bas passif"
+      },
+      {
+       "name": "Filtre passe-bas actif"
+      },
+      {
+       "name": "Filtre passe-haut"
+      },
+      {
+       "name": "Filtre passe-bande"
+      },
+      {
+       "name": "Applications des filtres"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ondes mécaniques",
+   "children": [
+    {
+     "name": "Ondes mécaniques progressives",
+     "children": [
+      {
+       "name": "Propagation d'un ébranlement"
+      },
+      {
+       "name": "Propagation d'une onde sinusoïdale entretenue"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "French physics book (Bac Sciences techniques). 3 themes / 9 chapters per avant-propos and sommaire (p4-5); sections from size-14 headings in page order. Theme 1 sub-parts (systèmes électriques / système mécanique) omitted to keep 3 levels; chapter 5 uses its two sub-parts since inner headings repeat. Fiches techniques, documents and reading texts excluded."
+}

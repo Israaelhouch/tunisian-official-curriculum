@@ -1,0 +1,118 @@
+{
+ "code": "207202",
+ "title": "التاريخ (شعبتي الآداب و الاقتصاد والخدمات)",
+ "used_for": [
+  "2eme-lettres/HIST",
+  "2eme-economie-services/HIST"
+ ],
+ "toc": [
+  {
+   "name": "الحضارات القديمة في الشرق والعالم المتوسطي",
+   "children": [
+    {
+     "name": "حضارات الشّرق والعالم المتوسطي في العصر القديم : تقديم عام",
+     "children": []
+    },
+    {
+     "name": "بلاد الرافدين : الأطوار التّاريخيّة والتنظيم السياسي",
+     "children": []
+    },
+    {
+     "name": "بلاد الرافدين : الزّراعة",
+     "children": []
+    },
+    {
+     "name": "بلاد الرافدين : شريعة حمورابي",
+     "children": []
+    },
+    {
+     "name": "بلاد الرافدين : الديانة والعلوم والفنون",
+     "children": []
+    },
+    {
+     "name": "مصر في عهد الفراعنة : الأطوار التاريخيّة والمؤسسات",
+     "children": []
+    },
+    {
+     "name": "مصر في عهد الفراعنة : المجتمع والحياة الاقتصاديّة",
+     "children": []
+    },
+    {
+     "name": "مصر في عهد الفراعنة : الديانة والعلوم والفنون",
+     "children": []
+    },
+    {
+     "name": "بلاد الإغريق في العصر الكلاسيكي : الديموقراطيّة الأثينيّة",
+     "children": []
+    },
+    {
+     "name": "بلاد الإغريق في العصر الكلاسيكي : الإنتاج الفكري والفني",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "المحور الثاني",
+   "children": [
+    {
+     "name": "العالم في نهاية القرن السادس وبداية القرن السابع للميلاد",
+     "children": []
+    },
+    {
+     "name": "ظهور الإسلام ومراحل انتشاره",
+     "children": []
+    },
+    {
+     "name": "الدولة والمجتمع في المشرق الإسلامي (1-5 هـ / 7-11 م)",
+     "children": []
+    },
+    {
+     "name": "الازدهار الحضاري في المشرق الإسلامي (1-5 هـ / 7-11 م)",
+     "children": []
+    },
+    {
+     "name": "ابن سينا",
+     "children": []
+    },
+    {
+     "name": "مدينة بغداد",
+     "children": []
+    },
+    {
+     "name": "التطوّر السياسي في الغرب الإسلامي من القرن الثاني إلى القرن التّاسع للهجرة (8-15 م)",
+     "children": []
+    },
+    {
+     "name": "التحوّلات الاجتماعيّة في الغرب الإسلامي من القرن الثاني إلى القرن التّاسع للهجرة (8-15 م)",
+     "children": []
+    },
+    {
+     "name": "ابن رشد",
+     "children": []
+    },
+    {
+     "name": "الإدريسي",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "العلاقة بين العالم الإسلامي والغرب المسيحي من القرن الرّابع للهجرة (10 م) إلى سقوط غرناطة (15 م)",
+   "children": [
+    {
+     "name": "الغرب المسيحي في حدود عام 1000 ميلادي",
+     "children": []
+    },
+    {
+     "name": "المواجهة بين العالم الإسلامي والغرب المسيحي",
+     "children": []
+    },
+    {
+     "name": "تأثير الحضارة الإسلاميّة في أوروبا",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Source: front فهرس p.3 (OCR, lesson numbers partly garbled e.g. 'الدرس 5' for 9, '25' for 23) cross-checked with headings. Lesson 5 unreadable word fixed from p.41 heading ('الديانة والعلوم والفنون'); lesson 18 'القرن gl' and lesson 17 date fixed by parallel wording of lessons 17/18; reversed dates '11-7 م' -> '7-11 م'. 6 positional placeholders: axis 2 title ('التطور الحضاري والتحولات [din UT] في المشرق والغرب الإسلامي في العصر الوسيط' - one word unreadable); lessons 6-8 ('مصر في [age] الفراعنة : الأطوار التاريخيّة والمؤسسات / المجتمع والحياة الاقتصاديّة / الديانة والعلوم والفنون' - one word unreadable); lesson 10 ('بلاد الإغريق في العصر الكلاسيكي : الإنتاج الفكري [ls]'); lesson 19 ('ابن [sb)]'). Excluded: التقديم, المقدمة, قائمة المصادر والمراجع. Activities not used as sections. Rebuild pass: openers re-OCR'd (p1, p4, p165, p202, p225, p226). Lesson 19 resolved as 'ابن رشد': فهرس prints 'ابن [illegible]' and its opening page p202 prints 'أدرس شخصيّة ابن رشد ...' and 'الوثيقة 1 : ابن رشد (520-595 ه)'. No opener page was available for axis 2 (p107, headings garbled) or lessons 6-8 and 10, so those 5 placeholders are kept (the word 'age' in 'مصر في [age] الفراعنة' is OCR'd the same way in the bibliography, so it cannot be recovered from the book). Second rebuild pass (full-page OCR of every page): lesson 8 heading p70 prints 'مصر .. عهد الفراعنة / الديانة والعلوم والفنون', so the فهرس OCR garble 'age' = 'عهد' (confirmed: bibliography p270 'الطب والتحنيط في age الفراعنة' is printed 'الطب والتحنيط في عهد الفراعنة' on p72); lessons 6-8 resolved as 'مصر في عهد الفراعنة : ...' (lessons 6/7 pages p54/p62 have no title line; their names come from the فهرس with that OCR fix). Lesson 10 resolved from heading p96 'بلاد الإغريق في العصر الكلاسيكي : الإنتاج الفكري والفني'. Still positional: axis 2 title (opener p107 loses the key word: 'المحور .. في المشرق والغرب .. في العصر الوسيط')."
+}

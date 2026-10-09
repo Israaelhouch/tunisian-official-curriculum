@@ -1,0 +1,236 @@
+{
+ "code": "222371",
+ "title": "رياضيات_شعبة علوم الإعلامية",
+ "used_for": [
+  "3eme-informatique/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Première partie",
+   "children": [
+    {
+     "name": "Les suites réelles",
+     "children": [
+      {
+       "name": "Généralités sur les suites"
+      },
+      {
+       "name": "Suites arithmétiques"
+      },
+      {
+       "name": "Suites géométriques"
+      },
+      {
+       "name": "Limite d'une suite géométrique"
+      },
+      {
+       "name": "Suites récurrentes du type Un+1 = aUn + b"
+      }
+     ]
+    },
+    {
+     "name": "Généralités sur les fonctions numériques à variable réelle",
+     "children": [
+      {
+       "name": "Fonction numérique à variable réelle"
+      },
+      {
+       "name": "Sens de variation d'une fonction"
+      },
+      {
+       "name": "Opérations sur les fonctions"
+      },
+      {
+       "name": "Comparaison de fonctions et extrema"
+      },
+      {
+       "name": "Eléments de symétrie"
+      }
+     ]
+    },
+    {
+     "name": "Limites, continuité, branches infinies",
+     "children": [
+      {
+       "name": "Limite finie d'une fonction en un point"
+      },
+      {
+       "name": "Continuité"
+      },
+      {
+       "name": "Limites infinies, limites à l'infini"
+      },
+      {
+       "name": "Branches infinies"
+      }
+     ]
+    },
+    {
+     "name": "Dérivabilité d'une fonction",
+     "children": [
+      {
+       "name": "Dérivabilité en un point"
+      },
+      {
+       "name": "Dérivabilité à droite, dérivabilité à gauche"
+      },
+      {
+       "name": "Dérivabilité sur un intervalle"
+      }
+     ]
+    },
+    {
+     "name": "Fonctions dérivées - Applications",
+     "children": []
+    },
+    {
+     "name": "Etude de fonctions 1 : Exemples de fonctions polynômes",
+     "children": [
+      {
+       "name": "Fonctions affines, fonctions affines par intervalles"
+      },
+      {
+       "name": "Fonctions trinômes du second degré"
+      },
+      {
+       "name": "Fonctions polynômes du troisième degré"
+      },
+      {
+       "name": "Fonctions polynômes du quatrième degré bicarrées"
+      }
+     ]
+    },
+    {
+     "name": "Etude de fonctions 2 : Exemples de fonctions rationnelles, irrationnelles et trigonométriques",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Deuxième partie",
+   "children": [
+    {
+     "name": "Trigonométrie",
+     "children": [
+      {
+       "name": "Angles géométriques"
+      },
+      {
+       "name": "Arcs orientés"
+      },
+      {
+       "name": "Cosinus et sinus d'un réel"
+      },
+      {
+       "name": "Tangente d'un réel"
+      }
+     ]
+    },
+    {
+     "name": "Produit scalaire dans le plan",
+     "children": [
+      {
+       "name": "Définition"
+      },
+      {
+       "name": "Propriétés"
+      },
+      {
+       "name": "Produit scalaire en géométrie analytique"
+      },
+      {
+       "name": "Applications du produit scalaire"
+      }
+     ]
+    },
+    {
+     "name": "Systèmes d'équations linéaires",
+     "children": []
+    },
+    {
+     "name": "La logique mathématique",
+     "children": [
+      {
+       "name": "Notion de proposition, table de vérité"
+      },
+      {
+       "name": "Négation d'une proposition"
+      },
+      {
+       "name": "Les connecteurs logiques"
+      }
+     ]
+    },
+    {
+     "name": "Arithmétique",
+     "children": [
+      {
+       "name": "Raisonnement par récurrence"
+      },
+      {
+       "name": "Plus grand commun diviseur"
+      },
+      {
+       "name": "Nombres premiers entre eux"
+      },
+      {
+       "name": "Plus petit commun multiple"
+      },
+      {
+       "name": "Nombres premiers"
+      }
+     ]
+    },
+    {
+     "name": "Systèmes de numération",
+     "children": [
+      {
+       "name": "Système de numération de base a"
+      },
+      {
+       "name": "Conversion d'une base à une autre"
+      },
+      {
+       "name": "Addition et multiplication d'entiers"
+      }
+     ]
+    },
+    {
+     "name": "Dénombrement",
+     "children": [
+      {
+       "name": "Principes de dénombrement"
+      },
+      {
+       "name": "Permutation, arrangement"
+      },
+      {
+       "name": "Combinaison"
+      },
+      {
+       "name": "Binôme de Newton"
+      }
+     ]
+    },
+    {
+     "name": "Probabilité",
+     "children": [
+      {
+       "name": "Probabilité"
+      },
+      {
+       "name": "Equiprobabilité"
+      },
+      {
+       "name": "Expériences indépendantes"
+      },
+      {
+       "name": "Expériences dépendantes"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "15 chapters (as stated in preface) in two parts (sommaire p5-6, part markers p7 and p193); structured part -> chapter -> section. Sommaire extraction is scrambled, so order follows chapter start pages (7, 33, 59, 87, 112, 136, 162 | 193, 217, 241, 265, 283, 305, 320, 339). Chapter names from chapter title pages/sommaire, converted from title case. Sections from each chapter's 'PLAN DU CHAPITRE' (rubrics like travaux pratiques, exercices, mathématiques et culture excluded). Gaps: no plan items readable for 'Fonctions dérivées - Applications' and 'Systèmes d'équations linéaires'; 'Etude de fonctions 2' plan items lost their formulas (left empty); Arithmétique item II is blank in the extract (skipped); truncated items shortened: 'Applications du produit scalaire dans le ...', 'Addition et multiplication d'entiers écrits dans ...', 'Principes de dénombrement, nombre ...'. Some plans may be truncated at the end (heading length limit)."
+}

@@ -1,0 +1,112 @@
+{
+ "code": "206422",
+ "title": "المجال العالمي - كتاب الجغرافيا",
+ "used_for": [
+  "bac-lettres/HISTGEO",
+  "bac-economie-gestion/HISTGEO"
+ ],
+ "toc": [
+  {
+   "name": "مجال عالمي مترابط ومتفاوت",
+   "children": [
+    {
+     "name": "الأقطاب السياحية"
+    },
+    {
+     "name": "الأقطاب التجارية"
+    },
+    {
+     "name": "الأقطاب المالية"
+    },
+    {
+     "name": "أقطاب الإعلام"
+    },
+    {
+     "name": "التفاوت في التقدم"
+    },
+    {
+     "name": "تركيبة المجال العالمي"
+    }
+   ]
+  },
+  {
+   "name": "الشمال",
+   "children": [
+    {
+     "name": "الولايات المتحدة الأمريكية",
+     "children": [
+      {
+       "name": "القوة الإنتاجية"
+      },
+      {
+       "name": "النفوذ العالمي"
+      },
+      {
+       "name": "دعائم القوة (1): موارد بشرية متعددة المزايا"
+      },
+      {
+       "name": "دعائم القوة (2): تنظيم اقتصادي ناجع"
+      },
+      {
+       "name": "دعائم القوة (3): حظوة طبيعية وتحكم شامل في المجال"
+      },
+      {
+       "name": "الميغالوبوليس الأمريكية"
+      }
+     ]
+    },
+    {
+     "name": "الاتحاد الأوروبي: تكتل اقتصادي",
+     "children": [
+      {
+       "name": "القوة الإنتاجية"
+      },
+      {
+       "name": "المكانة العالمية"
+      },
+      {
+       "name": "دعائم القوة (1): البناء الأوروبي المشترك"
+      },
+      {
+       "name": "دعائم القوة (2): الدعائم البشرية والهيكلية"
+      },
+      {
+       "name": "دعائم القوة (3): مزايا المجال والسعي إلى التحكم فيه"
+      },
+      {
+       "name": "الميغالوبوليس الأوروبية"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "الجنوب",
+   "children": [
+    {
+     "name": "البرازيل: بلد صناعي جديد",
+     "children": [
+      {
+       "name": "دعائم القوة الاقتصادية البرازيلية"
+      },
+      {
+       "name": "التباينات الاجتماعية والمجالية بالبرازيل"
+      }
+     ]
+    },
+    {
+     "name": "البلدان الأقل تقدما بالساحل الإفريقي",
+     "children": [
+      {
+       "name": "حصيلة التنمية"
+      },
+      {
+       "name": "ظروف التنمية"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Most of the book uses glyph-encoded fonts. New full-page OCR of chapter openers p87 (USA), p151 (EU) and p269 (Sahel) gives each chapter's printed lesson table (الدروس/العنوان/التوقيت): USA, EU and Sahel lessons taken from those tables (chapter-name prefix dropped from lesson names; 'ملف منهجي تقييمي' excluded). EU chapter title from heading p151; Brazil title from heading p229 ('البرازيل : بلد صناعي جديد'), its two lessons and axis-1 lessons kept from the earlier hand-decoding of encoded headings/time-plan p4 (less certain). Axis titles: axis 1 'مجال عالمي مترابط ومتفاوت' from hand-decoded p4 (not OCR-confirmed); axis 2 printed as 'الشمال : الأقطاب ... في المجال العالمي' (p86, middle word unreadable) kept as 'الشمال'; axis 3 decoded as 'الجنوب'. USA chapter title on p87 is garbled after 'الولايات'; given as 'الولايات المتحدة الأمريكية' as printed in its lesson titles. No positional placeholders, but axis titles 1-3 are partial/decoded."
+}

@@ -1,0 +1,189 @@
+{
+ "code": "225481",
+ "title": "Sciences biologiques - Sport",
+ "used_for": [
+  "bac-sport/BIO"
+ ],
+ "toc": [
+  {
+   "name": "La reproduction humaine",
+   "children": [
+    {
+     "name": "La fonction reproductrice chez l'homme",
+     "children": [
+      {
+       "name": "Le sperme humain"
+      },
+      {
+       "name": "Organisation de l'appareil génital de l'homme"
+      },
+      {
+       "name": "Le testicule : une dualité structurale et fonctionnelle"
+      },
+      {
+       "name": "La régulation des fonctions testiculaires"
+      }
+     ]
+    },
+    {
+     "name": "La fonction reproductrice chez la femme",
+     "children": [
+      {
+       "name": "Le sang menstruel"
+      },
+      {
+       "name": "L'organisation de l'appareil reproducteur chez la femme"
+      },
+      {
+       "name": "Le cycle menstruel"
+      },
+      {
+       "name": "Le déterminisme du cycle utérin"
+      },
+      {
+       "name": "Les fonctions de l'ovaire"
+      },
+      {
+       "name": "La régulation des fonctions ovariennes"
+      }
+     ]
+    },
+    {
+     "name": "La procréation",
+     "children": [
+      {
+       "name": "La fécondation"
+      },
+      {
+       "name": "Les premières étapes du développement embryonnaire"
+      },
+      {
+       "name": "La maîtrise de la procréation"
+      },
+      {
+       "name": "L'hygiène de la reproduction"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Génétique humaine",
+   "children": [
+    {
+     "name": "Transmission des caractères héréditaires",
+     "children": [
+      {
+       "name": "Les particularités de la génétique humaine"
+      },
+      {
+       "name": "L'hérédité autosomale"
+      },
+      {
+       "name": "L'hérédité hétérosomale (ou liée au sexe)"
+      }
+     ]
+    },
+    {
+     "name": "Prévention des maladies héréditaires",
+     "children": [
+      {
+       "name": "Le diagnostic prénatal"
+      },
+      {
+       "name": "Le diagnostic des aberrations chromosomiques et des maladies géniques"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Neurophysiologie",
+   "children": [
+    {
+     "name": "Le tissu nerveux",
+     "children": [
+      {
+       "name": "Le système nerveux : support histologique du comportement"
+      },
+      {
+       "name": "Organisation générale du système nerveux"
+      },
+      {
+       "name": "Observation microscopique du tissu nerveux"
+      }
+     ]
+    },
+    {
+     "name": "Le réflexe myotatique",
+     "children": [
+      {
+       "name": "Supports anatomiques du réflexe myotatique"
+      },
+      {
+       "name": "Le message nerveux"
+      },
+      {
+       "name": "Naissance et codage de l'information nerveuse au niveau d'un récepteur sensoriel"
+      },
+      {
+       "name": "Transmission synaptique"
+      },
+      {
+       "name": "Rôle intégrateur du neurone postsynaptique"
+      },
+      {
+       "name": "La coordination de l'activité des muscles antagonistes au cours du réflexe myotatique"
+      }
+     ]
+    },
+    {
+     "name": "Les réflexes conditionnels",
+     "children": [
+      {
+       "name": "Le conditionnement classique de Pavlov ou conditionnement répondant"
+      },
+      {
+       "name": "Le conditionnement opérant de Skinner"
+      },
+      {
+       "name": "L'importance du conditionnement pour l'apprentissage des activités sportives"
+      },
+      {
+       "name": "L'effet de l'entraînement sur le cortex moteur"
+      }
+     ]
+    },
+    {
+     "name": "Le muscle squelettique",
+     "children": [
+      {
+       "name": "Structure et fonctionnement de la jonction neuromusculaire (plaque motrice)"
+      },
+      {
+       "name": "Mécanisme de la contraction musculaire"
+      },
+      {
+       "name": "Régénération de l'ATP"
+      }
+     ]
+    },
+    {
+     "name": "La régulation de la pression artérielle",
+     "children": [
+      {
+       "name": "Régulation nerveuse de la pression artérielle"
+      },
+      {
+       "name": "Régulation hormonale de la pression artérielle"
+      },
+      {
+       "name": "Les maladies cardiovasculaires"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "French biology book (Bac Sport). No sommaire in the extract; themes and chapters from the theme introduction pages ('Ce thème comporte les chapitres suivants', p4, p95, p134) and chapter headings. Theme 1 title is not printed as a heading: 'La reproduction humaine' taken from its introduction text. Sections from numbered (1., 2., ...) headings of activities and 'Bilan des connaissances' pages; ch1-2 of theme 1 follow the bilan numbering. Theme 3 intro also lists 'Chapitre 6 : l'hygiène du système nerveux' but the book (265 p.) ends with ch5, so it was omitted. OCR-garbled remerciements ignored."
+}

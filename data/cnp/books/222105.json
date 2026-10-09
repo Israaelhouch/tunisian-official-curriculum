@@ -1,0 +1,234 @@
+{
+ "code": "222105",
+ "title": "رياضيات",
+ "used_for": [
+  "1ere-sport/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Calcul dans IR",
+   "children": [
+    {
+     "name": "Calcul dans IR",
+     "children": [
+      {
+       "name": "Priorité des opérations"
+      },
+      {
+       "name": "Propriétés des puissances"
+      },
+      {
+       "name": "Propriétés des racines carrées"
+      }
+     ]
+    },
+    {
+     "name": "Valeur approchée – Arrondi",
+     "children": [
+      {
+       "name": "Valeur approchée"
+      },
+      {
+       "name": "Arrondi d'un nombre"
+      },
+      {
+       "name": "Ecriture scientifique d'un décimal"
+      },
+      {
+       "name": "Ordre de grandeur"
+      }
+     ]
+    },
+    {
+     "name": "Comparaison des réels",
+     "children": []
+    },
+    {
+     "name": "Les intervalles",
+     "children": []
+    },
+    {
+     "name": "Valeur absolue",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Proportionnalité - Pourcentages",
+   "children": [
+    {
+     "name": "Proportionnalité – Proportion",
+     "children": [
+      {
+       "name": "Proportionnalité"
+      },
+      {
+       "name": "Proportion"
+      },
+      {
+       "name": "Echelle"
+      }
+     ]
+    },
+    {
+     "name": "Pourcentage",
+     "children": [
+      {
+       "name": "Pourcentage et proportion"
+      },
+      {
+       "name": "Pourcentage de variation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Problèmes du premier degré",
+   "children": [
+    {
+     "name": "Expressions algébriques",
+     "children": [
+      {
+       "name": "Expressions algébriques"
+      },
+      {
+       "name": "Opérations sur les expressions algébriques"
+      },
+      {
+       "name": "Identités remarquables"
+      },
+      {
+       "name": "Factorisation"
+      },
+      {
+       "name": "Simplification d'une expression algébrique"
+      }
+     ]
+    },
+    {
+     "name": "Equations du premier degré à une inconnue",
+     "children": [
+      {
+       "name": "Equations du premier degré à une inconnue"
+      },
+      {
+       "name": "Equations se ramenant à des équations du premier degré à une inconnue"
+      }
+     ]
+    },
+    {
+     "name": "Inéquations du premier degré à une inconnue",
+     "children": [
+      {
+       "name": "Inéquations du premier degré à une inconnue"
+      },
+      {
+       "name": "Signe d'un binôme du premier degré"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Théorème de Thalès et sa réciproque",
+   "children": [
+    {
+     "name": "Théorème de Thalès",
+     "children": []
+    },
+    {
+     "name": "La réciproque du théorème de Thalès",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Rapports trigonométriques d'un angle aigu. Relations métriques dans un triangle rectangle",
+   "children": [
+    {
+     "name": "Théorème de Pythagore et sa réciproque",
+     "children": [
+      {
+       "name": "Le théorème de Pythagore"
+      },
+      {
+       "name": "La réciproque du théorème de Pythagore"
+      }
+     ]
+    },
+    {
+     "name": "Rapports trigonométriques d'un angle aigu",
+     "children": [
+      {
+       "name": "Cosinus, sinus et tangente d'un angle aigu"
+      },
+      {
+       "name": "Rapports trigonométriques des angles aigus complémentaires"
+      },
+      {
+       "name": "Rapports trigonométriques des angles aigus remarquables"
+      }
+     ]
+    },
+    {
+     "name": "Relations métriques dans un triangle rectangle",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Les vecteurs",
+   "children": [
+    {
+     "name": "Définition et propriétés",
+     "children": [
+      {
+       "name": "Définition"
+      },
+      {
+       "name": "Relations vectorielles"
+      }
+     ]
+    },
+    {
+     "name": "Somme de deux vecteurs",
+     "children": [
+      {
+       "name": "Définition"
+      },
+      {
+       "name": "La règle du parallélogramme"
+      }
+     ]
+    },
+    {
+     "name": "Produit d'un vecteur par un réel",
+     "children": [
+      {
+       "name": "Définition et propriétés"
+      },
+      {
+       "name": "Vecteurs colinéaires"
+      },
+      {
+       "name": "Milieu d'un segment – centre de gravité d'un triangle"
+      }
+     ]
+    },
+    {
+     "name": "Repère cartésien",
+     "children": [
+      {
+       "name": "Repère cartésien d'une droite"
+      },
+      {
+       "name": "Repère cartésien du plan"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Text layer uses a shifted font encoding (every char +29, accents mis-mapped); decoded manually. Cover: 'Mathématiques - 1ère année de l'enseignement secondaire - Section sport'; preface: 'Ce manuel s'adresse aux élèves de première année secondaire, section sport' -> this is the 1ère année SPORT book (targets 1ere-sport). Chapters from sommaire (p6); sections = 'Cours I], II]...' headings, sub-sections = numbered '1), 2)' headings. Ch.1 prints 'Cours IV]' twice (Les intervalles, Valeur absolue), both kept. Ch.6 Cours I title and Cours III item 3 were split across text fragments, reassembled. Corrigé S'auto-évaluer and Lexique excluded."
+}

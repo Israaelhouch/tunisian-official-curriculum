@@ -1,0 +1,628 @@
+{
+ "code": "133701",
+ "title": "الإعلامية",
+ "used_for": [
+  "7eme-base/INFO",
+  "8eme-base/INFO",
+  "9eme-base/INFO"
+ ],
+ "toc": [
+  {
+   "name": "Ordinateur et système d’exploitation",
+   "children": [
+    {
+     "name": "7ème Année : Ordinateur et système d’exploitation",
+     "children": [
+      {
+       "name": "Introduction"
+      },
+      {
+       "name": "Les composants de base d’un ordinateur"
+      },
+      {
+       "name": "Système d’exploitation"
+      },
+      {
+       "name": "Gestion des fichiers et des dossiers"
+      }
+     ]
+    },
+    {
+     "name": "8ème Année : Rappels et présentation des supports de stockage",
+     "children": [
+      {
+       "name": "Rappels"
+      },
+      {
+       "name": "Les supports de stockage"
+      }
+     ]
+    },
+    {
+     "name": "9ème Année : Rappels et présentation du réseau local",
+     "children": [
+      {
+       "name": "Rappels"
+      },
+      {
+       "name": "Les réseaux informatiques"
+      },
+      {
+       "name": "Exploitation des services de base d’un réseau local"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Exploitation de logiciels",
+   "children": [
+    {
+     "name": "7ème Année : Traitement de textes",
+     "children": [
+      {
+       "name": "Présentation"
+      },
+      {
+       "name": "Saisie et enregistrement d’un document"
+      },
+      {
+       "name": "Fermeture et ouverture d’un document"
+      },
+      {
+       "name": "Mise en page d’un document"
+      },
+      {
+       "name": "Correction de l’orthographe et de la grammaire"
+      },
+      {
+       "name": "Sélection, copie et déplacement de texte"
+      },
+      {
+       "name": "Mise en forme et insertion d’objets"
+      },
+      {
+       "name": "Impression"
+      }
+     ]
+    },
+    {
+     "name": "7ème Année : Traitement d’images",
+     "children": [
+      {
+       "name": "Introduction"
+      },
+      {
+       "name": "Création de dessin avec PhotoFiltre"
+      },
+      {
+       "name": "Importation d’une image numérique"
+      },
+      {
+       "name": "Traitements élémentaires sur les images"
+      }
+     ]
+    },
+    {
+     "name": "8ème Année : Traitement du son",
+     "children": [
+      {
+       "name": "Introduction"
+      },
+      {
+       "name": "Présentation du logiciel « Audacity »"
+      },
+      {
+       "name": "Acquisition, enregistrement et importation d’un son"
+      },
+      {
+       "name": "Traitements élémentaires"
+      }
+     ]
+    },
+    {
+     "name": "8ème Année : Eléments de présentation",
+     "children": [
+      {
+       "name": "Caractéristiques"
+      },
+      {
+       "name": "Production"
+      }
+     ]
+    },
+    {
+     "name": "9ème Année : Tableur",
+     "children": [
+      {
+       "name": "Présentation générale"
+      },
+      {
+       "name": "Présentation du logiciel MicroSoft Excel"
+      },
+      {
+       "name": "Saisie, enregistrement et ouverture"
+      },
+      {
+       "name": "Sélection des cellules"
+      },
+      {
+       "name": "Insertion de lignes et de colonnes"
+      },
+      {
+       "name": "Formules et fonctions prédéfinies"
+      },
+      {
+       "name": "Mise en forme"
+      },
+      {
+       "name": "Graphiques"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Internet",
+   "children": [
+    {
+     "name": "7ème Année : Web",
+     "children": []
+    },
+    {
+     "name": "8ème Année : Messagerie électronique",
+     "children": [
+      {
+       "name": "Présentation"
+      },
+      {
+       "name": "Le courrier électronique"
+      },
+      {
+       "name": "Charte d’usage de l’Internet"
+      }
+     ]
+    },
+    {
+     "name": "9ème Année : Téléchargement de fichiers",
+     "children": [
+      {
+       "name": "Présentation"
+      },
+      {
+       "name": "Téléchargement"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Projet",
+   "children": [
+    {
+     "name": "7ème Année : Autour du texte et de l’image",
+     "children": [
+      {
+       "name": "Petite graine deviendra plante"
+      },
+      {
+       "name": "Une histoire toute en images"
+      },
+      {
+       "name": "La mosaïque, un art de nos ancêtres"
+      },
+      {
+       "name": "Devine mon message"
+      },
+      {
+       "name": "Tapis, mon beau tapis !"
+      },
+      {
+       "name": "Les 7 différences"
+      },
+      {
+       "name": "Dodo, l’enfant do..."
+      },
+      {
+       "name": "Raconte-moi une histoire"
+      },
+      {
+       "name": "Petit poète deviendra grand"
+      }
+     ]
+    },
+    {
+     "name": "8ème Année : Autour du texte, de l’image et du son",
+     "children": [
+      {
+       "name": "Do you speak english ?"
+      },
+      {
+       "name": "Nos ancêtres les Carthaginois"
+      },
+      {
+       "name": "Le karaoké"
+      },
+      {
+       "name": "Le patrimoine archéologique tunisien"
+      },
+      {
+       "name": "Une lecture de l’écriture"
+      },
+      {
+       "name": "Le DJ des temps modernes"
+      },
+      {
+       "name": "L’histoire des fruits et des légumes"
+      },
+      {
+       "name": "Conjuguer en anglais"
+      },
+      {
+       "name": "Les cigognes de « Vaga »"
+      }
+     ]
+    },
+    {
+     "name": "9ème Année : Autour du texte, des calculs, de l’image et du son",
+     "children": [
+      {
+       "name": "Reporter d’aujourd’hui, journaliste de demain"
+      },
+      {
+       "name": "Les grandes inventions"
+      },
+      {
+       "name": "Sauvons la planète"
+      },
+      {
+       "name": "Les 7 merveilles du monde"
+      },
+      {
+       "name": "« I have a dream, ... »"
+      },
+      {
+       "name": "Dis-moi qui tu es, je te dirai ..."
+      },
+      {
+       "name": "A vos marques ... Prêts ? Partez !"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "by_class": {
+  "7eme-base": [
+   {
+    "name": "Ordinateur et système d’exploitation",
+    "children": [
+     {
+      "name": "Ordinateur et système d’exploitation",
+      "children": [
+       {
+        "name": "Introduction"
+       },
+       {
+        "name": "Les composants de base d’un ordinateur"
+       },
+       {
+        "name": "Système d’exploitation"
+       },
+       {
+        "name": "Gestion des fichiers et des dossiers"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Exploitation de logiciels",
+    "children": [
+     {
+      "name": "Traitement de textes",
+      "children": [
+       {
+        "name": "Présentation"
+       },
+       {
+        "name": "Saisie et enregistrement d’un document"
+       },
+       {
+        "name": "Fermeture et ouverture d’un document"
+       },
+       {
+        "name": "Mise en page d’un document"
+       },
+       {
+        "name": "Correction de l’orthographe et de la grammaire"
+       },
+       {
+        "name": "Sélection, copie et déplacement de texte"
+       },
+       {
+        "name": "Mise en forme et insertion d’objets"
+       },
+       {
+        "name": "Impression"
+       }
+      ]
+     },
+     {
+      "name": "Traitement d’images",
+      "children": [
+       {
+        "name": "Introduction"
+       },
+       {
+        "name": "Création de dessin avec PhotoFiltre"
+       },
+       {
+        "name": "Importation d’une image numérique"
+       },
+       {
+        "name": "Traitements élémentaires sur les images"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Internet",
+    "children": [
+     {
+      "name": "Web",
+      "children": []
+     }
+    ]
+   },
+   {
+    "name": "Projet",
+    "children": [
+     {
+      "name": "Autour du texte et de l’image",
+      "children": [
+       {
+        "name": "Petite graine deviendra plante"
+       },
+       {
+        "name": "Une histoire toute en images"
+       },
+       {
+        "name": "La mosaïque, un art de nos ancêtres"
+       },
+       {
+        "name": "Devine mon message"
+       },
+       {
+        "name": "Tapis, mon beau tapis !"
+       },
+       {
+        "name": "Les 7 différences"
+       },
+       {
+        "name": "Dodo, l’enfant do..."
+       },
+       {
+        "name": "Raconte-moi une histoire"
+       },
+       {
+        "name": "Petit poète deviendra grand"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "8eme-base": [
+   {
+    "name": "Ordinateur et système d’exploitation",
+    "children": [
+     {
+      "name": "Rappels et présentation des supports de stockage",
+      "children": [
+       {
+        "name": "Rappels"
+       },
+       {
+        "name": "Les supports de stockage"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Exploitation de logiciels",
+    "children": [
+     {
+      "name": "Traitement du son",
+      "children": [
+       {
+        "name": "Introduction"
+       },
+       {
+        "name": "Présentation du logiciel « Audacity »"
+       },
+       {
+        "name": "Acquisition, enregistrement et importation d’un son"
+       },
+       {
+        "name": "Traitements élémentaires"
+       }
+      ]
+     },
+     {
+      "name": "Eléments de présentation",
+      "children": [
+       {
+        "name": "Caractéristiques"
+       },
+       {
+        "name": "Production"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Internet",
+    "children": [
+     {
+      "name": "Messagerie électronique",
+      "children": [
+       {
+        "name": "Présentation"
+       },
+       {
+        "name": "Le courrier électronique"
+       },
+       {
+        "name": "Charte d’usage de l’Internet"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Projet",
+    "children": [
+     {
+      "name": "Autour du texte, de l’image et du son",
+      "children": [
+       {
+        "name": "Do you speak english ?"
+       },
+       {
+        "name": "Nos ancêtres les Carthaginois"
+       },
+       {
+        "name": "Le karaoké"
+       },
+       {
+        "name": "Le patrimoine archéologique tunisien"
+       },
+       {
+        "name": "Une lecture de l’écriture"
+       },
+       {
+        "name": "Le DJ des temps modernes"
+       },
+       {
+        "name": "L’histoire des fruits et des légumes"
+       },
+       {
+        "name": "Conjuguer en anglais"
+       },
+       {
+        "name": "Les cigognes de « Vaga »"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "9eme-base": [
+   {
+    "name": "Ordinateur et système d’exploitation",
+    "children": [
+     {
+      "name": "Rappels et présentation du réseau local",
+      "children": [
+       {
+        "name": "Rappels"
+       },
+       {
+        "name": "Les réseaux informatiques"
+       },
+       {
+        "name": "Exploitation des services de base d’un réseau local"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Exploitation de logiciels",
+    "children": [
+     {
+      "name": "Tableur",
+      "children": [
+       {
+        "name": "Présentation générale"
+       },
+       {
+        "name": "Présentation du logiciel MicroSoft Excel"
+       },
+       {
+        "name": "Saisie, enregistrement et ouverture"
+       },
+       {
+        "name": "Sélection des cellules"
+       },
+       {
+        "name": "Insertion de lignes et de colonnes"
+       },
+       {
+        "name": "Formules et fonctions prédéfinies"
+       },
+       {
+        "name": "Mise en forme"
+       },
+       {
+        "name": "Graphiques"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Internet",
+    "children": [
+     {
+      "name": "Téléchargement de fichiers",
+      "children": [
+       {
+        "name": "Présentation"
+       },
+       {
+        "name": "Téléchargement"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Projet",
+    "children": [
+     {
+      "name": "Autour du texte, des calculs, de l’image et du son",
+      "children": [
+       {
+        "name": "Reporter d’aujourd’hui, journaliste de demain"
+       },
+       {
+        "name": "Les grandes inventions"
+       },
+       {
+        "name": "Sauvons la planète"
+       },
+       {
+        "name": "Les 7 merveilles du monde"
+       },
+       {
+        "name": "« I have a dream, ... »"
+       },
+       {
+        "name": "Dis-moi qui tu es, je te dirai ..."
+       },
+       {
+        "name": "A vos marques ... Prêts ? Partez !"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "notes": "Book covers 7ème-9ème; split per year into by_class. Book is in French and covers 7ème, 8ème AND 9ème (title 'L’informatique au collège'), although the catalogue targets only 7ème. Source: Table des matières p5 (4 chapitres, each split by year with page; extraction listed chapitre 2 last, reordered to page order p9/47/131/171) + PLAN section headings (I., II., ...) and project title headings. Level 2 keeps the printed year prefix ('7ème Année : ...') so the year can be filtered. 7ème/Ordinateur: 'Gestion des fichiers et des dossiers' taken from the chapter opener p7 (its section heading was not captured). 7ème/Web sections not reliably captured (only 'I – Présentation'), left empty. Excluded Introduction aux projets, Je m’évalue, Références. No placeholders."
+}

@@ -1,0 +1,50 @@
+{
+ "code": "222433",
+ "title": "رياضيات ج1_شعبة العلوم التجريبية",
+ "used_for": [
+  "bac-sciences-experimentales/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Continuité et limites",
+   "children": []
+  },
+  {
+   "name": "Suites réelles",
+   "children": []
+  },
+  {
+   "name": "Dérivabilité",
+   "children": []
+  },
+  {
+   "name": "Fonctions réciproques",
+   "children": []
+  },
+  {
+   "name": "Etudes de fonctions",
+   "children": []
+  },
+  {
+   "name": "Primitives",
+   "children": []
+  },
+  {
+   "name": "Intégrales",
+   "children": []
+  },
+  {
+   "name": "Fonction logarithme népérien",
+   "children": []
+  },
+  {
+   "name": "Fonction exponentielle",
+   "children": []
+  },
+  {
+   "name": "Equations différentielles",
+   "children": []
+  }
+ ],
+ "notes": "Sommaire p4 (OCR). Préface says 10 chapters and the sommaire lists Chapitre 1-10, but the sommaire names of chapters 6 and 7 are unreadable OCR noise; they were recovered from the chapter title pages in the full-page OCR: 'Chapitre 6 / Primitives' (pages 85-86) and 'Chapitre 7 / Intégrales' (pages 99-100). 'Dérivabilité.sssss' fixed to 'Dérivabilité'. No headings data; sections not reliably recoverable, children empty."
+}

@@ -1,0 +1,47 @@
+{
+ "code": "222231",
+ "title": "الرياضيات_ج1 (شعبتي العلوم وتكنولوجيا الإعلامية)",
+ "used_for": [
+  "2eme-sciences/MATH",
+  "2eme-technologie-informatique/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Calcul dans IR",
+   "children": []
+  },
+  {
+   "name": "Problèmes du 1er degré et problèmes du second degré",
+   "children": []
+  },
+  {
+   "name": "Notion de polynômes",
+   "children": []
+  },
+  {
+   "name": "Arithmétique",
+   "children": []
+  },
+  {
+   "name": "Calcul vectoriel",
+   "children": []
+  },
+  {
+   "name": "Barycentre",
+   "children": []
+  },
+  {
+   "name": "Translations",
+   "children": []
+  },
+  {
+   "name": "Homothéties",
+   "children": []
+  },
+  {
+   "name": "Rotations",
+   "children": []
+  }
+ ],
+ "notes": "2ème Sciences / Technologie de l'informatique, Tome 1. 9 chapters from sommaire (p6), confirmed by chapter openers. No section headings recoverable (chapters use rubriques Pour démarrer/Explorer/Assimiler...), so no children."
+}

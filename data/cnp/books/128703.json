@@ -1,0 +1,51 @@
+{
+ "code": "128703",
+ "title": "Technologie - Manuel d'activités",
+ "used_for": [
+  "7eme-base/TECHNO"
+ ],
+ "toc": [
+  {
+   "name": "المنتج التقني وتطوره عبر الزمن",
+   "children": [
+    {
+     "name": "المنتج التقني وتطوره عبر الزمن"
+    }
+   ]
+  },
+  {
+   "name": "التحليل البنيوي للمنتج التقني",
+   "children": [
+    {
+     "name": "المواد المستعملة"
+    },
+    {
+     "name": "الدارة الكهربائية والالكترونية"
+    },
+    {
+     "name": "التعبير البياني"
+    }
+   ]
+  },
+  {
+   "name": "الطاقة المستعملة",
+   "children": [
+    {
+     "name": "الطاقة المستعملة"
+    }
+   ]
+  },
+  {
+   "name": "تصنيع المنتج التقني",
+   "children": [
+    {
+     "name": "برمجة لوحات التحكم"
+    },
+    {
+     "name": "تصنيع المنتج التقني"
+    }
+   ]
+  }
+ ],
+ "notes": "Source: الفهرس table p176 (columns الصفحة / الدرس / المحور / مكونات الكفايات; 7 lessons at p7, 23, 43, 69, 97, 121, 143). Axis cells are merged in the table: 'التحليل البنيوي للمنتج التقني' is printed once beside p23 and assumed to span p23-p96 (p43/p69 rows have no axis of their own and share its competencies); 'تصنيع المنتج التقني' likewise spans p121-p143. Activities (النشاط 1..n) not listed. Font glitch fixed: 'التعبري البياين'->'التعبير البياني'. Book is in Arabic despite the French catalogue title. No placeholders."
+}

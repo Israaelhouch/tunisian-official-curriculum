@@ -1,0 +1,94 @@
+{
+ "code": "223371",
+ "title": "فيزياء_شعبة علوم الإعلامية",
+ "used_for": [
+  "3eme-informatique/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Les interactions dans l'univers",
+   "children": [
+    {
+     "name": "Loi de Coulomb",
+     "children": []
+    },
+    {
+     "name": "Champ électrique",
+     "children": []
+    },
+    {
+     "name": "Mise en évidence des interactions magnétiques",
+     "children": []
+    },
+    {
+     "name": "Le champ magnétique",
+     "children": []
+    },
+    {
+     "name": "Champ magnétique créé par un courant",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Mouvements",
+   "children": [
+    {
+     "name": "Cinématique de translation : généralités",
+     "children": []
+    },
+    {
+     "name": "Mouvements rectilignes uniforme et uniformément varié",
+     "children": []
+    },
+    {
+     "name": "Mouvement rectiligne sinusoïdal",
+     "children": []
+    },
+    {
+     "name": "Dynamique de translation",
+     "children": []
+    },
+    {
+     "name": "Mouvement dans un champ électrique",
+     "children": []
+    },
+    {
+     "name": "Mouvement dans un champ magnétique",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Circuits électrique et électronique",
+   "children": [
+    {
+     "name": "Dipôles électrocinétiques (1)",
+     "children": []
+    },
+    {
+     "name": "Dipôles électrocinétiques (2)",
+     "children": []
+    },
+    {
+     "name": "L'amplificateur opérationnel",
+     "children": []
+    },
+    {
+     "name": "Les portes logiques",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Optique",
+   "children": [
+    {
+     "name": "Image donnée par une lentille mince",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "4 parts and 16 chapters from sommaire (p4) and part title pages (p6, p77, p172, p241). Intermediate groupings (Interaction électrique/magnétique, Solide en translation, Mouvements dans les champs, Lentilles minces) omitted to stay within 3 levels. First-level section titles not captured in the extract (only sub-subsections), so sections left empty."
+}

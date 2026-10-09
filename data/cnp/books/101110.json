@@ -1,0 +1,191 @@
+{
+ "code": "101110",
+ "title": "Arabia Kiaa 1B",
+ "used_for": [
+  "1ere-primaire/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "أنيسي في مدرستي",
+   "children": [
+    {
+     "name": "الباء"
+    },
+    {
+     "name": "اللام"
+    },
+    {
+     "name": "الميم"
+    },
+    {
+     "name": "الراء"
+    },
+    {
+     "name": "مدرستي"
+    }
+   ]
+  },
+  {
+   "name": "أنيسي في أهلي",
+   "children": [
+    {
+     "name": "الدال"
+    },
+    {
+     "name": "السين"
+    },
+    {
+     "name": "الكاف"
+    },
+    {
+     "name": "النون"
+    },
+    {
+     "name": "يا أبي"
+    }
+   ]
+  },
+  {
+   "name": "أنيسي في صحتي وسلامتي",
+   "children": [
+    {
+     "name": "الفاء"
+    },
+    {
+     "name": "التاء"
+    },
+    {
+     "name": "القاف"
+    },
+    {
+     "name": "الحاء"
+    },
+    {
+     "name": "الطفل والمرآة"
+    }
+   ]
+  },
+  {
+   "name": "أنيسي في فصل الشتاء",
+   "children": [
+    {
+     "name": "الهمزة"
+    },
+    {
+     "name": "الطاء"
+    },
+    {
+     "name": "الزاي"
+    },
+    {
+     "name": "الواو"
+    },
+    {
+     "name": "المطر"
+    }
+   ]
+  },
+  {
+   "name": "أنيسي في عالم المهن",
+   "children": [
+    {
+     "name": "الجيم"
+    },
+    {
+     "name": "الشين"
+    },
+    {
+     "name": "العين"
+    },
+    {
+     "name": "الخاء"
+    },
+    {
+     "name": "المهن"
+    }
+   ]
+  },
+  {
+   "name": "أنيسي في فصل الربيع",
+   "children": [
+    {
+     "name": "الصاد"
+    },
+    {
+     "name": "الياء"
+    },
+    {
+     "name": "الضاد"
+    },
+    {
+     "name": "الغين"
+    },
+    {
+     "name": "الربيع"
+    }
+   ]
+  },
+  {
+   "name": "أنيسي في عالم الحيوانات",
+   "children": [
+    {
+     "name": "الثاء"
+    },
+    {
+     "name": "الظاء"
+    },
+    {
+     "name": "الذال"
+    },
+    {
+     "name": "الهاء"
+    },
+    {
+     "name": "الطاووس"
+    }
+   ]
+  },
+  {
+   "name": "أنيسي في عالم القصص",
+   "children": [
+    {
+     "name": "النحلة والفراشة"
+    },
+    {
+     "name": "أمين والطائر"
+    },
+    {
+     "name": "البلبل زهوان"
+    },
+    {
+     "name": "الريش الجميل"
+    },
+    {
+     "name": "الأسد والنملة (1)"
+    },
+    {
+     "name": "الأسد والنملة (2)"
+    },
+    {
+     "name": "فأر حذر (1)"
+    },
+    {
+     "name": "فأر حذر (2)"
+    },
+    {
+     "name": "في المصيف"
+    },
+    {
+     "name": "فرحة العيد"
+    },
+    {
+     "name": "عيد الأمهات"
+    },
+    {
+     "name": "نشيد العطلة"
+    }
+   ]
+  }
+ ],
+ "notes": "Sources: unit title headings (الوحدة الأولى..الثامنة 'أنيسي في ...') and letter/text headings from the text layer, cross-checked with the OCR'd فهرس (pp.111-112; its first page with unit 1 is missing, unit 1 taken from headings). Unit -> lesson (letter or text). Excluded per unit: 'النص التأليفي' (synthesis/integration text) and 'معجمي الصغير' (lexicon). '(شعر)' genre tags dropped. Unit 8 texts all follow the last unit header with no further grouping. Tashkeel removed."
+}

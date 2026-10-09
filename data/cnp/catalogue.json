@@ -1,0 +1,2106 @@
+[
+ {
+  "cycle": 1,
+  "classe": 1,
+  "code": "101110",
+  "title": "Arabia Kiaa 1B",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101110P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 1,
+  "code": "101111",
+  "title": "Arabia tamarine 1B",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101111P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 1,
+  "code": "102105",
+  "title": "Riadhiette 1B",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/102105P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/102105P02.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 2,
+  "code": "101215",
+  "title": "Arabia Kiaa 2B",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101215P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 2,
+  "code": "101216",
+  "title": "Arabia Tamarine 2B",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101216P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 2,
+  "code": "102210",
+  "title": "Riadhiette 2B",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/102210P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 3,
+  "code": "101315",
+  "title": "ينابيع - قراءة",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101315P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/101315P02.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 3,
+  "code": "101316",
+  "title": "ينابيع الكتابة - تمارين",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101316P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/101316P02.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 3,
+  "code": "102306",
+  "title": "رياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/102306P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 3,
+  "code": "103304",
+  "title": "الإيقاظ العلمي",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/103304P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 4,
+  "code": "101410",
+  "title": "دروب الحوار_عربية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101410P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 4,
+  "code": "101411",
+  "title": "أدوات التواصل_عربية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101411P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 4,
+  "code": "102407",
+  "title": "رياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/102407P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 4,
+  "code": "102408",
+  "title": "رياضيات_كراس تمارين",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/102408P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 4,
+  "code": "103404",
+  "title": "الإيقاظ العلمي",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/103404P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 4,
+  "code": "121410",
+  "title": "فرنسية_قراءة",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/121410P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 4,
+  "code": "121411",
+  "title": "فرنسية_ تمارين",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/121411P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 5,
+  "code": "101509",
+  "title": "مسالك القراءة_نصوص",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101509P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 5,
+  "code": "101510",
+  "title": "عربية - مسالك الكتابة",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101510P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 5,
+  "code": "102509",
+  "title": "الرياضيات_كراس تمارين",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/102509P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 5,
+  "code": "102511",
+  "title": "رياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/102511P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 5,
+  "code": "103504",
+  "title": "الإيقاظ العلمي",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/103504P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 5,
+  "code": "111512",
+  "title": "المواد الإجتماعية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/111512P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 5,
+  "code": "121511",
+  "title": "فرنسية_ قراءة",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/121511P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/121511P02.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 5,
+  "code": "121512",
+  "title": "فرنسية_ تمارين",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/121512P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 6,
+  "code": "101611",
+  "title": "عالم القراءة _نصوص",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101611P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 6,
+  "code": "101612",
+  "title": "عالم الكتابة _تمارين",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101612P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 6,
+  "code": "102609",
+  "title": "الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/102609P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 6,
+  "code": "102610",
+  "title": "رياضيات_كراس تمارين",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/102610P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 6,
+  "code": "103604",
+  "title": "الإيقاظ العلمي",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/103604P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 6,
+  "code": "111612",
+  "title": "التاريخ والجغرافيا",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/111612P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 6,
+  "code": "121614",
+  "title": "فرنسية_ قراءة",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/121614P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 6,
+  "code": "121615",
+  "title": "فرنسية_ تمارين",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/121615P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "101708",
+  "title": "الأنيس - نصوص",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101708P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "101710",
+  "title": "نحو عربي",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101710P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/101710P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/101710P03.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "102707",
+  "title": "الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/102707P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "103702",
+  "title": "العلوم الفيزيائية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/103702P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "105704",
+  "title": "علوم الحياة والأرض",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/105704P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "111706",
+  "title": "التربية الاسلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/111706P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "111707",
+  "title": "المواد الاجتماعية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/111707P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "121707",
+  "title": "فرنسية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/121707P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "123702",
+  "title": "العلوم الفيزيائية - مدارس نموذجية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/123702P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "128703",
+  "title": "Technologie - Manuel d'activités",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/128703P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/128703P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/128703P03.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "133701",
+  "title": "الإعلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/133701P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "133702",
+  "title": "الإعلامية - مدارس نموذجية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/133702P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "141705",
+  "title": "أنقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/141705P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/141705P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/141705P03.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/141705P04.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 7,
+  "code": "141706",
+  "title": "أنقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/141706P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 8,
+  "code": "101806",
+  "title": "نزهة القراءة_نصوص",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101806P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 8,
+  "code": "101808",
+  "title": "نحو عربي",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101808P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/101808P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/101808P03.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 8,
+  "code": "102805",
+  "title": "الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/102805P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 8,
+  "code": "103802",
+  "title": "العلوم الفيزيائية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/103802P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 8,
+  "code": "105804",
+  "title": "علوم الحياة والأرض",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/105804P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/105804P02.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 8,
+  "code": "111807",
+  "title": "التربية الاسلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/111807P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 8,
+  "code": "111809",
+  "title": "المواد الاجتماعية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/111809P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/111809P02.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 8,
+  "code": "121804",
+  "title": "فرنسية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/121804P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 8,
+  "code": "123801",
+  "title": "العلوم الفيزيائية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/123801P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 8,
+  "code": "128803",
+  "title": "Technologie - Manuel d'activités",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/128803P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/128803P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/128803P03.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/128803P04.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/128803P05.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/128803P06.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 8,
+  "code": "141806",
+  "title": "أنقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/141806P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/141806P02.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 8,
+  "code": "141807",
+  "title": "أنقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/141807P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 9,
+  "code": "101908",
+  "title": "نحو عربي",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101908P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 9,
+  "code": "101909",
+  "title": "نصوص",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/101909P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 9,
+  "code": "102905",
+  "title": "الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/102905P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 9,
+  "code": "103902",
+  "title": "العلوم الفيزيائية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/103902P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 9,
+  "code": "105905",
+  "title": "علوم الحياة والأرض",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/105905P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 9,
+  "code": "111909",
+  "title": "التربية الاسلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/111909P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 9,
+  "code": "111911",
+  "title": "المواد الاجتماعية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/111911P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/111911P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/111911P03.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 9,
+  "code": "121905",
+  "title": "فرنسية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/121905P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 9,
+  "code": "123901",
+  "title": "العلوم الفيزيائية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/123901P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 9,
+  "code": "128903",
+  "title": "Technologie - Manuel d'activités",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/128903P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/128903P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/128903P03.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 9,
+  "code": "141906",
+  "title": "أنقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/141906P00.pdf"
+  ]
+ },
+ {
+  "cycle": 1,
+  "classe": 9,
+  "code": "141907",
+  "title": "أنقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/141907P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "201103",
+  "title": "آفاق أدبية_نصوص",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/201103P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201103P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201103P03.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "201104",
+  "title": "العربية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/201104P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "206103",
+  "title": "الجغرافيا",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/206103P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "207103",
+  "title": "التاريخ",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/207103P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "211105",
+  "title": "التفكير الاسلامي",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/211105P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "211107",
+  "title": "التربية المدنية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/211107P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "221104",
+  "title": "فرنسية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/221104P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "222104",
+  "title": "رياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222104P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/222104P02.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "222105",
+  "title": "رياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222105P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "223103",
+  "title": "فيزياء",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/223103P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "224101",
+  "title": "كيمياء",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/224101P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "225104",
+  "title": "علوم الحياة والأرض",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225104P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "225105",
+  "title": "العلوم البيولوجية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225105P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "228103",
+  "title": "Technologie - Manuel d'activités",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/228103P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/228103P02.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 1,
+  "code": "241104",
+  "title": "أنقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/241104P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "201202",
+  "title": "عيون الأدب_ الجزء الأول_نصوص",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/201202P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "201203",
+  "title": "عيون الأدب_الجزء الثاني_نصوص",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/201203P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "201281",
+  "title": "كتاب الرياضيات - شعبة الرياضة",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/201281P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201281P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201281P03.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201281P04.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201281P05.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201281P06.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "206203",
+  "title": "الجغرافيا(شعبتي الآداب و الاقتصاد والخدمات)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/206203P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "206271",
+  "title": "الجغرافيا (شعبتي العلوم و تكنولوجيا الإعلامية)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/206271P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "207202",
+  "title": "التاريخ (شعبتي الآداب و الاقتصاد والخدمات)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/207202P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/207202P02.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "207271",
+  "title": "التاريخ (شعبتي العلوم و تكنولوجيا الإعلامية)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/207271P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/207271P02.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "211203",
+  "title": "التربية المدنية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/211203P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "211204",
+  "title": "التفكير الاسلامي",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/211204P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "221203",
+  "title": "فرنسية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/221203P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "222221",
+  "title": "الرياضيات (شعبة الآداب)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222221P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "222231",
+  "title": "الرياضيات_ج1 (شعبتي العلوم وتكنولوجيا الإعلامية)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222231P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "222232",
+  "title": "الرياضيات_ج2 (شعبتي العلوم وتكنولوجيا الإعلامية)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222232P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "222261",
+  "title": "الرياضيات (شعبة الإقتصاد والخدمات)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222261P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "222281",
+  "title": "Math.matiques Sport",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222281P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "223231",
+  "title": "الفيزياء (شعبة العلوم)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/223231P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "223272",
+  "title": "الفيزياء (شعبة تكنولوجيا الإعلامية)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/223272P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "224231",
+  "title": "كيمياء (شعبة العلوم(",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/224231P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "224271",
+  "title": "كيمياء (شعبة تكنولوجيا الإعلامية)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/224271P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "225202",
+  "title": "علوم الحياة والأرض (شعبة الآداب)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225202P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "225232",
+  "title": "علوم الحياة والأرض",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225232P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "225281",
+  "title": "SVT Sport",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225281P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "228233",
+  "title": "Technologie - Manuel d'activités(sciences et technologie de l'info)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/228233P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/228233P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/228233P03.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "229262",
+  "title": "التصرف(شعبة الإقتصاد والخدمات)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/229262P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 2,
+  "code": "241203",
+  "title": "أنقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/241203P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "201302",
+  "title": "نصوص _شعب علمية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/201302P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "201321",
+  "title": "نصوص _شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/201321P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "201381",
+  "title": "نصوص -شعبة رياضة",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/201381P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201381P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201381P03.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201381P04.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201381P05.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201381P06.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201381P07.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201381P08.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201381P09.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201381P10.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201381P11.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201381P12.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/201381P13.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "206321",
+  "title": "جغرافيا_شعبتا الآداب والاقتصاد والتصرف",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/206321P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/206321P02.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "206331",
+  "title": "جغرافيا_شعب العلوم التجريبية، الرياضيات، علوم الإعلامية والعلوم التقنية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/206331P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/206331P02.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "207321",
+  "title": "تاريخ_شعبتا الآداب والاقتصاد والتصرف",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/207321P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "207331",
+  "title": "تاريخ _شعب العلوم التجريبية، الرياضيات، علوم الإعلامية والعلوم التقنية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/207331P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "210301",
+  "title": "الفلسفة_الشعب العلمية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/210301P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "210322",
+  "title": "فلسفة _شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/210322P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "211306",
+  "title": "التفكير الإسلامي_علوم التجريبية، رياضيات، علوم الإعلامية والعلوم التقنية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/211306P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "211321",
+  "title": "التفكير الإسلامي_شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/211321P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "211322",
+  "title": "التربية المدنية (شعبة الآداب)",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/211322P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "221302",
+  "title": "فرنسية_شعب علمية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/221302P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "221321",
+  "title": "فرنسية_شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/221321P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "222322",
+  "title": "رياضيات _شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222322P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "222333",
+  "title": "رياضيات ج1_شعبة العلوم التجريبية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222333P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "222334",
+  "title": "رياضيات ج2_شعبة العلوم التجريبية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222334P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "222343",
+  "title": "رياضيات ج1_شعبة الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222343P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "222344",
+  "title": "رياضيات ج2_شعبة الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222344P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "222351",
+  "title": "رياضيات_شعبة العلوم التقنية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222351P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "222362",
+  "title": "رياضيات_شعبة الإقتصاد والتصرف",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222362P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "222371",
+  "title": "رياضيات_شعبة علوم الإعلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222371P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "222381",
+  "title": "Maths - sport",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222381P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/222381P02.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "223332",
+  "title": "فيزياء_شعبة الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/223332P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "223333",
+  "title": "العلوم الفيزيائية_شعبة العلوم التجريبية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/223333P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "223351",
+  "title": "العلوم الفيزيائية_شعبة العلوم التكنولوجية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/223351P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "223371",
+  "title": "فيزياء_شعبة علوم الإعلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/223371P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "224332",
+  "title": "كيمياء_شعبة الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/224332P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "224333",
+  "title": "الكيمياء_شعبة العلوم التجريبية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/224333P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "224351",
+  "title": "الكيمياء_شعبة العلوم التكنولوجية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/224351P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "224371",
+  "title": "كيمياء_شعبة علوم الإعلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/224371P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "225321",
+  "title": "علوم الحياة والأرض_شعبة الاداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225321P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "225333",
+  "title": "علوم الحياة والأرض_شعبة العلوم التجريبية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225333P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/225333P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/225333P03.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "225342",
+  "title": "علوم الحياة والأرض_شعبة الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225342P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "225381",
+  "title": "Science Biologique - sport",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225381P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/225381P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/225381P03.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "228362",
+  "title": "Génie mécanique - Manuel d'activités",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/228362P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/228362P02.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "228363",
+  "title": "Génie électrique - Manuel d'activités",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/228363P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "229364",
+  "title": "التصرف_شعبة الإقتصاد والتصرف",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/229364P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "241303",
+  "title": "أنقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/241303P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "251301",
+  "title": "كتاب اللغة الروسية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/251301P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "261304",
+  "title": "الألمانية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/261304P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/261304P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/261304P03.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "271301",
+  "title": "كتاب اللغة الصينية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/271301P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "281304",
+  "title": "الإيطالية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/281304P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 3,
+  "code": "291302",
+  "title": "الإسبانية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/291302P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "201403",
+  "title": "نصوص _شعب علمية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/201403P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "201421",
+  "title": "نصوص ج1_شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/201421P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "201422",
+  "title": "نصوص ج2 _شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/201422P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "201481",
+  "title": "كتاب العربية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/201481P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "206422",
+  "title": "المجال العالمي - كتاب الجغرافيا",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/206422P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/206422P02.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "207422",
+  "title": "كتاب التاريخ - شعبة الآداب والاقتصاد والتصرف",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/207422P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "210402",
+  "title": "فلسفة_الشعب العلمية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/210402P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "210422",
+  "title": "فلسفة ج1_شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/210422P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "210423",
+  "title": "فلسفة ج2_شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/210423P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "211421",
+  "title": "تفكير اسلامي_شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/211421P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/211421P02.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "221402",
+  "title": "فرنسية_شعب علمية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/221402P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "221421",
+  "title": "فرنسية_شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/221421P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "222422",
+  "title": "رياضيات_شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222422P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "222433",
+  "title": "رياضيات ج1_شعبة العلوم التجريبية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222433P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "222434",
+  "title": "رياضيات ج2_شعبة العلوم التجريبية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222434P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "222445",
+  "title": "رياضيات ج1_شعبة الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222445P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "222446",
+  "title": "رياضيات ج2_شعبة الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222446P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "222451",
+  "title": "رياضيات_شعبة العلوم التقنية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222451P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "222463",
+  "title": "الرياضيات - شعبة الإقتصاد والتصرف",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222463P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "222472",
+  "title": "الرياضيات -شعبة علوم الإعلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222472P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "222481",
+  "title": "رياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/222481P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "223432",
+  "title": "فيزياء_شعبة الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/223432P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "223433",
+  "title": "فيزياء _شعبة العلوم التجريبية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/223433P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "223451",
+  "title": "الفيزياء_شعبة العلوم التقنية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/223451P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "223471",
+  "title": "فيزياء_شعبة علوم الإعلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/223471P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "224432",
+  "title": "كيمياء_شعبة الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/224432P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "224433",
+  "title": "كيمياء_شعبة العلوم التجريبية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/224433P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "224451",
+  "title": "كيمياء_شعبة الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/224451P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "224471",
+  "title": "كيمياء_شعبة علوم الإعلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/224471P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "225421",
+  "title": "علوم الحياة والأرض_شعبة الآداب",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225421P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "225432",
+  "title": "علوم الحياة والأرض_شعبة العلوم التجريبية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225432P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "225441",
+  "title": "علوم الحياة والأرض_شعبة الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225441P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "225481",
+  "title": "Sciences biologiques - Sport",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/225481P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/225481P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/225481P03.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/225481P04.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/225481P05.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "228461",
+  "title": "Génie électrique - Manuel d'activités",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/228461P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/228461P02.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/228461P03.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "228462",
+  "title": "Génie Mécanique Activités_Section Sciences techniques",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/228462P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/228462P02.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "229464",
+  "title": "التصرف_شعبة الاقتصاد والتصرف",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/229464P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "241403",
+  "title": "انقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/241403P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "261401",
+  "title": "الألمانية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/261401P01.pdf",
+   "https://www.cnp.com.tn/arabic/PDF/261401P02.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "271401",
+  "title": "كتاب اللغة الصينية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/271401P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "281403",
+  "title": "الإيطالية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/281403P00.pdf"
+  ]
+ },
+ {
+  "cycle": 2,
+  "classe": 4,
+  "code": "291401",
+  "title": "الإسبانية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/291401P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "401801",
+  "title": "العربية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/401801P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "402801",
+  "title": "الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/402801P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "403801",
+  "title": "العلوم الفيزيائية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/403801P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "405801",
+  "title": "علوم الحياة والأرض",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/405801P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "411801",
+  "title": "المواد الإجتماعية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/411801P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "411802",
+  "title": "التربية الإسلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/411802P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "414801",
+  "title": "الأنشطة الخصوصية للسداسي الأول",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/414801P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "414802",
+  "title": "الأنشطة الخصوصية_مجال صناعي للسداسي الثاني",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/414802P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "414803",
+  "title": "الأنشطة الخصوصية_مجال البناء للسداسي الثاني",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/414803P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "414804",
+  "title": "الأنشطة الخصوصية_ مجال الخدمات للسداسي الثاني",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/414804P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "415801",
+  "title": "التدريب التقني",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/415801P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "421801",
+  "title": "الفرنسية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/421801P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "433801",
+  "title": "الإعلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/433801P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "441801",
+  "title": "الانقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/441801P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 8,
+  "code": "441802",
+  "title": "الدليل المرجعي في اللغة الأنقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/441802P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "401901",
+  "title": "العربية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/401901P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "402901",
+  "title": "الرياضيات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/402901P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "403901",
+  "title": "العلوم الفيزيائية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/403901P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "411901",
+  "title": "المواد الاجتماعية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/411901P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "411902",
+  "title": "التربية الإسلامية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/411902P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "414901",
+  "title": "الأنشطة الخصوصية_مجال صناعي",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/414901P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "414902",
+  "title": "الأنشطة الخصوصية - مجال البناء",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/414902P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "414903",
+  "title": "الأنشطة الخصوصية_مجال الخدمات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/414903P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "415901",
+  "title": "التدريب التقني _ مجال صناعي",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/415901P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "415902",
+  "title": "التدريب التقني_مجال البناء",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/415902P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "415903",
+  "title": "التدريب التقني_مجال الخدمات",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/415903P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "421901",
+  "title": "الفرنسية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/421901P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "421902",
+  "title": "الدليل المرجعي في اللغة الفرنسية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/421902P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "441901",
+  "title": "الانقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/441901P00.pdf"
+  ]
+ },
+ {
+  "cycle": 4,
+  "classe": 9,
+  "code": "441902",
+  "title": "الدليل المرجعي في اللغة الأنقليزية",
+  "pdfs": [
+   "https://www.cnp.com.tn/arabic/PDF/441902P00.pdf"
+  ]
+ }
+]

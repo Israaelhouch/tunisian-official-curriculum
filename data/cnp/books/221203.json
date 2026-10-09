@@ -1,0 +1,99 @@
+{
+ "code": "221203",
+ "title": "فرنسية",
+ "used_for": [
+  "2eme-lettres/FRAN",
+  "2eme-sciences/FRAN",
+  "2eme-technologie-informatique/FRAN",
+  "2eme-economie-services/FRAN",
+  "2eme-sport/FRAN"
+ ],
+ "toc": [
+  {
+   "name": "Pages d’amour",
+   "children": [
+    {
+     "name": "Perdus dans la rêverie"
+    },
+    {
+     "name": "Méditation"
+    },
+    {
+     "name": "L’amoureux éconduit"
+    },
+    {
+     "name": "Il pleut"
+    }
+   ]
+  },
+  {
+   "name": "Toi, mon semblable",
+   "children": [
+    {
+     "name": "Un songe"
+    },
+    {
+     "name": "Solitude au milieu des hommes"
+    },
+    {
+     "name": "La peur du mépris"
+    },
+    {
+     "name": "Une affaire de conscience"
+    }
+   ]
+  },
+  {
+   "name": "Femme et société",
+   "children": [
+    {
+     "name": "Je n’aimerais pas être un mari !"
+    },
+    {
+     "name": "Ainsi était ma mère..."
+    },
+    {
+     "name": "Un roi déchu"
+    },
+    {
+     "name": "Monsieur ou Mondamoiseau ?"
+    }
+   ]
+  },
+  {
+   "name": "Travail et bien-être",
+   "children": [
+    {
+     "name": "Une existence exemplaire"
+    },
+    {
+     "name": "Des millions de petites flammes"
+    },
+    {
+     "name": "Le chant de la pierre"
+    },
+    {
+     "name": "La ficelle"
+    }
+   ]
+  },
+  {
+   "name": "Images d’ici, images d’ailleurs",
+   "children": [
+    {
+     "name": "Sur les routes du monde"
+    },
+    {
+     "name": "Sensation"
+    },
+    {
+     "name": "Le pouvoir de l’image"
+    },
+    {
+     "name": "La reine de beauté"
+    }
+   ]
+  }
+ ],
+ "notes": "Source: printed SOMMAIRE (p.288), confirmed by MODULE 1-5 title pages and Séquence headings. Module -> study texts (séquences), authors dropped. Module subtitles (Champ lexical et thème, Thème et thèse, Thèse et arguments, Les étapes de l'argumentation, La structure de l'argumentation) not used as names. The two nouvelles 'La ficelle' (p.274) and 'La reine de beauté' (p.282) are printed at the end of the book but the sommaire lists them under modules 4 and 5 respectively; sommaire grouping kept. Préface excluded."
+}

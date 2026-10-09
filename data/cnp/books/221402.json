@@ -1,0 +1,222 @@
+{
+ "code": "221402",
+ "title": "فرنسية_شعب علمية",
+ "used_for": [
+  "bac-mathematiques/FRAN",
+  "bac-sciences-experimentales/FRAN",
+  "bac-informatique/FRAN",
+  "bac-techniques/FRAN",
+  "bac-economie-gestion/FRAN",
+  "bac-sport/FRAN"
+ ],
+ "toc": [
+  {
+   "name": "Souvenirs et nostalgie",
+   "children": [
+    {
+     "name": "Débat : Nostalgie, quand tu nous tiens !"
+    },
+    {
+     "name": "A l'ombre de mon grand-père"
+    },
+    {
+     "name": "Crépuscule"
+    },
+    {
+     "name": "Le discours rapporté"
+    },
+    {
+     "name": "L'étude de texte"
+    },
+    {
+     "name": "L'Absent"
+    },
+    {
+     "name": "La madeleine"
+    },
+    {
+     "name": "Lecture de l'image : La mémoire"
+    },
+    {
+     "name": "L'essai"
+    },
+    {
+     "name": "Visite à la maison paternelle"
+    },
+    {
+     "name": "Le lac"
+    },
+    {
+     "name": "Débat : Éterniser un instant"
+    }
+   ]
+  },
+  {
+   "name": "Histoires d'amour",
+   "children": [
+    {
+     "name": "Débat : Amour, toujours !"
+    },
+    {
+     "name": "Hermina"
+    },
+    {
+     "name": "La rencontre"
+    },
+    {
+     "name": "Récit et discours"
+    },
+    {
+     "name": "L'étude de texte"
+    },
+    {
+     "name": "Les mains d'Elsa"
+    },
+    {
+     "name": "Ravissement"
+    },
+    {
+     "name": "Lecture de l'image : Olga sur un fauteuil"
+    },
+    {
+     "name": "La caractérisation"
+    },
+    {
+     "name": "L'exposé : Les couples célèbres dans la littérature arabe"
+    },
+    {
+     "name": "L'attente"
+    },
+    {
+     "name": "L'essai"
+    }
+   ]
+  },
+  {
+   "name": "Liberté, j'écris ton nom...",
+   "children": [
+    {
+     "name": "Débat : Vous avez dit liberté !"
+    },
+    {
+     "name": "Liberté"
+    },
+    {
+     "name": "Lecture de l'image : Liberté"
+    },
+    {
+     "name": "Afrique"
+    },
+    {
+     "name": "La comparaison et la métaphore"
+    },
+    {
+     "name": "L'étude de texte"
+    },
+    {
+     "name": "Au nom de la liberté"
+    },
+    {
+     "name": "Les Troglodytes"
+    },
+    {
+     "name": "L'exposé : Liberté et expression artistique"
+    },
+    {
+     "name": "La nominalisation"
+    },
+    {
+     "name": "Une femme libre"
+    },
+    {
+     "name": "L'essai"
+    }
+   ]
+  },
+  {
+   "name": "Module de lecture : Le silence de la mer",
+   "children": []
+  },
+  {
+   "name": "Guerre et Paix",
+   "children": [
+    {
+     "name": "Débat : Guerre à la guerre !"
+    },
+    {
+     "name": "Les routes noires"
+    },
+    {
+     "name": "Le dormeur du val"
+    },
+    {
+     "name": "Le conditionnel et le subjonctif"
+    },
+    {
+     "name": "L'étude de texte"
+    },
+    {
+     "name": "Lecture de l'image : Affiche Handicap International"
+    },
+    {
+     "name": "Villages en flammes"
+    },
+    {
+     "name": "Ce jour-là"
+    },
+    {
+     "name": "L'exposé : Le combat pacifiste"
+    },
+    {
+     "name": "Un homme comme moi"
+    },
+    {
+     "name": "L'essai"
+    }
+   ]
+  },
+  {
+   "name": "L'Homme et la Science",
+   "children": [
+    {
+     "name": "Débat : Science et conscience"
+    },
+    {
+     "name": "La cause de ce qui n'est point"
+    },
+    {
+     "name": "Il ne faut pas jeter le bébé avec l'eau du bain"
+    },
+    {
+     "name": "L'expression de l'opinion"
+    },
+    {
+     "name": "L'étude de texte"
+    },
+    {
+     "name": "Lecture de l'image : Lire une caricature"
+    },
+    {
+     "name": "Les beaux jours des pirates informatiques"
+    },
+    {
+     "name": "Les mérites de la science"
+    },
+    {
+     "name": "L'enfer et la raison"
+    },
+    {
+     "name": "L'exposé : La Science, enjeux et perspectives"
+    },
+    {
+     "name": "L'essai"
+    }
+   ]
+  },
+  {
+   "name": "Module de lecture : La Cantatrice chauve",
+   "children": []
+  }
+ ],
+ "notes": "From the sommaire (p4-5), ordered by page numbers: 5 modules d'apprentissage + 2 modules de lecture (Vercors, Ionesco) placed in page order. Children = Oral/Lecture/Langue/Écrit/Lecture de l'image items; authors dropped; Lectures complémentaires, Citations, Bilan, Glossaire excluded. 'Nostagie' corrected to 'Nostalgie'."
+}

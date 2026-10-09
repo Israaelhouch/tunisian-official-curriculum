@@ -1,0 +1,148 @@
+{
+ "code": "121410",
+ "title": "فرنسية_قراءة",
+ "used_for": [
+  "4eme-primaire/FRAN"
+ ],
+ "toc": [
+  {
+   "name": "Vive l'école !",
+   "children": [
+    {
+     "name": "La nouvelle élève",
+     "children": []
+    },
+    {
+     "name": "Les deux amies",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Bienvenue chez les Duval",
+   "children": [
+    {
+     "name": "Jeannot et sa petite sœur Annie (1)",
+     "children": []
+    },
+    {
+     "name": "Jeannot et sa petite sœur Annie (2)",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Sois mon ami !",
+   "children": [
+    {
+     "name": "Les lunettes",
+     "children": []
+    },
+    {
+     "name": "Un petit écureuil",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Tends-moi la main !",
+   "children": [
+    {
+     "name": "Les grenouilles",
+     "children": []
+    },
+    {
+     "name": "Le tailleur fou",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Un cœur qui bat",
+   "children": [
+    {
+     "name": "La petite malade",
+     "children": []
+    },
+    {
+     "name": "La punition",
+     "children": []
+    },
+    {
+     "name": "Comment préparer une tisane",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Bon appétit !",
+   "children": [
+    {
+     "name": "La galette du Petit Chaperon Rouge",
+     "children": []
+    },
+    {
+     "name": "Un repas à l'école",
+     "children": []
+    },
+    {
+     "name": "La salade de fruits",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Amusons-nous",
+   "children": [
+    {
+     "name": "Josette et ses poupées",
+     "children": []
+    },
+    {
+     "name": "Au parc d'attractions",
+     "children": []
+    },
+    {
+     "name": "Sur la piste du cirque",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Quoi de neuf à la télé",
+   "children": [
+    {
+     "name": "Stéphane et la télévision",
+     "children": []
+    },
+    {
+     "name": "La parabole",
+     "children": []
+    },
+    {
+     "name": "Questions pour un jeune champion",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "« Conte-nous une histoire, dis ! »",
+   "children": [
+    {
+     "name": "Pinocchio",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "« Conte-nous une histoire, dis ! »",
+   "children": [
+    {
+     "name": "Le Chat Botté",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Source: tableau des modules p.4-6 (clean text) + 'Module N' page markers (10 modules). Children = reading texts ('j'apprends à lire un texte'); excluded poems to recite, 'Phrases' phonics lessons, mini-projets d'écriture/outils d'aide, Je découvre, J'agis, jeux, PEL/révisions. Modules 9 and 10 carry the same printed title; the sommaire layout lists Pinocchio and Le Chat Botté after both module headers, so their split (Pinocchio -> 9, Le Chat Botté -> 10) follows the extracted column order and is uncertain. No placeholders."
+}

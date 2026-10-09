@@ -1,0 +1,146 @@
+{
+ "code": "225281",
+ "title": "SVT Sport",
+ "used_for": [
+  "2eme-sport/BIO"
+ ],
+ "toc": [
+  {
+   "name": "Nutrition et santé",
+   "children": [
+    {
+     "name": "Besoins nutritionnels de l’Homme",
+     "children": [
+      {
+       "name": "Composition chimique des aliments courants",
+       "children": []
+      },
+      {
+       "name": "Principales fonctions des aliments simples",
+       "children": []
+      },
+      {
+       "name": "Besoins alimentaires de l’Homme",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Digestion et absorption",
+     "children": [
+      {
+       "name": "Etude expérimentale de la digestion",
+       "children": []
+      },
+      {
+       "name": "Notion d’enzyme digestive et de simplification moléculaire",
+       "children": []
+      },
+      {
+       "name": "Absorption intestinale",
+       "children": []
+      },
+      {
+       "name": "Hygiène de la digestion",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Respiration",
+     "children": [
+      {
+       "name": "Phénomènes mécaniques de la respiration",
+       "children": []
+      },
+      {
+       "name": "Echanges gazeux respiratoires",
+       "children": []
+      },
+      {
+       "name": "Accidents respiratoires",
+       "children": []
+      },
+      {
+       "name": "Hygiène de la respiration",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Circulation sanguine",
+     "children": [
+      {
+       "name": "Le sang",
+       "children": []
+      },
+      {
+       "name": "Cœur et circulation sanguine",
+       "children": []
+      },
+      {
+       "name": "Accidents cardiovasculaires chez le sportif",
+       "children": []
+      },
+      {
+       "name": "Hygiène de l’appareil circulatoire",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Métabolisme cellulaire",
+     "children": [
+      {
+       "name": "Echanges des nutriments dans les compartiments liquidiens",
+       "children": []
+      },
+      {
+       "name": "Respiration cellulaire",
+       "children": []
+      },
+      {
+       "name": "Excrétion des déchets métaboliques",
+       "children": []
+      },
+      {
+       "name": "Biosynthèse",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Croissance chez l’Homme",
+   "children": [
+    {
+     "name": "Principales périodes de la croissance chez l’Homme",
+     "children": []
+    },
+    {
+     "name": "Mécanisme biologique de la croissance : la mitose",
+     "children": [
+      {
+       "name": "Mécanisme de la reproduction conforme : la mitose",
+       "children": []
+      },
+      {
+       "name": "Chromosomes : nombre, forme, structure et …",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Contrôle hormonal de la croissance",
+     "children": []
+    },
+    {
+     "name": "Hygiène de la croissance",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Sciences biologiques 2ème sport. Themes/chapters from the Sommaire (p.211) and theme openers (pp.4, 167); sections from the 'PARTIE n' headings/markers of each chapter. Order follows the sommaire/opener numbering, but in the page sequence 'Contrôle hormonal de la croissance' (p.176) actually precedes the mitose chapter (p.185): the sommaire swaps their page numbers. The 2nd partie of the mitose chapter is truncated in the extract after 'Chromosomes : nombre, forme, structure et' (end of title unreadable, kept with an ellipsis as a placeholder). Theme 2 chapters other than mitose show no partie headings."
+}

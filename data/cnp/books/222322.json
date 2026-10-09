@@ -1,0 +1,38 @@
+{
+ "code": "222322",
+ "title": "رياضيات _شعبة الآداب",
+ "used_for": [
+  "3eme-lettres/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Problèmes du second degré",
+   "children": []
+  },
+  {
+   "name": "Dérivation et applications",
+   "children": []
+  },
+  {
+   "name": "Exemples de fonctions polynômes",
+   "children": []
+  },
+  {
+   "name": "Exemples de fonctions homographiques",
+   "children": []
+  },
+  {
+   "name": "Suites réelles",
+   "children": []
+  },
+  {
+   "name": "Statistiques",
+   "children": []
+  },
+  {
+   "name": "Probabilités",
+   "children": []
+  }
+ ],
+ "notes": "Chapter names from sommaire (p4) and chapter title pages/markers (Chapitre 1-7, pages 5-99); order follows page order (Statistiques ch.6 p83, Probabilités ch.7 p99). Sections only partially visible in front/back text (e.g. ch.1 sections I, II, IV but not III), so children left empty."
+}

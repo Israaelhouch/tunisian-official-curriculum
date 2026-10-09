@@ -1,0 +1,158 @@
+{
+ "code": "102306",
+ "title": "رياضيات",
+ "used_for": [
+  "3eme-primaire/MATH"
+ ],
+ "toc": [
+  {
+   "name": "أكون الأعداد ذات 4 أرقام وأكتبها وأقرؤها",
+   "children": []
+  },
+  {
+   "name": "أتعرف الشبكة ومكوناتها",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 12-14)",
+   "children": []
+  },
+  {
+   "name": "أطرح بالزيادة (1)",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 18-20)",
+   "children": []
+  },
+  {
+   "name": "أكون الآلاف الكاملة وأكتبها وأقرؤها",
+   "children": []
+  },
+  {
+   "name": "أتعرف المسالك على الشبكة وأرسمها",
+   "children": []
+  },
+  {
+   "name": "أقارن الآلاف الكاملة",
+   "children": []
+  },
+  {
+   "name": "أطرح بالزيادة (2)",
+   "children": []
+  },
+  {
+   "name": "أتدرب على حل المسائل",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 40-43)",
+   "children": []
+  },
+  {
+   "name": "أتعرف العلاقة بين المتر والديسمتر والصنتمتر",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 48-53)",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 55-56)",
+   "children": []
+  },
+  {
+   "name": "أكون الأعداد ذات 4 أرقام (بعض أرقامها صفر) وأكتبها وأقرؤها",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 61-63)",
+   "children": []
+  },
+  {
+   "name": "أفكك الأعداد ذات 4 أرقام وأركبها",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 67-74)",
+   "children": []
+  },
+  {
+   "name": "أقارن الأعداد ذات 4 أرقام وأرتبها",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 79-82)",
+   "children": []
+  },
+  {
+   "name": "أتصرف في القطع النقدية والورقة المالية من فئة 5 د (1)",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 87-88)",
+   "children": []
+  },
+  {
+   "name": "خاصيات الضرب في حساب جداء عددين",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 92-97)",
+   "children": []
+  },
+  {
+   "name": "أتصرف في الأعداد ذات 4 أرقام",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 102-112)",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 113-115)",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 116-125)",
+   "children": []
+  },
+  {
+   "name": "أتصرف في القطع النقدية والورقة المالية (2)",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 127-135)",
+   "children": []
+  },
+  {
+   "name": "خاصيات الضرب في حساب جداء عددين (3)",
+   "children": []
+  },
+  {
+   "name": "أتصرف في العلاقة العشرية بين وحدات القيس (الأطوال، السعات)",
+   "children": []
+  },
+  {
+   "name": "خاصيات كل من المستطيل والمربع",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 149-153)",
+   "children": []
+  },
+  {
+   "name": "اليوم والشهر والسنة",
+   "children": []
+  },
+  {
+   "name": "قيس محيط مضلع",
+   "children": []
+  },
+  {
+   "name": "درس غير مقروء (ص 162-172)",
+   "children": []
+  }
+ ],
+ "notes": "No فهرس exists in the extract (last pages 173-176 blank) and the OCR is very noisy. Built from lesson running headers (top lines of pages) and the few large-font headings, in page order; flat lesson list. Each placeholder 'درس غير مقروء (ص a-b)' marks a page range whose lesson title(s) could not be read (it may contain more than one lesson; e.g. 61-63 polygons, 79-82 multiplication table, 108 multiples, 113-115 angles 'أتعرف الزاوية...', 127 '...حسب فتحاتها وأرسمها'). 'أقيم' pages (38, 54, 75) excluded. Pages 42-43 repeat the header of lesson 1 and are not listed separately. Part number of the first 'خاصيات الضرب' lesson (pp.89-91) and the full title of the p.126 lesson are partly unreadable. Low confidence overall."
+}

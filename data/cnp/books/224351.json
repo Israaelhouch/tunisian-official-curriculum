@@ -1,0 +1,168 @@
+{
+ "code": "224351",
+ "title": "الكيمياء_شعبة العلوم التكنولوجية",
+ "used_for": [
+  "3eme-techniques/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "L'oxydoréduction",
+   "children": [
+    {
+     "name": "Phénomène d'oxydoréduction",
+     "children": [
+      {
+       "name": "Présentation sommaire des métaux et de leurs ions"
+      },
+      {
+       "name": "Action des acides sur les métaux"
+      },
+      {
+       "name": "Action d'un cation métallique sur un métal"
+      },
+      {
+       "name": "Les couples oxydant-réducteur ou couples redox"
+      },
+      {
+       "name": "Ecriture d'une équation d'oxydoréduction"
+      }
+     ]
+    },
+    {
+     "name": "Classification électrochimique des métaux par rapport au dihydrogène",
+     "children": [
+      {
+       "name": "Classification électrochimique des métaux"
+      },
+      {
+       "name": "Classification électrochimique de quelques éléments usuels"
+      },
+      {
+       "name": "Utilisation de la classification électrochimique des métaux"
+      }
+     ]
+    },
+    {
+     "name": "Etude de quelques réactions d'oxydoréduction",
+     "children": [
+      {
+       "name": "Oxydoréduction par voie sèche"
+      },
+      {
+       "name": "Le nombre d'oxydation"
+      },
+      {
+       "name": "Oxydoréduction par voie humide"
+      }
+     ]
+    },
+    {
+     "name": "Corrosion des métaux",
+     "children": [
+      {
+       "name": "Effet de l'air atmosphérique sur quelques métaux"
+      },
+      {
+       "name": "La corrosion du fer : la rouille"
+      },
+      {
+       "name": "Quelques procédés de protection contre la corrosion"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Les acides et les bases de Bronsted",
+   "children": [
+    {
+     "name": "Les acides et les bases de Bronsted",
+     "children": []
+    },
+    {
+     "name": "Les couples acide base et les réactions acide base",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Mesure d'une quantité de matière",
+   "children": [
+    {
+     "name": "Détermination d'une quantité de matière à l'aide d'une réaction chimique",
+     "children": [
+      {
+       "name": "Réaction d'une solution d'un monoacide fort avec une solution de monobase forte"
+      },
+      {
+       "name": "Réaction d'oxydoréduction : réaction des ions permanganate avec les ions fer (II) en milieu acide"
+      }
+     ]
+    },
+    {
+     "name": "Détermination d'une quantité de matière par mesure d'une grandeur physique",
+     "children": [
+      {
+       "name": "Rappel de définitions"
+      },
+      {
+       "name": "Détermination de la quantité de matière par mesure de la conductance"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "La chimie organique",
+   "children": [
+    {
+     "name": "Analyse des composés organiques",
+     "children": [
+      {
+       "name": "Introduction"
+      },
+      {
+       "name": "Analyse élémentaire qualitative des composés organiques"
+      },
+      {
+       "name": "Analyse élémentaire quantitative des composés organiques"
+      },
+      {
+       "name": "Détermination de la formule brute"
+      }
+     ]
+    },
+    {
+     "name": "Les alcools aliphatiques saturés",
+     "children": []
+    },
+    {
+     "name": "Les acides carboxyliques",
+     "children": [
+      {
+       "name": "Présentation des acides carboxyliques"
+      },
+      {
+       "name": "Propriétés chimiques des acides carboxyliques"
+      }
+     ]
+    },
+    {
+     "name": "Notion de fonction organique",
+     "children": [
+      {
+       "name": "Rappel sur les hydrocarbures aliphatiques saturés et insaturés"
+      },
+      {
+       "name": "Le groupe fonctionnel"
+      },
+      {
+       "name": "L'isomérie de fonction"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Themes/chapters from sommaire (p3). Sections from ch.1 plan (p8) and body headings. Sections of ch.5, ch.6 and ch.10 only partly visible, so left empty; order of the two dry-way sections in ch.3 (same page) is uncertain; ch.12 may have further sections not captured."
+}

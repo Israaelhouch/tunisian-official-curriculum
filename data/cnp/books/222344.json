@@ -1,0 +1,54 @@
+{
+ "code": "222344",
+ "title": "رياضيات ج2_شعبة الرياضيات",
+ "used_for": [
+  "3eme-mathematiques/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Produit scalaire dans le plan",
+   "children": []
+  },
+  {
+   "name": "Angles orientés",
+   "children": []
+  },
+  {
+   "name": "Trigonométrie",
+   "children": []
+  },
+  {
+   "name": "Rotations",
+   "children": []
+  },
+  {
+   "name": "Nombres complexes",
+   "children": []
+  },
+  {
+   "name": "Dénombrement",
+   "children": []
+  },
+  {
+   "name": "Divisibilité dans ℤ",
+   "children": []
+  },
+  {
+   "name": "Nombres premiers",
+   "children": []
+  },
+  {
+   "name": "Vecteurs de l'espace",
+   "children": []
+  },
+  {
+   "name": "Produit scalaire et produit vectoriel dans l'espace",
+   "children": []
+  },
+  {
+   "name": "Equations de droites et de plans. Equation d'une sphère",
+   "children": []
+  }
+ ],
+ "notes": "Tome 2. Chapter names from sommaire p4 (11 chapters, pages 5-197), confirmed by chapter title pages and markers. Ch.7 printed 'Divisibilité dans' with the set symbol lost in extraction; completed as ℤ (standard notation, evident). Ch.8 title page says 'Les nombres premiers', sommaire 'Nombres premiers'. Sections only partially visible (ch.1 up to section 3, ch.11 section 8.2), so children left empty."
+}

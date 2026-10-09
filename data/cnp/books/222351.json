@@ -1,0 +1,323 @@
+{
+ "code": "222351",
+ "title": "رياضيات_شعبة العلوم التقنية",
+ "used_for": [
+  "3eme-techniques/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Première partie",
+   "children": [
+    {
+     "name": "Généralités sur les fonctions",
+     "children": [
+      {
+       "name": "Généralités"
+      },
+      {
+       "name": "Fonctions affines par intervalles"
+      }
+     ]
+    },
+    {
+     "name": "Notion de limite",
+     "children": [
+      {
+       "name": "Limite d'une fonction en +∞, en -∞"
+      },
+      {
+       "name": "Règles de calculs sur les limites"
+      },
+      {
+       "name": "Limite d'une fonction en x0"
+      },
+      {
+       "name": "Limite à droite, limite à gauche d'une fonction en x0"
+      },
+      {
+       "name": "Limite infinie d'une fonction en x0"
+      }
+     ]
+    },
+    {
+     "name": "Continuité",
+     "children": [
+      {
+       "name": "Continuité d'une fonction en un point"
+      },
+      {
+       "name": "Continuité à droite, continuité à gauche"
+      },
+      {
+       "name": "Continuité sur un intervalle"
+      }
+     ]
+    },
+    {
+     "name": "Dérivabilité",
+     "children": [
+      {
+       "name": "Dérivabilité d'une fonction en un point, nombre dérivé"
+      },
+      {
+       "name": "Dérivabilité sur un intervalle ouvert, fonction dérivée"
+      },
+      {
+       "name": "Dérivabilité à gauche, dérivabilité à droite en un point"
+      },
+      {
+       "name": "Dérivabilité sur un intervalle fermé"
+      },
+      {
+       "name": "Continuité et dérivabilité"
+      },
+      {
+       "name": "Opérations sur les fonctions dérivables"
+      },
+      {
+       "name": "Dérivée seconde"
+      }
+     ]
+    },
+    {
+     "name": "Etude de fonctions",
+     "children": [
+      {
+       "name": "Fonctions affines par intervalles"
+      },
+      {
+       "name": "Fonctions du second degré"
+      },
+      {
+       "name": "Fonctions bicarrées"
+      },
+      {
+       "name": "Fonctions du troisième degré"
+      }
+     ]
+    },
+    {
+     "name": "Fonctions circulaires",
+     "children": [
+      {
+       "name": "Etude de la fonction sinus"
+      },
+      {
+       "name": "Etude de la fonction cosinus"
+      },
+      {
+       "name": "Etude de fonctions de type x ↦ cos(ax+b) ou x ↦ sin(ax+b)"
+      }
+     ]
+    },
+    {
+     "name": "Suites réelles",
+     "children": [
+      {
+       "name": "Suites arithmétiques"
+      },
+      {
+       "name": "Suites géométriques"
+      },
+      {
+       "name": "Raisonnement par récurrence"
+      },
+      {
+       "name": "Suites monotones"
+      },
+      {
+       "name": "Limite d'une suite"
+      },
+      {
+       "name": "Suites de type Un+1 = aUn + b"
+      },
+      {
+       "name": "Suites homographiques"
+      }
+     ]
+    },
+    {
+     "name": "Dénombrement",
+     "children": [
+      {
+       "name": "Nombre d'applications d'un ensemble fini dans un ensemble fini"
+      },
+      {
+       "name": "Nombre d'arrangements"
+      },
+      {
+       "name": "Permutations"
+      },
+      {
+       "name": "Nombre de combinaisons"
+      }
+     ]
+    },
+    {
+     "name": "Probabilités",
+     "children": [
+      {
+       "name": "Probabilité d'un évènement"
+      },
+      {
+       "name": "Propriétés d'une probabilité"
+      }
+     ]
+    },
+    {
+     "name": "Statistiques",
+     "children": [
+      {
+       "name": "Série statistique à deux caractères"
+      },
+      {
+       "name": "Distributions marginales"
+      },
+      {
+       "name": "Nuage de points"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Deuxième partie",
+   "children": [
+    {
+     "name": "Angles orientés",
+     "children": [
+      {
+       "name": "Angle orienté de deux demi-droites"
+      },
+      {
+       "name": "Relation de Chasles"
+      },
+      {
+       "name": "Image d'un angle orienté de deux demi-droites par une symétrie orthogonale, par une translation"
+      },
+      {
+       "name": "Angle orienté de deux vecteurs non nuls"
+      }
+     ]
+    },
+    {
+     "name": "Formules trigonométriques",
+     "children": []
+    },
+    {
+     "name": "Equations et inéquations trigonométriques",
+     "children": [
+      {
+       "name": "Équations trigonométriques fondamentales"
+      },
+      {
+       "name": "Inéquations trigonométriques fondamentales"
+      }
+     ]
+    },
+    {
+     "name": "Produit scalaire dans le plan",
+     "children": []
+    },
+    {
+     "name": "Nombres complexes",
+     "children": [
+      {
+       "name": "Opérations sur les nombres complexes"
+      },
+      {
+       "name": "Conjugué d'un nombre complexe"
+      },
+      {
+       "name": "Représentation géométrique d'un nombre complexe"
+      },
+      {
+       "name": "Module d'un nombre complexe"
+      },
+      {
+       "name": "Argument d'un nombre complexe non nul"
+      }
+     ]
+    },
+    {
+     "name": "Vecteurs de l'espace, repère cartésien de l'espace",
+     "children": [
+      {
+       "name": "Vecteurs colinéaires"
+      },
+      {
+       "name": "Vecteurs coplanaires"
+      },
+      {
+       "name": "Base de l'ensemble des vecteurs de l'espace. Repère cartésien"
+      },
+      {
+       "name": "Condition de colinéarité de deux vecteurs"
+      },
+      {
+       "name": "Condition pour que trois vecteurs soient coplanaires"
+      }
+     ]
+    },
+    {
+     "name": "Droites et plans de l'espace",
+     "children": [
+      {
+       "name": "Représentation paramétrique d'une droite de l'espace"
+      },
+      {
+       "name": "Représentation cartésienne d'une droite de l'espace"
+      },
+      {
+       "name": "Représentation paramétrique d'un plan"
+      },
+      {
+       "name": "Équation cartésienne d'un plan"
+      },
+      {
+       "name": "Vecteurs d'un plan"
+      },
+      {
+       "name": "Positions relatives de droites et plans"
+      }
+     ]
+    },
+    {
+     "name": "Produit scalaire dans un repère orthonormé de l'espace",
+     "children": [
+      {
+       "name": "Produit scalaire dans l'espace"
+      },
+      {
+       "name": "Orthogonalité et produit scalaire"
+      },
+      {
+       "name": "Activité dans un repère orthonormé de l'espace"
+      },
+      {
+       "name": "Vecteur normal à un plan"
+      },
+      {
+       "name": "Distance d'un point à un plan"
+      }
+     ]
+    },
+    {
+     "name": "Produit vectoriel. Produit mixte",
+     "children": [
+      {
+       "name": "Produit vectoriel"
+      },
+      {
+       "name": "Coordonnées du produit vectoriel"
+      },
+      {
+       "name": "Produit mixte"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Single volume in two parts, each with its own sommaire (p6: chapters 1-10; p194: chapters 1-9) and part title pages (p5, p193); structured part -> chapter -> section. Chapter names from the sommaires (title pages sometimes longer, e.g. 'Dérivabilité d'une fonction. Fonctions dérivées', 'Équations et inéquations trigonométriques fondamentales'). Sections from capitalised section headings in page order, converted to normal case; they may be incomplete (no headings captured for Formules trigonométriques and Produit scalaire dans le plan, left empty; Généralités sur les fonctions, Probabilités and Statistiques likely partial). Omitted unreadable headings: four 'Fonctions de type ...' sections in Etude de fonctions (formula lost) and 'Opérations dans l'ensemble ...' in Vecteurs de l'espace (set symbol lost). Truncated '(x0 ∈ ...)' qualifiers dropped in Notion de limite. Sub-headings 'Positions relatives d'une droite et d'un plan' / 'de deux plans' folded into 'Positions relatives de droites et plans' (depth limit). Excluded Math et culture items (Pascal, chevalier de Méré, Ptolémée, Al-Kashi, etc.), thème d'étude and exercices."
+}

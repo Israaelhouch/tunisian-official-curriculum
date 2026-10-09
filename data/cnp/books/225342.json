@@ -1,0 +1,73 @@
+{
+ "code": "225342",
+ "title": "علوم الحياة والأرض_شعبة الرياضيات",
+ "used_for": [
+  "3eme-mathematiques/SVT"
+ ],
+ "toc": [
+  {
+   "name": "Nutrition et santé",
+   "children": [
+    {
+     "name": "La malnutrition",
+     "children": []
+    },
+    {
+     "name": "Les besoins nutritionnels de l'Homme",
+     "children": [
+      {
+       "name": "Les aliments simples"
+      },
+      {
+       "name": "Les besoins nutritionnels qualitatifs"
+      },
+      {
+       "name": "Les besoins nutritionnels quantitatifs"
+      }
+     ]
+    },
+    {
+     "name": "La ration alimentaire équilibrée",
+     "children": []
+    },
+    {
+     "name": "L'alimentation et le développement durable : l'agriculture biologique",
+     "children": []
+    },
+    {
+     "name": "La régulation de la glycémie",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Génétique",
+   "children": [
+    {
+     "name": "L'information génétique : des caractères aux gènes",
+     "children": []
+    },
+    {
+     "name": "L'information génétique : mécanisme de l'expression",
+     "children": []
+    },
+    {
+     "name": "L'information génétique : origine de la diversité",
+     "children": [
+      {
+       "name": "Les mutations sources de diversité génétique"
+      },
+      {
+       "name": "La reproduction sexuée source de diversité"
+      }
+     ]
+    },
+    {
+     "name": "L'information génétique : sa transmission",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "From back sommaire (p167) and chapter title pages. Sections only where body headings were captured (ch. besoins nutritionnels, origine de la diversité); others left empty."
+}

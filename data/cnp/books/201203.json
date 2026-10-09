@@ -1,0 +1,257 @@
+{
+ "code": "201203",
+ "title": "عيون الأدب_الجزء الثاني_نصوص",
+ "used_for": [
+  "2eme-lettres/ARAB",
+  "2eme-sciences/ARAB",
+  "2eme-technologie-informatique/ARAB",
+  "2eme-economie-services/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "المحور الرابع",
+   "children": [
+    {
+     "name": "النصوص التمهيدية",
+     "children": [
+      {
+       "name": "الرّومنطيقيّة والكلاسيكيّة"
+      },
+      {
+       "name": "نشأة الرّابطة القلميّة"
+      },
+      {
+       "name": "حركة أبوللو أو الحداثة النظريّة"
+      }
+     ]
+    },
+    {
+     "name": "النصوص المختارة",
+     "children": [
+      {
+       "name": "الشّاعر"
+      },
+      {
+       "name": "الشّاعر"
+      },
+      {
+       "name": "يا شعر"
+      },
+      {
+       "name": "ملكة الخيال"
+      },
+      {
+       "name": "عش للجمال"
+      },
+      {
+       "name": "الفنّ الجميل"
+      },
+      {
+       "name": "قلت للشّعر"
+      },
+      {
+       "name": "الشّاعر والمقلّد"
+      },
+      {
+       "name": "المعراج"
+      },
+      {
+       "name": "مناجاة أرواح"
+      },
+      {
+       "name": "مناجاة عصفور"
+      },
+      {
+       "name": "الجبابرة"
+      },
+      {
+       "name": "ليل الأشواق"
+      },
+      {
+       "name": "الأشواق التائهة"
+      },
+      {
+       "name": "أغنية ريفيّة"
+      },
+      {
+       "name": "الجمال المنشود"
+      },
+      {
+       "name": "رؤيا"
+      },
+      {
+       "name": "كم تشتكي"
+      },
+      {
+       "name": "نشيد الجبّار"
+      },
+      {
+       "name": "التمثال"
+      }
+     ]
+    },
+    {
+     "name": "النصوص التكميليّة",
+     "children": [
+      {
+       "name": "من تجلّيات الحداثة في إنتاج جماعة الرّابطة القلميّة"
+      },
+      {
+       "name": "ملامح من شعريّة أغاني الحياة"
+      },
+      {
+       "name": "علي محمود طه حلقة مهمّة في تطوّر الشعر الحديث"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "المحور الخامس (لمسلك الآداب)",
+   "children": [
+    {
+     "name": "في العلاقة بين القصّة والرّواية"
+    },
+    {
+     "name": "مدخل إلى قراءة روايات نجيب محفوظ"
+    },
+    {
+     "name": "الواقعيّة الرّوائيّة في أدب نجيب محفوظ"
+    },
+    {
+     "name": "لعلّ الطالع أن يتبدّل"
+    },
+    {
+     "name": "بدا كالطّفل الغرير"
+    },
+    {
+     "name": "غدا تؤلف العشرة بين قلوبنا"
+    },
+    {
+     "name": "حياتك ليست بذي بال"
+    },
+    {
+     "name": "تراجع لائذا بالسّلامة"
+    },
+    {
+     "name": "نويت الحبّ"
+    },
+    {
+     "name": "نوال"
+    },
+    {
+     "name": "غلقا إلى الأبد"
+    },
+    {
+     "name": "خطر له خاطر مخيف"
+    },
+    {
+     "name": "أفظع بها من حقيقة"
+    },
+    {
+     "name": "لشدّ ما تحمّل هذا القلب"
+    },
+    {
+     "name": "شخصيّات خان الخليلي بين البعد الاجتماعي والعمق النفسيّ"
+    },
+    {
+     "name": "البعد الملحميّ في خان الخليلي"
+    }
+   ]
+  },
+  {
+   "name": "المحور الخامس (لمسالك العلوم / تكنولوجيا الإعلاميّة / الاقتصاد والخدمات)",
+   "children": [
+    {
+     "name": "نشأة فن التمثيل"
+    },
+    {
+     "name": "الأسطورة وأبعادها الإنسانيّة"
+    },
+    {
+     "name": "سادن المعبد"
+    },
+    {
+     "name": "خلف السّتار"
+    },
+    {
+     "name": "جالاتيا تنبض بالحياة"
+    },
+    {
+     "name": "جالاتيا الأخرى"
+    },
+    {
+     "name": "ما أنا إلا حلمك"
+    },
+    {
+     "name": "النص الثامن"
+    },
+    {
+     "name": "آه.. وفي يدها مكنسة"
+    },
+    {
+     "name": "أين هي السّماء ؟"
+    },
+    {
+     "name": "لست أثري الخالد"
+    },
+    {
+     "name": "أيّها الأصل وأيّتها الصّورة ؟"
+    },
+    {
+     "name": "الصّراع والعبث"
+    },
+    {
+     "name": "النص الرابع عشر"
+    },
+    {
+     "name": "المسرح بين النصّ والعرض"
+    }
+   ]
+  },
+  {
+   "name": "التواصل",
+   "children": [
+    {
+     "name": "الآلة والإنسان"
+    },
+    {
+     "name": "البحث العلمي والأخلاق"
+    },
+    {
+     "name": "العلم والخرافة"
+    },
+    {
+     "name": "العرب والأمم الأخرى"
+    },
+    {
+     "name": "الحضارة الإسلاميّة حضارة متفتّحة"
+    },
+    {
+     "name": "صورة أوروبا في أدب الرّحلة"
+    },
+    {
+     "name": "الحوار والمعرفة"
+    },
+    {
+     "name": "حوار الحضارات وتوازن المصالح"
+    }
+   ]
+  },
+  {
+   "name": "دلالات الصيغ الصرفيّة",
+   "children": [
+    {
+     "name": "الجذر والصيغة والوزن"
+    },
+    {
+     "name": "الأفعال المزيدة"
+    },
+    {
+     "name": "أهمّ الأسماء المشتقّة"
+    }
+   ]
+  }
+ ],
+ "notes": "Sources: back فهرس (pp.284-287, OCR, with page numbers) cross-checked with front فهرس المحور الرابع (p.6) and headings (some decoded from legacy-font Latin garble, e.g. p.114, p.160, p.224). Volume 2 of عيون الأدب: axes 4-5 plus a final communication part and language sheets. Positional placeholders (name unreadable in OCR): axis 4 title (only '... الأدب العربي' readable); axis 5 Lettres title ('من أشكال ... العربيّ الحديث : ...' partly unreadable) and axis 5 Sciences/TI/Eco title ('النهن السرمي : يجماليوت', likely الفن المسرحي: بيجماليون but not certain) kept as positional with section qualifier; final part header only 'التواصل ...' readable, its two sub-headings unreadable so texts listed flat; texts 6,11,12,15 of axis 5 Lettres and 1,4,8,14 of axis 5 Sciences have unreadable words (e.g. 'غدا ff العشرة بين قلوبنا', 'غلقا إلى الأبد', 'خطر له Ge ble', 'نشأة فن Ji', 'خلف JE', 'ما نحن إلا سجناء هذه AU', 'Ci والحياة في بيجماليون') -> 'النص N' placeholders. 'أغنية ريفيّة' taken from front فهرس (missing in back list). Methodological sheets (فهرس الورقات المنهجية: المكان/السرد/الشخصية/الزمن...; الحوار المسرحي ...) and the paintings list excluded. Language sheets: only 3 listed in readable فهرس; later sheets (المصدر الصناعي, التصغير seen in page headers) not in the readable list and omitted. Rebuild pass (full-page OCR of openers p5, p17, p52, p102, p113, p174, p182, p238, p266): openers p5/p102/p174 print only the axis labels ('المحور الرّابع', 'المحور الخامس (لمسلك الآداب)', 'المحور الخامس / المسلك: العلوم - تكنولوجيا ... - الاقتصاد والخدمات') with no axis titles; p17/p113 print only centres of interest -> the three axis placeholders are kept. Final part renamed from positional 'القسم الأخير (التواصل)' to its printed readable word 'التواصل' (opener p238 and back فهرس; the following word is illegible). Opener p238 shows this part has two groups: I (topics 1- التقدّم العلمي والتكنولوجي إلى أين؟ 2- البحث العلمي ... 3- العلم والخرافة; group title illegible) and II 'حوار الحضارات' (heading p253); since group I has no readable title, texts stay flat. Text placeholders unchanged: no opener or heading gives a readable form. Second rebuild pass (full-page OCR of every page): resolved axis 5 Lettres #6 = 'غدا تؤلف العشرة بين قلوبنا' (heading p126); #11 = 'غلقا إلى الأبد' (heading p151, same in back فهرس and axis table p103); #12 = 'خطر له خاطر مخيف' (heading p155); #15 = 'شخصيّات خان الخليلي بين البعد الاجتماعي والعمق النفسيّ' (axis contents table p103, with heading p170 'بين البعد الاجتماعي والعمق النفسي'); axis 5 Sciences #1 = 'نشأة فن التمثيل' (axis contents table p175; heading p177 'نشاة فن ..'); #4 = 'خلف السّتار' (axis contents table p175; heading p189 garbled). Still positional: the three axis titles (openers p5/p102/p174 print only axis labels), Lettres none left, Sciences #8 (table p175 and heading p209 lose the last word of 'ما نحن إلا سجناء هذه ...') and #14 (table p175 '... والحياة في بجماليون', first word unreadable)."
+}

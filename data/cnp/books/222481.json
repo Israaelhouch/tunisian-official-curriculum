@@ -1,0 +1,38 @@
+{
+ "code": "222481",
+ "title": "رياضيات",
+ "used_for": [
+  "bac-sport/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Exemples de fonctions polynômes et fonctions homographiques",
+   "children": []
+  },
+  {
+   "name": "Solution(s) d'une équation du type f(x) = k",
+   "children": []
+  },
+  {
+   "name": "Calcul d'aires planes",
+   "children": []
+  },
+  {
+   "name": "Fonctions logarithme népérien",
+   "children": []
+  },
+  {
+   "name": "Fonction exponentielle de base e",
+   "children": []
+  },
+  {
+   "name": "Suites réelles",
+   "children": []
+  },
+  {
+   "name": "Probabilités",
+   "children": []
+  }
+ ],
+ "notes": "Clean sommaire p5 with page numbers; 7 chapters as stated in 'Carte du manuel'. Headings data is only exercise text; sections not recoverable, children empty."
+}

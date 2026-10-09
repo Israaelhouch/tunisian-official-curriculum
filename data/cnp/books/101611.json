@@ -1,0 +1,196 @@
+{
+ "code": "101611",
+ "title": "عالم القراءة _نصوص",
+ "used_for": [
+  "6eme-primaire/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "الوحدة 1 (عنوان غير مقروء)",
+   "children": [
+    {
+     "name": "الدواء بيدك"
+    },
+    {
+     "name": "الدرّاجة الصفراء"
+    },
+    {
+     "name": "الغراب والثعلب"
+    },
+    {
+     "name": "أمومة"
+    },
+    {
+     "name": "الاختيار الصعب"
+    },
+    {
+     "name": "صراع"
+    },
+    {
+     "name": "الطفل والحمامتان"
+    },
+    {
+     "name": "الراعي والماء"
+    }
+   ]
+  },
+  {
+   "name": "الوحدة 2 (عنوان غير مقروء)",
+   "children": [
+    {
+     "name": "المسؤولية"
+    },
+    {
+     "name": "غزالة"
+    },
+    {
+     "name": "كنز الفقراء"
+    },
+    {
+     "name": "نداء المراعي البعيدة"
+    },
+    {
+     "name": "حضن الواحة"
+    },
+    {
+     "name": "نداء"
+    },
+    {
+     "name": "الأخ المنقذ"
+    },
+    {
+     "name": "في سيّارة الأجرة"
+    },
+    {
+     "name": "فيض أمومة"
+    },
+    {
+     "name": "حب الملوك"
+    }
+   ]
+  },
+  {
+   "name": "الوحدة 3 (عنوان غير مقروء)",
+   "children": [
+    {
+     "name": "الربيع"
+    },
+    {
+     "name": "عزفت فأطربت"
+    },
+    {
+     "name": "لوح الثلج"
+    },
+    {
+     "name": "السلسلة"
+    },
+    {
+     "name": "الشلال"
+    },
+    {
+     "name": "الربّان الصغير (1)"
+    },
+    {
+     "name": "الربّان الصغير (2)"
+    },
+    {
+     "name": "الربّان الصغير (3)"
+    }
+   ]
+  },
+  {
+   "name": "الوحدة 4 (عنوان غير مقروء)",
+   "children": [
+    {
+     "name": "جلد ثور"
+    },
+    {
+     "name": "الذئب والكلب"
+    },
+    {
+     "name": "شجرة التفاح"
+    },
+    {
+     "name": "لن أترك ابنتي"
+    },
+    {
+     "name": "القرد والغيلم"
+    },
+    {
+     "name": "العيد على الأبواب"
+    },
+    {
+     "name": "دعوة إلى العشاء"
+    },
+    {
+     "name": "القنديل الأثري"
+    },
+    {
+     "name": "المأدبة"
+    },
+    {
+     "name": "فرصة نادرة"
+    }
+   ]
+  },
+  {
+   "name": "الوحدة 5 (عنوان غير مقروء)",
+   "children": [
+    {
+     "name": "غابة في صندوق"
+    },
+    {
+     "name": "النص 46 (عنوان غير مقروء)"
+    },
+    {
+     "name": "الراديو"
+    },
+    {
+     "name": "في المركبة الفضائية"
+    },
+    {
+     "name": "درس على سطح القمر"
+    },
+    {
+     "name": "فارس رغم أنفه"
+    },
+    {
+     "name": "من الزورق إلى السفينة"
+    },
+    {
+     "name": "مغامرة السيّدة غراهام"
+    }
+   ]
+  },
+  {
+   "name": "الوحدة 6 (عنوان غير مقروء)",
+   "children": [
+    {
+     "name": "درس في البذر"
+    },
+    {
+     "name": "الإوزة المطيعة"
+    },
+    {
+     "name": "إلى أبناء المدارس"
+    },
+    {
+     "name": "الحمامة المطوقة"
+    },
+    {
+     "name": "ترويض الصقر"
+    },
+    {
+     "name": "من أجل صحّة الرضيع"
+    },
+    {
+     "name": "حسن التدبير"
+    },
+    {
+     "name": "لك الاختيار"
+    }
+   ]
+  }
+ ],
+ "notes": "Source: full-page OCR فهرس (pp.219-222, 64 numbered texts with authors and pages) cross-checked with title headings on text pages. The فهرس prints no unit/axis names (no unit title pages exist; texts start p3), but texts fall into 6 blocks each closed by an evaluation text (للتقييم) and an integration text (للإدماج): texts 1-8 / 11-20 / 23-30 / 33-42 / 45-52 / 55-62. Top-level items are therefore positional labels ('الوحدة n (عنوان غير مقروء)'), not printed names. Excluded: texts marked للتقييم (9, 21, 31, 43, 53, 63) and للإدماج (10, 22, 32, 44, 54, 64). Authors and pages dropped. OCR fixes: 'عزفت فأطرب' -> 'عزفت فأطربت' (p76 heading), 'لزن أترك ابنتى' -> 'لن أترك ابنتي', 'إغابة' -> 'غابة', 'الشلآل' -> 'الشلال', 'الربان' entries 2-3 garbled in فهرس but numbered (2)/(3) with same author/heading. Text 33 'Ab ثور' + p105 heading 'جلا ..' read as 'جلد ثور' (Elissa story, medium confidence). Text 26 printed 'السلسلة' + an unreadable word (possibly a second title word) kept as 'السلسلة'. Text 46 'كيف ... الحشرات ؟' has an unreadable verb -> positional label 'النص 46 (عنوان غير مقروء)'."
+}

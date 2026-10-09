@@ -1,0 +1,103 @@
+{
+ "code": "228363",
+ "title": "Génie électrique - Manuel d'activités",
+ "used_for": [
+  "3eme-techniques/TECHNO"
+ ],
+ "toc": [
+  {
+   "name": "Réseau électrique monophasé",
+   "children": [
+    {
+     "name": "Courant électrique monophasé"
+    },
+    {
+     "name": "Sécurité électrique"
+    },
+    {
+     "name": "Énergies renouvelables"
+    }
+   ]
+  },
+  {
+   "name": "Conception et réalisation de carte de commande",
+   "children": []
+  },
+  {
+   "name": "Logique combinatoire",
+   "children": [
+    {
+     "name": "Fonctions combinatoires"
+    },
+    {
+     "name": "Résolution de problèmes de logique combinatoire"
+    }
+   ]
+  },
+  {
+   "name": "Logique séquentielle",
+   "children": [
+    {
+     "name": "Systèmes séquentiels"
+    },
+    {
+     "name": "Applications à base de bascules"
+    }
+   ]
+  },
+  {
+   "name": "Automates programmables industriels",
+   "children": [
+    {
+     "name": "Capteurs"
+    },
+    {
+     "name": "Automates programmables industriels"
+    }
+   ]
+  },
+  {
+   "name": "Microcontrôleurs",
+   "children": [
+    {
+     "name": "Microcontrôleurs"
+    },
+    {
+     "name": "MikroC pour PIC"
+    }
+   ]
+  },
+  {
+   "name": "Technologies de communication des objets connectés",
+   "children": []
+  },
+  {
+   "name": "Moteurs électriques",
+   "children": [
+    {
+     "name": "Maquette d'illustration du principe d'un moteur à courant continu"
+    },
+    {
+     "name": "Principe d'un moteur asynchrone monophasé"
+    },
+    {
+     "name": "Principe d'un moteur universel"
+    },
+    {
+     "name": "Principe brushless"
+    },
+    {
+     "name": "Principe d'un moteur pas à pas à aimant permanent"
+    },
+    {
+     "name": "Application à base d'un servomoteur"
+    }
+   ]
+  },
+  {
+   "name": "Moteur pas à pas à aimant permanent",
+   "children": []
+  }
+ ],
+ "notes": "Activity manual. 9 themes and sub-themes from sommaire (p3). Theme 8 children are its 6 projects (p160-165). Sequence/activity-level detail not included."
+}

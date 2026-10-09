@@ -1,0 +1,112 @@
+{
+ "code": "225202",
+ "title": "علوم الحياة والأرض (شعبة الآداب)",
+ "used_for": [
+  "2eme-lettres/SVT"
+ ],
+ "toc": [
+  {
+   "name": "Hygiène alimentaire et risques liés à la pollution, au parasitisme aux intoxications",
+   "children": [
+    {
+     "name": "L’hygiène alimentaire et les risques liés à la pollution",
+     "children": [
+      {
+       "name": "Les habitudes et les besoins alimentaires",
+       "children": []
+      },
+      {
+       "name": "La malnutrition, conséquence de certaines habitudes alimentaires : obésité et carence alimentaire",
+       "children": []
+      },
+      {
+       "name": "L’alimentation équilibrée",
+       "children": []
+      },
+      {
+       "name": "Le choix et la conservation des aliments",
+       "children": []
+      },
+      {
+       "name": "L’eau potable : propriétés et origine",
+       "children": []
+      },
+      {
+       "name": "Les risques liés à la pollution de l’eau potable et les moyens de protection des ressources en eau",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Les risques liés au parasitisme et aux intoxications",
+     "children": [
+      {
+       "name": "Le kyste hydatique",
+       "children": []
+      },
+      {
+       "name": "L’oxyurose",
+       "children": []
+      },
+      {
+       "name": "La toxoplasmose",
+       "children": []
+      },
+      {
+       "name": "Le Sida",
+       "children": []
+      },
+      {
+       "name": "Le tabagisme",
+       "children": []
+      },
+      {
+       "name": "L’alcoolisme",
+       "children": []
+      },
+      {
+       "name": "Les drogues",
+       "children": []
+      },
+      {
+       "name": "Quelques stratégies de prévention et de lutte contre les toxicomanies",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Milieu intérieur – Régulation de la glycémie",
+   "children": [
+    {
+     "name": "Le milieu intérieur",
+     "children": [
+      {
+       "name": "Les compartiments liquidiens de l’organisme",
+       "children": []
+      },
+      {
+       "name": "La constance du milieu intérieur",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "La régulation de la glycémie",
+     "children": [
+      {
+       "name": "Les organes intervenant dans la régulation de la glycémie",
+       "children": []
+      },
+      {
+       "name": "Le mécanisme de régulation de la glycémie",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "SVT 2ème Lettres. Parts from '1ère/2ème PARTIE' openers (pp.5, 157; part 1 title kept as printed, part 2 title printed on two lines 'Milieu intérieur / Régulation de la glycémie'). Chapters and sections from each chapter's 'Contenu' box (pp.7, 103, 183) and section headings (pp.162-168 for 'Le milieu intérieur', whose contenu box was not extracted). Bilan, glossaire, savoir plus, exercices excluded."
+}

@@ -1,0 +1,58 @@
+{
+ "code": "211306",
+ "title": "التفكير الإسلامي_علوم التجريبية، رياضيات، علوم الإعلامية والعلوم التقنية",
+ "used_for": [
+  "3eme-mathematiques/ISLAM",
+  "3eme-sciences-experimentales/ISLAM",
+  "3eme-informatique/ISLAM",
+  "3eme-techniques/ISLAM"
+ ],
+ "toc": [
+  {
+   "name": "التفكير فريضة إسلامية",
+   "children": [
+    {
+     "name": "التوحيد نظر وتفكر"
+    },
+    {
+     "name": "العلم والقيم"
+    }
+   ]
+  },
+  {
+   "name": "الإنسان والقرآن",
+   "children": [
+    {
+     "name": "دلالات الإعجاز"
+    },
+    {
+     "name": "مظاهر الإعجاز القرآني"
+    },
+    {
+     "name": "مصادر التشريع"
+    },
+    {
+     "name": "مناهج التشريع"
+    },
+    {
+     "name": "النص والمصلحة"
+    }
+   ]
+  },
+  {
+   "name": "الإنسان والكون",
+   "children": [
+    {
+     "name": "مفهوم المنهج وأهميته"
+    },
+    {
+     "name": "من مناهج البحث عند علماء الإسلام"
+    },
+    {
+     "name": "من إسهامات علماء الإسلام في تطور العلوم"
+    }
+   ]
+  }
+ ],
+ "notes": "Source: محتوى الكتاب in back (p93), cross-checked with headings and the overview chart (p4/p8). Three مباحث -> 10 numbered lessons. Each مبحث is further grouped into مسائل (e.g. مبحث 1: التوحيد والعلم / العلم والقيم; مبحث 3: مناهج البحث عند علماء الإسلام / إسهامات علماء الإسلام في تطور العلوم), but the مبحث 2 مسألة names are only partly readable, so the intermediate level was dropped. Excluded: أتهيأ للمبحث, نشاط إدماجي, أغني معارفي, book list."
+}

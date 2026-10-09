@@ -1,0 +1,259 @@
+{
+ "code": "223471",
+ "title": "فيزياء_شعبة علوم الإعلامية",
+ "used_for": [
+  "bac-informatique/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Évolution de systèmes électriques",
+   "children": [
+    {
+     "name": "Le condensateur ; le dipôle RC",
+     "children": [
+      {
+       "name": "Définition et exemples"
+      },
+      {
+       "name": "Charge et décharge d'un condensateur"
+      },
+      {
+       "name": "Charge d'un condensateur et intensité du courant"
+      },
+      {
+       "name": "Relation entre la charge q et la tension uC"
+      },
+      {
+       "name": "Capacité d'un condensateur plan"
+      },
+      {
+       "name": "Tension de service et tension de claquage"
+      },
+      {
+       "name": "Énergie emmagasinée par un condensateur"
+      },
+      {
+       "name": "Réponse d'un dipôle RC à un échelon de tension"
+      },
+      {
+       "name": "Décharge d'un condensateur dans un résistor"
+      },
+      {
+       "name": "Influence des grandeurs caractéristiques d'un dipôle RC sur la durée de charge ou de décharge d'un condensateur"
+      }
+     ]
+    },
+    {
+     "name": "La bobine ; le dipôle RL",
+     "children": [
+      {
+       "name": "Le phénomène d'induction électromagnétique"
+      },
+      {
+       "name": "Loi de Lenz"
+      },
+      {
+       "name": "La force électromotrice d'induction"
+      },
+      {
+       "name": "L'auto-induction"
+      },
+      {
+       "name": "Énergie magnétique emmagasinée dans une bobine"
+      },
+      {
+       "name": "Applications de l'induction électromagnétique"
+      },
+      {
+       "name": "Réponse d'un dipôle RL à un échelon de tension"
+      },
+      {
+       "name": "La rupture du courant dans un dipôle RL"
+      },
+      {
+       "name": "Influence des grandeurs caractéristiques d'un dipôle RL sur le régime transitoire"
+      }
+     ]
+    },
+    {
+     "name": "Oscillations électriques libres",
+     "children": [
+      {
+       "name": "Production d'oscillations libres amorties"
+      },
+      {
+       "name": "Influence de l'amortissement"
+      },
+      {
+       "name": "Équation différentielle régissant l'évolution d'un circuit RLC série en régime libre"
+      },
+      {
+       "name": "Énergie totale d'un oscillateur RLC série"
+      },
+      {
+       "name": "Nature des oscillations libres non amorties"
+      },
+      {
+       "name": "Énergie totale d'un oscillateur LC"
+      }
+     ]
+    },
+    {
+     "name": "Oscillations électriques entretenues",
+     "children": [
+      {
+       "name": "Principe d'entretien des oscillations libres"
+      },
+      {
+       "name": "Exemple de dipôle à résistance négative"
+      },
+      {
+       "name": "Entretien d'un oscillateur RLC série avec un dipôle à résistance négative"
+      }
+     ]
+    },
+    {
+     "name": "Oscillations électriques forcées en régime sinusoïdal",
+     "children": [
+      {
+       "name": "Réponse d'un circuit RLC série à une tension sinusoïdale"
+      },
+      {
+       "name": "Influence de la fréquence d'excitation sur la réponse d'un circuit RLC série"
+      },
+      {
+       "name": "Influence de la résistance totale du circuit sur la résonance"
+      },
+      {
+       "name": "Le phénomène de surtension"
+      },
+      {
+       "name": "Applications de la résonance"
+      },
+      {
+       "name": "Puissance moyenne et facteur de puissance"
+      }
+     ]
+    },
+    {
+     "name": "Généralités sur les filtres",
+     "children": [
+      {
+       "name": "Filtrage"
+      },
+      {
+       "name": "Fonction de transfert et gain d'un filtre"
+      },
+      {
+       "name": "Bande passante et fréquence(s) de coupure d'un filtre"
+      },
+      {
+       "name": "Applications des filtres"
+      }
+     ]
+    },
+    {
+     "name": "Exemples de filtres",
+     "children": [
+      {
+       "name": "Filtres passe-bas"
+      },
+      {
+       "name": "Filtre passe-haut"
+      },
+      {
+       "name": "Filtre passe-bande"
+      },
+      {
+       "name": "Applications des filtres"
+      }
+     ]
+    },
+    {
+     "name": "Production de signaux non sinusoïdaux",
+     "children": [
+      {
+       "name": "Générateurs de signaux périodiques non sinusoïdaux"
+      },
+      {
+       "name": "Fonctionnement d'un multivibrateur astable"
+      },
+      {
+       "name": "Exemples de multivibrateurs astables"
+      }
+     ]
+    },
+    {
+     "name": "Conversion de signaux",
+     "children": [
+      {
+       "name": "Convertisseur numérique-analogique (C.N.A.)"
+      },
+      {
+       "name": "Convertisseurs analogiques-numériques (C.A.N.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ondes",
+   "children": [
+    {
+     "name": "Ondes mécaniques progressives",
+     "children": [
+      {
+       "name": "Propagation d'un ébranlement"
+      },
+      {
+       "name": "Propagation d'une onde sinusoïdale entretenue"
+      }
+     ]
+    },
+    {
+     "name": "Interactions onde-matière",
+     "children": [
+      {
+       "name": "La diffraction"
+      },
+      {
+       "name": "La réflexion"
+      },
+      {
+       "name": "La réfraction d'une onde mécanique"
+      },
+      {
+       "name": "La dispersion"
+      }
+     ]
+    },
+    {
+     "name": "Généralités sur la transmission des signaux",
+     "children": [
+      {
+       "name": "Signal et information"
+      },
+      {
+       "name": "Télécommunication d'un signal"
+      },
+      {
+       "name": "Les ondes électromagnétiques"
+      }
+     ]
+    },
+    {
+     "name": "Modulation et démodulation des signaux",
+     "children": [
+      {
+       "name": "Modulation d'amplitude"
+      },
+      {
+       "name": "Modulation de fréquence"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "French physics book (Bac Sciences de l'informatique). 2 themes / 13 chapters per avant-propos and sommaire page numbers (p4-5); chapter titles from chapter opening pages; sections from size-14 headings (size-20 sub-parts used for ch13 because inner headings repeat). Fiches techniques, exercises, reading texts excluded. Conversion de signaux may have an unnumbered intro section not captured."
+}

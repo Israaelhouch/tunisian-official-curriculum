@@ -1,0 +1,165 @@
+{
+ "code": "223272",
+ "title": "الفيزياء (شعبة تكنولوجيا الإعلامية)",
+ "used_for": [
+  "2eme-technologie-informatique/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Circuits électriques et électroniques",
+   "children": [
+    {
+     "name": "Puissance et énergie électriques",
+     "children": []
+    },
+    {
+     "name": "Conductibilité électrique",
+     "children": []
+    },
+    {
+     "name": "Caractéristiques des dipôles passifs et actifs",
+     "children": [
+      {
+       "name": "Caractéristiques des dipôles récepteurs passifs",
+       "children": []
+      },
+      {
+       "name": "Caractéristiques des dipôles récepteurs actifs",
+       "children": []
+      },
+      {
+       "name": "Caractéristiques des dipôles générateurs",
+       "children": []
+      },
+      {
+       "name": "Point de fonctionnement",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "La diode",
+     "children": []
+    },
+    {
+     "name": "Le transistor",
+     "children": [
+      {
+       "name": "Le transistor bipolaire",
+       "children": []
+      },
+      {
+       "name": "Caractéristiques électriques d’un transistor NPN monté en émetteur commun",
+       "children": []
+      },
+      {
+       "name": "Fonctions d’un transistor",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Courant alternatif",
+     "children": [
+      {
+       "name": "Tension alternative",
+       "children": []
+      },
+      {
+       "name": "Le courant du secteur",
+       "children": []
+      },
+      {
+       "name": "Adaptation : le transformateur",
+       "children": []
+      },
+      {
+       "name": "Redressement du courant alternatif",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Forces, mouvements et pression",
+   "children": [
+    {
+     "name": "Forces et équilibre",
+     "children": [
+      {
+       "name": "Equilibre d’un solide soumis à trois forces coplanaires et non parallèles",
+       "children": []
+      },
+      {
+       "name": "Equilibre d’un solide assujetti à tourner autour d’un axe fixe",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Mouvements d’un point matériel : étude cinématique",
+     "children": [
+      {
+       "name": "Mouvement rectiligne uniformément varié",
+       "children": []
+      },
+      {
+       "name": "Mouvement circulaire uniforme",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Pression",
+     "children": [
+      {
+       "name": "Principe fondamental de l’hydrostatique",
+       "children": []
+      },
+      {
+       "name": "Pression atmosphérique",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Energie et contrôle",
+   "children": [
+    {
+     "name": "Energie cinétique - Energies potentielles - Energie thermique",
+     "children": [
+      {
+       "name": "Energie cinétique et énergies potentielles",
+       "children": []
+      },
+      {
+       "name": "Energie thermique",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Travail et puissance",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Lumière",
+   "children": [
+    {
+     "name": "Réflexion de la lumière",
+     "children": []
+    },
+    {
+     "name": "Réfraction de la lumière",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Physique 2ème Technologie de l'informatique. Themes, chapters and numbered sub-sections (3-1, 5-2...) from the Sommaire (p.3), confirmed by page-ordered headings. OCR/typo fixes: 'Caractèristiques'->'Caractéristiques', 'couvant'->'courant'. Chapters without numbered sub-sections in the sommaire have no children."
+}

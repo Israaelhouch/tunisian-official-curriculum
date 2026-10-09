@@ -1,0 +1,212 @@
+{
+ "code": "224101",
+ "title": "كيمياء",
+ "used_for": [
+  "1ere-secondaire/PHYS",
+  "1ere-sport/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "La Matière",
+   "children": [
+    {
+     "name": "Constitution de la matière",
+     "children": [
+      {
+       "name": "Notion de mélange",
+       "children": []
+      },
+      {
+       "name": "Du mélange au corps pur",
+       "children": []
+      },
+      {
+       "name": "Corps purs organiques et corps purs inorganiques",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Structure de la matière (à l’échelle microscopique)",
+     "children": [
+      {
+       "name": "Discontinuité de la matière",
+       "children": []
+      },
+      {
+       "name": "Atomes et ions simples",
+       "children": []
+      },
+      {
+       "name": "Molécules et ions polyatomiques",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Structure de la matière (à l’échelle macroscopique)",
+     "children": [
+      {
+       "name": "Qu’est-ce qu’une quantité de matière ?",
+       "children": []
+      },
+      {
+       "name": "Quelle est l’unité de la quantité de matière ?",
+       "children": []
+      },
+      {
+       "name": "Nombre d’Avogadro - Mole",
+       "children": []
+      },
+      {
+       "name": "Masse molaire atomique et masse molaire moléculaire",
+       "children": []
+      },
+      {
+       "name": "Volume molaire",
+       "children": []
+      },
+      {
+       "name": "Signification macroscopique des symboles et des formules",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Les Solutions",
+   "children": [
+    {
+     "name": "La dissolution",
+     "children": [
+      {
+       "name": "Le phénomène de dissolution",
+       "children": []
+      },
+      {
+       "name": "Les effets thermiques de la dissolution",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Concentration d’une solution - Solubilité",
+     "children": [
+      {
+       "name": "Concentration massique",
+       "children": []
+      },
+      {
+       "name": "De la concentration massique à la concentration molaire",
+       "children": []
+      },
+      {
+       "name": "Solution saturée",
+       "children": []
+      },
+      {
+       "name": "Solubilité",
+       "children": []
+      },
+      {
+       "name": "Notion d’équilibre",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Réaction chimique",
+   "children": [
+    {
+     "name": "Notion de réaction chimique",
+     "children": [
+      {
+       "name": "Exemples de réactions chimiques",
+       "children": []
+      },
+      {
+       "name": "Définition d’une réaction chimique",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Etude qualitative d’une réaction chimique",
+     "children": [
+      {
+       "name": "Réaction spontanée – Réaction amorcée",
+       "children": []
+      },
+      {
+       "name": "Réaction exothermique – Réaction endothermique",
+       "children": []
+      },
+      {
+       "name": "Réaction rapide – Réaction lente",
+       "children": []
+      },
+      {
+       "name": "Rôle d’un catalyseur",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Etude quantitative d’une réaction chimique",
+     "children": [
+      {
+       "name": "Conservation de la masse",
+       "children": []
+      },
+      {
+       "name": "Conservation des atomes",
+       "children": []
+      },
+      {
+       "name": "Représentation d’une réaction chimique par une équation",
+       "children": []
+      },
+      {
+       "name": "Double signification d’une réaction chimique",
+       "children": []
+      },
+      {
+       "name": "Stœchiométrie et réactif limitant",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chimie organique",
+   "children": [
+    {
+     "name": "Les hydrocarbures",
+     "children": [
+      {
+       "name": "Définition et formule",
+       "children": []
+      },
+      {
+       "name": "Principales sources d’hydrocarbures",
+       "children": []
+      },
+      {
+       "name": "Combustion d’un hydrocarbure",
+       "children": []
+      },
+      {
+       "name": "Intérêts et dangers de la combustion",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Chimie 1ère année. Themes and chapters from the Table des matières (p.5); sections A/B/C of chapter 2 from the sommaire; other sections from the I-, II-... course headings (and chapter plan p.10). TP, documents and exercises excluded."
+}

@@ -1,0 +1,252 @@
+{
+ "code": "224371",
+ "title": "كيمياء_شعبة علوم الإعلامية",
+ "used_for": [
+  "3eme-informatique/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Les solutions",
+   "children": [
+    {
+     "name": "Les électrolytes",
+     "children": [
+      {
+       "name": "Les solutions électrolytiques et les électrolytes"
+      },
+      {
+       "name": "Les anions et les cations. Mise en évidence de la migration des ions"
+      },
+      {
+       "name": "Notion de concentration"
+      },
+      {
+       "name": "Electrolytes forts et électrolytes faibles"
+      }
+     ]
+    },
+    {
+     "name": "La solubilité des électrolytes",
+     "children": [
+      {
+       "name": "Solutions non saturées et solutions saturées"
+      },
+      {
+       "name": "Définitions"
+      },
+      {
+       "name": "Facteurs ayant une influence sur la solubilité"
+      }
+     ]
+    },
+    {
+     "name": "La précipitation des électrolytes",
+     "children": [
+      {
+       "name": "Réaction de précipitation"
+      },
+      {
+       "name": "Facteurs ayant une influence sur la précipitation des électrolytes"
+      }
+     ]
+    },
+    {
+     "name": "Tests d'identification de quelques ions",
+     "children": [
+      {
+       "name": "Tests d'identification de quelques cations"
+      },
+      {
+       "name": "Tests d'identification de quelques anions"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Les acides et les bases",
+   "children": [
+    {
+     "name": "Les acides et les bases de Bronsted",
+     "children": [
+      {
+       "name": "Définition des acides et des bases de Bronsted"
+      },
+      {
+       "name": "Exemples d'acides usuels"
+      },
+      {
+       "name": "Exemples de bases usuelles"
+      }
+     ]
+    },
+    {
+     "name": "L'ionisation propre de l'eau",
+     "children": [
+      {
+       "name": "Conductibilité de l'eau pure"
+      },
+      {
+       "name": "L'ionisation de l'eau aboutit à un état d'équilibre"
+      },
+      {
+       "name": "Ionisation de l'eau dans les solutions aqueuses électrolytiques"
+      }
+     ]
+    },
+    {
+     "name": "Le pH des solutions aqueuses",
+     "children": [
+      {
+       "name": "Introduction"
+      },
+      {
+       "name": "Définition du pH"
+      },
+      {
+       "name": "Mesure du pH des solutions aqueuses"
+      },
+      {
+       "name": "L'échelle du pH"
+      }
+     ]
+    },
+    {
+     "name": "Acides forts et acides faibles, bases fortes et bases faibles",
+     "children": [
+      {
+       "name": "Comparaison de la force des acides d'après le pH de leurs solutions"
+      },
+      {
+       "name": "Comparaison de la force des bases d'après le pH de leurs solutions"
+      }
+     ]
+    },
+    {
+     "name": "Réaction d'un acide fort avec une base forte",
+     "children": [
+      {
+       "name": "Réaction d'un acide fort avec une base forte"
+      },
+      {
+       "name": "Etude quantitative"
+      },
+      {
+       "name": "Application : dosage d'un acide fort par une base forte et réciproquement"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Les réactions d'oxydoréduction",
+   "children": [
+    {
+     "name": "Les réactions d'oxydoréduction",
+     "children": [
+      {
+       "name": "Présentation sommaire des métaux et de leurs ions"
+      },
+      {
+       "name": "Action des acides sur les métaux"
+      },
+      {
+       "name": "Action d'un cation métallique sur un métal"
+      },
+      {
+       "name": "Réactions d'oxydoréduction. Oxydation et réduction"
+      },
+      {
+       "name": "Les couples oxydant-réducteur ou couple redox"
+      },
+      {
+       "name": "Ecriture d'une équation d'oxydoréduction"
+      },
+      {
+       "name": "Analogie entre réaction rédox et réaction acide-base"
+      }
+     ]
+    },
+    {
+     "name": "Classification électrochimique des métaux par rapport au dihydrogène",
+     "children": [
+      {
+       "name": "Classification électrochimique des métaux"
+      },
+      {
+       "name": "Réaction entre les acides à anion non oxydant et les métaux"
+      },
+      {
+       "name": "Classification électrochimique de quelques éléments usuels"
+      },
+      {
+       "name": "Utilisation de la classification électrochimique des métaux"
+      }
+     ]
+    },
+    {
+     "name": "La corrosion des métaux",
+     "children": [
+      {
+       "name": "Définition et importance"
+      },
+      {
+       "name": "La corrosion des métaux"
+      },
+      {
+       "name": "Protection des métaux contre la corrosion"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "La chimie organique",
+   "children": [
+    {
+     "name": "Structure et nomenclature des hydrocarbures aliphatiques",
+     "children": [
+      {
+       "name": "Introduction"
+      },
+      {
+       "name": "Structure des hydrocarbures aliphatiques"
+      },
+      {
+       "name": "Nomenclature systématique pour des hydrocarbures aliphatiques"
+      },
+      {
+       "name": "Quelques types d'isomérie"
+      }
+     ]
+    },
+    {
+     "name": "Etude de quelques réactions spécifiques des hydrocarbures aliphatiques saturés et insaturés",
+     "children": [
+      {
+       "name": "Les réactions de substitution sur les hydrocarbures aliphatiques saturés"
+      },
+      {
+       "name": "Les réactions d'additions sur les hydrocarbures aliphatiques insaturés"
+      }
+     ]
+    },
+    {
+     "name": "Etude de quelques réactions de polymérisation",
+     "children": [
+      {
+       "name": "Les réactions de polymérisation"
+      },
+      {
+       "name": "Exemples de polymères"
+      },
+      {
+       "name": "Propriétés physiques et mécaniques de quelques polymères courants"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Detailed sommaire (p3-p6) with sections; its column order is scrambled, so section blocks were matched to chapters by content and chapter pages. Chapter 6 title 'L'ionisation propre de l'eau' (sommaire OCR truncated, confirmed by p105 heading). Chapter 9 sits under theme II per page order."
+}

@@ -1,0 +1,109 @@
+{
+ "code": "229364",
+ "title": "التصرف_شعبة الإقتصاد والتصرف",
+ "used_for": [
+  "3eme-economie-gestion/GEST"
+ ],
+ "toc": [
+  {
+   "name": "Module évaluation consolidation",
+   "children": [
+    {
+     "name": "L'entreprise"
+    },
+    {
+     "name": "Le cycle d'exploitation"
+    },
+    {
+     "name": "Le cycle d'investissement"
+    }
+   ]
+  },
+  {
+   "name": "La fonction approvisionnement",
+   "children": [
+    {
+     "name": "Les objectifs de la fonction approvisionnement"
+    },
+    {
+     "name": "La gestion des achats"
+    },
+    {
+     "name": "La gestion des stocks"
+    }
+   ]
+  },
+  {
+   "name": "La fonction production",
+   "children": [
+    {
+     "name": "Les objectifs de la fonction production"
+    },
+    {
+     "name": "La préparation de la production"
+    },
+    {
+     "name": "Les modes de production"
+    },
+    {
+     "name": "Le processus de fabrication"
+    },
+    {
+     "name": "Le contrôle de la production"
+    }
+   ]
+  },
+  {
+   "name": "La fonction commerciale",
+   "children": [
+    {
+     "name": "Les objectifs de la fonction commerciale"
+    },
+    {
+     "name": "Les prévisions des ventes"
+    },
+    {
+     "name": "La provocation des ventes"
+    },
+    {
+     "name": "L'exécution et le suivi des ventes"
+    }
+   ]
+  },
+  {
+   "name": "La fonction « Ressources Humaines »",
+   "children": [
+    {
+     "name": "Les objectifs de la fonction « Ressources Humaines »"
+    },
+    {
+     "name": "Le processus de recrutement"
+    },
+    {
+     "name": "La formation du personnel"
+    },
+    {
+     "name": "La rémunération"
+    }
+   ]
+  },
+  {
+   "name": "La fonction financière",
+   "children": [
+    {
+     "name": "Les objectifs de la fonction financière"
+    },
+    {
+     "name": "Les besoins de financement de l'entreprise"
+    },
+    {
+     "name": "Les moyens de financement"
+    },
+    {
+     "name": "L'étude de l'équilibre financier"
+    }
+   ]
+  }
+ ],
+ "notes": "Detailed sommaire (p4-p11) and chapter section headings. Chapter I is printed as 'Module évaluation consolidation' (covers L'entreprise, cycles d'exploitation et d'investissement) - title kept as printed. 'Complément' sections excluded. 'La provocation des ventes' has sub-parts (étude de marché, prix, produit, communication, distribution) not listed due to depth."
+}

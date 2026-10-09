@@ -1,0 +1,115 @@
+{
+ "code": "221104",
+ "title": "فرنسية",
+ "used_for": [
+  "1ere-secondaire/FRAN",
+  "1ere-sport/FRAN"
+ ],
+ "toc": [
+  {
+   "name": "Rencontres",
+   "children": [
+    {
+     "name": "Un enfant venu d’ailleurs"
+    },
+    {
+     "name": "Au hasard d’une rencontre"
+    },
+    {
+     "name": "Le Loup et l’Agneau"
+    },
+    {
+     "name": "Naissance d’une amitié"
+    }
+   ]
+  },
+  {
+   "name": "Scènes de la vie en France",
+   "children": [
+    {
+     "name": "Le train de banlieue"
+    },
+    {
+     "name": "L’alpage"
+    },
+    {
+     "name": "« Les voilà ! »"
+    },
+    {
+     "name": "Le pont Mirabeau"
+    }
+   ]
+  },
+  {
+   "name": "Jeunesse sans frontières",
+   "children": [
+    {
+     "name": "Quelle carrière ?"
+    },
+    {
+     "name": "Les Papous"
+    },
+    {
+     "name": "Le Schpountz"
+    },
+    {
+     "name": "Les idoles de la chanson"
+    }
+   ]
+  },
+  {
+   "name": "La société de consommation",
+   "children": [
+    {
+     "name": "La création des besoins"
+    },
+    {
+     "name": "La télévision et les jeunes"
+    },
+    {
+     "name": "La publicité emprisonne l’homme..."
+    }
+   ]
+  },
+  {
+   "name": "Sauvons la planète Terre",
+   "children": [
+    {
+     "name": "Dévastation"
+    },
+    {
+     "name": "Le chant du rossignol"
+    },
+    {
+     "name": "Docilité"
+    }
+   ]
+  },
+  {
+   "name": "Passions",
+   "children": [
+    {
+     "name": "Confessions d’une femme"
+    },
+    {
+     "name": "Un aveugle au piano"
+    }
+   ]
+  },
+  {
+   "name": "Progrès et bonheur",
+   "children": [
+    {
+     "name": "La télématique"
+    },
+    {
+     "name": "Science et avenir"
+    },
+    {
+     "name": "Matière à rire"
+    }
+   ]
+  }
+ ],
+ "notes": "Source: printed Sommaire (p.223), confirmed by headings and module title pages. 7 modules -> main reading texts (authors dropped). Supplementary 'Lire pour le plaisir' end-of-module texts (e.g. Le Petit Prince, Barbara, Complainte du progrès) are not listed in the sommaire and were left out. Front matter (avant-propos, légende, présentation générale) excluded."
+}

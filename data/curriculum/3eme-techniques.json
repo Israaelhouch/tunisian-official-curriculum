@@ -1,0 +1,1302 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Décret gouvernemental n° 2019-1085 du 19 novembre 2019 fixant l'horaire des études dans l'enseignement de base et dans l'enseignement secondaire (JORT n° 95, 2019) — https://9anoun.tn/kb/jorts/jort-2019-095-424da/decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et-dans-lenseignement-secondaire-60",
+    "CNP 201302 — نصوص _شعب علمية — https://www.cnp.com.tn/arabic/PDF/201302P00.pdf",
+    "CNP 206331 — جغرافيا_شعب العلوم التجريبية، الرياضيات، علوم الإعلامية والعلوم التقنية — https://www.cnp.com.tn/arabic/PDF/206331P01.pdf",
+    "CNP 207331 — تاريخ _شعب العلوم التجريبية، الرياضيات، علوم الإعلامية والعلوم التقنية — https://www.cnp.com.tn/arabic/PDF/207331P00.pdf",
+    "CNP 210301 — الفلسفة_الشعب العلمية — https://www.cnp.com.tn/arabic/PDF/210301P00.pdf",
+    "CNP 221302 — فرنسية_شعب علمية — https://www.cnp.com.tn/arabic/PDF/221302P00.pdf",
+    "CNP 222351 — رياضيات_شعبة العلوم التقنية — https://www.cnp.com.tn/arabic/PDF/222351P00.pdf",
+    "CNP 223351 — العلوم الفيزيائية_شعبة العلوم التكنولوجية — https://www.cnp.com.tn/arabic/PDF/223351P00.pdf",
+    "CNP 224351 — الكيمياء_شعبة العلوم التكنولوجية — https://www.cnp.com.tn/arabic/PDF/224351P00.pdf",
+    "CNP 228362 — Génie mécanique - Manuel d'activités — https://www.cnp.com.tn/arabic/PDF/228362P01.pdf",
+    "CNP 228363 — Génie électrique - Manuel d'activités — https://www.cnp.com.tn/arabic/PDF/228363P00.pdf",
+    "CNP 241303 — أنقليزية — https://www.cnp.com.tn/arabic/PDF/241303P00.pdf",
+    "CNP 251301 — كتاب اللغة الروسية — https://www.cnp.com.tn/arabic/PDF/251301P00.pdf",
+    "CNP 261304 — الألمانية — https://www.cnp.com.tn/arabic/PDF/261304P01.pdf",
+    "CNP 271301 — كتاب اللغة الصينية — https://www.cnp.com.tn/arabic/PDF/271301P00.pdf",
+    "CNP 281304 — الإيطالية — https://www.cnp.com.tn/arabic/PDF/281304P00.pdf",
+    "CNP 291302 — الإسبانية — https://www.cnp.com.tn/arabic/PDF/291302P00.pdf"
+  ],
+  "level": {
+    "name_fr": "3ème année secondaire",
+    "name_ar": "السنة الثالثة ثانوي",
+    "code": "3S",
+    "cycle": "secondaire",
+    "grade_number": 3,
+    "display_order": 12,
+    "is_national_exam_year": false
+  },
+  "section": {
+    "name_fr": "Sciences techniques",
+    "name_ar": "العلوم التقنية",
+    "code": "TECH",
+    "is_common_core": false
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الفكاهة والهزل في القص العربي القديم",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "صور ونصوص",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "شواغل المرأة بقلم المرأة",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "العدل والإنصاف",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "حرية التعبير",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الإنسان والمكان",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Français",
+        "name_ar": "الفرنسية",
+        "code": "FRAN"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Invitation au voyage",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Le mythe aujourd’hui",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Le droit à la différence",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Module de lecture : Celui qui n’avait jamais vu la mer",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Scènes comiques",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Le pouvoir de l’image",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Anglais",
+        "name_ar": "الإنجليزية",
+        "code": "ANGL"
+      },
+      "instruction_language": "en",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "In time of test, family is best",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "We learn to give, share and care",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "A change is as good as a rest",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Science and technology: a blessing or a curse?",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Education is not filling a bucket but lighting a fire",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Nature: any future without it?",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Technologie",
+        "name_ar": "التكنولوجيا",
+        "code": "TECHNO"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Analyse fonctionnelle",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Analyse fonctionnelle externe et interne d'un produit",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Analyse structurelle et conception",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Communication technique",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Typologie des assemblages",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Transmission de puissance",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Comportement statique du solide indéformable",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Comportement du solide déformable",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Réalisation et production",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Obtention des pièces (Projet)",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Réseau électrique monophasé",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Conception et réalisation de carte de commande",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Logique combinatoire",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Logique séquentielle",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Automates programmables industriels",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Microcontrôleurs",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Technologies de communication des objets connectés",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Moteurs électriques",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Moteur pas à pas à aimant permanent",
+          "order_index": 12,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Première partie",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Généralités sur les fonctions",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Notion de limite",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Continuité",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Dérivabilité",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Etude de fonctions",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Fonctions circulaires",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Suites réelles",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Dénombrement",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Probabilités",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Statistiques",
+              "order_index": 10,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Deuxième partie",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Angles orientés",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Formules trigonométriques",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Equations et inéquations trigonométriques",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Produit scalaire dans le plan",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Nombres complexes",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Vecteurs de l'espace, repère cartésien de l'espace",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Droites et plans de l'espace",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Produit scalaire dans un repère orthonormé de l'espace",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Produit vectoriel. Produit mixte",
+              "order_index": 9,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences physiques",
+        "name_ar": "العلوم الفيزيائية",
+        "code": "PHYS"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Physique",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Interaction électromagnétique",
+              "order_index": 1,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Loi de Coulomb",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Champ électrique",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Les différents types d'interaction magnétique",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Champ magnétique",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Force de Laplace",
+                  "order_index": 5,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Mouvements",
+              "order_index": 2,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Etude cinématique d'un solide en translation",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Etude dynamique d'un solide en mouvement de translation",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Solide en mouvement de rotation",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Energie cinétique",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Mouvement dans un champ électrique uniforme",
+                  "order_index": 5,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Mouvement dans un champ magnétique uniforme",
+                  "order_index": 6,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Les amplificateurs opérationnels",
+              "order_index": 3,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Amplificateur opérationnel",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Optique",
+              "order_index": 4,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Lentilles minces",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name_fr": "Chimie",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "L'oxydoréduction",
+              "order_index": 1,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Phénomène d'oxydoréduction",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Classification électrochimique des métaux par rapport au dihydrogène",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Etude de quelques réactions d'oxydoréduction",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Corrosion des métaux",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Les acides et les bases de Bronsted",
+              "order_index": 2,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Les acides et les bases de Bronsted",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Les couples acide base et les réactions acide base",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Mesure d'une quantité de matière",
+              "order_index": 3,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Détermination d'une quantité de matière à l'aide d'une réaction chimique",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Détermination d'une quantité de matière par mesure d'une grandeur physique",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "La chimie organique",
+              "order_index": 4,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Analyse des composés organiques",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Les alcools aliphatiques saturés",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Les acides carboxyliques",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Notion de fonction organique",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Informatique",
+        "name_ar": "الإعلامية",
+        "code": "INFO"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Histoire",
+        "name_ar": "التاريخ",
+        "code": "HIST"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "التحولات الفكرية والاقتصادية والاجتماعية في أوروبا في العصر الحديث (القرنان الثامن عشر والتاسع عشر)",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "فكر التنوير",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الثورة الفرنسية وانتصار المبادئ الجديدة",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الثورة الصناعية: أهم مظاهرها",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التحولات الاقتصادية والاجتماعية في أوروبا الغربية في القرن التاسع عشر",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التيارات الفكرية والسياسية في أوروبا الغربية في القرن التاسع عشر",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التوسع الاستعماري واقتسام العالم في القرن التاسع عشر",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "أزمة الإيالة التونسية في القرن التاسع عشر",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الأزمة في تونس ومحاولات الإصلاح",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "انتصاب الحماية الفرنسية بتونس وردود الفعل الأولى",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "أزمات القرن العشرين وتحولاته",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الحرب العالمية الأولى",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "توتر العلاقات الدولية بين الحربين العالميتين",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "نتائج الحرب العالمية الثانية",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "تحرر الشعوب المستعمرة",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الحركة الوطنية التونسية قبل الحرب العالمية الثانية: طور التأسيس",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الحركة الوطنية التونسية منذ الحرب العالمية الثانية إلى الاستقلال التام 1956: طور النضج والحسم",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "تونس من 1956 إلى 1987",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القضية الفلسطينية",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Géographie",
+        "name_ar": "الجغرافيا",
+        "code": "GEO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "مجال عالمي مترابط ومتفاوت",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الأدفاق التجارية",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأدفاق المالية",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "أدفاق الإعلام",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المجال العالمي: التفاوت في التقدم وتركيبة العالم",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الشمال: الأقطاب المتحكمة في المجال العالمي",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الولايات المتحدة الأمريكية: قوة عالمية عظمى",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الاتحاد الأوروبي: تكتل اقتصادي قوي",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الجنوب",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "البرازيل: بلد صناعي جديد",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "البلدان الأقل تقدما بالساحل الإفريقي",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Philosophie",
+        "name_ar": "الفلسفة",
+        "code": "PHILO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "اليومي",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "مقتضيات التفكير",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "تجربة الالتزام",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Allemand",
+        "name_ar": "الألمانية",
+        "code": "ALLEM"
+      },
+      "instruction_language": "de",
+      "is_optional": true,
+      "chapters": [
+        {
+          "name_fr": "Soziale Beziehungen / Gegenseitiges Kennenlernen",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Schule",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Wohnen",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Essen und Trinken",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Alltag und Freizeit",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Gesundheit",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Espagnol",
+        "name_ar": "الإسبانية",
+        "code": "ESPA"
+      },
+      "instruction_language": "es",
+      "is_optional": true,
+      "chapters": [
+        {
+          "name_fr": "¡Hola!",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¡Soy francesa, de París!",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¿A qué te dedicas?",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Le presento al señor Alonso",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Mi familia",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¿Cómo es?",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¿Qué es esto?",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "España está en el sur",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¿Dónde está la plaza Cibeles?",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¡Qué ciudad tan bonita!",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Vivo en una casa pequeña",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Tengo un ordenador portátil",
+          "order_index": 12,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¿Cuánto vale?",
+          "order_index": 13,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "¡Yo, prefiero éste!",
+          "order_index": 14,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Italien",
+        "name_ar": "الإيطالية",
+        "code": "ITAL"
+      },
+      "instruction_language": "it",
+      "is_optional": true,
+      "chapters": [
+        {
+          "name_fr": "Ciao, mi presento",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Andiamo a lezione",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Casa, dolce casa",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Vi presento un amico",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "I mestieri",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Tempo libero",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Russe",
+        "name_ar": "الروسية",
+        "code": "RUSSE"
+      },
+      "instruction_language": "ru",
+      "is_optional": true,
+      "chapters": [
+        {
+          "name_fr": "Как вас зовут? Кто это? Что это?",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Школа",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Семья и дом",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Мой день",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Город",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "В гостях",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Профессия",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Транспорт",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Погода",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Спорт",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Chinois",
+        "name_ar": "الصينية",
+        "code": "CHIN"
+      },
+      "instruction_language": "zh",
+      "is_optional": true,
+      "chapters": [
+        {
+          "name_fr": "你好",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "你是哪国人",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "认识你们很高兴",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "现在上课",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "你们班的学生多吗",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "我们常常锻炼身体",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "我家人口很少",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "图书馆在哪儿",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "去学生食堂",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "星期六我回家",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "进城买东西",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Portugais",
+        "name_ar": "البرتغالية",
+        "code": "PORT"
+      },
+      "instruction_language": "pt",
+      "is_optional": true,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation musicale",
+        "name_ar": "التربية الموسيقية",
+        "code": "MUSIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": true,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Arts plastiques",
+        "name_ar": "التربية التشكيلية",
+        "code": "ARTPL"
+      },
+      "instruction_language": "ar",
+      "is_optional": true,
+      "chapters": []
+    }
+  ]
+}

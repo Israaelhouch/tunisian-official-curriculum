@@ -1,0 +1,151 @@
+{
+ "code": "201381",
+ "title": "نصوص -شعبة رياضة",
+ "used_for": [
+  "3eme-sport/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "رحلات ومشاهد",
+   "children": [
+    {
+     "name": "الرحلة والراحلة والرحالة"
+    },
+    {
+     "name": "مزايا الرحلة"
+    },
+    {
+     "name": "تونس أغنية للناس والنخيل والرمال"
+    },
+    {
+     "name": "جربة الناعمة"
+    },
+    {
+     "name": "القاهرة في رمضان"
+    },
+    {
+     "name": "الوطن... بين الذاكرة والحقيبة"
+    },
+    {
+     "name": "مناظر القسطنطينية"
+    },
+    {
+     "name": "رحلة الاعتبار"
+    },
+    {
+     "name": "زيورخ"
+    },
+    {
+     "name": "بيونس آيرس"
+    },
+    {
+     "name": "بيكين"
+    },
+    {
+     "name": "في حضرة الخان الأعظم"
+    },
+    {
+     "name": "الرحلة بين اللذة والاعتبار"
+    },
+    {
+     "name": "الرحلة وعي بالذات والآخر"
+    }
+   ]
+  },
+  {
+   "name": "الرياضة والناس",
+   "children": [
+    {
+     "name": "الرياضة المعتدلة"
+    },
+    {
+     "name": "أم الفنون"
+    },
+    {
+     "name": "الانتماء لا يشترى"
+    },
+    {
+     "name": "حمى القميص"
+    },
+    {
+     "name": "الرياضة والعدوان"
+    },
+    {
+     "name": "رياضة المستقبل"
+    },
+    {
+     "name": "المشي على حافة الهاوية"
+    },
+    {
+     "name": "مكافحة المنشطات"
+    },
+    {
+     "name": "النار الخامدة"
+    },
+    {
+     "name": "الرياضة مصعد اجتماعي"
+    },
+    {
+     "name": "بين الرياضة والأدب"
+    },
+    {
+     "name": "الرياضة والانسجام النفساني"
+    },
+    {
+     "name": "الأولمبياد رحلة صعود إلى قمم الفن والقيم"
+    },
+    {
+     "name": "الاتفاقية الدولية لمكافحة المنشطات"
+    },
+    {
+     "name": "ليتهم يمارسون الرياضة!"
+    }
+   ]
+  },
+  {
+   "name": "السيرة الذاتية",
+   "children": [
+    {
+     "name": "عندما تتكلم الذات"
+    },
+    {
+     "name": "كتابة الذات"
+    },
+    {
+     "name": "هذا أنا..."
+    },
+    {
+     "name": "تعلم اللاتينية"
+    },
+    {
+     "name": "عزلة"
+    },
+    {
+     "name": "طفولة جبرا"
+    },
+    {
+     "name": "جبرا في إنكلترا"
+    },
+    {
+     "name": "جبرا في شارع الأميرات"
+    },
+    {
+     "name": "الشهادة الابتدائية"
+    },
+    {
+     "name": "سيدة تلتحف الكبرياء"
+    },
+    {
+     "name": "دار الباشا"
+    },
+    {
+     "name": "من خصائص السيرة الذاتية"
+    },
+    {
+     "name": "الولادة على سرير أخضر"
+    }
+   ]
+  }
+ ],
+ "notes": "Rebuilt from full-page OCR of every page. Unit titles as printed on the unit design pages: p6 'تصميم الوحدة الأولى: رحلات ومشاهد', p96 'تصميم الوحدة الثانية: الرياضة والناس', p184 'تصميم الوحدة الثالثة: السيرة الذاتية'. Text titles (57 texts numbered across the 3 units) cross-checked between the text index (pp.258-260), the unit design tables (pp.6-8, 96-98, 184-186) and the title line of each text page; a title is kept only when at least one source prints it legibly. Text 12 is 'زيورخ' on its page (p56) and in the design table although the OCR'd index reads 'نيس'. 'بيونس آيرس' spelled as in index/design (its page p63 reads 'في ... آيريس'). 'المشي على حافة الهاوية' (p139) and 'النار الخامدة' (OCR 'الثار') are evident fixes. Skipped as unreadable in all sources (19 texts): 7 (من ... إلى دمشق, Ibn Battuta), 10 (Bayram Ettounsi), 11 (إيطاليا... يا ... الجمال, Hafez Ibrahim), 13 (Taymour), 15 (Hussein Ahmed Amin), 20 (قابس...), 23 (... وأهداف التنمية الاجتماعية), 24 (... كرة القدم), 28 (... الشيء), 33 (Ridha Kouni), 37 (لاعب ..., Zweig), 50 (Fadwa Touqan), 51 (Bardi), 52 (طفولتي مع ..., Hanna Mina), 54 (Edward Said). Excluded: diagnostic/integration activities, communication tasks, unit projects, evaluation. No placeholders."
+}

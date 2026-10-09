@@ -1,0 +1,117 @@
+{
+ "code": "224333",
+ "title": "الكيمياء_شعبة العلوم التجريبية",
+ "used_for": [
+  "3eme-sciences-experimentales/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Les réactions d'oxydoréduction",
+   "children": [
+    {
+     "name": "Les réactions d'oxydoréduction",
+     "children": [
+      {
+       "name": "Présentation sommaire des métaux et de leurs ions"
+      },
+      {
+       "name": "Action des acides sur les métaux"
+      },
+      {
+       "name": "Action d'un cation métallique sur un métal"
+      },
+      {
+       "name": "Réaction d'oxydoréduction. Oxydation et réduction"
+      },
+      {
+       "name": "Les couples oxydant-réducteur ou couple redox"
+      },
+      {
+       "name": "Ecriture d'une équation d'oxydoréduction"
+      }
+     ]
+    },
+    {
+     "name": "Classification électrochimique des métaux par rapport au dihydrogène",
+     "children": []
+    },
+    {
+     "name": "Etude de quelques réactions d'oxydoréduction",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Les acides et les bases de Bronsted",
+   "children": [
+    {
+     "name": "Les acides et les bases de Bronsted",
+     "children": []
+    },
+    {
+     "name": "Les couples acide base et les réactions acide base",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "La chimie organique",
+   "children": [
+    {
+     "name": "Analyse des composés organiques",
+     "children": []
+    },
+    {
+     "name": "Les alcools aliphatiques saturés",
+     "children": []
+    },
+    {
+     "name": "Les acides carboxyliques aliphatiques saturés",
+     "children": []
+    },
+    {
+     "name": "Les amines aliphatiques",
+     "children": []
+    },
+    {
+     "name": "Les acides aminés aliphatiques et les protéines",
+     "children": [
+      {
+       "name": "Les acides α-aminés aliphatiques"
+      },
+      {
+       "name": "Des acides α-aminés aux protéines"
+      }
+     ]
+    },
+    {
+     "name": "Notion de fonction organique",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "La mesure en chimie",
+   "children": [
+    {
+     "name": "Détermination d'une quantité de matière à l'aide d'une réaction chimique",
+     "children": []
+    },
+    {
+     "name": "Détermination d'une quantité de matière par mesure d'une grandeur physique",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Evolution d'un système chimique",
+   "children": [
+    {
+     "name": "Avancement d'une réaction chimique. Transformation totale et transformation limitée",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "5 themes and 14 chapters from sommaire (p3, column order scrambled; ordered by page numbers and chapter title pages). Sections only for ch.1 (plan p7) and ch.10 (body headings); other chapters' section headings not available in the extract."
+}

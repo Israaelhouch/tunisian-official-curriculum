@@ -1,0 +1,69 @@
+{
+ "code": "222333",
+ "title": "رياضيات ج1_شعبة العلوم التجريبية",
+ "used_for": [
+  "3eme-sciences-experimentales/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Généralités sur les fonctions",
+   "children": [
+    {
+     "name": "Rappels"
+    },
+    {
+     "name": "Restriction d'une fonction"
+    },
+    {
+     "name": "Majorant - Minorant"
+    },
+    {
+     "name": "Fonctions affines par intervalles"
+    },
+    {
+     "name": "La fonction √f"
+    },
+    {
+     "name": "Opérations sur les fonctions"
+    }
+   ]
+  },
+  {
+   "name": "Continuité",
+   "children": []
+  },
+  {
+   "name": "Limites et continuité",
+   "children": []
+  },
+  {
+   "name": "Limites et comportements asymptotiques",
+   "children": []
+  },
+  {
+   "name": "Nombre dérivé",
+   "children": []
+  },
+  {
+   "name": "Fonction dérivée",
+   "children": []
+  },
+  {
+   "name": "Exemples d'étude de fonctions",
+   "children": []
+  },
+  {
+   "name": "Fonctions trigonométriques",
+   "children": []
+  },
+  {
+   "name": "Suites réelles",
+   "children": []
+  },
+  {
+   "name": "Limites de suites réelles",
+   "children": []
+  }
+ ],
+ "notes": "Tome 1. Chapter names from sommaire p4 (chapters 1-10 with pages 5-174), confirmed by chapter headings/markers. Sections only recoverable for chapter 1 (numbered headings 1-6 in front text); section 5 printed as 'La fonction' + symbol lost in extraction, completed as √f from the section's own activities/theorem. Other chapters' sections not in the extract, left empty."
+}

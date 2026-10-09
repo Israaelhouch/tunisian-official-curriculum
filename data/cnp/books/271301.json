@@ -1,0 +1,59 @@
+{
+ "code": "271301",
+ "title": "كتاب اللغة الصينية",
+ "used_for": [
+  "3eme-mathematiques/CHIN",
+  "3eme-sciences-experimentales/CHIN",
+  "3eme-informatique/CHIN",
+  "3eme-techniques/CHIN",
+  "3eme-lettres/CHIN",
+  "3eme-economie-gestion/CHIN"
+ ],
+ "toc": [
+  {
+   "name": "你好",
+   "children": []
+  },
+  {
+   "name": "你是哪国人",
+   "children": []
+  },
+  {
+   "name": "认识你们很高兴",
+   "children": []
+  },
+  {
+   "name": "现在上课",
+   "children": []
+  },
+  {
+   "name": "你们班的学生多吗",
+   "children": []
+  },
+  {
+   "name": "我们常常锻炼身体",
+   "children": []
+  },
+  {
+   "name": "我家人口很少",
+   "children": []
+  },
+  {
+   "name": "图书馆在哪儿",
+   "children": []
+  },
+  {
+   "name": "去学生食堂",
+   "children": []
+  },
+  {
+   "name": "星期六我回家",
+   "children": []
+  },
+  {
+   "name": "进城买东西",
+   "children": []
+  }
+ ],
+ "notes": "Chinese text was in a broken encoding: each code point was shifted down by 0x49D0, and some characters were then NFKC-normalised. I decoded it by adding 0x49D0 back. For the normalised characters I first reversed the normalisation: compatibility jamo, so ᅮ -> ㅜ -> 第, and ᵏ -> 'k', restored as 期. Checked against the 目录 (p6) and every lesson heading (第一课 你好 p8 ... 第十一课 进城买东西 p155); all decode to consistent, meaningful Chinese. 11 lessons (第一课 to 第十一课). Left out: the review units 语音小结和语法复习 (p87) and 复习与小结 (p126), and the appendix tables (pp.172-173). Lesson sub-sections are not given."
+}

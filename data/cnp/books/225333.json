@@ -1,0 +1,103 @@
+{
+ "code": "225333",
+ "title": "علوم الحياة والأرض_شعبة العلوم التجريبية",
+ "used_for": [
+  "3eme-sciences-experimentales/SVT"
+ ],
+ "toc": [
+  {
+   "name": "Nutrition et santé",
+   "children": [
+    {
+     "name": "La malnutrition",
+     "children": []
+    },
+    {
+     "name": "Les besoins nutritionnels de l'Homme",
+     "children": [
+      {
+       "name": "Les aliments simples"
+      },
+      {
+       "name": "Les besoins qualitatifs en aliments simples"
+      },
+      {
+       "name": "Les besoins quantitatifs en aliments simples"
+      }
+     ]
+    },
+    {
+     "name": "Des aliments aux nutriments : la digestion",
+     "children": []
+    },
+    {
+     "name": "Dégradation des nutriments : la respiration",
+     "children": []
+    },
+    {
+     "name": "Les risques liés à la consommation des aliments contaminés",
+     "children": []
+    },
+    {
+     "name": "Des microorganismes au service de la production des aliments",
+     "children": []
+    },
+    {
+     "name": "Le milieu intérieur et ses caractéristiques",
+     "children": []
+    },
+    {
+     "name": "L'excrétion urinaire",
+     "children": []
+    },
+    {
+     "name": "La régulation de la glycémie",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Génétique",
+   "children": [
+    {
+     "name": "L'information génétique : des caractères aux gènes",
+     "children": []
+    },
+    {
+     "name": "L'information génétique : mécanisme de l'expression",
+     "children": []
+    },
+    {
+     "name": "L'information génétique : ses manipulations en génie génétique",
+     "children": []
+    },
+    {
+     "name": "L'information génétique : origine de la diversité",
+     "children": []
+    },
+    {
+     "name": "L'information génétique : sa transmission",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Dynamique du globe terrestre et évolution",
+   "children": [
+    {
+     "name": "Structure et composition du globe terrestre",
+     "children": []
+    },
+    {
+     "name": "Tectonique des plaques",
+     "children": []
+    },
+    {
+     "name": "L'évolution biologique",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "From back sommaire (p335), theme 1 plan (p5) and chapter title pages. Theme 1 is further divided into 4 parties (L'alimentation saine et équilibrée; Utilisation des nutriments par l'organisme; Nutrition et environnement; La constance du milieu intérieur) — omitted as a level to keep theme -> chapter -> section. Section headings mostly not captured; only those of 'Les besoins nutritionnels de l'Homme' listed."
+}

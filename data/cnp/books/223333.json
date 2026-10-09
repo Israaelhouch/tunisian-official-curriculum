@@ -1,0 +1,180 @@
+{
+ "code": "223333",
+ "title": "العلوم الفيزيائية_شعبة العلوم التجريبية",
+ "used_for": [
+  "3eme-sciences-experimentales/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Les interactions dans l'univers",
+   "children": [
+    {
+     "name": "Interaction électrique",
+     "children": [
+      {
+       "name": "Loi de Coulomb"
+      },
+      {
+       "name": "Notion de champ électrique"
+      },
+      {
+       "name": "Champ électrique créé par une charge ponctuelle"
+      },
+      {
+       "name": "Champ électrique créé par deux charges ponctuelles"
+      },
+      {
+       "name": "Champ électrique uniforme"
+      }
+     ]
+    },
+    {
+     "name": "Interaction magnétique",
+     "children": [
+      {
+       "name": "Les différents types d'interaction magnétique"
+      },
+      {
+       "name": "Champ magnétique"
+      },
+      {
+       "name": "Force de Laplace"
+      }
+     ]
+    },
+    {
+     "name": "Interaction gravitationnelle",
+     "children": [
+      {
+       "name": "Forces de gravitation universelle"
+      },
+      {
+       "name": "Champ de gravitation"
+      },
+      {
+       "name": "Champ de pesanteur"
+      },
+      {
+       "name": "Applications"
+      }
+     ]
+    },
+    {
+     "name": "Interaction forte",
+     "children": [
+      {
+       "name": "Introduction"
+      },
+      {
+       "name": "Cohésion de la matière à l'échelle du noyau et interaction forte"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mouvements de translation",
+   "children": [
+    {
+     "name": "Etude cinématique d'un solide en mouvement de translation",
+     "children": [
+      {
+       "name": "Généralités"
+      },
+      {
+       "name": "Grandeurs cinématiques"
+      },
+      {
+       "name": "Mouvement rectiligne uniforme"
+      },
+      {
+       "name": "Mouvement rectiligne uniformément varié"
+      },
+      {
+       "name": "Mouvement rectiligne sinusoïdal"
+      }
+     ]
+    },
+    {
+     "name": "Etude dynamique d'un solide en mouvement de translation",
+     "children": [
+      {
+       "name": "Référentiel galiléen"
+      },
+      {
+       "name": "Deuxième loi de Newton"
+      },
+      {
+       "name": "Théorème du centre d'inertie"
+      },
+      {
+       "name": "Applications"
+      }
+     ]
+    },
+    {
+     "name": "Energie cinétique",
+     "children": [
+      {
+       "name": "Energie cinétique d'un point matériel"
+      },
+      {
+       "name": "Energie cinétique d'un système de points matériels"
+      },
+      {
+       "name": "Variation de l'énergie cinétique : théorème de l'énergie cinétique"
+      }
+     ]
+    },
+    {
+     "name": "Mouvements dans les champs",
+     "children": [
+      {
+       "name": "Mouvement dans un champ gravitationnel : mouvement d'un projectile"
+      },
+      {
+       "name": "Mouvement dans un champ électrique uniforme"
+      },
+      {
+       "name": "Mouvement dans un champ magnétique uniforme"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Systèmes optiques et images",
+   "children": [
+    {
+     "name": "Lentilles minces",
+     "children": [
+      {
+       "name": "Caractéristiques d'une lentille"
+      },
+      {
+       "name": "Image d'un objet lumineux donnée par une lentille"
+      },
+      {
+       "name": "Relation de conjugaison, grandissement"
+      },
+      {
+       "name": "Détermination de la distance focale d'une lentille : focométrie"
+      }
+     ]
+    },
+    {
+     "name": "Instruments d'optique",
+     "children": [
+      {
+       "name": "L'œil"
+      },
+      {
+       "name": "Le microscope"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Sommaire (p296) only partly extracted (up to chapter 6); rest from part title pages (p7, p106, p240) and body headings. Lentilles minces: section 1 heading not recovered, only sections 2-5 listed. Chapter 2 groups 'Interaction magnétique - champ magnétique' and 'Force de Laplace' per sommaire."
+}

@@ -1,0 +1,225 @@
+{
+ "code": "223332",
+ "title": "فيزياء_شعبة الرياضيات",
+ "used_for": [
+  "3eme-mathematiques/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Interactions dans l'univers",
+   "children": [
+    {
+     "name": "Interaction électrique",
+     "children": [
+      {
+       "name": "Loi de Coulomb"
+      },
+      {
+       "name": "Notion de champ électrique"
+      },
+      {
+       "name": "Champ électrique créé par une charge ponctuelle"
+      },
+      {
+       "name": "Champ électrique créé par deux charges ponctuelles"
+      },
+      {
+       "name": "Champ électrique uniforme"
+      }
+     ]
+    },
+    {
+     "name": "Interaction magnétique",
+     "children": [
+      {
+       "name": "Interaction magnétique"
+      },
+      {
+       "name": "Champ magnétique créé par un aimant"
+      },
+      {
+       "name": "Champ magnétique terrestre"
+      },
+      {
+       "name": "Champ magnétique créé par un fil conducteur parcouru par un courant électrique continu"
+      },
+      {
+       "name": "La lévitation magnétique"
+      }
+     ]
+    },
+    {
+     "name": "Force de Laplace",
+     "children": [
+      {
+       "name": "Mise en évidence expérimentale de la force de Laplace"
+      },
+      {
+       "name": "Application de la force de Laplace"
+      }
+     ]
+    },
+    {
+     "name": "Interaction gravitationnelle et interaction forte",
+     "children": [
+      {
+       "name": "Interaction gravitationnelle"
+      },
+      {
+       "name": "Interaction forte"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Mouvements dans les champs",
+   "children": [
+    {
+     "name": "Etude cinématique d'un solide en mouvement de translation",
+     "children": [
+      {
+       "name": "Généralités"
+      },
+      {
+       "name": "Grandeurs cinématiques"
+      },
+      {
+       "name": "Mouvement rectiligne uniforme"
+      },
+      {
+       "name": "Mouvement rectiligne uniformément varié"
+      },
+      {
+       "name": "Mouvement rectiligne sinusoïdal"
+      }
+     ]
+    },
+    {
+     "name": "Etude dynamique d'un solide en mouvement de translation",
+     "children": [
+      {
+       "name": "Référentiel galiléen"
+      },
+      {
+       "name": "Deuxième loi de Newton"
+      },
+      {
+       "name": "Théorème du centre d'inertie"
+      },
+      {
+       "name": "Applications"
+      }
+     ]
+    },
+    {
+     "name": "Solide en mouvement de rotation",
+     "children": [
+      {
+       "name": "Mouvement d'un point matériel sur une trajectoire circulaire"
+      },
+      {
+       "name": "Rotation d'un solide autour d'un axe fixe"
+      }
+     ]
+    },
+    {
+     "name": "Energie cinétique",
+     "children": [
+      {
+       "name": "Rappels"
+      },
+      {
+       "name": "Expression de l'énergie cinétique d'un point matériel"
+      },
+      {
+       "name": "Energie cinétique d'un système de points matériels"
+      },
+      {
+       "name": "Théorème de l'énergie cinétique"
+      },
+      {
+       "name": "Applications du théorème de l'énergie cinétique"
+      }
+     ]
+    },
+    {
+     "name": "Mouvement dans un champ gravitationnel",
+     "children": [
+      {
+       "name": "Mouvement d'un projectile"
+      },
+      {
+       "name": "Mouvement des satellites"
+      }
+     ]
+    },
+    {
+     "name": "Mouvement dans un champ électrique uniforme",
+     "children": [
+      {
+       "name": "Travail d'une force électrique"
+      },
+      {
+       "name": "Accélération d'une particule chargée dans un champ électrique uniforme"
+      },
+      {
+       "name": "Déviation d'une particule chargée dans un champ électrique uniforme"
+      }
+     ]
+    },
+    {
+     "name": "Mouvement dans un champ magnétique uniforme",
+     "children": [
+      {
+       "name": "La force de Lorentz"
+      },
+      {
+       "name": "Mouvement d'une particule chargée dans un champ magnétique uniforme"
+      },
+      {
+       "name": "Applications"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Optique",
+   "children": [
+    {
+     "name": "Lentilles minces",
+     "children": [
+      {
+       "name": "Généralités"
+      },
+      {
+       "name": "Caractéristiques d'une lentille"
+      },
+      {
+       "name": "Image d'un objet lumineux donnée par une lentille"
+      },
+      {
+       "name": "Relation de conjugaison, grandissement"
+      },
+      {
+       "name": "Détermination de la distance focale d'une lentille : focométrie"
+      }
+     ]
+    },
+    {
+     "name": "Instruments d'optique",
+     "children": [
+      {
+       "name": "L'oeil"
+      },
+      {
+       "name": "Lunette astronomique"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "From back sommaire (p351-352) cross-checked with part title pages (p13, p114, p293). Chapter 4 sections given as its two parts A/B. Part-page heading for ch.13 reads 'Interaction magnétique' (typo); sommaire title 'Instruments d'optique' used."
+}

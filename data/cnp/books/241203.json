@@ -1,0 +1,210 @@
+{
+ "code": "241203",
+ "title": "أنقليزية",
+ "used_for": [
+  "2eme-lettres/ANGL",
+  "2eme-sciences/ANGL",
+  "2eme-technologie-informatique/ANGL",
+  "2eme-economie-services/ANGL",
+  "2eme-sport/ANGL"
+ ],
+ "toc": [
+  {
+   "name": "Family life",
+   "children": [
+    {
+     "name": "The image of who I am"
+    },
+    {
+     "name": "The step mum"
+    },
+    {
+     "name": "Hard to decide"
+    },
+    {
+     "name": "The financial market"
+    }
+   ]
+  },
+  {
+   "name": "Communicating with others",
+   "children": [
+    {
+     "name": "Friendship"
+    },
+    {
+     "name": "Bridge over troubled water"
+    },
+    {
+     "name": "The E-mailer"
+    },
+    {
+     "name": "Fairy tales"
+    },
+    {
+     "name": "Advertising"
+    }
+   ]
+  },
+  {
+   "name": "Social life",
+   "children": [
+    {
+     "name": "Travel is fun and broadens the mind"
+    },
+    {
+     "name": "An interview with a footballer"
+    },
+    {
+     "name": "Criss-crossed lovers"
+    },
+    {
+     "name": "Business letters : Inquiry/Reply"
+    }
+   ]
+  },
+  {
+   "name": "Social Problems",
+   "children": [
+    {
+     "name": "Violence"
+    },
+    {
+     "name": "Child labour"
+    },
+    {
+     "name": "Life without parents"
+    },
+    {
+     "name": "The colour of nutrition"
+    },
+    {
+     "name": "Business letters : Complaint / Reply"
+    }
+   ]
+  },
+  {
+   "name": "Theme V",
+   "children": [
+    {
+     "name": "Money and evil"
+    },
+    {
+     "name": "Songs of freedom"
+    },
+    {
+     "name": "Why I had to leave my job"
+    },
+    {
+     "name": "The fox and the crow"
+    },
+    {
+     "name": "Business letters : Notification and warning"
+    }
+   ]
+  },
+  {
+   "name": "Rights and Duties",
+   "children": [
+    {
+     "name": "Human rights"
+    },
+    {
+     "name": "Equality brings prosperity"
+    },
+    {
+     "name": "Men and women"
+    },
+    {
+     "name": "Job Hunting"
+    }
+   ]
+  },
+  {
+   "name": "Education",
+   "children": [
+    {
+     "name": "School uniforms"
+    },
+    {
+     "name": "Coping with exams"
+    },
+    {
+     "name": "Pushy parents"
+    },
+    {
+     "name": "Inflation"
+    }
+   ]
+  },
+  {
+   "name": "Professional Life",
+   "children": [
+    {
+     "name": "I had no choice"
+    },
+    {
+     "name": "What’s your dream job ?"
+    },
+    {
+     "name": "A success story"
+    },
+    {
+     "name": "Students’ part-time jobs"
+    },
+    {
+     "name": "The budget dollar"
+    }
+   ]
+  },
+  {
+   "name": "Media and Arts",
+   "children": [
+    {
+     "name": "The importance of libraries"
+    },
+    {
+     "name": "Death of the single"
+    },
+    {
+     "name": "Keeping a diary"
+    },
+    {
+     "name": "Talking about changes"
+    }
+   ]
+  },
+  {
+   "name": "Science and Technology",
+   "children": [
+    {
+     "name": "Internet addiction"
+    },
+    {
+     "name": "What will man be like ?"
+    },
+    {
+     "name": "Selling a business"
+    }
+   ]
+  },
+  {
+   "name": "Ecology",
+   "children": [
+    {
+     "name": "Our world, our environment"
+    },
+    {
+     "name": "Water scarcity"
+    },
+    {
+     "name": "Save the lofty trees"
+    },
+    {
+     "name": "Time for a song"
+    }
+   ]
+  }
+ ],
+ "notes": "Sources: TABLE OF CONTENTS (pp.4-5) for lesson names and order; Book Map (pp.6-10) for the 11 themes (I-XI); lesson headings/markers for page order. Theme V's title is not present in the extracted book map text (themes jump from IV Social Problems to VI Rights and Duties), so 'Theme V' is a positional placeholder, not a printed name. Lesson-to-theme assignment follows book-map page grouping plus the pattern that each theme closes with its Arts (A) and/or Economics (E) supplementary lesson; boundaries of themes II/III/IV and V/VI are partly reconstructed (medium confidence). Arts 1-10 and Economics 1-10 are branch-specific supplementary lessons, kept in page order with 'Arts n :' / 'Economics n :' prefixes stripped. Excluded: preface, book map, diagnostic test, self-reflection, review module, Progress Check 1-3 and Self-evaluation (lessons 8, 17, 30), appendix. TOC names used where page headings differ (e.g. lesson 16 heading 'Equality Offers Prosperity', E3 'Enquiry / Reply', E9 'Economic Changes', A8 'Part-Time Jobs', lesson 5 'The E-mailer Versus The Texter')."
+}

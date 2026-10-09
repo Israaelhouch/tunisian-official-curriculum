@@ -1,0 +1,507 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Décret gouvernemental n° 2019-1085 du 19 novembre 2019 fixant l'horaire des études dans l'enseignement de base et dans l'enseignement secondaire (JORT n° 95, 2019) — https://9anoun.tn/kb/jorts/jort-2019-095-424da/decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et-dans-lenseignement-secondaire-60",
+    "CNP 201202 — عيون الأدب_ الجزء الأول_نصوص — https://www.cnp.com.tn/arabic/PDF/201202P00.pdf",
+    "CNP 201203 — عيون الأدب_الجزء الثاني_نصوص — https://www.cnp.com.tn/arabic/PDF/201203P00.pdf",
+    "CNP 206203 — الجغرافيا(شعبتي الآداب و الاقتصاد والخدمات) — https://www.cnp.com.tn/arabic/PDF/206203P00.pdf",
+    "CNP 207202 — التاريخ (شعبتي الآداب و الاقتصاد والخدمات) — https://www.cnp.com.tn/arabic/PDF/207202P01.pdf",
+    "CNP 211203 — التربية المدنية — https://www.cnp.com.tn/arabic/PDF/211203P00.pdf",
+    "CNP 211204 — التفكير الاسلامي — https://www.cnp.com.tn/arabic/PDF/211204P00.pdf",
+    "CNP 221203 — فرنسية — https://www.cnp.com.tn/arabic/PDF/221203P00.pdf",
+    "CNP 222261 — الرياضيات (شعبة الإقتصاد والخدمات) — https://www.cnp.com.tn/arabic/PDF/222261P00.pdf",
+    "CNP 229262 — التصرف(شعبة الإقتصاد والخدمات) — https://www.cnp.com.tn/arabic/PDF/229262P00.pdf",
+    "CNP 241203 — أنقليزية — https://www.cnp.com.tn/arabic/PDF/241203P00.pdf"
+  ],
+  "level": {
+    "name_fr": "2ème année secondaire",
+    "name_ar": "السنة الثانية ثانوي",
+    "code": "2S",
+    "cycle": "secondaire",
+    "grade_number": 2,
+    "display_order": 11,
+    "is_national_exam_year": false
+  },
+  "section": {
+    "name_fr": "Économie et services",
+    "name_ar": "اقتصاد وخدمات",
+    "code": "ECOSERV",
+    "is_common_core": false
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الشعر الجاهلي",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "التجديد في الشعر العربي في القرن الثاني للهجرة",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "النادرة",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المسائل الحضارية",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المحور الخامس (لمسلك الآداب)",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المحور الخامس (لمسالك العلوم / تكنولوجيا الإعلاميّة / الاقتصاد والخدمات)",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "التواصل",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "دلالات الصيغ الصرفيّة",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Français",
+        "name_ar": "الفرنسية",
+        "code": "FRAN"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Pages d’amour",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Toi, mon semblable",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Femme et société",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Travail et bien-être",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Images d’ici, images d’ailleurs",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Anglais",
+        "name_ar": "الإنجليزية",
+        "code": "ANGL"
+      },
+      "instruction_language": "en",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Family life",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Communicating with others",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Social life",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Social Problems",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Rights and Duties",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Education",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Professional Life",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Media and Arts",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Science and Technology",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Ecology",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Économie",
+        "name_ar": "الاقتصاد",
+        "code": "ECO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Gestion",
+        "name_ar": "التصرف",
+        "code": "GEST"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Introduction à la gestion",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "L’entreprise centre de décisions",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Les décisions d’achat",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Les décisions de production",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Les décisions liées au personnel de l’entreprise",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Les décisions de ventes",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Les décisions d’investissement et de financement",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Les pourcentages",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Proportion",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Suites arithmétiques - Suites géométriques",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Statistiques et dénombrement",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Problèmes du premier degré à une inconnue",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Problèmes du premier degré à deux ou trois inconnues",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Problèmes du second degré",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Exemples de fonctions de référence",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Informatique",
+        "name_ar": "الإعلامية",
+        "code": "INFO"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Histoire",
+        "name_ar": "التاريخ",
+        "code": "HIST"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الحضارات القديمة في الشرق والعالم المتوسطي",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "العلاقة بين العالم الإسلامي والغرب المسيحي من القرن الرّابع للهجرة (10 م) إلى سقوط غرناطة (15 م)",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Géographie",
+        "name_ar": "الجغرافيا",
+        "code": "GEO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "المدن تنظم المجال",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "تنظيم المجالات الريفيّة",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "شبكات النّقل والاتصال ودورها في تنظيم المجال",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "التّهيئة الترابيّة",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation islamique",
+        "name_ar": "التربية الإسلامية",
+        "code": "ISLAM"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "التوازن والوسطيّة",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "التفكّر في العبادة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "بناء الشخصيّة",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفاعليّة",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الوحي",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التربية والتعليم",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الإصلاح",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الاستشراف",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الأمل والتوكّل",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الإنسان ومصيره",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation civique",
+        "name_ar": "التربية المدنية",
+        "code": "CIVIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الدولة الديمقراطيّة الحديثة",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "دولة القانون",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المجتمع المدني",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    }
+  ]
+}

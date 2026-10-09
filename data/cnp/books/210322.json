@@ -1,0 +1,74 @@
+{
+ "code": "210322",
+ "title": "فلسفة _شعبة الآداب",
+ "used_for": [
+  "3eme-lettres/PHILO"
+ ],
+ "toc": [
+  {
+   "name": "اليومي",
+   "children": []
+  },
+  {
+   "name": "مقتضيات التفكير",
+   "children": [
+    {
+     "name": "في الوعي بالمغالطات",
+     "children": [
+      {
+       "name": "أشباه المشاكل"
+      },
+      {
+       "name": "الحجاج الباطل"
+      },
+      {
+       "name": "الخلط بين المقولات المنطقية"
+      },
+      {
+       "name": "المفارقة"
+      }
+     ]
+    },
+    {
+     "name": "إجرائيات التفكير",
+     "children": [
+      {
+       "name": "الأشكلة"
+      },
+      {
+       "name": "التأسيس"
+      },
+      {
+       "name": "التعريف"
+      },
+      {
+       "name": "الحجاج"
+      },
+      {
+       "name": "الدحض"
+      }
+     ]
+    },
+    {
+     "name": "القسم الثالث",
+     "children": [
+      {
+       "name": "التعقل"
+      },
+      {
+       "name": "الحوار"
+      },
+      {
+       "name": "النقد"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "تجربة الالتزام: شخصيات فكرية",
+   "children": []
+  }
+ ],
+ "notes": "Issue 'مطلب التفكير: من اليومي إلى الفلسفي' in three chapters (فصول). Chapter titles: 'اليومي' (garbled large title p7, cross-reference p91 'الفصل الخاص باليومي', and the introduction p3 which names it), 'مقتضيات التفكير' (named as the 2nd chapter's title in the introduction p3; its title page p79 is a picture page with no readable title), 'تجربة الالتزام: شخصيات فكرية' (فهرس p5, title page p225). Chapter 2 has three numbered parts whose title pages (full-page OCR) print the part title and its sub-topics: p81 '1- في الوعي بالمغالطات' (أشباه المشاكل - الحجاج الباطل - الخلط بين المقولات المنطقية - المفارقة), p135 '2- إجرائيات التفكير' (الأشكلة - التأسيس - التعريف - الحجاج - الدحض), p183 '3- مقتضيات ...' (التعقل - الحوار - النقد): the third part title is unreadable after 'مقتضيات', so a positional placeholder 'القسم الثالث' is used. Chapters 1 and 3 have no printed sub-division other than the text (سند) list, which is only partly readable (e.g. جنون الاستهلاك, وسائل الاتصال: بث أم تواصل؟, أمثولة الكهف, سلطان الرأي, في سلطة رأي الأغلبية, عناد الوهم, الإشهار بين الأمس واليوم, الفلسفة والواقع اليومي; دور المثقف, في ضرورة الإيديولوجيا, ادعاءات الإيديولوجيا, وفاء الحقيقة), so they are left without children. Windows (نوافذ), methodology, long texts and summaries excluded. 1 placeholder."
+}

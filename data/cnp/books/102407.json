@@ -1,0 +1,126 @@
+{
+ "code": "102407",
+ "title": "رياضيات",
+ "used_for": [
+  "4eme-primaire/MATH"
+ ],
+ "toc": [
+  {
+   "name": "أكون الأعداد ذات 5 أرقام وأفككها وأركبها",
+   "children": []
+  },
+  {
+   "name": "أتعرف المسالك المختصرة وموقع عقدة على الشبكة",
+   "children": []
+  },
+  {
+   "name": "أتصرف في القطع النقدية والأوراق المالية (5 د و10 د)",
+   "children": []
+  },
+  {
+   "name": "أقارن الأعداد ذات 5 أرقام وأرتبها",
+   "children": []
+  },
+  {
+   "name": "أتصرف في الأعداد ذات 5 أرقام (بعض أرقامها صفر)",
+   "children": []
+  },
+  {
+   "name": "أتصرف في القطع النقدية والأوراق المالية (ص 28-31)",
+   "children": []
+  },
+  {
+   "name": "أتعرف المستقيم ونصف المستقيم وقطعة المستقيم",
+   "children": []
+  },
+  {
+   "name": "أوظف الجمع والضرب والطرح على الأعداد ذات 5 أرقام",
+   "children": []
+  },
+  {
+   "name": "أتصرف في وحدات قيس الأطوال (المتر وأجزاؤه)",
+   "children": []
+  },
+  {
+   "name": "أرسم المستقيمات المتعامدة والمستقيمات المتوازية",
+   "children": []
+  },
+  {
+   "name": "أنجز عملية الضرب في عقد أو مائة كاملة",
+   "children": []
+  },
+  {
+   "name": "أوظف التعامد والتوازي في تصنيف المضلعات ورسمها",
+   "children": []
+  },
+  {
+   "name": "أتصرف في وحدات قيس الأطوال (المتر ومضاعفاته)",
+   "children": []
+  },
+  {
+   "name": "أنجز عملية الضرب في عدد ذي رقمين",
+   "children": []
+  },
+  {
+   "name": "أرسم المستطيل والمربع باعتماد خاصيات الأضلاع والزوايا",
+   "children": []
+  },
+  {
+   "name": "درس ص 80-83 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "أكون الأعداد ذات 6 أرقام وأفككها وأركبها",
+   "children": []
+  },
+  {
+   "name": "أتصرف في وحدات قيس الكتل (الكيلوغرام والغرام)",
+   "children": []
+  },
+  {
+   "name": "أقارن الأعداد ذات 6 أرقام وأرتبها",
+   "children": []
+  },
+  {
+   "name": "أحسب قيس محيط شكل مكون من مستطيلات ومربعات",
+   "children": []
+  },
+  {
+   "name": "أوظف الجمع والطرح والضرب على الأعداد ذات 6 أرقام",
+   "children": []
+  },
+  {
+   "name": "درس ص 113-117 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "درس ص 118-120 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "أتصرف في الأعداد ذات 6 أرقام (بعض أرقامها صفر)",
+   "children": []
+  },
+  {
+   "name": "درس ص 130-133 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "أتعرف القسمة الإقليدية",
+   "children": []
+  },
+  {
+   "name": "أنجز عملية قسمة قاسمها عدد ذو رقم واحد",
+   "children": []
+  },
+  {
+   "name": "درس ص 148-153 (عنوان غير مقروء)",
+   "children": []
+  },
+  {
+   "name": "أحدد الزمن بالساعة والدقيقة",
+   "children": []
+  }
+ ],
+ "notes": "No sommaire survives (the programme table at the end of the book is not in the OCR). Lessons rebuilt from the title line repeated at the top of each lesson page (opener OCR) + headings, in page order; flat list (book has no printed units). Excluded: أتدرب على حل المسائل / أحرر وضعية (problem-solving practice), أوظف مكتسباتي وأقيمها (evaluation, e.g. p.37-39, 105-107, 140-141), أتسلى / من عجائب الأعداد / لعبة الأرقام (games), and the unlabelled problem pages 52-55. 5 positional placeholders where no page carried a readable title (content hints: p.80-83 capacity units, p.113-117 multiplication by 3-digit numbers, p.118-120 area, p.130-133 multiples, p.148-153 area of rectangle/square). The second money lesson's denomination parenthesis was unreadable, so it is identified by pages. Pages 134-136 assumed to belong to القسمة الإقليدية or the multiples lesson (uncertain)."
+}

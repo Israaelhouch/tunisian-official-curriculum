@@ -1,0 +1,218 @@
+{
+ "code": "224332",
+ "title": "كيمياء_شعبة الرياضيات",
+ "used_for": [
+  "3eme-mathematiques/PHYS"
+ ],
+ "toc": [
+  {
+   "name": "Les réactions d'oxydoréduction",
+   "children": [
+    {
+     "name": "Les réactions d'oxydoréduction",
+     "children": [
+      {
+       "name": "Présentation sommaire des métaux et de leurs ions"
+      },
+      {
+       "name": "Action des acides sur les métaux"
+      },
+      {
+       "name": "Action d'un cation métallique sur un métal"
+      },
+      {
+       "name": "Réaction d'oxydoréduction. Oxydation et réduction"
+      },
+      {
+       "name": "Les couples oxydant-réducteur ou couple redox"
+      },
+      {
+       "name": "Ecriture d'une équation d'oxydoréduction"
+      }
+     ]
+    },
+    {
+     "name": "Classification électrochimique des métaux par rapport au dihydrogène",
+     "children": [
+      {
+       "name": "Classification électrochimique des métaux"
+      },
+      {
+       "name": "Réaction entre les solutions aqueuses acides à anion non oxydant et les métaux"
+      },
+      {
+       "name": "Classification électrochimique de quelques métaux par rapport au dihydrogène"
+      },
+      {
+       "name": "Utilisation de la classification électrochimique des métaux"
+      }
+     ]
+    },
+    {
+     "name": "Etude de quelques réactions d'oxydoréduction",
+     "children": [
+      {
+       "name": "Oxydoréduction par voie sèche"
+      },
+      {
+       "name": "Le nombre d'oxydation"
+      },
+      {
+       "name": "Utilisation du nombre d'oxydation"
+      },
+      {
+       "name": "Autres exemples de réactions d'oxydoréduction par voie sèche"
+      },
+      {
+       "name": "Oxydoréduction par voie humide"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Les acides et les bases de Bronsted",
+   "children": [
+    {
+     "name": "Les acides et les bases de Bronsted",
+     "children": [
+      {
+       "name": "Rappel de définition des acides et des bases selon Arrhenius"
+      },
+      {
+       "name": "Définition des acides et des bases de Bronsted"
+      },
+      {
+       "name": "Exemples de solutions aqueuses d'acides usuels"
+      },
+      {
+       "name": "Exemples de bases usuelles"
+      },
+      {
+       "name": "Les acides et les bases dans la vie quotidienne"
+      }
+     ]
+    },
+    {
+     "name": "Les couples acide base et les réactions acide base",
+     "children": [
+      {
+       "name": "Les couples acide base"
+      },
+      {
+       "name": "Les réactions acide base : définition et exemple"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "La chimie organique",
+   "children": [
+    {
+     "name": "Analyse des composés organiques",
+     "children": [
+      {
+       "name": "Introduction"
+      },
+      {
+       "name": "Analyse élémentaire qualitative des composés organiques"
+      },
+      {
+       "name": "Analyse élémentaire quantitative des composés organiques"
+      },
+      {
+       "name": "Détermination de la formule brute"
+      }
+     ]
+    },
+    {
+     "name": "Les alcools aliphatiques saturés",
+     "children": [
+      {
+       "name": "Présentation des alcools"
+      },
+      {
+       "name": "Nomenclature des alcools"
+      },
+      {
+       "name": "Classes et isomérie des alcools"
+      },
+      {
+       "name": "Propriétés chimiques des alcools"
+      }
+     ]
+    },
+    {
+     "name": "Les acides carboxyliques aliphatiques saturés",
+     "children": []
+    },
+    {
+     "name": "Notions de fonction organique",
+     "children": [
+      {
+       "name": "Rappel sur les hydrocarbures aliphatiques saturés et insaturés"
+      },
+      {
+       "name": "Le groupe fonctionnel"
+      },
+      {
+       "name": "L'isomérie de fonction"
+      },
+      {
+       "name": "Les principales réactions chimiques permettant de passer d'une fonction organique à une autre"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "La mesure en chimie",
+   "children": [
+    {
+     "name": "Détermination d'une quantité de matière à l'aide d'une réaction chimique",
+     "children": [
+      {
+       "name": "Réaction d'une solution d'un acide fort avec une solution de base forte"
+      },
+      {
+       "name": "Réaction d'oxydoréduction : réaction des ions permanganate avec les ions fer (II) en milieu acide"
+      },
+      {
+       "name": "Les dosages iodométriques"
+      }
+     ]
+    },
+    {
+     "name": "Détermination d'une quantité de matière par mesure d'une grandeur physique",
+     "children": [
+      {
+       "name": "Rappels de définition"
+      },
+      {
+       "name": "Détermination de la quantité de matière à partir de la mesure de la conductance"
+      }
+     ]
+    },
+    {
+     "name": "Détermination d'une quantité de matière par utilisation de l'équation d'état des gaz parfaits",
+     "children": [
+      {
+       "name": "Rappel sur la pression d'un gaz"
+      },
+      {
+       "name": "Lois des gaz parfaits"
+      },
+      {
+       "name": "Equation d'état des gaz parfaits"
+      },
+      {
+       "name": "Application : détermination d'une quantité de matière par mesure de la pression"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Themes and 12 chapters from sommaire (p3) and theme/chapter title pages; sommaire mislabels theme IV as 'Thème III'. Sections from chapter 1 plan (p8) and main section headings in the body; chapter 8 sections not reliably recoverable (left empty). Chapter 10 sections partly uncertain."
+}

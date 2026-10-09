@@ -1,0 +1,247 @@
+{
+ "code": "121905",
+ "title": "فرنسية",
+ "used_for": [
+  "9eme-base/FRAN"
+ ],
+ "toc": [
+  {
+   "name": "Enfants de tous les pays",
+   "children": [
+    {
+     "name": "Écouter un récit oral, en rendre compte"
+    },
+    {
+     "name": "Observer des images et en faire un récit oral"
+    },
+    {
+     "name": "Mon premier dessin"
+    },
+    {
+     "name": "Il ne faut pas gâter les enfants"
+    },
+    {
+     "name": "Une meilleure solution"
+    },
+    {
+     "name": "Finie la solitude"
+    },
+    {
+     "name": "Les cœurs purs"
+    },
+    {
+     "name": "Les histoires d'Afrique"
+    },
+    {
+     "name": "Lecture d'une image 1 (Enfants / Adultes)"
+    },
+    {
+     "name": "Lecture d'une image 2 (Enfant riche / Enfant pauvre)"
+    },
+    {
+     "name": "Lecture complémentaire (La Convention Internationale des Droits de l'Enfant)"
+    },
+    {
+     "name": "L'expression du temps"
+    },
+    {
+     "name": "Le passé simple et l'imparfait"
+    },
+    {
+     "name": "Les homophones « Quel(le)(s) » / « Qu'elle(s) »"
+    },
+    {
+     "name": "Produire un texte narratif"
+    },
+    {
+     "name": "Produire un texte narratif intégrant un dialogue"
+    }
+   ]
+  },
+  {
+   "name": "Portraits et comportements",
+   "children": [
+    {
+     "name": "Écouter une chanson et rendre compte de sa compréhension"
+    },
+    {
+     "name": "Faire un portrait chinois"
+    },
+    {
+     "name": "Comme s'il était d'une autre race"
+    },
+    {
+     "name": "Je suis devenu quelqu'un d'autre"
+    },
+    {
+     "name": "Olivier le mythomane"
+    },
+    {
+     "name": "Viviane, la liseuse"
+    },
+    {
+     "name": "Lecture d'une B.D."
+    },
+    {
+     "name": "Hartani"
+    },
+    {
+     "name": "Les expansions du groupe nominal"
+    },
+    {
+     "name": "Les verbes d'état et l'attribut du sujet"
+    },
+    {
+     "name": "L'imparfait et le plus-que-parfait"
+    },
+    {
+     "name": "L'accord des adjectifs de couleur"
+    }
+   ]
+  },
+  {
+   "name": "Nom de plume",
+   "children": []
+  },
+  {
+   "name": "Exploits et performances",
+   "children": [
+    {
+     "name": "Écouter une interview, en rendre compte"
+    },
+    {
+     "name": "Réaliser une interview"
+    },
+    {
+     "name": "Ils ont triomphé"
+    },
+    {
+     "name": "Ils redonnent vie aux membres des paralysés"
+    },
+    {
+     "name": "La découverte du radium"
+    },
+    {
+     "name": "Un exploit !"
+    },
+    {
+     "name": "Une mémoire prodigieuse"
+    },
+    {
+     "name": "Lecture d'une image (Le dopage)"
+    },
+    {
+     "name": "Les procédés de reprise"
+    },
+    {
+     "name": "Les pronoms personnels C.O.D et C.O.I"
+    },
+    {
+     "name": "La forme passive"
+    },
+    {
+     "name": "Le futur simple et le futur antérieur"
+    },
+    {
+     "name": "Les homophones « Quand », « Quant » et « Qu'en »"
+    },
+    {
+     "name": "Le texte informatif : l'article de presse"
+    },
+    {
+     "name": "Le texte informatif : l'organisation de l'information"
+    }
+   ]
+  },
+  {
+   "name": "Métiers d'hier, métiers d'aujourd'hui",
+   "children": [
+    {
+     "name": "Jeu de rôles"
+    },
+    {
+     "name": "Débat"
+    },
+    {
+     "name": "Chanson du vitrier"
+    },
+    {
+     "name": "Guide, un métier qui monte"
+    },
+    {
+     "name": "Il faut faire des fleurs"
+    },
+    {
+     "name": "Un mineur au XIXe siècle"
+    },
+    {
+     "name": "Pascal, un berger d'aujourd'hui"
+    },
+    {
+     "name": "Lecture d'une image (Les temps modernes de Ch. Chaplin)"
+    },
+    {
+     "name": "L'expression de l'opinion"
+    },
+    {
+     "name": "L'expression de la cause et de la conséquence"
+    },
+    {
+     "name": "Le subjonctif présent"
+    },
+    {
+     "name": "L'accord de « Tout »"
+    },
+    {
+     "name": "Produire un texte argumentatif"
+    }
+   ]
+  },
+  {
+   "name": "Riquet à la houppe",
+   "children": []
+  },
+  {
+   "name": "Musiques pour tous les goûts",
+   "children": [
+    {
+     "name": "L'exposé"
+    },
+    {
+     "name": "Un jeune musicien"
+    },
+    {
+     "name": "Le loup et le musicien"
+    },
+    {
+     "name": "La magie de la musique"
+    },
+    {
+     "name": "Aimes-tu la musique ?"
+    },
+    {
+     "name": "Ces airs qui m'ont suivi..."
+    },
+    {
+     "name": "Quand Cécile joue..."
+    },
+    {
+     "name": "L'expression du but"
+    },
+    {
+     "name": "Le conditionnel présent et le conditionnel passé"
+    },
+    {
+     "name": "Les adverbes en -ment"
+    },
+    {
+     "name": "Les homophones S'en / Sans"
+    },
+    {
+     "name": "L'étude de texte"
+    }
+   ]
+  }
+ ],
+ "notes": "Pratique du français, 9e année. Top level = Modules 1-5 named by their printed centre d'intérêt, plus the two reading modules placed in page order from the Tableau synoptique: 'Nom de plume' (Micheline La France, p92-107) and 'Riquet à la houppe' (Perrault, p188-193). Children come from the Table des matières (p239-240), authors and numbering removed. Its extract is incomplete: it breaks off after 'Olivier le mythomane' and resumes mid-Module 3. The missing part was filled from the headings: rest of Module 2, and the Module 3 oral and texts. Unrecovered items: Module 2's écriture lesson (synoptique: produire un récit intégrant une description), Module 2's vocabulary lessons, and Module 5's letter-writing lesson. Generic 'Lecture(s) pour le plaisir' entries were dropped. The reading modules have no recoverable sub-structure."
+}

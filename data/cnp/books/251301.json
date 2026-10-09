@@ -1,0 +1,55 @@
+{
+ "code": "251301",
+ "title": "كتاب اللغة الروسية",
+ "used_for": [
+  "3eme-mathematiques/RUSSE",
+  "3eme-sciences-experimentales/RUSSE",
+  "3eme-informatique/RUSSE",
+  "3eme-techniques/RUSSE",
+  "3eme-lettres/RUSSE",
+  "3eme-economie-gestion/RUSSE"
+ ],
+ "toc": [
+  {
+   "name": "Как вас зовут? Кто это? Что это?",
+   "children": []
+  },
+  {
+   "name": "Школа",
+   "children": []
+  },
+  {
+   "name": "Семья и дом",
+   "children": []
+  },
+  {
+   "name": "Мой день",
+   "children": []
+  },
+  {
+   "name": "Город",
+   "children": []
+  },
+  {
+   "name": "В гостях",
+   "children": []
+  },
+  {
+   "name": "Профессия",
+   "children": []
+  },
+  {
+   "name": "Транспорт",
+   "children": []
+  },
+  {
+   "name": "Погода",
+   "children": []
+  },
+  {
+   "name": "Спорт",
+   "children": []
+  }
+ ],
+ "notes": "The whole book uses a broken subset-font encoding: no real Cyrillic anywhere, the text is control or ASCII glyph IDs. I decoded the sommaire (p6) by substitution and checked it across all its titles. The same glyph-to-letter map gives consistent Russian words every time (о, т, р, д, а, с, е, м, ь, я, и, к, л, г, п, в, н, ы, й), e.g. Погода/Город/Школа/Семья и дом/Мой день/Повторительный урок. The sommaire has 10 numbered lessons plus 2 'Повторительный урок' (review lessons, left out). Page numbers are 7, 24, 43, 59, 75, 93, 98, 117, 132, 145, 158, 173. Titles are kept in the sommaire's printed column order, but I could not reliably tell which page goes with which title or where exactly the two review lessons sit. Lesson sub-sections are not recoverable: the body text uses a different broken mapping, which I did not decode. So children are empty."
+}

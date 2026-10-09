@@ -1,0 +1,46 @@
+{
+ "code": "222445",
+ "title": "رياضيات ج1_شعبة الرياضيات",
+ "used_for": [
+  "bac-mathematiques/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Continuité et limites",
+   "children": []
+  },
+  {
+   "name": "Suites réelles",
+   "children": []
+  },
+  {
+   "name": "Dérivabilité",
+   "children": []
+  },
+  {
+   "name": "Fonctions réciproques",
+   "children": []
+  },
+  {
+   "name": "Primitives",
+   "children": []
+  },
+  {
+   "name": "Intégrales",
+   "children": []
+  },
+  {
+   "name": "Fonction logarithme népérien",
+   "children": []
+  },
+  {
+   "name": "Fonction exponentielle",
+   "children": []
+  },
+  {
+   "name": "Equations différentielles",
+   "children": []
+  }
+ ],
+ "notes": "Sommaire p4 (OCR, no page numbers); 9 chapters as stated in préface. No headings data; sections not reliably recoverable, children empty."
+}

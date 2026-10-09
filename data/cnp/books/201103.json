@@ -1,0 +1,288 @@
+{
+ "code": "201103",
+ "title": "آفاق أدبية_نصوص",
+ "used_for": [
+  "1ere-secondaire/ARAB",
+  "1ere-sport/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "المحور الأول",
+   "children": [
+    {
+     "name": "الحجاز موقعا وحضارة"
+    },
+    {
+     "name": "أسباب حياة اللهو في الحجاز"
+    },
+    {
+     "name": "ما هو الشعر؟"
+    },
+    {
+     "name": "أفي الناس أمثالي؟"
+    },
+    {
+     "name": "خشية ورجاء"
+    },
+    {
+     "name": "الصديق الشافع"
+    },
+    {
+     "name": "غربة العشاق"
+    },
+    {
+     "name": "الوداع الأخير"
+    },
+    {
+     "name": "تذكرت ليلى"
+    },
+    {
+     "name": "ليت هندا"
+    },
+    {
+     "name": "يا من لقلب متيم"
+    },
+    {
+     "name": "إحدى ثلاث"
+    },
+    {
+     "name": "هل يخفى القمر؟"
+    },
+    {
+     "name": "مغامرة"
+    },
+    {
+     "name": "الغزل بين الجاهلية والإسلام"
+    },
+    {
+     "name": "مميزات الغزل عند جميل"
+    },
+    {
+     "name": "طريقة عمر في الغزل"
+    },
+    {
+     "name": "الإباحية شعر هي أم حقيقة؟"
+    }
+   ]
+  },
+  {
+   "name": "المحور الثاني",
+   "children": [
+    {
+     "name": "الحكاية المثلية، ما هي؟"
+    },
+    {
+     "name": "غرض الكتاب"
+    },
+    {
+     "name": "دمنة يحرش الأسد على الثور"
+    },
+    {
+     "name": "دمنة يحرش الثور على الأسد"
+    },
+    {
+     "name": "الفحص عن أمر دمنة"
+    },
+    {
+     "name": "دمنة في مجلس القضاء (1)"
+    },
+    {
+     "name": "دمنة في مجلس القضاء (2)"
+    },
+    {
+     "name": "الأسد وابن آوى الناسك (1)"
+    },
+    {
+     "name": "الأسد وابن آوى الناسك (2)"
+    },
+    {
+     "name": "الحمامة المطوقة"
+    },
+    {
+     "name": "الحمامة والثعلب ومالك الحزين"
+    },
+    {
+     "name": "الملك والطائر فنزة"
+    },
+    {
+     "name": "من وظائف قصص الحيوان"
+    }
+   ]
+  },
+  {
+   "name": "الشعر الوطني",
+   "children": [
+    {
+     "name": "الوعي الوطني بتونس"
+    },
+    {
+     "name": "الشعر الوطني والشعر الاجتماعي"
+    },
+    {
+     "name": "يا ابن أمي"
+    },
+    {
+     "name": "إرادة الحياة"
+    },
+    {
+     "name": "إلى طغاة العالم"
+    },
+    {
+     "name": "تونس الجميلة"
+    },
+    {
+     "name": "النص السابع"
+    },
+    {
+     "name": "أنا إنسان جديد"
+    },
+    {
+     "name": "أنة البعيد عن الأوطان"
+    },
+    {
+     "name": "العودة إلى الوطن"
+    },
+    {
+     "name": "بالحقيقة يبنى الوطن"
+    },
+    {
+     "name": "إلام الخلف بينكم؟"
+    },
+    {
+     "name": "وطني"
+    },
+    {
+     "name": "حرية الشعب"
+    },
+    {
+     "name": "الشعب في أشعار الشابي"
+    },
+    {
+     "name": "الشابي وبداية الشعر الحديث"
+    }
+   ]
+  },
+  {
+   "name": "الأقصوصة",
+   "children": [
+    {
+     "name": "منزلة القصة عند الشعوب"
+    },
+    {
+     "name": "هل من تعريف للقصة القصيرة؟"
+    },
+    {
+     "name": "نبوت الخفير"
+    },
+    {
+     "name": "الأرض المستحيلة"
+    },
+    {
+     "name": "صادق"
+    },
+    {
+     "name": "المروض والثور"
+    },
+    {
+     "name": "أمانة"
+    },
+    {
+     "name": "الكراسي المقلوبة"
+    },
+    {
+     "name": "حكاية الباب"
+    },
+    {
+     "name": "في شاطئ حمام الأنف"
+    },
+    {
+     "name": "شهوة الصبية"
+    },
+    {
+     "name": "الأقصوصة"
+    },
+    {
+     "name": "المكنة"
+    },
+    {
+     "name": "قميص الصوف"
+    },
+    {
+     "name": "دومة ود حامد"
+    },
+    {
+     "name": "تلك المرأة الوردة"
+    },
+    {
+     "name": "القنطرة هي الحياة"
+    }
+   ]
+  },
+  {
+   "name": "المسائل الحضارية",
+   "children": [
+    {
+     "name": "مظاهر من الحياة المعاصرة",
+     "children": [
+      {
+       "name": "من تبعات تطور نمط الحياة"
+      },
+      {
+       "name": "أسباب السعادة ودواعي الاكتئاب"
+      },
+      {
+       "name": "اختلاف الثقافات بين الأجيال"
+      },
+      {
+       "name": "التقدم العلمي والتكنولوجي"
+      },
+      {
+       "name": "الإشهار"
+      },
+      {
+       "name": "الحرية والقانون"
+      }
+     ]
+    },
+    {
+     "name": "الرياضة والقيم",
+     "children": [
+      {
+       "name": "بحث في الرياضة"
+      },
+      {
+       "name": "لماذا الرياضة"
+      },
+      {
+       "name": "الرياضات العنيفة"
+      },
+      {
+       "name": "الرياضة والتواصل"
+      },
+      {
+       "name": "الرياضة بين الهواية والاحتراف"
+      },
+      {
+       "name": "شروط المنافسة الشريفة"
+      }
+     ]
+    },
+    {
+     "name": "موسيقى وأذواق",
+     "children": [
+      {
+       "name": "أثر الموسيقى في الإنسان"
+      },
+      {
+       "name": "بين السمفونية والطقطوقة"
+      },
+      {
+       "name": "الموسيقى والغناء"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Text anthology: محور -> texts (introductory, selected, complementary and, for الأقصوصة, the long texts, in فهرس order; author names and group labels dropped). Source: فهرس النصوص pp6-9 (OCR), cross-checked with headings and opener pages (rebuild pass). Axis 1 and 2: their opener pages (p12-18, p85-93) carry no readable title (only artwork captions, running header 'المحور الأول' at p44) -> positional 'المحور الأول'/'المحور الثاني' kept; only the preface describes them, not used. Axis 3/4 titles from openers p151/p225. Remaining positional text placeholders: الشعر الوطني #7 ('في عيد الجلاء عن ...', place name illegible in فهرس and heading p177); الأقصوصة #3 (Mahmoud Teymour, '... الخفير', first word illegible in فهرس, heading p233 and p348). Resolved: الأقصوصة #13 = 'المكنة' (فهرس p8 and p348 page both print 'المكنة'; heading p325 OCR 'المكنان'). Readings with slight doubt: 'دمنة يحرش ...' (from headings), 'يا من لقلب متيم' (فهرس 'معيم'), 'المروض والثور'. Last top-level item 'المسائل الحضارية' (oral communication part) now split into its three printed sub-axes from opener p375 (I مظاهر من الحياة المعاصرة, II الرياضة والقيم, III موسيقى وأذواق — the latter also printed 'المحور : موسيقى وأذواق' on p398), matched to the فهرس's three numbered groups (6/6/3). Excluded: ورقات, فهارس, أنشطة تأليفية/إدماجية, bibliographies. Second rebuild pass (full-page OCR of every page): resolved الأقصوصة #3 = 'نبوت الخفير' (heading p233 '(1) توت الخفير', and the title listed on p311 'نبوت الخفير - الكراسي المقلوبة - أمانة'). Still positional: axes 1 and 2 (openers p12/p85 carry only a legacy-font label, no title) and الشعر الوطني #7 (heading p177 'في عيد الجلاء ..', place name unreadable in heading and فهرس)."
+}

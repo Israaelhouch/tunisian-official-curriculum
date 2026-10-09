@@ -1,0 +1,1239 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Décret gouvernemental n° 2019-1085 du 19 novembre 2019 fixant l'horaire des études dans l'enseignement de base et dans l'enseignement secondaire (JORT n° 95, 2019) — https://9anoun.tn/kb/jorts/jort-2019-095-424da/decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et-dans-lenseignement-secondaire-60",
+    "CNP 201103 — آفاق أدبية_نصوص — https://www.cnp.com.tn/arabic/PDF/201103P01.pdf",
+    "CNP 201104 — العربية — https://www.cnp.com.tn/arabic/PDF/201104P00.pdf",
+    "CNP 206103 — الجغرافيا — https://www.cnp.com.tn/arabic/PDF/206103P00.pdf",
+    "CNP 207103 — التاريخ — https://www.cnp.com.tn/arabic/PDF/207103P00.pdf",
+    "CNP 211105 — التفكير الاسلامي — https://www.cnp.com.tn/arabic/PDF/211105P00.pdf",
+    "CNP 211107 — التربية المدنية — https://www.cnp.com.tn/arabic/PDF/211107P00.pdf",
+    "CNP 221104 — فرنسية — https://www.cnp.com.tn/arabic/PDF/221104P00.pdf",
+    "CNP 222104 — رياضيات — https://www.cnp.com.tn/arabic/PDF/222104P01.pdf",
+    "CNP 223103 — فيزياء — https://www.cnp.com.tn/arabic/PDF/223103P00.pdf",
+    "CNP 224101 — كيمياء — https://www.cnp.com.tn/arabic/PDF/224101P00.pdf",
+    "CNP 225104 — علوم الحياة والأرض — https://www.cnp.com.tn/arabic/PDF/225104P00.pdf",
+    "CNP 228103 — Technologie - Manuel d'activités — https://www.cnp.com.tn/arabic/PDF/228103P01.pdf",
+    "CNP 241104 — أنقليزية — https://www.cnp.com.tn/arabic/PDF/241104P00.pdf"
+  ],
+  "level": {
+    "name_fr": "1ère année secondaire",
+    "name_ar": "السنة الأولى ثانوي",
+    "code": "1S",
+    "cycle": "secondaire",
+    "grade_number": 1,
+    "display_order": 10,
+    "is_national_exam_year": false
+  },
+  "section": {
+    "name_fr": "Tronc commun",
+    "name_ar": "جذع مشترك",
+    "code": "TC",
+    "is_common_core": true
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الشعر الوطني",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الأقصوصة",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "المسائل الحضارية",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الوحدة الأولى",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "بين الهزل والجد",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الأقصوصة",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Français",
+        "name_ar": "الفرنسية",
+        "code": "FRAN"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Rencontres",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Scènes de la vie en France",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Jeunesse sans frontières",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "La société de consommation",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Sauvons la planète Terre",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Passions",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Progrès et bonheur",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Anglais",
+        "name_ar": "الإنجليزية",
+        "code": "ANGL"
+      },
+      "instruction_language": "en",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Getting to know each other",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "We’ve made it to the top",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Queen of soul",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Everything to pay for",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "It’s all in the preparation",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "I still get pocket money",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Are we all intelligent?",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Who was the man?",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Education",
+          "order_index": 9,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "What’s your friendship style?",
+          "order_index": 10,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Love boat",
+          "order_index": 11,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "A diary",
+          "order_index": 12,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Are neighbours necessary?",
+          "order_index": 13,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "John Grisham",
+          "order_index": 14,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "How to review your lessons",
+          "order_index": 15,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Tips to keep your blood healthy",
+          "order_index": 16,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Will you surf on the Internet?",
+          "order_index": 17,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "A friend I could never forget",
+          "order_index": 18,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "House and home",
+          "order_index": 19,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Languages",
+          "order_index": 20,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Family matters",
+          "order_index": 21,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Health matters",
+          "order_index": 22,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Job hunting",
+          "order_index": 23,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Human rights",
+          "order_index": 24,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Me and R’Kid",
+          "order_index": 25,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Would you like to be an au pair?",
+          "order_index": 26,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "About teachers",
+          "order_index": 27,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "A narrow escape",
+          "order_index": 28,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Can an animal save someone’s life?",
+          "order_index": 29,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Holidays and tourism",
+          "order_index": 30,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Talking about music",
+          "order_index": 31,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "The Environment does matter",
+          "order_index": 32,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Social problems",
+          "order_index": 33,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_fr": "Education matters",
+          "order_index": 34,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Travaux géométriques",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Angles",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Théorème de Thalès et sa réciproque",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Rapports trigonométriques d'un angle aigu. Relations métriques dans un triangle rectangle",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Vecteurs et translations",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Somme de deux vecteurs - Vecteurs colinéaires",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Activités dans un repère",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Quart de tour",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Sections planes d'un solide",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Travaux numériques",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Activités numériques I",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Activités numériques II",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Activités algébriques",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Fonctions linéaires",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Equations et inéquations du premier degré à une inconnue",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Fonctions affines",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Systèmes de deux équations à deux inconnues",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Exploitation de l'information",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences physiques",
+        "name_ar": "العلوم الفيزيائية",
+        "code": "PHYS"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Physique",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "L’Electricité",
+              "order_index": 1,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Le phénomène d’électrisation",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Le circuit électrique",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "L’intensité du courant électrique",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "La tension électrique",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Le dipôle résistor",
+                  "order_index": 5,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "La Matière",
+              "order_index": 2,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Les états physiques de la matière",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Quelques propriétés de la matière",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "La masse",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Les changements d’état physique d’un corps pur",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "La Mécanique",
+              "order_index": 3,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Le mouvement",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Les actions mécaniques",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Forces et équilibre",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Forces et pression",
+                  "order_index": 4,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "L’Energie",
+              "order_index": 4,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Energie et contrôle",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "L’Astronomie",
+              "order_index": 5,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "La Terre et l’univers",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "L’Optique",
+              "order_index": 6,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "La lumière et sa propagation",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Spectre de lumière et vision",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name_fr": "Chimie",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "La Matière",
+              "order_index": 1,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Constitution de la matière",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Structure de la matière (à l’échelle microscopique)",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Structure de la matière (à l’échelle macroscopique)",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Les Solutions",
+              "order_index": 2,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "La dissolution",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Concentration d’une solution - Solubilité",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Réaction chimique",
+              "order_index": 3,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Notion de réaction chimique",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Etude qualitative d’une réaction chimique",
+                  "order_index": 2,
+                  "objectives": [],
+                  "children": []
+                },
+                {
+                  "name_fr": "Etude quantitative d’une réaction chimique",
+                  "order_index": 3,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name_fr": "Chimie organique",
+              "order_index": 4,
+              "objectives": [],
+              "children": [
+                {
+                  "name_fr": "Les hydrocarbures",
+                  "order_index": 1,
+                  "objectives": [],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Sciences de la vie et de la terre",
+        "name_ar": "علوم الحياة والأرض",
+        "code": "SVT"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Amélioration de la production végétale",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "La nutrition minérale des plantes vertes",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "La nutrition carbonée des plantes vertes",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "La multiplication végétative",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Microbes et santé",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "La diversité du monde microbien",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Les agents pathogènes et les maladies infectieuses",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "La défense de l’organisme",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Découverte et gestion de notre environnement géologique",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Etude d’un site géologique local",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Exploitation et gestion d’une roche à intérêt économique : le phosphate",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Informatique",
+        "name_ar": "الإعلامية",
+        "code": "INFO"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Technologie",
+        "name_ar": "التكنولوجيا",
+        "code": "TECHNO"
+      },
+      "instruction_language": "fr",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_fr": "Analyse fonctionnelle",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Analyse fonctionnelle d’un système technique",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Analyse structurelle et conception",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Lecture d’un dessin d’ensemble",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Graphe de montage et graphe de démontage",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Dessin de définition",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Dessin assisté par ordinateur (DAO)",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Liaisons mécaniques",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Systèmes combinatoires",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Transmission de puissance",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Les matériaux utilisés",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Matériaux utilisés",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Les énergies mises en œuvre",
+          "order_index": 4,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Énergies renouvelables",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Convertisseurs statiques d’énergie électrique",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_fr": "Réalisation et production",
+          "order_index": 5,
+          "objectives": [],
+          "children": [
+            {
+              "name_fr": "Projet 1 : Robot suiveur de ligne et éviteur d’obstacles",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_fr": "Projet 2 : Lampe connectée",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Histoire",
+        "name_ar": "التاريخ",
+        "code": "HIST"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "قرطاج قطب حضاري في المتوسط: من القرن الخامس ق.م. إلى القرن الخامس الميلادي",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "قرطاج البونية وإشعاعها في المتوسط",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "قرطاج وإسهاماتها في الحضارة الرومانية",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "القيروان وتونس مركزا إشعاع الحضارة العربية الإسلامية في الغرب الإسلامي من 670 م إلى نهاية القرن الرابع عشر ميلادي",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "القيروان ودورها في نشر الحضارة العربية الإسلامية",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "تونس في العهد الحفصي مركز إشعاع ثقافي",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "البلاد التونسية من الإصلاح إلى التحديث من القرن التاسع عشر إلى 1987",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "إضاءات حول تاريخ تونس في العصر الحديث",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الفكر الإصلاحي",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التجربة التونسية في مقاومة الاستعمار",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "تعصير الدولة وتحديث المجتمع",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Géographie",
+        "name_ar": "الجغرافيا",
+        "code": "GEO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الإنسان يعمر الأرض",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "التوزع الجغرافي للسكان",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الحركة الديمغرافية للسكان",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الحركية المجالية للسكان",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الانفجار الحضري",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "تركيبة المدينة : دراسة حالة : القاهرة",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الإنسان يستثمر الموارد الطبيعية",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الموارد المائية",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الموارد النفطية",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الإنسان والأوساط الطبيعية",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الإنسان والوسط الطبيعي",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "من المخاطر إلى الكوارث : الزلازل والبراكين",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "من المخاطر إلى الكوارث : الفيضانات",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "تدهور الأوساط الطبيعية : مثال التصحر",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "تدهور الأوساط الطبيعية : مثال تدهور الغابة المتوسطية",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "تدهور الأوساط الطبيعية : تعرية السواحل",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation islamique",
+        "name_ar": "التربية الإسلامية",
+        "code": "ISLAM"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الوحدة الأولى",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الوحدة الثانية",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أحاور الآخرين بالتي هي أحسن",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الوحدة الرابعة",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "الوحدة الخامسة",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أتواصل مع الكون والطبيعة",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "بالعمل نرقى",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation civique",
+        "name_ar": "التربية المدنية",
+        "code": "CIVIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "المواطن في محيطه الاجتماعي والسياسي ودوره في تنظيم الحكم",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "المواطن في محيطه الاجتماعي والسياسي",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المواطن وتنظيم الحكم",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "المواطن والممارسة التعددية السياسية والثقافية",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "المواطن والممارسة التعددية",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الممارسة الثقافية ودورها في تنمية الوعي الاجتماعي",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+ "code": "222446",
+ "title": "رياضيات ج2_شعبة الرياضيات",
+ "used_for": [
+  "bac-mathematiques/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Nombres complexes",
+   "children": []
+  },
+  {
+   "name": "Isométries du plan",
+   "children": []
+  },
+  {
+   "name": "Déplacements – Antidéplacements",
+   "children": []
+  },
+  {
+   "name": "Similitudes",
+   "children": []
+  },
+  {
+   "name": "Coniques",
+   "children": []
+  },
+  {
+   "name": "Géométrie dans l'espace",
+   "children": []
+  },
+  {
+   "name": "Divisibilité dans ℤ",
+   "children": []
+  },
+  {
+   "name": "Identité de Bezout",
+   "children": []
+  },
+  {
+   "name": "Probabilités",
+   "children": []
+  },
+  {
+   "name": "Statistiques",
+   "children": []
+  }
+ ],
+ "notes": "Sommaire p4 with page numbers (10 chapters, matches préface). 'Divisibilité dans ]' is a symbol-font ℤ. Headings data is formula noise; sections not reliably recoverable, children empty."
+}

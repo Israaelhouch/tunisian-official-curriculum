@@ -1,0 +1,384 @@
+{
+ "code": "225432",
+ "title": "علوم الحياة والأرض_شعبة العلوم التجريبية",
+ "used_for": [
+  "bac-sciences-experimentales/SVT"
+ ],
+ "toc": [
+  {
+   "name": "Reproduction humaine et santé",
+   "children": [
+    {
+     "name": "La fonction reproductrice chez l'homme",
+     "children": [
+      {
+       "name": "Se rappeler l'organisation de l'appareil génital de l'homme"
+      },
+      {
+       "name": "Identifier les fonctions et les structures histologiques du testicule"
+      },
+      {
+       "name": "Réaliser un frottis de testicule"
+      },
+      {
+       "name": "Reconnaître les étapes de la spermatogenèse"
+      },
+      {
+       "name": "Déterminer les mécanismes de régulation des fonctions testiculaires"
+      }
+     ]
+    },
+    {
+     "name": "La fonction reproductrice chez la femme",
+     "children": [
+      {
+       "name": "Identifier les organes de l'appareil reproducteur de la femme"
+      },
+      {
+       "name": "Dégager les particularités du gamète femelle"
+      },
+      {
+       "name": "La folliculogenèse"
+      },
+      {
+       "name": "Identifier les étapes de l'ovogenèse"
+      },
+      {
+       "name": "Préciser les phases du cycle ovarien"
+      },
+      {
+       "name": "Décrire le cycle utérin"
+      },
+      {
+       "name": "Relier le cycle ovarien et le cycle utérin"
+      },
+      {
+       "name": "Expliquer le contrôle du cycle ovarien"
+      },
+      {
+       "name": "Expliquer le rétrocontrôle ovarien"
+      },
+      {
+       "name": "Construire un schéma de synthèse de la régulation du cycle sexuel"
+      }
+     ]
+    },
+    {
+     "name": "La procréation",
+     "children": [
+      {
+       "name": "Déterminer les conditions de la fécondation"
+      },
+      {
+       "name": "Décrire et caractériser les étapes de la fécondation"
+      },
+      {
+       "name": "Décrire les premières étapes embryonnaires"
+      },
+      {
+       "name": "Reconnaître les moyens assurant la maîtrise de la procréation"
+      },
+      {
+       "name": "Assurer l'hygiène de la procréation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Génétique",
+   "children": [
+    {
+     "name": "Le brassage de l'information génétique",
+     "children": [
+      {
+       "name": "La méiose et ses particularités"
+      },
+      {
+       "name": "Expliquer la diversité des gamètes"
+      },
+      {
+       "name": "Dégager le rôle de la fécondation dans le brassage de l'information génétique"
+      },
+      {
+       "name": "Se rappeler le mode de transmission d'un caractère héréditaire"
+      },
+      {
+       "name": "Étudier le mode de transmission de deux caractères déterminés par deux gènes indépendants"
+      }
+     ]
+    },
+    {
+     "name": "La génétique humaine",
+     "children": [
+      {
+       "name": "Déterminer le mode de transmission des tares héréditaires"
+      },
+      {
+       "name": "Analyser le caryotype normal"
+      },
+      {
+       "name": "Détecter les anomalies chromosomiques"
+      },
+      {
+       "name": "Détecter les anomalies géniques"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "L'évolution biologique",
+   "children": [
+    {
+     "name": "Argumenter l'évolution par les données de l'anatomie comparée"
+    },
+    {
+     "name": "Argumenter l'évolution à partir de la comparaison d'embryons de vertébrés"
+    },
+    {
+     "name": "Argumenter l'évolution par des données de la biologie moléculaire"
+    },
+    {
+     "name": "Expliquer les mécanismes de l'évolution"
+    },
+    {
+     "name": "Dégager les mécanismes de la spéciation"
+    }
+   ]
+  },
+  {
+   "name": "Neurophysiologie",
+   "children": [
+    {
+     "name": "Le tissu nerveux",
+     "children": [
+      {
+       "name": "Identifier les différentes parties du système nerveux chez l'homme"
+      },
+      {
+       "name": "Identifier l'unité structurale du tissu nerveux"
+      },
+      {
+       "name": "Préciser le mode de connexion entre les neurones"
+      }
+     ]
+    },
+    {
+     "name": "Étude d'une réaction motrice : le réflexe myotatique",
+     "children": [
+      {
+       "name": "Déterminer les éléments anatomiques du réflexe myotatique"
+      },
+      {
+       "name": "Expliquer la naissance du message nerveux"
+      },
+      {
+       "name": "Expliquer l'origine du potentiel d'action"
+      },
+      {
+       "name": "Expliquer la naissance du message nerveux au niveau du fuseau neuromusculaire"
+      },
+      {
+       "name": "Déterminer la vitesse de propagation du message nerveux"
+      },
+      {
+       "name": "Expliquer le mécanisme de la transmission synaptique"
+      },
+      {
+       "name": "Mettre en évidence le rôle intégrateur du neurone postsynaptique"
+      },
+      {
+       "name": "Expliquer le mécanisme de la coordination des muscles antagonistes"
+      },
+      {
+       "name": "Reconstituer le circuit anatomique intervenant dans le réflexe myotatique"
+      }
+     ]
+    },
+    {
+     "name": "Étude du fonctionnement d'un effecteur moteur : le fonctionnement du muscle squelettique",
+     "children": [
+      {
+       "name": "Observation macroscopique et microscopique du muscle squelettique"
+      },
+      {
+       "name": "Préciser la relation entre fibre nerveuse et fibre musculaire"
+      },
+      {
+       "name": "Expliquer le mode de fonctionnement de la plaque motrice"
+      },
+      {
+       "name": "Expliquer les phénomènes biochimiques, thermiques et mécaniques de la contraction musculaire"
+      },
+      {
+       "name": "Résumer les divers phénomènes de la contraction musculaire"
+      }
+     ]
+    },
+    {
+     "name": "La régulation de la pression artérielle",
+     "children": [
+      {
+       "name": "Mesurer indirectement la pression artérielle chez l'homme"
+      },
+      {
+       "name": "Identifier l'innervation du cœur et des vaisseaux"
+      },
+      {
+       "name": "Expliquer le mécanisme nerveux de régulation de la pression artérielle dans le cas d'une hypertension"
+      },
+      {
+       "name": "Expliquer le mécanisme nerveux de régulation de la pression artérielle dans le cas d'une hypotension"
+      },
+      {
+       "name": "Expliquer le mode d'action du système nerveux sur le cœur"
+      },
+      {
+       "name": "Expliquer la régulation hormonale de la pression artérielle"
+      },
+      {
+       "name": "Se documenter sur les maladies cardiovasculaires, leurs causes et leur prévention"
+      }
+     ]
+    },
+    {
+     "name": "L'hygiène du système nerveux",
+     "children": [
+      {
+       "name": "Décrire les manifestations du stress"
+      },
+      {
+       "name": "Expliquer les mécanismes physiologiques du stress"
+      },
+      {
+       "name": "S'informer sur les drogues et leurs effets"
+      },
+      {
+       "name": "Expliquer le mode d'action des drogues sur le cerveau"
+      },
+      {
+       "name": "Comment éviter le piège des drogues ?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "L'immunité",
+   "children": [
+    {
+     "name": "Le soi et le non soi",
+     "children": [
+      {
+       "name": "Dégager la notion d'agglutination"
+      },
+      {
+       "name": "Identifier la nature des marqueurs des différents groupes sanguins"
+      },
+      {
+       "name": "Établir une relation entre l'histocompatibilité et le degré de parenté"
+      },
+      {
+       "name": "Analyser des expériences de greffe"
+      },
+      {
+       "name": "Préciser la nature des marqueurs tissulaires du soi"
+      },
+      {
+       "name": "Expliquer le mécanisme assurant la surveillance du soi"
+      }
+     ]
+    },
+    {
+     "name": "Les acteurs de l'immunité spécifique",
+     "children": [
+      {
+       "name": "Dégager les propriétés de l'immunité spécifique"
+      },
+      {
+       "name": "Identifier les réponses immunitaires spécifiques selon le type de l'effecteur"
+      },
+      {
+       "name": "Caractériser l'effecteur de l'immunité humorale"
+      },
+      {
+       "name": "Identifier les cellules immunitaires"
+      },
+      {
+       "name": "Mettre en évidence le rôle de la moelle osseuse"
+      },
+      {
+       "name": "Déterminer les lieux de maturation des cellules de l'immunité"
+      },
+      {
+       "name": "Expliquer en quoi consiste la maturation des LT et LB"
+      },
+      {
+       "name": "Décrire la structure de l'anticorps et préciser sa fonction"
+      },
+      {
+       "name": "Identifier les organes de stockage de lymphocytes"
+      }
+     ]
+    },
+    {
+     "name": "Le déroulement de la réponse immunitaire spécifique",
+     "children": [
+      {
+       "name": "Expliquer comment se fait la reconnaissance de l'antigène"
+      },
+      {
+       "name": "Analyser l'évolution du nombre de lymphocytes lors de la réponse immunitaire à médiation humorale"
+      },
+      {
+       "name": "Analyser l'évolution du nombre de lymphocytes lors de la réponse immunitaire à médiation cellulaire"
+      },
+      {
+       "name": "Expliquer l'acquisition de la mémoire immunologique"
+      },
+      {
+       "name": "Dégager les caractéristiques de la phase effectrice de la réponse humorale"
+      },
+      {
+       "name": "Dégager les caractéristiques de la phase effectrice de la réponse cellulaire et le mode d'action des lymphocytes Tc"
+      },
+      {
+       "name": "Mettre en évidence la coopération entre les cellules de l'immunité"
+      },
+      {
+       "name": "Vérifier l'hypothèse de la coopération entre LB et LT lors de l'immunité humorale"
+      },
+      {
+       "name": "Dégager le mode de communication entre les cellules de l'immunité"
+      }
+     ]
+    },
+    {
+     "name": "Le dysfonctionnement du système immunitaire",
+     "children": [
+      {
+       "name": "Définir l'allergie et dégager ses caractères"
+      },
+      {
+       "name": "Expliquer le mécanisme d'une réaction allergique"
+      },
+      {
+       "name": "Dégager les particularités structurales du VIH"
+      },
+      {
+       "name": "Reconnaître les modes de contagion par le VIH et proposer des mesures de prévention"
+      },
+      {
+       "name": "Dégager les indicateurs de reconnaissance des personnes porteuses du VIH"
+      },
+      {
+       "name": "Expliquer le mode d'action du VIH"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "French SVT book (Bac Sciences expérimentales). 5 themes / 14 chapters from the table des matières (p344). Third level = 'Activité' titles from headings (numbering removed; book has some numbering mistakes). Theme 3 has no chapters, so its activities are listed directly under it. Genetics ch1 activity 6 ('étudier le mode de transmission de deux caractères déterminés par ...') was truncated in the extract and omitted. Exercises, compléments, glossaire excluded."
+}

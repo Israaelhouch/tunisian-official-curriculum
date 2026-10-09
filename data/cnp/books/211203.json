@@ -1,0 +1,77 @@
+{
+ "code": "211203",
+ "title": "التربية المدنية",
+ "used_for": [
+  "2eme-lettres/CIVIQ",
+  "2eme-sciences/CIVIQ",
+  "2eme-technologie-informatique/CIVIQ",
+  "2eme-economie-services/CIVIQ",
+  "2eme-sport/CIVIQ"
+ ],
+ "toc": [
+  {
+   "name": "الدولة الديمقراطيّة الحديثة",
+   "children": [
+    {
+     "name": "تقديم عام",
+     "children": []
+    },
+    {
+     "name": "خصائص السلطة السياسيّة حتّى العصور الحديثة",
+     "children": []
+    },
+    {
+     "name": "أنظمة الحكم في المجتمعات الإسلاميّة في العصور الوسطى",
+     "children": []
+    },
+    {
+     "name": "نشأة الدولة الديمقراطيّة الحديثة في الغرب",
+     "children": []
+    },
+    {
+     "name": "التجارب التحديثيّة في البلدان العربيّة",
+     "children": []
+    },
+    {
+     "name": "أسس الدولة الديمقراطيّة الحديثة",
+     "children": []
+    },
+    {
+     "name": "انهيار الأنظمة الكليانيّة والسير نحو النموذج الديمقراطي",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "دولة القانون",
+   "children": [
+    {
+     "name": "الدرس الأول",
+     "children": []
+    },
+    {
+     "name": "وسائل دولة القانون وهيئاتها",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "المجتمع المدني",
+   "children": [
+    {
+     "name": "المجتمع المدني : مفهومه وأسسه",
+     "children": []
+    },
+    {
+     "name": "وسائل اشتغال المجتمع المدني ومجالاته",
+     "children": []
+    },
+    {
+     "name": "المجتمع المدني والدولة",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Source: فهرس الكتاب p.168 (OCR, 3 columns: axes / lessons / pages) cross-checked with headings (p.5, p.106, p.124, p.135, p.154). The OCR'd lesson column drops 3 rows (pages 94, 106, 121, 154 have more entries than lessons listed): 'وسائل دولة القانون وهيئاتها' (p.106) and 'المجتمع المدني والدولة' (p.154) recovered from page headings; third axis name 'المجتمع المدني' from p.124 heading. 1 positional placeholder: first lesson of axis 'دولة القانون' (p.94), title not readable anywhere -> 'الدرس الأول'. 'تقديم عام' kept as it is a content lesson (concept of authority), not a preface. Excluded: 'حصة أشغال موجهة' sessions (pp.87, 121, 166), خريطة الكتاب, 'ما ينبغي أن أعرف'. OCR fixes: 'الديكقراطية'->'الديمقراطية', 'مقهومه'->'مفهومه'."
+}

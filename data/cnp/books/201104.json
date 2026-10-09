@@ -1,0 +1,186 @@
+{
+ "code": "201104",
+ "title": "العربية",
+ "used_for": [
+  "1ere-secondaire/ARAB",
+  "1ere-sport/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "الوحدة الأولى",
+   "children": [
+    {
+     "name": "مغامرون",
+     "children": []
+    },
+    {
+     "name": "الكون عناصر تتحاكى",
+     "children": []
+    },
+    {
+     "name": "نفحة حب",
+     "children": []
+    },
+    {
+     "name": "الاتحاد قوة الضعاف",
+     "children": []
+    },
+    {
+     "name": "النص الخامس",
+     "children": []
+    },
+    {
+     "name": "كان فوزا صعبا",
+     "children": []
+    },
+    {
+     "name": "الرهان",
+     "children": []
+    },
+    {
+     "name": "إرادة الحياة",
+     "children": []
+    },
+    {
+     "name": "السندباد",
+     "children": []
+    },
+    {
+     "name": "العجوز والبحر",
+     "children": []
+    },
+    {
+     "name": "يوم اليرموك",
+     "children": []
+    },
+    {
+     "name": "من البطولة إلى الأسطورة",
+     "children": []
+    },
+    {
+     "name": "ولقد ذكرتك",
+     "children": []
+    },
+    {
+     "name": "الأرنب والأسد",
+     "children": []
+    },
+    {
+     "name": "في منتصف الطريق",
+     "children": []
+    },
+    {
+     "name": "إرم ذات العماد",
+     "children": []
+    },
+    {
+     "name": "مغامرة الكتابة",
+     "children": []
+    },
+    {
+     "name": "عبرة الأيام",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "بين الهزل والجد",
+   "children": [
+    {
+     "name": "من دلالات الجد والهزل",
+     "children": []
+    },
+    {
+     "name": "المقامة القردية",
+     "children": []
+    },
+    {
+     "name": "المقامة الفوشيكية",
+     "children": []
+    },
+    {
+     "name": "الثلث لي ولك الثلثان",
+     "children": []
+    },
+    {
+     "name": "طرنتو",
+     "children": []
+    },
+    {
+     "name": "الشرطة أم البوليس؟",
+     "children": []
+    },
+    {
+     "name": "الرياضة بين التسلية والاحتراف",
+     "children": []
+    },
+    {
+     "name": "عبد الله التونسي",
+     "children": []
+    },
+    {
+     "name": "وانتهت الجلسة",
+     "children": []
+    },
+    {
+     "name": "النص العاشر",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "الأقصوصة",
+   "children": [
+    {
+     "name": "الأقصوصة",
+     "children": []
+    },
+    {
+     "name": "القصة القصيرة",
+     "children": []
+    },
+    {
+     "name": "العيد في الأرض",
+     "children": []
+    },
+    {
+     "name": "لوكاس في المستشفى",
+     "children": []
+    },
+    {
+     "name": "صادق",
+     "children": []
+    },
+    {
+     "name": "سأكتفي من الحلم بالسراب",
+     "children": []
+    },
+    {
+     "name": "السقوط",
+     "children": []
+    },
+    {
+     "name": "خطوط الوهم الرائعة",
+     "children": []
+    },
+    {
+     "name": "حكاية ذات مساء",
+     "children": []
+    },
+    {
+     "name": "سهرت منه الليالي",
+     "children": []
+    },
+    {
+     "name": "الملك والعريف",
+     "children": []
+    },
+    {
+     "name": "وليمة خاصة جدا",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Text anthology (sport section): unit -> text. Source: فهرس pp235-236 (OCR, dotted leaders), cross-checked with unit-1 design table pp7-8. Unit 1 header line missing from the فهرس and its large heading is unreadable -> positional 'الوحدة الأولى' (only the preface names it). Unit 2 title read from فهرس 'وحدة: بين البزل ...' (البزل->الهزل; second word only legible in the preface). Positional text placeholders for unreadable titles: U1 #4 (Ahmed Chawki, 'الأتحاد 55 الضعاف'), #5 (Chaker Mustapha, 'غدير ...'), #9 (Kamel Kilani, illegible); U2 #1 ('من دلالات .. والمهزل'), #9 ('.. وانتهت'), #10 ('من اللعب إلى ..'), #11 (illegible; may be the evaluation text); U3 #8 ('.. الوهم الرائعة'). Excluded: unit-1 evaluation text 'مصارعة الحوت' and 'ورقات لغوية'. 'شكرتك' corrected to 'ذكرتك' per design table p7. Rebuild pass: opener pages (p1, p5, p9, p78, p146, p223) re-OCR'd but carry no readable unit or text titles (p146 only 'وحدة :' with the name lost; p9 only 'المدخل' fragment), so all placeholders above are kept unchanged; unit-1 name is printed only in the preface (not used). Second rebuild pass (full-page OCR of every page): resolved U1 #4 = 'الاتحاد قوة الضعاف' (text heading p19 'الاتّحاد قُوَةٌ الضعاف', also quoted p22); U1 #9 = 'السندباد' (heading p40 OCR 'الستدباد'); U2 #1 = 'من دلالات الجد والهزل' (heading p82 'من دلالات الجد والبزل', البزل->الهزل); U2 #9 = 'وانتهت الجلسة' (unit design table p81, matching فهرس fragment '.. وانتهت'; page p134 has no title line); U2 #11 = 'المتشائل' (heading p143; NB this is the unit-2 evaluation text, pp143-145, kept in place but a candidate for exclusion like 'مصارعة الحوت'); U3 #8 = 'خطوط الوهم الرائعة' (unit design table p148, matching فهرس '.. الوهم الرائعة'; heading p179 garbled). Still positional: unit 1 name (p9 opener and pages carry no readable title), U1 #5 ('غدير ...', p23 has no heading), U2 #10 (heading p139 and table p81 both truncated 'من اللعب إلى الج'). | 'المتشائل' removed: unit 2 evaluation text (excluded like other evaluation texts)."
+}

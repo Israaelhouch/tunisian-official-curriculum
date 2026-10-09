@@ -1,0 +1,124 @@
+{
+ "code": "211105",
+ "title": "التفكير الاسلامي",
+ "used_for": [
+  "1ere-secondaire/ISLAM",
+  "1ere-sport/ISLAM"
+ ],
+ "toc": [
+  {
+   "name": "الوحدة الأولى",
+   "children": [
+    {
+     "name": "تلازم أركان العقيدة"
+    },
+    {
+     "name": "الإيمان عقيدة وممارسة"
+    },
+    {
+     "name": "الإيمان حسن المعاملة"
+    },
+    {
+     "name": "تكامل العقل والنقل في إثبات حقيقة الغيب"
+    }
+   ]
+  },
+  {
+   "name": "الوحدة الثانية",
+   "children": [
+    {
+     "name": "طبيعة العلاقات الأسرية في الإسلام"
+    },
+    {
+     "name": "دور الأسرة في الارتقاء بالعلاقات الاجتماعية"
+    },
+    {
+     "name": "المجادلة بالحسنى"
+    }
+   ]
+  },
+  {
+   "name": "أحاور الآخرين بالتي هي أحسن",
+   "children": [
+    {
+     "name": "آداب الحوار"
+    },
+    {
+     "name": "أثر الحوار في تحقيق التواصل بين الأجيال"
+    },
+    {
+     "name": "أثر الإيمان في العلاقات الاجتماعية"
+    }
+   ]
+  },
+  {
+   "name": "الوحدة الرابعة",
+   "children": [
+    {
+     "name": "حقيقة النبوة ومقتضياتها"
+    },
+    {
+     "name": "دور الأنبياء في الارتقاء بالوعي البشري"
+    },
+    {
+     "name": "النبوة هداية وإصلاح"
+    },
+    {
+     "name": "الأنبياء بناة الحضارة"
+    }
+   ]
+  },
+  {
+   "name": "الوحدة الخامسة",
+   "children": [
+    {
+     "name": "الاجتهاد ضرورة شرعية"
+    },
+    {
+     "name": "الدرس السادس عشر"
+    },
+    {
+     "name": "التشريع بالاجتهاد المستند إلى أصل سابق"
+    },
+    {
+     "name": "التشريع بالاستحسان والرأي المستند إلى المصلحة"
+    },
+    {
+     "name": "خصائص الشريعة الإسلامية"
+    }
+   ]
+  },
+  {
+   "name": "أتواصل مع الكون والطبيعة",
+   "children": [
+    {
+     "name": "دلالات التوحيد"
+    },
+    {
+     "name": "أبعاد التوحيد"
+    },
+    {
+     "name": "الإنسان والطبيعة"
+    }
+   ]
+  },
+  {
+   "name": "بالعمل نرقى",
+   "children": [
+    {
+     "name": "قيمة العمل في الإسلام"
+    },
+    {
+     "name": "دور العمل في تحقيق الذات"
+    },
+    {
+     "name": "العمل قيمة حضارية"
+    },
+    {
+     "name": "مقتضيات الإيمان"
+    }
+   ]
+  }
+ ],
+ "notes": "Lessons from فهرس p3 (26 numbered lessons; OCR lost lines for lessons 11-19), completed with lesson headings and the programme summary printed on p103-104 (lesson 11 'حقيقة النبوة ومقتضياتها' taken from that p103 list, its heading being unreadable). Units delimited by one-page openers with large titles (pp8, 21, 31, 41, 56, 76, 88); only 3 unit titles readable. Positional placeholders: unit 1 (opener p8 has no title text), units 2 and 4 (titles unreadable OCR), unit 5 (title 'أدرك ... الإسلام مع قضايا الواقع' has an unreadable word), and lesson 16 (p61 heading 'التشريع ...' unreadable). Labels like '(هدي قرآني)/(هدي نبوي)' dropped. 'التقل' corrected to 'النقل'. Rebuild pass: opener pages re-OCR'd. p8 (unit 1) and p41 (unit 4) list only the lessons (confirming them), with no legible unit title; p21 (unit 2) and p31/p76/p88 openers are graphic/empty; p56 (unit 5) lists lessons but not the unit title -> unit placeholders 1, 2, 4, 5 kept. Lesson 16 (p61) still unreadable (not on opener p56, which lists 4 of the 5 lessons) -> placeholder kept. Lesson 18 renamed 'التشريع بالاستحسان والرأي المستند إلى المصلحة' as printed on opener p56 and programme summary p103 (page heading p69 shorter: 'التشريع بالرأي المستند إلى المصلحة'). Second rebuild pass (full-page OCR of every page): no change. Unit openers p8/p21/p31/p41/p56/p76/p88 still show no unit title; lesson 16 start (p60-61) prints only a fragment ('... بالمصالح المرسلة' on p60), and the فهرس p3 lost lines 11-19 -> placeholders for units 1, 2, 4, 5 and lesson 16 kept."
+}

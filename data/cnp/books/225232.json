@@ -1,0 +1,228 @@
+{
+ "code": "225232",
+ "title": "علوم الحياة والأرض",
+ "used_for": [
+  "2eme-sciences/SVT"
+ ],
+ "toc": [
+  {
+   "name": "Exploitation rationnelle des ressources géologiques",
+   "children": [
+    {
+     "name": "La carte topographique",
+     "children": [
+      {
+       "name": "La représentation du relief",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Notions de stratigraphie et de tectonique",
+     "children": [
+      {
+       "name": "Les principes de la stratigraphie",
+       "children": []
+      },
+      {
+       "name": "Les plis et les failles",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "La carte géologique",
+     "children": [
+      {
+       "name": "Les éléments de la carte géologique",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Les ressources en eau et leur exploitation",
+     "children": [
+      {
+       "name": "Les ressources en eau en Tunisie",
+       "children": []
+      },
+      {
+       "name": "Les caractéristiques des réserves d’eau souterraine",
+       "children": []
+      },
+      {
+       "name": "La carte hydrologique",
+       "children": []
+      },
+      {
+       "name": "Gestion rationnelle de l’eau",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Une roche sédimentaire à intérêt économique : les phosphates",
+     "children": [
+      {
+       "name": "Intérêt économique de la roche et conséquences de son exploitation sur l’environnement",
+       "children": []
+      },
+      {
+       "name": "Propriétés physico-chimiques",
+       "children": []
+      },
+      {
+       "name": "Localisation et genèse des phosphates",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Une roche sédimentaire à intérêt économique : le pétrole",
+     "children": [
+      {
+       "name": "Intérêt économique de la roche et conséquences de son exploitation sur l’environnement",
+       "children": []
+      },
+      {
+       "name": "Propriétés physico-chimiques",
+       "children": []
+      },
+      {
+       "name": "Localisation et formation d’un gisement de pétrole",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gestion rationnelle d’un écosystème",
+   "children": [
+    {
+     "name": "Notion d’écosystème",
+     "children": [
+      {
+       "name": "Étude d’un milieu : la forêt de Boukornine",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Adaptation des êtres vivants aux facteurs climatiques",
+     "children": [
+      {
+       "name": "Action des facteurs climatiques sur les végétaux",
+       "children": []
+      },
+      {
+       "name": "Action des facteurs climatiques sur les animaux",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "La répartition des végétaux en Tunisie",
+     "children": [
+      {
+       "name": "La répartition des végétaux",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Relations trophiques d’un écosystème",
+     "children": [
+      {
+       "name": "Les principaux types de relations alimentaires",
+       "children": []
+      },
+      {
+       "name": "L’organisation des relations alimentaires dans un écosystème",
+       "children": []
+      },
+      {
+       "name": "La production de biomasse dans un écosystème",
+       "children": []
+      },
+      {
+       "name": "Le cycle de la matière",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Notion de développement durable",
+     "children": [
+      {
+       "name": "Actions négatives de l’Homme sur l’écosystème",
+       "children": []
+      },
+      {
+       "name": "Actions positives de l’Homme sur l’écosystème",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Les êtres vivants : unité et diversité d’organisation, reproduction conforme",
+   "children": [
+    {
+     "name": "La cellule, unité de structure des êtres vivants",
+     "children": [
+      {
+       "name": "La structure de la cellule eucaryote",
+       "children": []
+      },
+      {
+       "name": "Ultrastructure de la cellule eucaryote",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Notions d’espèce, de lignée et de caractère héréditaire",
+     "children": [
+      {
+       "name": "Notions d’espèce et de lignée",
+       "children": []
+      },
+      {
+       "name": "Notion de caractère héréditaire",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "La reproduction conforme et son mécanisme cellulaire",
+     "children": [
+      {
+       "name": "Notion de reproduction conforme",
+       "children": []
+      },
+      {
+       "name": "La mitose, mécanisme de la reproduction conforme",
+       "children": []
+      },
+      {
+       "name": "Les chromosomes : forme et nombre",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "L’information génétique",
+     "children": [
+      {
+       "name": "Localisation et nature de l’information génétique",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "SVT 2ème sciences. Sommaire (pp.231-232) used where extracted; the middle (theme 2 opener, ch.1-2 of theme 2, end of ch.6) and the end (theme 3 ch.4) are cut, so those chapter/section names come from page-ordered title headings (pp.67-216). Theme 3 title from its opener p.169 (sommaire omits 'et diversité'). Ch.2 of theme 3 title from p.184 heading. Préacquis, situations d'intégration, bilan, exercices excluded. Theme 3 ch.4 may have further sections after p.216 not visible in the extract."
+}

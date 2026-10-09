@@ -1,0 +1,252 @@
+{
+ "code": "222472",
+ "title": "الرياضيات -شعبة علوم الإعلامية",
+ "used_for": [
+  "bac-informatique/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Suites réelles",
+   "children": [
+    {
+     "name": "Généralités"
+    },
+    {
+     "name": "Opérations sur les limites"
+    },
+    {
+     "name": "Convergence de suites monotones"
+    },
+    {
+     "name": "Suites et fonctions"
+    }
+   ]
+  },
+  {
+   "name": "Limites de fonctions",
+   "children": [
+    {
+     "name": "Généralités sur les fonctions"
+    },
+    {
+     "name": "Limite d'une fonction"
+    },
+    {
+     "name": "Limites et droites asymptotes"
+    },
+    {
+     "name": "Limites par comparaison"
+    }
+   ]
+  },
+  {
+   "name": "Continuité",
+   "children": [
+    {
+     "name": "Continuité d'une fonction"
+    },
+    {
+     "name": "Continuité d'une fonction composée"
+    },
+    {
+     "name": "Image d'un intervalle par une fonction continue"
+    },
+    {
+     "name": "Fonction réciproque d'une fonction continue et strictement monotone sur un intervalle"
+    }
+   ]
+  },
+  {
+   "name": "Dérivation – Primitives",
+   "children": [
+    {
+     "name": "Dérivabilité – Rappels"
+    },
+    {
+     "name": "Fonctions dérivées – Opérations sur les fonctions dérivables"
+    },
+    {
+     "name": "Théorème des accroissements finis"
+    },
+    {
+     "name": "Dérivée seconde – Point d'inflexion"
+    },
+    {
+     "name": "Primitives"
+    }
+   ]
+  },
+  {
+   "name": "Etude de fonctions",
+   "children": [
+    {
+     "name": "Généralités"
+    },
+    {
+     "name": "Exemples de fonctions rationnelles"
+    },
+    {
+     "name": "Exemples de fonctions de type …"
+    }
+   ]
+  },
+  {
+   "name": "Logarithme népérien",
+   "children": [
+    {
+     "name": "Définition et propriétés"
+    },
+    {
+     "name": "Encadrement de ln(1+x) par des polynômes"
+    },
+    {
+     "name": "Etude de la fonction logarithme népérien"
+    },
+    {
+     "name": "Calcul de limites"
+    },
+    {
+     "name": "Etude d'exemples de fonctions de type …"
+    },
+    {
+     "name": "Fonction logarithme décimal"
+    }
+   ]
+  },
+  {
+   "name": "Fonctions exponentielles",
+   "children": [
+    {
+     "name": "Fonction exponentielle"
+    },
+    {
+     "name": "Étude de la fonction exponentielle"
+    },
+    {
+     "name": "Puissance rationnelle d'un réel positif"
+    },
+    {
+     "name": "Fonction exponentielle de base a"
+    },
+    {
+     "name": "Étude de fonctions du type …"
+    }
+   ]
+  },
+  {
+   "name": "Calcul intégral",
+   "children": [
+    {
+     "name": "Intégrale d'une fonction sur un intervalle"
+    },
+    {
+     "name": "Intégrales et inégalités"
+    },
+    {
+     "name": "Calcul d'aires planes"
+    }
+   ]
+  },
+  {
+   "name": "Arithmétique",
+   "children": [
+    {
+     "name": "Divisibilité dans ℤ"
+    },
+    {
+     "name": "Division euclidienne"
+    },
+    {
+     "name": "Congruences"
+    },
+    {
+     "name": "PGCD et PPCM de deux entiers"
+    },
+    {
+     "name": "Théorème de Bézout"
+    },
+    {
+     "name": "Lemme de Gauss"
+    },
+    {
+     "name": "Application : résolution dans ℤ×ℤ d'équations du type ax+by = c où a, b et c sont des entiers relatifs"
+    }
+   ]
+  },
+  {
+   "name": "Nombres complexes",
+   "children": [
+    {
+     "name": "Définition et propriétés"
+    },
+    {
+     "name": "Représentation géométrique d'un nombre complexe"
+    },
+    {
+     "name": "Conjugué d'un nombre complexe"
+    },
+    {
+     "name": "Module d'un nombre complexe"
+    },
+    {
+     "name": "Equations dans ℂ"
+    }
+   ]
+  },
+  {
+   "name": "Systèmes d'équations linéaires",
+   "children": [
+    {
+     "name": "Matrices et opérations sur les matrices"
+    },
+    {
+     "name": "Déterminant d'une matrice carrée d'ordre 2 ou 3"
+    },
+    {
+     "name": "Inverse d'une matrice carrée d'ordre 2 ou 3"
+    },
+    {
+     "name": "Applications"
+    }
+   ]
+  },
+  {
+   "name": "Séries statistiques à deux caractères",
+   "children": [
+    {
+     "name": "Activités de rappel"
+    },
+    {
+     "name": "Nuage de points – Cœfficient de corrélation linéaire"
+    },
+    {
+     "name": "Ajustements affines"
+    },
+    {
+     "name": "Exemples d'ajustements non affines"
+    }
+   ]
+  },
+  {
+   "name": "Probabilités",
+   "children": [
+    {
+     "name": "Espaces probabilisés finis – Probabilité"
+    },
+    {
+     "name": "Probabilités conditionnelles"
+    },
+    {
+     "name": "Variables aléatoires"
+    },
+    {
+     "name": "Schéma de Bernoulli"
+    },
+    {
+     "name": "Exemples de variables aléatoires continues"
+    }
+   ]
+  }
+ ],
+ "notes": "13 chapters from sommaire p4 (also split into '1ère Partie'/'2ème Partie' but the split point is not recoverable, so parts omitted). Sections from each chapter's 'Plan du chapitre' heading line. Three section titles end in a formula lost in extraction ('Exemples de fonctions de type …', 'Etude d'exemples de fonctions de type …' (likely ln(u)), 'Étude de fonctions du type …' (likely exp(u))); ℤ/ℂ symbols restored."
+}

@@ -1,0 +1,136 @@
+{
+ "code": "128903",
+ "title": "Technologie - Manuel d'activités",
+ "used_for": [
+  "9eme-base/TECHNO"
+ ],
+ "toc": [
+  {
+   "name": "التعبير البياني",
+   "children": [
+    {
+     "name": "سهارة مكتب"
+    },
+    {
+     "name": "مشد الوصلة لتثبيت الخشب"
+    },
+    {
+     "name": "مزلاج"
+    },
+    {
+     "name": "قاطعة البلاط اليدوية"
+    },
+    {
+     "name": "جهاز تثبيت الملولب"
+    }
+   ]
+  },
+  {
+   "name": "عناصر ربط المحاور",
+   "children": [
+    {
+     "name": "آلة إعداد العصير"
+    }
+   ]
+  },
+  {
+   "name": "الروابط الميكانيكية",
+   "children": [
+    {
+     "name": "عصا سيلفي"
+    },
+    {
+     "name": "بكرة رفع الأثقال"
+    },
+    {
+     "name": "ملزمة"
+    }
+   ]
+  },
+  {
+   "name": "الدالات المنطقية الأساسية",
+   "children": [
+    {
+     "name": "الدالة المنطقية OUI"
+    },
+    {
+     "name": "الدالة المنطقية NON"
+    },
+    {
+     "name": "الدالة المنطقية OU"
+    },
+    {
+     "name": "الدالة المنطقية ET"
+    },
+    {
+     "name": "عصارة برتقال"
+    },
+    {
+     "name": "ميكروويف"
+    },
+    {
+     "name": "جهاز التحكم عن بعد لطائرة بدون طيار"
+    }
+   ]
+  },
+  {
+   "name": "المواد المستعملة",
+   "children": [
+    {
+     "name": "طرائق انتاج المواد المعدنية",
+     "children": [
+      {
+       "name": "سكوتر كهربائي"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "الطاقة المستعملة",
+   "children": [
+    {
+     "name": "تخزين الطاقة الكهربائية",
+     "children": [
+      {
+       "name": "شاحن محمول"
+      },
+      {
+       "name": "هوفيربورد HoverBoard"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "تصنيع المنتج التقني",
+   "children": [
+    {
+     "name": "تحليل معطيات كراس الشروط الوظيفي"
+    },
+    {
+     "name": "برمجة لوحات التحكم"
+    },
+    {
+     "name": "الصيغة الشرطية"
+    },
+    {
+     "name": "تجميع المكونات"
+    },
+    {
+     "name": "تصنيع القطع"
+    },
+    {
+     "name": "الطابعة ثلاثية الأبعاد"
+    },
+    {
+     "name": "الإضاءة الأتوماتيكية"
+    },
+    {
+     "name": "سهارة ذكية"
+    }
+   ]
+  }
+ ],
+ "notes": "Rebuilt completely from full-page OCR. Source: the فهرس p6-7 (OCR, page numbers misaligned but order clear), cross-checked with lesson openers p44 (عناصر ربط المحاور), p51 (الروابط الميكانيكية), p68 (الدالات المنطقية), p80 (المواد المستعملة), p85 (الطاقة المستعملة), p93 (تصنيع المنتج التقني) and activity pages. The book has no printed axis/المحور titles: the TOC lists lessons (some grouped, e.g. 'الطاقة المستعملة' > 'تخزين الطاقة الكهربائية', 'المواد المستعملة: طرائق انتاج المواد المعدنية' split into group > lesson) followed by their numbered activities (نشاط), which are given as children; activity sub-parts (الجزء الأول...) omitted. The odd-page running header 'التحليل البنيوي للمنتج التقني' (used alone in the previous pass) runs over the whole book p13-133, including the manufacturing part, so it is a template header and not used as a structure item; opener p44 prints 'التحليل البنيوي' as a domain label only. 'ملزمة' (activity p59) is not in the OCR'd TOC (a line seems lost) but is named among the lesson's products on opener p51. TOC entry 'البيت الذي' (p69, = البيت الذكي) is the lesson's opening situation, omitted. OCR fixes: 'عضا سيلفي' -> 'عصا سيلفي' (p52), 'بكرة رَفِعِ الاثقال' -> 'بكرة رفع الأثقال' (p56), 'الة اعداد العصير' -> 'آلة إعداد العصير' (p45), 'التشاط 2' -> نشاط. Excluded الخلاصة, تقييم مهارات الحياة, قائمة المصطلحات, الملاحق."
+}

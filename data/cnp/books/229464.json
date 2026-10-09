@@ -1,0 +1,303 @@
+{
+ "code": "229464",
+ "title": "التصرف_شعبة الاقتصاد والتصرف",
+ "used_for": [
+  "bac-economie-gestion/GEST"
+ ],
+ "toc": [
+  {
+   "name": "Module évaluation-consolidation",
+   "children": [
+    {
+     "name": "Notions comptables",
+     "children": [
+      {
+       "name": "La comptabilité source d'informations"
+      },
+      {
+       "name": "L'enregistrement dans les comptes"
+      },
+      {
+       "name": "Le principe de la partie double"
+      },
+      {
+       "name": "Les emplois et les ressources définitifs"
+      }
+     ]
+    },
+    {
+     "name": "Établissement du bilan",
+     "children": [
+      {
+       "name": "Le bilan comptable"
+      },
+      {
+       "name": "L'analyse du bilan"
+      }
+     ]
+    },
+    {
+     "name": "La structure de l'entreprise et l'interdépendance des fonctions",
+     "children": [
+      {
+       "name": "Les principales fonctions de l'entreprise"
+      },
+      {
+       "name": "La structure de l'entreprise"
+      }
+     ]
+    },
+    {
+     "name": "Le système d'information : notions",
+     "children": [
+      {
+       "name": "Le système d'information"
+      },
+      {
+       "name": "L'obtention des informations"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gestion de l'approvisionnement",
+   "children": [
+    {
+     "name": "La gestion comptable des stocks",
+     "children": [
+      {
+       "name": "Les méthodes de valorisation des stocks"
+      },
+      {
+       "name": "La comparaison des méthodes de valorisation des stocks"
+      }
+     ]
+    },
+    {
+     "name": "L'analyse de l'évolution du stock",
+     "children": [
+      {
+       "name": "L'importance des stocks dans l'actif de l'entreprise"
+      },
+      {
+       "name": "La durée du stockage et le coefficient de rotation des stocks"
+      }
+     ]
+    },
+    {
+     "name": "La gestion prévisionnelle des stocks",
+     "children": [
+      {
+       "name": "Les différents niveaux de stocks"
+      },
+      {
+       "name": "Quelle quantité faut-il acheter ?"
+      },
+      {
+       "name": "La notion de la cadence d'approvisionnement"
+      },
+      {
+       "name": "À quelle date faut-il passer les commandes ?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gestion de la production",
+   "children": [
+    {
+     "name": "Le calcul des coûts",
+     "children": [
+      {
+       "name": "Les coûts complets"
+      },
+      {
+       "name": "Les coûts partiels"
+      }
+     ]
+    },
+    {
+     "name": "Le choix des quantités à fabriquer",
+     "children": [
+      {
+       "name": "La quantité optimale à fabriquer"
+      },
+      {
+       "name": "Le recours à la sous-traitance"
+      }
+     ]
+    },
+    {
+     "name": "La comparaison entre les prévisions et les réalisations",
+     "children": [
+      {
+       "name": "La détermination des coûts préétablis"
+      },
+      {
+       "name": "Le calcul des écarts"
+      },
+      {
+       "name": "L'analyse des écarts"
+      }
+     ]
+    },
+    {
+     "name": "Le lot économique",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Gestion commerciale",
+   "children": [
+    {
+     "name": "L'étude de marché",
+     "children": [
+      {
+       "name": "L'étude de l'environnement"
+      },
+      {
+       "name": "L'étude du consommateur"
+      },
+      {
+       "name": "L'étude de la concurrence"
+      },
+      {
+       "name": "L'étude de la distribution"
+      }
+     ]
+    },
+    {
+     "name": "La provocation des ventes",
+     "children": [
+      {
+       "name": "La segmentation"
+      },
+      {
+       "name": "Le ciblage"
+      },
+      {
+       "name": "La politique commerciale"
+      }
+     ]
+    },
+    {
+     "name": "L'exécution et le suivi des ventes",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Gestion des ressources humaines",
+   "children": [
+    {
+     "name": "Les besoins en personnel",
+     "children": [
+      {
+       "name": "La connaissance des objectifs de développement"
+      },
+      {
+       "name": "La définition des besoins"
+      },
+      {
+       "name": "L'inventaire des ressources existantes et l'analyse de leur évolution probable dans le temps"
+      },
+      {
+       "name": "L'analyse des écarts"
+      },
+      {
+       "name": "Le choix des actions à envisager"
+      }
+     ]
+    },
+    {
+     "name": "Le recrutement",
+     "children": [
+      {
+       "name": "Le recrutement"
+      },
+      {
+       "name": "Le choix du mode de recrutement"
+      }
+     ]
+    },
+    {
+     "name": "La formation du personnel",
+     "children": [
+      {
+       "name": "La formation du personnel"
+      },
+      {
+       "name": "Le coût de la formation"
+      }
+     ]
+    },
+    {
+     "name": "La rémunération du personnel",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "Gestion financière",
+   "children": [
+    {
+     "name": "Le financement du cycle d'investissement",
+     "children": [
+      {
+       "name": "Les sources de financement des investissements"
+      },
+      {
+       "name": "Le choix d'investissement"
+      },
+      {
+       "name": "Le choix du mode de financement"
+      }
+     ]
+    },
+    {
+     "name": "Le financement du cycle d'exploitation",
+     "children": [
+      {
+       "name": "Les besoins en fonds de roulement"
+      },
+      {
+       "name": "Les sources de financement de l'exploitation"
+      }
+     ]
+    },
+    {
+     "name": "Adaptation des ressources aux besoins financiers",
+     "children": [
+      {
+       "name": "Analyse fonctionnelle du bilan : les règles de l'équilibre financier"
+      },
+      {
+       "name": "L'analyse du bilan fonctionnel par les ratios"
+      },
+      {
+       "name": "Le tableau de financement"
+      }
+     ]
+    },
+    {
+     "name": "Plan, programmes, budgets",
+     "children": [
+      {
+       "name": "La démarche budgétaire"
+      },
+      {
+       "name": "La hiérarchie et l'interdépendance des budgets"
+      },
+      {
+       "name": "La gestion prévisionnelle"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "notes": "Source: clean French Sommaire (front pp.4-8), consistent with headings and Chapitre markers. Chapter -> section (I, II...) -> sub-parts (A/B/C parts where present, otherwise the '2-x' Synthèse items). Sensibilisation / À retenir / Évaluation / Pour en savoir plus / Exemple items and the final Cas de synthèse excluded. Chapter 1 'Module évaluation-consolidation' is a review module of prior notions but is a numbered chapter, so kept."
+}

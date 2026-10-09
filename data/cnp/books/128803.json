@@ -1,0 +1,77 @@
+{
+ "code": "128803",
+ "title": "Technologie - Manuel d'activités",
+ "used_for": [
+  "8eme-base/TECHNO"
+ ],
+ "toc": [
+  {
+   "name": "[placeholder] المحور 1",
+   "children": [
+    {
+     "name": "التعبير الوظيفي"
+    },
+    {
+     "name": "كراس الشروط الوظيفي"
+    }
+   ]
+  },
+  {
+   "name": "[placeholder] المحور 2",
+   "children": [
+    {
+     "name": "التعبير البياني",
+     "children": []
+    },
+    {
+     "name": "الدارات الإلكترونية والكهربائية",
+     "children": [
+      {
+       "name": "المكونات الإلكترونية"
+      },
+      {
+       "name": "الدارة المدمجة"
+      },
+      {
+       "name": "الدارات الكهربائية للإنارة المنزلية"
+      }
+     ]
+    },
+    {
+     "name": "المواد المستعملة",
+     "children": [
+      {
+       "name": "خصائص المواد المعدنية"
+      },
+      {
+       "name": "خصائص المواد البلاستيكية"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "الطاقة المستعملة",
+   "children": [
+    {
+     "name": "الطاقات المتجددة",
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "[placeholder] المحور 4",
+   "children": [
+    {
+     "name": "برمجة لوحة تحكم",
+     "children": []
+    },
+    {
+     "name": "إنجاز عمليات تقنية",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "notes": "Re-checked against full-page OCR of all 175 pages. The four axis-opener pages (p8, p25, p107, p126) OCR to empty/garbage and no page prints an axis title in readable form, so PLACEHOLDERS remain for axes 1, 2 and 4; axis 3 title from heading p107 'الطاقة أمستعملة'. Lesson titles as before (glyph-decoded axis openers p25/p107/p126 plus OCR'd running headers: كراس الشروط الوظيفي p14-24, الدارات الإلكترونية و الكهربائية p59-90, الطاقات المتجددة p110-124, 'إنجاز عمليات' p150). Axis-1 lesson 1 'التعبير الوظيفي' from the encoded p19/p22 (its OCR'd opener p9 reads 'وظيعي المنتج التفني' - possibly a longer title). NEW third level from the OCR'd sommaire p3 (partially readable): 'المكونات الإلكترونية' (also opener p60), 'الدارات الكهربائية للإنارة المنزلية' ('الذارات' fixed; opener p75), 'خصائص المواد المعدنية' (opener p93) and 'خصائص المواد البلاستيكية' (opener p99); 'الدارة المدمجة' from heading p74 / opener p71. A further sub-lesson of الدارات (opener p68, transformer/المحوّل) has no readable title and is omitted; a p3 line 'El التقني و تطوّره عبر الزمن' could not be placed. Lesson order follows page order. Excluded أدعم مكتسباتي, شبكة تقييم ذاتية, المصطلحات, الملاحق."
+}

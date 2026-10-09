@@ -1,0 +1,215 @@
+{
+ "code": "101806",
+ "title": "نزهة القراءة_نصوص",
+ "used_for": [
+  "8eme-base/ARAB"
+ ],
+ "toc": [
+  {
+   "name": "المدينة والريف",
+   "children": [
+    {
+     "name": "احتفال"
+    },
+    {
+     "name": "عروس العالم الجديد"
+    },
+    {
+     "name": "في بيونس آيريس"
+    },
+    {
+     "name": "النص 4 (عنوان غير مقروء)"
+    },
+    {
+     "name": "شارع الأميرات"
+    },
+    {
+     "name": "الفندق الصغير"
+    },
+    {
+     "name": "تاكسي"
+    },
+    {
+     "name": "النائمة في الشارع"
+    },
+    {
+     "name": "في الجريد"
+    },
+    {
+     "name": "أم مخول"
+    },
+    {
+     "name": "سمعته يغني"
+    },
+    {
+     "name": "الأشجار هي الحياة"
+    },
+    {
+     "name": "تغيرت أشياء"
+    }
+   ]
+  },
+  {
+   "name": "المحور الثاني (عنوان غير مقروء)",
+   "children": [
+    {
+     "name": "النص 1 (عنوان غير مقروء)"
+    },
+    {
+     "name": "النص 2 (عنوان غير مقروء)"
+    },
+    {
+     "name": "الغاب"
+    },
+    {
+     "name": "عند الغروب"
+    },
+    {
+     "name": "في الشاطئ"
+    },
+    {
+     "name": "أيلول الشاعر"
+    },
+    {
+     "name": "مطر"
+    },
+    {
+     "name": "العاصفة"
+    },
+    {
+     "name": "المطاردة"
+    },
+    {
+     "name": "ليلى والعصفور"
+    },
+    {
+     "name": "تسونامي"
+    },
+    {
+     "name": "النص 12 (عنوان غير مقروء)"
+    }
+   ]
+  },
+  {
+   "name": "المحور الثالث (عنوان غير مقروء)",
+   "children": [
+    {
+     "name": "الأفق الواسع"
+    },
+    {
+     "name": "الكتاب"
+    },
+    {
+     "name": "تونس عاصمة الثقافة"
+    },
+    {
+     "name": "الساحر الجديد"
+    },
+    {
+     "name": "الكرنفال"
+    },
+    {
+     "name": "رحلة بين القمم"
+    },
+    {
+     "name": "أغنية البحر والصحراء"
+    },
+    {
+     "name": "أثر الموسيقى في إيلزا"
+    },
+    {
+     "name": "النص 9 (عنوان غير مقروء)"
+    },
+    {
+     "name": "السيرك"
+    },
+    {
+     "name": "قبل المباراة"
+    },
+    {
+     "name": "النغم الشجي"
+    }
+   ]
+  },
+  {
+   "name": "المحور الرابع (عنوان غير مقروء)",
+   "children": [
+    {
+     "name": "النص 1 (عنوان غير مقروء)"
+    },
+    {
+     "name": "ابن خلدون"
+    },
+    {
+     "name": "رائد في الطب"
+    },
+    {
+     "name": "غاندي"
+    },
+    {
+     "name": "نداء الحرية والتطور"
+    },
+    {
+     "name": "بيتهوفن"
+    },
+    {
+     "name": "يوم الحصول على جائزة نوبل"
+    },
+    {
+     "name": "النص 8 (عنوان غير مقروء)"
+    },
+    {
+     "name": "أبو القاسم الشابي"
+    },
+    {
+     "name": "أم كلثوم"
+    },
+    {
+     "name": "النص 11 (عنوان غير مقروء)"
+    },
+    {
+     "name": "النص 12 (عنوان غير مقروء)"
+    }
+   ]
+  },
+  {
+   "name": "المحور الخامس (عنوان غير مقروء)",
+   "children": [
+    {
+     "name": "النص 1 (عنوان غير مقروء)"
+    },
+    {
+     "name": "الحلم يصنع الإنسان"
+    },
+    {
+     "name": "اختيار"
+    },
+    {
+     "name": "أريد أن أعيش بحرية"
+    },
+    {
+     "name": "نشيد الجبار"
+    },
+    {
+     "name": "كانت آماله عراضا"
+    },
+    {
+     "name": "النص 7 (عنوان غير مقروء)"
+    },
+    {
+     "name": "أحلم باكتشاف عظيم"
+    },
+    {
+     "name": "حلم"
+    },
+    {
+     "name": "البنفسجة الطموح"
+    },
+    {
+     "name": "دون كيشوت"
+    }
+   ]
+  }
+ ],
+ "notes": "Axis 1 title from p7 heading ('المدبنة والريف' corrected); axes 2-5 titles not legible anywhere (only 'المحور الثالث/الرابع/الخامس' headings at pp.116,167,223) -> positional labels. Texts from the partial OCR'd فهرس (pp.270-272): axis 1 texts 2-13 (text 1 'احتفال' from p7 heading; text 10 'أم مخول' combines فهرس 'مخول' with the p39 heading), axis 2 texts 3-12 (texts 1-2 lost/unreadable, 'اديج' p66), axis 3 texts 1-12 (title list without pages, matches headings p119 & p153). Axes 4 and 5 have no surviving فهرس entries -> empty children (headings show e.g. 'أم كلثوم' p198, 'كانت آماله عراضا' p243). Unreadable: axis1 text 4, axis2 texts 1, 2, 7, 12 ('درع .. التلوث'), axis3 texts 9 ('... دامغة') and 10. 'أيلول الشاعر' as printed in فهرس (may be title 'أيلول' + author label). المحفوظات, الأنشطة التأليفية, نص للمطالعة, مشروع المحور excluded. | Re-check with full-page OCR (opener_pages) + font-encoded headings: axis2 text 7 'مطر' (p83 heading, encoded font decoded), axis3 text 10 'السيرك' (p149 title line). Axis 4 filled from text pages pp.169-207 (12 texts; المحفوظات p209, نصوص للمطالعة pp.212/218 excluded): 'ابن خلدون' p173, 'رائد في الطب' p176, 'غاندي' p179 (heading OCR 'غانيى', named «غاندي» in activities p210), 'نداء الحرية والتطور' p182 (encoded heading + p210), 'بيتهوفن' p185 (heading + p210), 'يوم الحصول على جائزة نوبل' p188, 'أبو القاسم الشابي' p195 (heading + p210), 'أم كلثوم' p198 (encoded heading); positional: texts 1 (p169, Socrates), 8 (p192, Chaplin), 11 (p202), 12 (p206) - p210 also cites «الحكيم», «حكاية إصرار», «فلتة ...» which are probably among these but cannot be placed without inference. Axis 5 filled from pp.225-261 (11 texts; النص عدد 3/4 محفوظات pp.264-265 and 'ماء الحياة' p267 للمطالعة excluded): 'الحلم يصنع الإنسان' p228, 'اختيار' p232 (heading fragment + dialogue-text list p266, medium), 'أريد أن أعيش بحرية' p236 (heading + p266), 'نشيد الجبار' p240 (Shabbi poem, so named on pp.255/266, medium), 'كانت آماله عراضا' p243, 'أحلم باكتشاف عظيم' p250 (p266 names the female researcher's text, medium), 'حلم' p254 (encoded heading + p266), 'البنفسجة الطموح' p257 (p266, medium), 'دون كيشوت' p260; positional: texts 1 (p225; possibly «مسيرة شاب» cited p266) and 7 (p247). Axis titles 2-5 still positional: no axis title page survives (pp.60/116/167/223 blank or header only); only the preface (p3) lists them, not used. Still unreadable: axis1 text 4, axis2 texts 1, 2, 12, axis3 text 9."
+}

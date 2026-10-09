@@ -1,0 +1,142 @@
+{
+ "code": "241303",
+ "title": "أنقليزية",
+ "used_for": [
+  "3eme-mathematiques/ANGL",
+  "3eme-sciences-experimentales/ANGL",
+  "3eme-informatique/ANGL",
+  "3eme-techniques/ANGL",
+  "3eme-lettres/ANGL",
+  "3eme-economie-gestion/ANGL",
+  "3eme-sport/ANGL"
+ ],
+ "toc": [
+  {
+   "name": "In time of test, family is best",
+   "children": [
+    {
+     "name": "Family roles"
+    },
+    {
+     "name": "The generation gap"
+    }
+   ]
+  },
+  {
+   "name": "We learn to give, share and care",
+   "children": [
+    {
+     "name": "Charity"
+    },
+    {
+     "name": "Altruism"
+    },
+    {
+     "name": "Activism"
+    },
+    {
+     "name": "Self-sacrifice"
+    },
+    {
+     "name": "Volunteerism"
+    },
+    {
+     "name": "Solidarity"
+    },
+    {
+     "name": "Generosity"
+    }
+   ]
+  },
+  {
+   "name": "A change is as good as a rest",
+   "children": [
+    {
+     "name": "Leisure activities"
+    },
+    {
+     "name": "History and geography of places visited"
+    },
+    {
+     "name": "Facilities"
+    },
+    {
+     "name": "Travel"
+    },
+    {
+     "name": "Holidays"
+    },
+    {
+     "name": "Eating out"
+    }
+   ]
+  },
+  {
+   "name": "Science and technology: a blessing or a curse?",
+   "children": [
+    {
+     "name": "Inventions"
+    },
+    {
+     "name": "Experiments"
+    },
+    {
+     "name": "Medical research and progress"
+    },
+    {
+     "name": "Computers"
+    },
+    {
+     "name": "TV"
+    },
+    {
+     "name": "Mobile phones"
+    },
+    {
+     "name": "Genetic engineering"
+    },
+    {
+     "name": "New technology and its impact on our daily life"
+    }
+   ]
+  },
+  {
+   "name": "Education is not filling a bucket but lighting a fire",
+   "children": [
+    {
+     "name": "Distance learning"
+    },
+    {
+     "name": "Electronic learning"
+    },
+    {
+     "name": "Special education"
+    },
+    {
+     "name": "Dream school"
+    },
+    {
+     "name": "Exams"
+    },
+    {
+     "name": "School life"
+    },
+    {
+     "name": "School violence"
+    }
+   ]
+  },
+  {
+   "name": "Nature: any future without it?",
+   "children": [
+    {
+     "name": "Environmental issues"
+    },
+    {
+     "name": "Natural disasters"
+    }
+   ]
+  }
+ ],
+ "notes": "'Activate And Perform'. The six learning modules and their subtopics come from the Book Map (p4-6). The modules are split into generic sections and sessions with no lesson titles, so the children are the Book Map's subtopics. The Review Module and Consolidation Modules 1 and 2 are left out as review material. So are the grammar summary, the vocabulary lists and the supplementary activities."
+}

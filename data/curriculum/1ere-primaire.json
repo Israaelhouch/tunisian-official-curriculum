@@ -1,0 +1,461 @@
+{
+  "schema_version": "3.0",
+  "references": [
+    "Décret gouvernemental n° 2019-1085 du 19 novembre 2019 fixant l'horaire des études dans l'enseignement de base et dans l'enseignement secondaire (JORT n° 95, 2019) — https://9anoun.tn/kb/jorts/jort-2019-095-424da/decret-gouvernemental-ndeg-2019-1085-du-19-novembre-2019-fixant-lhoraire-des-etudes-dans-lenseignement-de-base-et-dans-lenseignement-secondaire-60",
+    "CNP 101110 — Arabia Kiaa 1B — https://www.cnp.com.tn/arabic/PDF/101110P00.pdf",
+    "CNP 102105 — Riadhiette 1B — https://www.cnp.com.tn/arabic/PDF/102105P01.pdf"
+  ],
+  "level": {
+    "name_fr": "1ère année primaire",
+    "name_ar": "السنة الأولى ابتدائي",
+    "code": "1P",
+    "cycle": "primaire",
+    "grade_number": 1,
+    "display_order": 1,
+    "is_national_exam_year": false
+  },
+  "section": {
+    "name_fr": "Tronc commun",
+    "name_ar": "جذع مشترك",
+    "code": "TC",
+    "is_common_core": true
+  },
+  "subjects": [
+    {
+      "subject": {
+        "name_fr": "Arabe",
+        "name_ar": "العربية",
+        "code": "ARAB"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "أنيسي في مدرستي",
+          "order_index": 1,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أنيسي في أهلي",
+          "order_index": 2,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أنيسي في صحتي وسلامتي",
+          "order_index": 3,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أنيسي في فصل الشتاء",
+          "order_index": 4,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أنيسي في عالم المهن",
+          "order_index": 5,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أنيسي في فصل الربيع",
+          "order_index": 6,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أنيسي في عالم الحيوانات",
+          "order_index": 7,
+          "objectives": [],
+          "children": []
+        },
+        {
+          "name_ar": "أنيسي في عالم القصص",
+          "order_index": 8,
+          "objectives": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Mathématiques",
+        "name_ar": "الرياضيات",
+        "code": "MATH"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": [
+        {
+          "name_ar": "الفترة 1",
+          "order_index": 1,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "تعيين موقع شيء في الفضاء: أمام / وراء",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "فوق / تحت",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اليمين واليسار",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "على يمين / على يسار / بجانب / على يميني / على يساري",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "داخل / خارج",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الخط المستقيم والخط المنحني / الخط المغلق والخط المفتوح",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المجموعة: تكوين مجموعة بصفة تلقائية",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 2",
+          "order_index": 2,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "العنصر ومخطط المجموعة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الانتماء وعدم الانتماء",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "رمز المجموعة",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التجزئة",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "المجموعة الفارغة",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "مقارنة عناصر مجموعتين عنصرا بعنصر (أكثر، أقل، قدر)",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التقابل بين مجموعتين",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 3",
+          "order_index": 3,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "الأعداد من 0 إلى 9: الأعداد 2، 4، 5",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "العددان 1، 3",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القطع النقدية: 1 مي، 2 مي، 5 مي",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "العددان 6، 8",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "العددان 7، 9",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الصفر \"0\"",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "العدد الرتبي",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "علامات المقارنة بين الأعداد من 0 إلى 9 (>، <، =)",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 4",
+          "order_index": 4,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "التجميع المنتظم (1): المبادلات",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التجميع المنتظم (2)",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "التجميع العشري",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "اتحاد مجموعتين منفصلتين فأكثر",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "مجموع عددين: المجموع أصغر من 10 أو أكثر",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 10 إلى 99: العدد 10",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 10 إلى 19: قراءة وكتابة وتمثيلا",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 5",
+          "order_index": 5,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "جدول بيتاغور للجمع: بناء جداول جزئية للجمع (1)",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "بناء جداول جزئية للجمع (2)",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "جدول بيتاغور للجمع",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "خاصيات الجمع: الخاصية التبديلية",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الخاصية التجميعية",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 19: قراءة وكتابة وتمثيلا",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 19: مقارنة وترتيبا",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 0 إلى 19: تفكيكا وتركيبا",
+              "order_index": 8,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "name_ar": "الفترة 6",
+          "order_index": 6,
+          "objectives": [],
+          "children": [
+            {
+              "name_ar": "العقود: قراءة وكتابة",
+              "order_index": 1,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "العقود: تفكيكا وتركيبا",
+              "order_index": 2,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "القطع النقدية المتداولة: 10 مي، 20 مي، 50 مي",
+              "order_index": 3,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "العقود: مقارنة وترتيبا",
+              "order_index": 4,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 10 إلى 99: قراءة وكتابة وتمثيلا",
+              "order_index": 5,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "آلية الجمع دون احتفاظ: الوضع العمودي",
+              "order_index": 6,
+              "objectives": [],
+              "children": []
+            },
+            {
+              "name_ar": "الأعداد من 10 إلى 99: مقارنة وترتيبا / تفكيكا وتركيبا",
+              "order_index": 7,
+              "objectives": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": {
+        "name_fr": "Éveil scientifique",
+        "name_ar": "الإيقاظ العلمي",
+        "code": "EVEIL"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Technologie",
+        "name_ar": "التكنولوجيا",
+        "code": "TECHNO"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation islamique",
+        "name_ar": "التربية الإسلامية",
+        "code": "ISLAM"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation musicale",
+        "name_ar": "التربية الموسيقية",
+        "code": "MUSIQ"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Arts plastiques",
+        "name_ar": "التربية التشكيلية",
+        "code": "ARTPL"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    },
+    {
+      "subject": {
+        "name_fr": "Éducation physique",
+        "name_ar": "التربية البدنية",
+        "code": "EPS"
+      },
+      "instruction_language": "ar",
+      "is_optional": false,
+      "chapters": []
+    }
+  ]
+}

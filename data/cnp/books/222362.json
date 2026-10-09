@@ -1,0 +1,65 @@
+{
+ "code": "222362",
+ "title": "رياضيات_شعبة الإقتصاد والتصرف",
+ "used_for": [
+  "3eme-economie-gestion/MATH"
+ ],
+ "toc": [
+  {
+   "name": "Statistiques",
+   "children": [
+    {
+     "name": "Série statistique simple"
+    },
+    {
+     "name": "Série statistique double"
+    }
+   ]
+  },
+  {
+   "name": "Suites réelles",
+   "children": []
+  },
+  {
+   "name": "Dénombrement",
+   "children": []
+  },
+  {
+   "name": "Probabilités",
+   "children": []
+  },
+  {
+   "name": "Initiation aux graphes",
+   "children": []
+  },
+  {
+   "name": "Système d'équations linéaires",
+   "children": []
+  },
+  {
+   "name": "Généralités sur les fonctions",
+   "children": []
+  },
+  {
+   "name": "Limite finie en un point & continuité",
+   "children": []
+  },
+  {
+   "name": "Extension de la notion de limite & branches infinies",
+   "children": []
+  },
+  {
+   "name": "Dérivation",
+   "children": []
+  },
+  {
+   "name": "Exemples d'études de fonctions",
+   "children": []
+  },
+  {
+   "name": "Fonctions trigonométriques",
+   "children": []
+  }
+ ],
+ "notes": "Chapter names from sommaire p3 (extraction scrambled; ordered by page numbers 1-272 and confirmed by chapter title pages and running 'Chapitre : n' markers). Sommaire mentions 'Partie I' and 'Partie II' but the split point is not readable, so the part level is omitted. Ch.8 title page (p157) wrongly reprints 'Chapitre 10 Dérivation'; sommaire and running headers give 'Limite finie en un point & continuité'. Spelling: 'Initiation au graphes'/'Systéme' in sommaire corrected per title pages. Sections only for ch.1 (from its chapter title page: I Série statistique simple, II Série statistique double); others not recoverable."
+}

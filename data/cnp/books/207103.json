@@ -1,0 +1,103 @@
+{
+ "code": "207103",
+ "title": "التاريخ",
+ "used_for": [
+  "1ere-secondaire/HIST",
+  "1ere-sport/HIST"
+ ],
+ "toc": [
+  {
+   "name": "قرطاج قطب حضاري في المتوسط: من القرن الخامس ق.م. إلى القرن الخامس الميلادي",
+   "children": [
+    {
+     "name": "قرطاج البونية وإشعاعها في المتوسط",
+     "children": [
+      {
+       "name": "الخصوصيات الحضارية"
+      },
+      {
+       "name": "الديانة"
+      },
+      {
+       "name": "إشعاع قرطاج"
+      },
+      {
+       "name": "الميناء والتوسع التجاري"
+      },
+      {
+       "name": "موسوعة ماغون"
+      }
+     ]
+    },
+    {
+     "name": "قرطاج وإسهاماتها في الحضارة الرومانية",
+     "children": [
+      {
+       "name": "الازدهار العمراني"
+      },
+      {
+       "name": "الازدهار الاقتصادي : الفلاحة"
+      },
+      {
+       "name": "أبوليوس"
+      },
+      {
+       "name": "القديس أوغسطينوس"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "القيروان وتونس مركزا إشعاع الحضارة العربية الإسلامية في الغرب الإسلامي من 670 م إلى نهاية القرن الرابع عشر ميلادي",
+   "children": [
+    {
+     "name": "القيروان ودورها في نشر الحضارة العربية الإسلامية",
+     "children": [
+      {
+       "name": "القيروان قاعدة الانتشار العربي الإسلامي في بلاد المغرب والأندلس"
+      },
+      {
+       "name": "الدور الاقتصادي للقيروان : أهمية النشاط التجاري"
+      },
+      {
+       "name": "خصائص العمارة"
+      },
+      {
+       "name": "الإشعاع الفكري"
+      }
+     ]
+    },
+    {
+     "name": "تونس في العهد الحفصي مركز إشعاع ثقافي",
+     "children": [
+      {
+       "name": "عمارة مدينة تونس"
+      },
+      {
+       "name": "عبد الرحمان بن خلدون"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "البلاد التونسية من الإصلاح إلى التحديث من القرن التاسع عشر إلى 1987",
+   "children": [
+    {
+     "name": "إضاءات حول تاريخ تونس في العصر الحديث"
+    },
+    {
+     "name": "الفكر الإصلاحي"
+    },
+    {
+     "name": "التجربة التونسية في مقاومة الاستعمار"
+    },
+    {
+     "name": "تعصير الدولة وتحديث المجتمع"
+    }
+   ]
+  }
+ ],
+ "notes": "Unit (الوحدة) -> محور -> lesson. Sources: unit/axis opener pages p9, p43, p85, p121, p149 (re-OCR'd, list each axis's lessons), cross-checked with the OCR'd, truncated فهرس pp221-223 and headings. Unit 1 axis 2 completed from opener p43 (أبوليوس, القديس أوغسطينوس missing from the cut فهرس). Unit 2 axis 1 from opener p85 (full first title; 'الدور الاقتصادي للقيروان : أهمية النشاط التجاري' is one item there, split over two lines in the فهرس; 'خصائص العمارة' absent from the فهرس OCR). Unit 2 axis 2: first item illegible on opener p121, taken from فهرس 'عمارة [du] تونس' read as 'عمارة مدينة تونس' (doubt on the middle word). Unit 3: opener p149 prints only an axis label ('المحور' + illegible ordinal) with no axis title, then 'تقديم عام : إضاءات حول تاريخ تونس في العصر الحديث' and three lesson bullets; since no axis name is printed, the lessons are placed directly under the unit (previous positional 'المحور الأول' removed). Last lesson printed 'تعصير الدولة وتحديث المجتمع' on the opener, 'بناء الدولة العصرية وتحديث المجتمع' as page heading p195; opener wording used. Mixed depth (3 for units 1-2, 2 for unit 3)."
+}
