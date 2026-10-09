@@ -5,6 +5,7 @@ Outputs (data/):
   CURRICULUM_NOTES.md   gaps: subjects without chapters, dropped unreadable titles, positional labels
   curriculum_chapters.csv   one row per chapter (flat table for Kaggle / Hugging Face / spreadsheets)
   curriculum_subjects.csv   one row per class subject, including subjects without chapters
+  curriculum_objectives.csv one row per learning objective of the official programmes (data/programmes/)
 
 The class files stay the source of truth: re-run this after any change.
 Usage: python scripts/export_curriculum.py
@@ -32,6 +33,7 @@ OUT_JSON = ROOT / "data" / "curriculum.json"
 OUT_NOTES = ROOT / "data" / "CURRICULUM_NOTES.md"
 OUT_CHAPTERS_CSV = ROOT / "data" / "curriculum_chapters.csv"
 OUT_SUBJECTS_CSV = ROOT / "data" / "curriculum_subjects.csv"
+OUT_OBJECTIVES_CSV = ROOT / "data" / "curriculum_objectives.csv"
 CLASS_COLUMNS = ["cycle", "level_code", "level_fr", "level_ar", "level_en",
                  "section_code", "section_fr", "section_ar", "section_en",
                  "class_key", "subject_code", "subject_fr", "subject_ar", "subject_en", "language", "optional"]
@@ -76,6 +78,8 @@ def build_json(classes: list[tuple[str, ClassCurriculum]]) -> dict[str, Any]:
                 entry["optional"] = True
             if s.chapters:
                 entry["chapters"] = [chapter(c) for c in s.chapters]
+            if s.programme:
+                entry["programme"] = s.programme.model_dump(exclude_none=True)
             subjects.append(entry)
         lvl["sections"].append({
             "code": cur.section.code, **name(cur.section), "class_key": key,
@@ -84,7 +88,8 @@ def build_json(classes: list[tuple[str, ClassCurriculum]]) -> dict[str, Any]:
     return {
         "generated": date.today().isoformat(),
         "description": "Official Tunisian curriculum: levels -> sections -> subjects -> chapters. Subjects per "
-                       "class from decrees 2019-1085 / 2021-143; chapters from the official CNP textbooks. "
+                       "class from decrees 2019-1085 / 2021-143; chapters from the official CNP textbooks; "
+                       "`programme` = learning objectives from the Ministry's official programmes (verbatim). "
                        "See CURRICULUM_NOTES.md for gaps.",
         "subjects": dict(sorted(catalogue.items())),
         "levels": list(levels.values()),
@@ -164,6 +169,15 @@ def build_notes(classes: list[tuple[str, ClassCurriculum]], bundle: dict[str, An
         parts = [f"{cls} {subj} ({n})" for n, cls, subj in rows]
         lines.append(f"- **{CYCLE_LABEL[cycle]}:** " + (", ".join(parts) or "none"))
 
+    programmes = [(key, s) for key, cur in classes for s in cur.subjects if s.programme]
+    units = [u for _, s in programmes for u in s.programme.units]
+    lines += ["", "## Learning objectives (official programmes)",
+              f"- {len(programmes)} class subjects so far ({sum(len(u.objectives) for u in units)} objectives): "
+              + ", ".join(f"{key} {s.subject.code}" for key, s in programmes) + ".",
+              f"- {sum(bool(u.chapter) for u in units)} of {sum(bool(u.topic) for u in units)} programme topics "
+              "are linked to a chapter (near-identical names only); the 2011 programmes often word "
+              "topics differently from the textbooks, so the others are left unlinked."]
+
     lines += ["", "## Untitled groupings kept (their chapters are named)"]
     rows = [f"{cls} {subj} ({n})" for (cls, subj), n in sorted(positional.items()) if n]
     lines.append("- " + (", ".join(rows) or "none"))
@@ -174,9 +188,9 @@ def build_notes(classes: list[tuple[str, ClassCurriculum]], bundle: dict[str, An
     return "\n".join(lines)
 
 
-def write_csvs(classes: list[tuple[str, ClassCurriculum]]) -> tuple[int, int]:
+def write_csvs(classes: list[tuple[str, ClassCurriculum]]) -> tuple[int, int, int]:
     """Flat tables. A chapter's `theme` is the path of the groupings above it (e.g. "Physique > Ondes")."""
-    chapter_rows, subject_rows = [], []
+    chapter_rows, subject_rows, objective_rows = [], [], []
     for key, cur in classes:
         for s in cur.subjects:
             base = {
@@ -206,16 +220,26 @@ def write_csvs(classes: list[tuple[str, ClassCurriculum]]) -> tuple[int, int]:
                                              "chapter_en": n.name_en or ""})
             walk(s.chapters, [], [])
             subject_rows.append({**base, "chapter_count": order})
+            n = 0
+            for u in s.programme.units if s.programme else []:
+                for objective in u.objectives:
+                    n += 1
+                    objective_rows.append({**base, "domain": u.domain or "",
+                                           "scope": "topic" if u.topic else "domain", "topic": u.topic or "",
+                                           "chapter": u.chapter or "", "objective_order": n,
+                                           "objective": objective})
 
     for path, rows, columns in (
         (OUT_CHAPTERS_CSV, chapter_rows, CLASS_COLUMNS + ["theme", "chapter_order", "chapter", "theme_en", "chapter_en"]),
         (OUT_SUBJECTS_CSV, subject_rows, CLASS_COLUMNS + ["chapter_count"]),
+        (OUT_OBJECTIVES_CSV, objective_rows,
+         CLASS_COLUMNS + ["domain", "scope", "topic", "chapter", "objective_order", "objective"]),
     ):
         with path.open("w", encoding="utf-8", newline="") as f:
             writer = csv.DictWriter(f, fieldnames=columns)
             writer.writeheader()
             writer.writerows(rows)
-    return len(chapter_rows), len(subject_rows)
+    return len(chapter_rows), len(subject_rows), len(objective_rows)
 
 
 def main() -> None:
@@ -223,9 +247,10 @@ def main() -> None:
     bundle = build_json(classes)
     OUT_JSON.write_text(json.dumps(bundle, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     OUT_NOTES.write_text(build_notes(classes, bundle), encoding="utf-8")
-    n_chapters, n_subjects = write_csvs(classes)
+    n_chapters, n_subjects, n_objectives = write_csvs(classes)
     print(f"Wrote {OUT_JSON.name} ({OUT_JSON.stat().st_size // 1024} KB), {OUT_NOTES.name}, "
-          f"{OUT_CHAPTERS_CSV.name} ({n_chapters} rows), {OUT_SUBJECTS_CSV.name} ({n_subjects} rows)")
+          f"{OUT_CHAPTERS_CSV.name} ({n_chapters} rows), {OUT_SUBJECTS_CSV.name} ({n_subjects} rows), "
+          f"{OUT_OBJECTIVES_CSV.name} ({n_objectives} rows)")
 
 
 if __name__ == "__main__":
